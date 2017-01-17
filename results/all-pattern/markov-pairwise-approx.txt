@@ -1,0 +1,2630 @@
+markov-pairwise-approx
+2017-01-09 15:46:21.935905
+------------------------------------------------
+average tau:  0.53
+average |tau|: 0.66
+average tau  no tie  0.41
+average |tau| no tie  0.55
+average pairwise accuracy: 71.0%
+------------------------------------------------
+=== tau:
+0.0714285714286
+
+=== pairwise accuracy:
+0.535714285714
+
+=== gold: 
+['first']
+['second']
+['third']
+['fourth']
+['fifth']
+['sixth']
+['seventh']
+['eighth']
+
+=== algo: 
+['sixth']
+['second']
+['third']
+['seventh']
+['fifth']
+['fourth']
+['first']
+['eighth']
+
+=== raw score: 
+fifth-eighth: {'eighth > fifth': 0.0012544194202100806, 'fifth > eighth': 0.0008848933249204246, 'rank': ('eighth', 'fifth')}
+fifth-first: {'first > fifth': 0.3150452494449126, 'fifth > first': 8.032628570723931, 'rank': ('fifth', 'first')}
+third-eighth: {'eighth > third': 0.01906812039020092, 'third > eighth': 0.012608876626362741, 'rank': ('eighth', 'third')}
+second-third: {'third > second': 0.9912097870412324, 'rank': ('third', 'second'), 'second > third': 0.008790212958767557}
+second-first: {'first > second': 0.293732255951081, 'second > first': 0.706267744048919, 'rank': ('second', 'first')}
+fourth-eighth: {'eighth > fourth': 0.0029962935343876953, 'fourth > eighth': 0.0014227660422779767, 'rank': ('eighth', 'fourth')}
+third-fourth: {'fourth > third': 0.9915155548161704, 'third > fourth': 0.008484445183829646, 'rank': ('fourth', 'third')}
+fifth-fourth: {'fifth > fourth': 0.9990925589836661, 'rank': ('fifth', 'fourth'), 'fourth > fifth': 0.0009074410163338875}
+third-seventh: {'third > seventh': 0.05311824621318772, 'seventh > third': 0.007593989806562575, 'rank': ('third', 'seventh')}
+sixth-seventh: {'seventh > sixth': 0.963855421686747, 'sixth > seventh': 0.03614457831325301, 'rank': ('seventh', 'sixth')}
+second-fifth: {'fifth > second': 2.124647700651491, 'second > fifth': 0.25560618970821397, 'rank': ('fifth', 'second')}
+second-seventh: {'second > seventh': 0.027238980388711715, 'rank': ('seventh', 'second'), 'seventh > second': 0.03034261805371149}
+seventh-eighth: {'seventh > eighth': 0.0625, 'eighth > seventh': 0.9375, 'rank': ('eighth', 'seventh')}
+seventh-fifth: {'fifth > seventh': 0.0037278484751966825, 'seventh > fifth': 0.0004995798272348286, 'rank': ('fifth', 'seventh')}
+first-eighth: {'first > eighth': 0.007969390055926206, 'eighth > first': 0.2880458905794884, 'rank': ('eighth', 'first')}
+sixth-eighth: {'eighth > sixth': 0.00020456893666504544, 'sixth > eighth': 8.329601505297023e-05, 'rank': ('eighth', 'sixth')}
+second-eighth: {'eighth > second': 0.07618876358012228, 'second > eighth': 0.006465818577118437, 'rank': ('eighth', 'second')}
+sixth-second: {'second > sixth': 0.04168389423121035, 'sixth > second': 0.19999550439782096, 'rank': ('sixth', 'second')}
+sixth-third: {'third > sixth': 0.08128701314442363, 'sixth > third': 0.050053816024277414, 'rank': ('third', 'sixth')}
+seventh-fourth: {'seventh > fourth': 0.001193291320381146, 'fourth > seventh': 0.005993780348319987, 'rank': ('fourth', 'seventh')}
+seventh-first: {'first > seventh': 0.03357317512922103, 'seventh > first': 0.11471595060869161, 'rank': ('seventh', 'first')}
+sixth-fourth: {'fourth > sixth': 0.009172300230004829, 'sixth > fourth': 0.0078652705277677, 'rank': ('fourth', 'sixth')}
+sixth-first: {'sixth > first': 0.7561204627711571, 'rank': ('sixth', 'first'), 'first > sixth': 0.051377131637141284}
+sixth-fifth: {'sixth > fifth': 0.9772727272727273, 'fifth > sixth': 0.022727272727272707, 'rank': ('sixth', 'fifth')}
+second-fourth: {'fourth > second': 3.416091539127343, 'second > fourth': 0.610538358409609, 'rank': ('fourth', 'second')}
+fourth-first: {'fourth > first': 12.915173884587293, 'first > fourth': 0.7525138950680957, 'rank': ('fourth', 'first')}
+third-fifth: {'fifth > third': 0.9433962264150944, 'rank': ('fifth', 'third'), 'third > fifth': 0.05660377358490566}
+third-first: {'first > third': 4.7889251776494435, 'third > first': 114.45721171279317, 'rank': ('third', 'first')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['known']
+['famous']
+['legendary']
+
+=== algo: 
+['known']
+['famous']
+['legendary']
+
+=== raw score: 
+known-famous: {'known > famous': 0.02631578947368421, 'famous > known': 0.9736842105263158, 'rank': ('famous', 'known')}
+known-legendary: {'known > legendary': 0.459386937757222, 'rank': ('legendary', 'known'), 'legendary > known': 0.795975571707148}
+famous-legendary: {'famous > legendary': 0.06, 'legendary > famous': 0.94, 'rank': ('legendary', 'famous')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['dim']
+['gloomy']
+['dark']
+['black']
+
+=== algo: 
+['dim']
+['gloomy']
+['dark']
+['black']
+
+=== raw score: 
+dark-dim: {'dim > dark': 0.013333333333333308, 'dark > dim': 0.9866666666666667, 'rank': ('dark', 'dim')}
+black-gloomy: {'gloomy > black': 0.0035577629622134707, 'black > gloomy': 0.044526974989859726, 'rank': ('black', 'gloomy')}
+dim-gloomy: {'dim > gloomy': 0.030927835051546393, 'rank': ('gloomy', 'dim'), 'gloomy > dim': 0.9690721649484536}
+black-dark: {'black > dark': 0.999913337377589, 'dark > black': 8.666262241097122e-05, 'rank': ('black', 'dark')}
+dark-gloomy: {'dark > gloomy': 0.014119354603061025, 'gloomy > dark': 0.0064719832005552405, 'rank': ('dark', 'gloomy')}
+black-dim: {'dim > black': 0.015084298238161589, 'black > dim': 0.06279445190877654, 'rank': ('black', 'dim')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['close']
+['near']
+['intimate']
+
+=== algo: 
+['near']
+['close']
+['intimate']
+
+=== raw score: 
+close-intimate: {'close > intimate': 0.0234375, 'intimate > close': 0.9765625, 'rank': ('intimate', 'close')}
+intimate-near: {'near > intimate': 0.06716610657129177, 'intimate > near': 0.24200734835281978, 'rank': ('intimate', 'near')}
+close-near: {'close > near': 35.702471916837915, 'near > close': 5.919264436847909, 'rank': ('close', 'near')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.912870929175
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['nearby', 'near']
+['close']
+['adjacent']
+
+=== algo: 
+['nearby']
+['near']
+['close']
+['adjacent']
+
+=== raw score: 
+near-adjacent: {'near > adjacent': 0.013333333333333334, 'rank': ('adjacent', 'near'), 'adjacent > near': 0.9866666666666667}
+close-adjacent: {'close > adjacent': 0.010869565217391304, 'adjacent > close': 0.9891304347826086, 'rank': ('adjacent', 'close')}
+nearby-close: {'nearby > close': 0.06818181818181818, 'close > nearby': 0.9318181818181819, 'rank': ('close', 'nearby')}
+nearby-adjacent: {'adjacent > nearby': 0.0888785147949603, 'nearby > adjacent': 0.001688835978629643, 'rank': ('adjacent', 'nearby')}
+nearby-near: {'near > nearby': 0.10461423925547898, 'nearby > near': 0.06097904194266318, 'rank': ('near', 'nearby')}
+close-near: {'close > near': 35.702471916837915, 'near > close': 5.919264436847909, 'rank': ('close', 'near')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['sufficient']
+['good', 'wide']
+['full']
+
+=== algo: 
+['good']
+['wide']
+['sufficient']
+['full']
+
+=== raw score: 
+sufficient-wide: {'wide > sufficient': 0.2018439061881854, 'sufficient > wide': 11.630601635493012, 'rank': ('sufficient', 'wide')}
+sufficient-full: {'sufficient > full': 7.08398198683993, 'full > sufficient': 7.489471255930037, 'rank': ('full', 'sufficient')}
+wide-good: {'good > wide': 0.014084507042253502, 'wide > good': 0.9859154929577465, 'rank': ('wide', 'good')}
+sufficient-good: {'sufficient > good': 0.9977116704805492, 'good > sufficient': 0.0022883295194507935, 'rank': ('sufficient', 'good')}
+full-good: {'good > full': 0.018181818181818188, 'rank': ('full', 'good'), 'full > good': 0.9818181818181818}
+wide-full: {'wide > full': 0.2691036138398476, 'rank': ('full', 'wide'), 'full > wide': 15.37136515886061}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['real']
+['solemn']
+['serious']
+['grave']
+
+=== algo: 
+['real']
+['serious']
+['grave']
+['solemn']
+
+=== raw score: 
+serious-solemn: {'solemn > serious': 0.988929889298893, 'serious > solemn': 0.01107011070110701, 'rank': ('solemn', 'serious')}
+real-solemn: {'solemn > real': 0.06806511270359457, 'real > solemn': 0.02357192244084122, 'rank': ('solemn', 'real')}
+serious-grave: {'grave > serious': 0.9387755102040817, 'serious > grave': 0.061224489795918366, 'rank': ('grave', 'serious')}
+grave-solemn: {'grave > solemn': 0.0001947400814687665, 'solemn > grave': 0.0029134234102248194, 'rank': ('solemn', 'grave')}
+real-serious: {'serious > real': 0.9722222222222222, 'real > serious': 0.027777777777777776, 'rank': ('serious', 'real')}
+real-grave: {'grave > real': 0.04027303713700859, 'real > grave': 0.16828562350170187, 'rank': ('real', 'grave')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.644503386635
+
+=== pairwise accuracy:
+0.133333333333
+
+=== gold: 
+['interesting']
+['intriguing']
+['amusing', 'entertaining']
+['fascinating', 'exciting']
+
+=== algo: 
+['exciting']
+['fascinating']
+['entertaining']
+['interesting']
+['amusing']
+['intriguing']
+
+=== raw score: 
+interesting-amusing: {'amusing > interesting': 0.9920844327176781, 'interesting > amusing': 0.0079155672823219, 'rank': ('amusing', 'interesting')}
+exciting-interesting: {'exciting > interesting': 0.859271523178808, 'rank': ('exciting', 'interesting'), 'interesting > exciting': 0.14072847682119205}
+fascinating-interesting: {'fascinating > interesting': 0.9987421383647799, 'interesting > fascinating': 0.0012578616352201255, 'rank': ('fascinating', 'interesting')}
+amusing-intriguing: {'amusing > intriguing': 0.06406058430977962, 'intriguing > amusing': 0.0012683344727942695, 'rank': ('amusing', 'intriguing')}
+exciting-fascinating: {'exciting > fascinating': 0.033655520289255676, 'fascinating > exciting': 0.04738895392077047, 'rank': ('fascinating', 'exciting')}
+fascinating-intriguing: {'fascinating > intriguing': 0.013374237883217236, 'intriguing > fascinating': 0.0017390479257825184, 'rank': ('fascinating', 'intriguing')}
+entertaining-amusing: {'amusing > entertaining': 0.9375, 'entertaining > amusing': 0.0625, 'rank': ('amusing', 'entertaining')}
+exciting-intriguing: {'intriguing > exciting': 0.004002318471500441, 'exciting > intriguing': 0.021265144294885456, 'rank': ('exciting', 'intriguing')}
+interesting-intriguing: {'intriguing > interesting': 0.9473684210526316, 'interesting > intriguing': 0.05263157894736842, 'rank': ('intriguing', 'interesting')}
+fascinating-entertaining: {'fascinating > entertaining': 0.07315737820649547, 'rank': ('entertaining', 'fascinating'), 'entertaining > fascinating': 0.10658310514703707}
+entertaining-interesting: {'entertaining > interesting': 0.99822695035461, 'interesting > entertaining': 0.0017730496453900457, 'rank': ('entertaining', 'interesting')}
+exciting-entertaining: {'exciting > entertaining': 0.98989898989899, 'entertaining > exciting': 0.010101010101010055, 'rank': ('exciting', 'entertaining')}
+entertaining-intriguing: {'entertaining > intriguing': 0.06902952201658952, 'intriguing > entertaining': 0.006178636620929236, 'rank': ('entertaining', 'intriguing')}
+exciting-amusing: {'exciting > amusing': 0.023878033971385073, 'rank': ('amusing', 'exciting'), 'amusing > exciting': 0.22698594899401559}
+fascinating-amusing: {'amusing > fascinating': 0.09862769457020105, 'fascinating > amusing': 0.01501755652763919, 'rank': ('amusing', 'fascinating')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['far']
+['further', 'farther']
+['removed']
+
+=== algo: 
+['far']
+['removed']
+['further']
+['farther']
+
+=== raw score: 
+farther-further: {'farther > further': 3.712243817282579, 'further > farther': 0.9086416486202599, 'rank': ('farther', 'further')}
+removed-far: {'removed > far': 2.8030968815046307, 'far > removed': 0.5593085830578096, 'rank': ('removed', 'far')}
+removed-further: {'removed > further': 5.210188386397804, 'rank': ('further', 'removed'), 'further > removed': 34.18964104096424}
+farther-far: {'farther > far': 0.9914529914529915, 'far > farther': 0.008547008547008517, 'rank': ('farther', 'far')}
+far-further: {'further > far': 0.9767441860465116, 'far > further': 0.023255813953488372, 'rank': ('further', 'far')}
+farther-removed: {'farther > removed': 1.8070218134425071, 'rank': ('farther', 'removed'), 'removed > farther': 0.0674028759210678}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.707106781187
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['acceptable', 'okay', 'alright']
+['right']
+
+=== algo: 
+['alright']
+['okay']
+['acceptable']
+['right']
+
+=== raw score: 
+alright-acceptable: {'acceptable > alright': 0.4198143338281525, 'alright > acceptable': 0.0, 'rank': ('acceptable', 'alright')}
+okay-right: {'okay > right': 0.9940119760479041, 'right > okay': 0.005988023952095856, 'rank': ('okay', 'right')}
+okay-acceptable: {'acceptable > okay': 2.7362864965852345, 'rank': ('acceptable', 'okay'), 'okay > acceptable': 0.04337363221979834}
+acceptable-right: {'right > acceptable': 0.9464285714285714, 'acceptable > right': 0.05357142857142857, 'rank': ('right', 'acceptable')}
+alright-right: {'right > alright': 0.9961439588688946, 'alright > right': 0.0038560411311053984, 'rank': ('right', 'alright')}
+alright-okay: {'alright > okay': 0.0, 'okay > alright': 0.01032596210866807, 'rank': ('okay', 'alright')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['cracked']
+['broken']
+['crushed']
+
+=== algo: 
+['cracked']
+['broken']
+['crushed']
+
+=== raw score: 
+broken-cracked: {'broken > cracked': 0.9961538461538462, 'cracked > broken': 0.0038461538461538325, 'rank': ('broken', 'cracked')}
+broken-crushed: {'broken > crushed': 0.05172413793103448, 'crushed > broken': 0.9482758620689655, 'rank': ('crushed', 'broken')}
+crushed-cracked: {'crushed > cracked': 0.005681203911822349, 'cracked > crushed': 0.004696224265098921, 'rank': ('crushed', 'cracked')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['full']
+['stuffed']
+['overloaded']
+['overflowing']
+
+=== algo: 
+['full']
+['stuffed']
+['overflowing']
+['overloaded']
+
+=== raw score: 
+overloaded-stuffed: {'stuffed > overloaded': 0.0, 'overloaded > stuffed': 0.0010500408587355383, 'rank': ('overloaded', 'stuffed')}
+full-overflowing: {'full > overflowing': 0.05172413793103448, 'overflowing > full': 0.9482758620689655, 'rank': ('overflowing', 'full')}
+overloaded-overflowing: {'overloaded > overflowing': 0.0, 'rank': ('overloaded', 'overflowing'), 'overflowing > overloaded': 0.0}
+overflowing-stuffed: {'stuffed > overflowing': 0.0, 'overflowing > stuffed': 0.00013152374243678865, 'rank': ('overflowing', 'stuffed')}
+full-stuffed: {'stuffed > full': 0.9883268482490273, 'full > stuffed': 0.011673151750972763, 'rank': ('stuffed', 'full')}
+overloaded-full: {'full > overloaded': 0.003597122302158251, 'rank': ('overloaded', 'full'), 'overloaded > full': 0.9964028776978417}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.912870929175
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['flavorful']
+['zesty']
+['hot', 'spicy']
+
+=== algo: 
+['flavorful']
+['zesty']
+['spicy']
+['hot']
+
+=== raw score: 
+hot-spicy: {'spicy > hot': 0.002207505518763808, 'hot > spicy': 0.9977924944812362, 'rank': ('hot', 'spicy')}
+zesty-hot: {'hot > zesty': 0.992462311557789, 'zesty > hot': 0.007537688442211055, 'rank': ('hot', 'zesty')}
+flavorful-zesty: {'zesty > flavorful': 0.00024170583722894128, 'flavorful > zesty': 0.0, 'rank': ('zesty', 'flavorful')}
+flavorful-hot: {'flavorful > hot': 0.027522935779816515, 'hot > flavorful': 0.9724770642201834, 'rank': ('hot', 'flavorful')}
+flavorful-spicy: {'flavorful > spicy': 0.0, 'spicy > flavorful': 0.0034081705048939377, 'rank': ('spicy', 'flavorful')}
+zesty-spicy: {'zesty > spicy': 0.017857142857142856, 'spicy > zesty': 0.9821428571428571, 'rank': ('spicy', 'zesty')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['unstable']
+['crazy']
+['insane']
+
+=== algo: 
+['unstable']
+['crazy']
+['insane']
+
+=== raw score: 
+insane-unstable: {'unstable > insane': 0.00202430454112756, 'insane > unstable': 0.03793755188570326, 'rank': ('insane', 'unstable')}
+crazy-unstable: {'crazy > unstable': 0.99, 'unstable > crazy': 0.010000000000000009, 'rank': ('crazy', 'unstable')}
+insane-crazy: {'insane > crazy': 0.9981981981981982, 'crazy > insane': 0.0018018018018017834, 'rank': ('insane', 'crazy')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['good']
+['real']
+['authentic']
+
+=== algo: 
+['good']
+['real']
+['authentic']
+
+=== raw score: 
+authentic-good: {'good > authentic': 0.00588235294117645, 'authentic > good': 0.9941176470588236, 'rank': ('authentic', 'good')}
+real-authentic: {'authentic > real': 0.550994188878956, 'rank': ('authentic', 'real'), 'real > authentic': 0.5325426384555819}
+real-good: {'good > real': 0.0064102564102563875, 'real > good': 0.9935897435897436, 'rank': ('real', 'good')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['clean']
+['spotless', 'immaculate']
+
+=== algo: 
+['clean']
+['immaculate']
+['spotless']
+
+=== raw score: 
+clean-immaculate: {'clean > immaculate': 0.05263157894736842, 'rank': ('immaculate', 'clean'), 'immaculate > clean': 0.9473684210526316}
+clean-spotless: {'clean > spotless': 0.022058823529411766, 'spotless > clean': 0.9779411764705882, 'rank': ('spotless', 'clean')}
+spotless-immaculate: {'spotless > immaculate': 0.00043715639105814167, 'immaculate > spotless': 8.844792098153099e-05, 'rank': ('spotless', 'immaculate')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.333333333333
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['possible']
+['realistic']
+['feasible']
+['practical']
+
+=== algo: 
+['realistic']
+['practical']
+['feasible']
+['possible']
+
+=== raw score: 
+practical-feasible: {'feasible > practical': 0.9716981132075472, 'practical > feasible': 0.02830188679245283, 'rank': ('feasible', 'practical')}
+practical-realistic: {'realistic > practical': 0.21318082139998018, 'practical > realistic': 0.21981697050130736, 'rank': ('practical', 'realistic')}
+realistic-possible: {'realistic > possible': 0.39215686274509803, 'rank': ('possible', 'realistic'), 'possible > realistic': 0.607843137254902}
+practical-possible: {'practical > possible': 0.3962710861201539, 'possible > practical': 0.6037289138798461, 'rank': ('possible', 'practical')}
+realistic-feasible: {'realistic > feasible': 0.16946779455580063, 'feasible > realistic': 0.29521854483156335, 'rank': ('feasible', 'realistic')}
+feasible-possible: {'feasible > possible': 0.30198019801980197, 'rank': ('possible', 'feasible'), 'possible > feasible': 0.698019801980198}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['sick', 'ill']
+['impaired']
+['disabled']
+
+=== algo: 
+['impaired']
+['ill']
+['sick']
+['disabled']
+
+=== raw score: 
+ill-sick: {'ill > sick': 0.046875, 'rank': ('sick', 'ill'), 'sick > ill': 0.953125}
+disabled-impaired: {'disabled > impaired': 0.9772727272727273, 'impaired > disabled': 0.022727272727272707, 'rank': ('disabled', 'impaired')}
+impaired-sick: {'impaired > sick': 0.021798477447133383, 'sick > impaired': 0.06049314361494378, 'rank': ('sick', 'impaired')}
+disabled-ill: {'disabled > ill': 0.9791666666666666, 'ill > disabled': 0.02083333333333337, 'rank': ('disabled', 'ill')}
+disabled-sick: {'sick > disabled': 0.1805982488548103, 'rank': ('disabled', 'sick'), 'disabled > sick': 0.268486524219121}
+impaired-ill: {'impaired > ill': 0.010001511755649369, 'ill > impaired': 0.034607931019053094, 'rank': ('ill', 'impaired')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.6
+
+=== pairwise accuracy:
+0.8
+
+=== gold: 
+['uncommon']
+['unusual']
+['rare']
+['extraordinary']
+['exceptional']
+
+=== algo: 
+['unusual']
+['uncommon']
+['rare']
+['exceptional']
+['extraordinary']
+
+=== raw score: 
+rare-extraordinary: {'rare > extraordinary': 0.07411449779924725, 'extraordinary > rare': 0.21352630526760322, 'rank': ('extraordinary', 'rare')}
+unusual-extraordinary: {'unusual > extraordinary': 0.028721816953988497, 'extraordinary > unusual': 0.09435085114873361, 'rank': ('extraordinary', 'unusual')}
+uncommon-exceptional: {'uncommon > exceptional': 0.004103185920373755, 'exceptional > uncommon': 0.08545439868187515, 'rank': ('exceptional', 'uncommon')}
+unusual-exceptional: {'exceptional > unusual': 0.250893179378532, 'unusual > exceptional': 0.020610198685891874, 'rank': ('exceptional', 'unusual')}
+uncommon-rare: {'rare > uncommon': 0.94186902133922, 'rank': ('rare', 'uncommon'), 'uncommon > rare': 0.058130978660779986}
+uncommon-extraordinary: {'extraordinary > uncommon': 0.03244958860539561, 'uncommon > extraordinary': 0.004691390165244506, 'rank': ('extraordinary', 'uncommon')}
+uncommon-unusual: {'unusual > uncommon': 0.020408163265306145, 'rank': ('uncommon', 'unusual'), 'uncommon > unusual': 0.9795918367346939}
+extraordinary-exceptional: {'extraordinary > exceptional': 0.9772727272727273, 'rank': ('extraordinary', 'exceptional'), 'exceptional > extraordinary': 0.022727272727272707}
+rare-unusual: {'rare > unusual': 0.6260162601626016, 'rank': ('rare', 'unusual'), 'unusual > rare': 0.3739837398373984}
+rare-exceptional: {'exceptional > rare': 0.9347826086956522, 'rare > exceptional': 0.06521739130434782, 'rank': ('exceptional', 'rare')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['impractical']
+['unrealistic']
+['impossible']
+
+=== algo: 
+['impractical']
+['unrealistic']
+['impossible']
+
+=== raw score: 
+unrealistic-impractical: {'impractical > unrealistic': 0.0035331240947745557, 'rank': ('unrealistic', 'impractical'), 'unrealistic > impractical': 0.005150210215523694}
+unrealistic-impossible: {'unrealistic > impossible': 0.015789473684210527, 'impossible > unrealistic': 0.9842105263157894, 'rank': ('impossible', 'unrealistic')}
+impractical-impossible: {'impossible > impractical': 0.9993887530562348, 'impractical > impossible': 0.0006112469437652812, 'rank': ('impossible', 'impractical')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['transnational']
+['international']
+['global']
+
+=== algo: 
+['transnational']
+['international']
+['global']
+
+=== raw score: 
+transnational-international: {'international > transnational': 0.010279475234830398, 'rank': ('international', 'transnational'), 'transnational > international': 0.0}
+global-international: {'international > global': 0.00023158869847150765, 'global > international': 0.9997684113015285, 'rank': ('global', 'international')}
+transnational-global: {'transnational > global': 0.028846153846153848, 'rank': ('global', 'transnational'), 'global > transnational': 0.9711538461538461}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['concerned']
+['preoccupied']
+['obsessed']
+
+=== algo: 
+['concerned']
+['preoccupied']
+['obsessed']
+
+=== raw score: 
+concerned-obsessed: {'concerned > obsessed': 0.06521739130434782, 'rank': ('obsessed', 'concerned'), 'obsessed > concerned': 0.9347826086956522}
+preoccupied-obsessed: {'obsessed > preoccupied': 0.9375, 'rank': ('obsessed', 'preoccupied'), 'preoccupied > obsessed': 0.0625}
+preoccupied-concerned: {'preoccupied > concerned': 0.9893617021276596, 'rank': ('preoccupied', 'concerned'), 'concerned > preoccupied': 0.010638297872340385}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.666666666667
+
+=== pairwise accuracy:
+0.166666666667
+
+=== gold: 
+['interesting']
+['moving']
+['exciting']
+['thrilling']
+
+=== algo: 
+['thrilling']
+['exciting']
+['interesting']
+['moving']
+
+=== raw score: 
+thrilling-interesting: {'interesting > thrilling': 0.057236781869282334, 'thrilling > interesting': 0.04069757410763008, 'rank': ('interesting', 'thrilling')}
+exciting-interesting: {'exciting > interesting': 0.859271523178808, 'rank': ('exciting', 'interesting'), 'interesting > exciting': 0.14072847682119205}
+thrilling-exciting: {'exciting > thrilling': 0.02083333333333337, 'thrilling > exciting': 0.9791666666666666, 'rank': ('thrilling', 'exciting')}
+thrilling-moving: {'moving > thrilling': 0.09547065568294977, 'thrilling > moving': 0.008912740340116033, 'rank': ('moving', 'thrilling')}
+exciting-moving: {'exciting > moving': 0.1379432925947845, 'moving > exciting': 0.3927478764179655, 'rank': ('moving', 'exciting')}
+interesting-moving: {'interesting > moving': 0.03896103896103896, 'moving > interesting': 0.961038961038961, 'rank': ('moving', 'interesting')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.333333333333
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['low']
+['subdued']
+['quiet']
+
+=== algo: 
+['subdued']
+['quiet']
+['low']
+
+=== raw score: 
+subdued-low: {'low > subdued': 0.07355969593769156, 'subdued > low': 0.044234794212946696, 'rank': ('low', 'subdued')}
+quiet-low: {'low > quiet': 5.667583710751696, 'rank': ('quiet', 'low'), 'quiet > low': 81.93151219064761}
+subdued-quiet: {'subdued > quiet': 0.9885057471264368, 'rank': ('subdued', 'quiet'), 'quiet > subdued': 0.011494252873563204}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['sweet']
+['sugary']
+['syrupy']
+
+=== algo: 
+['sweet']
+['syrupy']
+['sugary']
+
+=== raw score: 
+sugary-sweet: {'sweet > sugary': 0.016393442622950838, 'rank': ('sugary', 'sweet'), 'sugary > sweet': 0.9836065573770492}
+syrupy-sweet: {'sweet > syrupy': 0.007462686567164201, 'syrupy > sweet': 0.9925373134328358, 'rank': ('syrupy', 'sweet')}
+sugary-syrupy: {'syrupy > sugary': 0.0, 'sugary > syrupy': 0.0, 'rank': ('sugary', 'syrupy')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.6
+
+=== pairwise accuracy:
+0.8
+
+=== gold: 
+['strong']
+['intense']
+['terrible']
+['overwhelming']
+['violent']
+
+=== algo: 
+['intense']
+['strong']
+['terrible']
+['violent']
+['overwhelming']
+
+=== raw score: 
+intense-terrible: {'terrible > intense': 0.1793966499712118, 'intense > terrible': 0.03986171191367055, 'rank': ('terrible', 'intense')}
+violent-overwhelming: {'violent > overwhelming': 0.07499041456009241, 'overwhelming > violent': 0.09985846649561297, 'rank': ('overwhelming', 'violent')}
+strong-terrible: {'strong > terrible': 0.5927807110904345, 'rank': ('terrible', 'strong'), 'terrible > strong': 0.6712059095222331}
+violent-terrible: {'terrible > violent': 0.019751888072074755, 'violent > terrible': 0.36202846533006267, 'rank': ('violent', 'terrible')}
+intense-overwhelming: {'intense > overwhelming': 0.058823529411764705, 'rank': ('overwhelming', 'intense'), 'overwhelming > intense': 0.9411764705882353}
+intense-strong: {'intense > strong': 0.334814412786382, 'rank': ('strong', 'intense'), 'strong > intense': 2.322361857787465}
+overwhelming-strong: {'strong > overwhelming': 0.0020876826722338038, 'rank': ('overwhelming', 'strong'), 'overwhelming > strong': 0.9979123173277662}
+overwhelming-terrible: {'terrible > overwhelming': 0.021248520811755964, 'overwhelming > terrible': 0.9390676192831363, 'rank': ('overwhelming', 'terrible')}
+intense-violent: {'intense > violent': 0.04411764705882353, 'violent > intense': 0.9558823529411765, 'rank': ('violent', 'intense')}
+violent-strong: {'strong > violent': 0.005025125628140725, 'violent > strong': 0.9949748743718593, 'rank': ('violent', 'strong')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['bleak', 'desperate']
+['hopeless']
+
+=== algo: 
+['bleak']
+['desperate']
+['hopeless']
+
+=== raw score: 
+hopeless-bleak: {'hopeless > bleak': 0.9818181818181818, 'bleak > hopeless': 0.018181818181818188, 'rank': ('hopeless', 'bleak')}
+desperate-bleak: {'bleak > desperate': 0.0, 'rank': ('desperate', 'bleak'), 'desperate > bleak': 0.0043351257065929755}
+desperate-hopeless: {'hopeless > desperate': 0.9552238805970149, 'desperate > hopeless': 0.04477611940298507, 'rank': ('hopeless', 'desperate')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['unfortunate']
+['disastrous']
+['fatal']
+
+=== algo: 
+['unfortunate']
+['disastrous']
+['fatal']
+
+=== raw score: 
+fatal-unfortunate: {'fatal > unfortunate': 0.9833333333333333, 'rank': ('fatal', 'unfortunate'), 'unfortunate > fatal': 0.01666666666666672}
+fatal-disastrous: {'fatal > disastrous': 0.9833333333333333, 'disastrous > fatal': 0.01666666666666672, 'rank': ('fatal', 'disastrous')}
+unfortunate-disastrous: {'unfortunate > disastrous': 0.00012930989486063, 'disastrous > unfortunate': 0.008535265589965169, 'rank': ('disastrous', 'unfortunate')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['negligent']
+['careless']
+['reckless']
+
+=== algo: 
+['negligent']
+['careless']
+['reckless']
+
+=== raw score: 
+careless-negligent: {'negligent > careless': 7.100013290347191e-05, 'rank': ('careless', 'negligent'), 'careless > negligent': 9.114457574185193e-05}
+reckless-negligent: {'negligent > reckless': 0.014084507042253502, 'reckless > negligent': 0.9859154929577465, 'rank': ('reckless', 'negligent')}
+reckless-careless: {'careless > reckless': 0.016393442622950838, 'rank': ('reckless', 'careless'), 'reckless > careless': 0.9836065573770492}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.527046276695
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['strange', 'funny']
+['unusual']
+['weird']
+['eerie']
+
+=== algo: 
+['strange']
+['unusual']
+['weird']
+['funny']
+['eerie']
+
+=== raw score: 
+funny-strange: {'funny > strange': 0.9929078014184397, 'strange > funny': 0.007092198581560294, 'rank': ('funny', 'strange')}
+weird-strange: {'strange > weird': 0.0007513148009016257, 'weird > strange': 0.9992486851990984, 'rank': ('weird', 'strange')}
+eerie-strange: {'strange > eerie': 0.014084507042253502, 'rank': ('eerie', 'strange'), 'eerie > strange': 0.9859154929577465}
+eerie-unusual: {'unusual > eerie': 0.00035872181257090287, 'eerie > unusual': 0.06489741084304429, 'rank': ('eerie', 'unusual')}
+unusual-strange: {'unusual > strange': 0.9991334488734835, 'strange > unusual': 0.0008665511265164572, 'rank': ('unusual', 'strange')}
+weird-unusual: {'weird > unusual': 0.2090004732809681, 'rank': ('weird', 'unusual'), 'unusual > weird': 0.06715265132578266}
+weird-eerie: {'eerie > weird': 0.02718793236082529, 'weird > eerie': 0.0006291880419816077, 'rank': ('eerie', 'weird')}
+funny-unusual: {'funny > unusual': 2.632926569536402, 'unusual > funny': 0.5436212324043084, 'rank': ('funny', 'unusual')}
+eerie-funny: {'eerie > funny': 0.1965935507719338, 'rank': ('eerie', 'funny'), 'funny > eerie': 0.008128926428198555}
+weird-funny: {'weird > funny': 0.023076923076923078, 'funny > weird': 0.9769230769230769, 'rank': ('funny', 'weird')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-1.0
+
+=== pairwise accuracy:
+0.0
+
+=== gold: 
+['reasonable']
+['valid']
+['sound']
+
+=== algo: 
+['sound']
+['valid']
+['reasonable']
+
+=== raw score: 
+sound-reasonable: {'reasonable > sound': 0.9473684210526316, 'sound > reasonable': 0.05263157894736842, 'rank': ('reasonable', 'sound')}
+sound-valid: {'sound > valid': 0.9868421052631579, 'valid > sound': 0.013157894736842146, 'rank': ('sound', 'valid')}
+valid-reasonable: {'reasonable > valid': 1.2842951466058892, 'valid > reasonable': 3.521833373275546, 'rank': ('valid', 'reasonable')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['affordable']
+['inexpensive']
+['cheap']
+
+=== algo: 
+['inexpensive']
+['affordable']
+['cheap']
+
+=== raw score: 
+affordable-inexpensive: {'inexpensive > affordable': 0.17397581491229858, 'affordable > inexpensive': 0.3496643444043866, 'rank': ('affordable', 'inexpensive')}
+affordable-cheap: {'cheap > affordable': 0.9411764705882353, 'rank': ('cheap', 'affordable'), 'affordable > cheap': 0.058823529411764705}
+inexpensive-cheap: {'inexpensive > cheap': 0.015306122448979591, 'cheap > inexpensive': 0.9846938775510204, 'rank': ('cheap', 'inexpensive')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['available']
+['accessible']
+['visible']
+
+=== algo: 
+['available']
+['visible']
+['accessible']
+
+=== raw score: 
+accessible-available: {'available > accessible': 0.0006600660066006236, 'accessible > available': 0.9993399339933994, 'rank': ('accessible', 'available')}
+visible-available: {'visible > available': 32.530638519624134, 'available > visible': 17.04702678300195, 'rank': ('visible', 'available')}
+accessible-visible: {'visible > accessible': 0.30350194552529186, 'accessible > visible': 0.6964980544747081, 'rank': ('accessible', 'visible')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.688032961232
+
+=== pairwise accuracy:
+0.714285714286
+
+=== gold: 
+['cool', 'refrigerated', 'chilly']
+['cold']
+['frigid']
+['icy', 'frozen']
+
+=== algo: 
+['refrigerated']
+['cool']
+['cold']
+['chilly']
+['frozen']
+['frigid']
+['icy']
+
+=== raw score: 
+refrigerated-icy: {'icy > refrigerated': 0.0010553694014387926, 'rank': ('icy', 'refrigerated'), 'refrigerated > icy': 0.0}
+chilly-refrigerated: {'chilly > refrigerated': 0.0015375877963520789, 'refrigerated > chilly': 0.00037140825825555685, 'rank': ('chilly', 'refrigerated')}
+icy-frozen: {'frozen > icy': 0.0, 'rank': ('icy', 'frozen'), 'icy > frozen': 0.0034334584477526985}
+chilly-icy: {'icy > chilly': 0.0012478014290515638, 'chilly > icy': 0.0, 'rank': ('icy', 'chilly')}
+icy-frigid: {'frigid > icy': 0.0, 'icy > frigid': 0.0, 'rank': ('icy', 'frigid')}
+frigid-cold: {'frigid > cold': 0.9772727272727273, 'cold > frigid': 0.022727272727272707, 'rank': ('frigid', 'cold')}
+cool-chilly: {'cool > chilly': 0.024, 'chilly > cool': 0.976, 'rank': ('chilly', 'cool')}
+cold-frozen: {'cold > frozen': 0.004431314623338257, 'frozen > cold': 0.9955686853766618, 'rank': ('frozen', 'cold')}
+chilly-frozen: {'frozen > chilly': 0.027783944091257794, 'chilly > frozen': 0.004343356980293693, 'rank': ('frozen', 'chilly')}
+icy-cold: {'icy > cold': 0.9930555555555556, 'cold > icy': 0.00694444444444442, 'rank': ('icy', 'cold')}
+cool-icy: {'icy > cool': 0.10210998277831744, 'cool > icy': 0.0, 'rank': ('icy', 'cool')}
+refrigerated-cold: {'refrigerated > cold': 0.005644286825911405, 'rank': ('cold', 'refrigerated'), 'cold > refrigerated': 0.07715494318612583}
+cool-refrigerated: {'refrigerated > cool': 0.015796261711506367, 'cool > refrigerated': 0.025069845468120456, 'rank': ('cool', 'refrigerated')}
+chilly-cold: {'cold > chilly': 0.3931034482758621, 'chilly > cold': 0.6068965517241379, 'rank': ('chilly', 'cold')}
+cool-frozen: {'cool > frozen': 0.007792207792207792, 'frozen > cool': 0.9922077922077922, 'rank': ('frozen', 'cool')}
+frigid-frozen: {'frozen > frigid': 0.0, 'frigid > frozen': 0.0011079190144109067, 'rank': ('frigid', 'frozen')}
+chilly-frigid: {'chilly > frigid': 0.0, 'rank': ('frigid', 'chilly'), 'frigid > chilly': 0.0002834431444581881}
+cool-cold: {'cold > cool': 0.9910356666030898, 'cool > cold': 0.008964333396910166, 'rank': ('cold', 'cool')}
+cool-frigid: {'frigid > cool': 0.9411764705882353, 'cool > frigid': 0.058823529411764705, 'rank': ('frigid', 'cool')}
+refrigerated-frozen: {'frozen > refrigerated': 0.9900662251655629, 'rank': ('frozen', 'refrigerated'), 'refrigerated > frozen': 0.009933774834437087}
+refrigerated-frigid: {'frigid > refrigerated': 0.0002397314306140338, 'refrigerated > frigid': 0.0, 'rank': ('frigid', 'refrigerated')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.527046276695
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['cool']
+['cold']
+['frigid']
+['icy', 'frozen']
+
+=== algo: 
+['cool']
+['cold']
+['frozen']
+['icy']
+['frigid']
+
+=== raw score: 
+frigid-cold: {'frigid > cold': 0.9772727272727273, 'cold > frigid': 0.022727272727272707, 'rank': ('frigid', 'cold')}
+icy-frozen: {'frozen > icy': 0.0, 'rank': ('icy', 'frozen'), 'icy > frozen': 0.0034334584477526985}
+frigid-icy: {'frigid > icy': 0.0, 'icy > frigid': 0.0, 'rank': ('frigid', 'icy')}
+icy-cold: {'icy > cold': 0.9930555555555556, 'cold > icy': 0.00694444444444442, 'rank': ('icy', 'cold')}
+frigid-cool: {'frigid > cool': 0.9803921568627451, 'cool > frigid': 0.019607843137254943, 'rank': ('frigid', 'cool')}
+icy-cool: {'icy > cool': 0.10210998277831744, 'cool > icy': 0.0, 'rank': ('icy', 'cool')}
+frozen-cold: {'frozen > cold': 0.9985228951255539, 'cold > frozen': 0.001477104874446078, 'rank': ('frozen', 'cold')}
+frigid-frozen: {'frozen > frigid': 0.0, 'frigid > frozen': 0.0011079190144109067, 'rank': ('frigid', 'frozen')}
+cool-frozen: {'cool > frozen': 0.007792207792207792, 'frozen > cool': 0.9922077922077922, 'rank': ('frozen', 'cool')}
+cool-cold: {'cold > cool': 0.9910356666030898, 'cool > cold': 0.008964333396910166, 'rank': ('cold', 'cool')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.408248290464
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['content', 'satisfied']
+['pleased', 'happy']
+
+=== algo: 
+['satisfied']
+['pleased']
+['content']
+['happy']
+
+=== raw score: 
+pleased-happy: {'pleased > happy': 0.564229967121473, 'rank': ('pleased', 'happy'), 'happy > pleased': 0.48069945548167403}
+pleased-content: {'pleased > content': 0.06818181818181818, 'content > pleased': 0.9318181818181819, 'rank': ('content', 'pleased')}
+satisfied-pleased: {'pleased > satisfied': 0.004166666666666652, 'satisfied > pleased': 0.9958333333333333, 'rank': ('satisfied', 'pleased')}
+satisfied-content: {'satisfied > content': 92.21576567882033, 'content > satisfied': 17.671197667625826, 'rank': ('satisfied', 'content')}
+satisfied-happy: {'happy > satisfied': 0.05055487053020957, 'satisfied > happy': 0.9494451294697904, 'rank': ('satisfied', 'happy')}
+content-happy: {'content > happy': 0.49551569506726456, 'happy > content': 0.5044843049327354, 'rank': ('happy', 'content')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['misleading']
+['deceptive', 'fraudulent']
+['false']
+
+=== algo: 
+['misleading']
+['false']
+['deceptive']
+['fraudulent']
+
+=== raw score: 
+fraudulent-deceptive: {'deceptive > fraudulent': 0.00013422628508959937, 'fraudulent > deceptive': 0.001719435355899049, 'rank': ('fraudulent', 'deceptive')}
+false-misleading: {'misleading > false': 0.0008032128514056103, 'false > misleading': 0.9991967871485944, 'rank': ('false', 'misleading')}
+false-deceptive: {'deceptive > false': 0.046242271157338456, 'rank': ('deceptive', 'false'), 'false > deceptive': 0.007807957782272145}
+deceptive-misleading: {'misleading > deceptive': 0.0015151515151514694, 'deceptive > misleading': 0.9984848484848485, 'rank': ('deceptive', 'misleading')}
+fraudulent-misleading: {'fraudulent > misleading': 0.996, 'misleading > fraudulent': 0.0040000000000000036, 'rank': ('fraudulent', 'misleading')}
+false-fraudulent: {'false > fraudulent': 0.001280404652398326, 'fraudulent > false': 0.09713980451172441, 'rank': ('fraudulent', 'false')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.527046276695
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['needed']
+['necessary']
+['required', 'essential']
+['indispensable']
+
+=== algo: 
+['needed']
+['required']
+['necessary']
+['indispensable']
+['essential']
+
+=== raw score: 
+essential-needed: {'essential > needed': 15.669632173719647, 'rank': ('essential', 'needed'), 'needed > essential': 0.7051131300349908}
+necessary-needed: {'necessary > needed': 0.9811320754716981, 'needed > necessary': 0.018867924528301883, 'rank': ('necessary', 'needed')}
+essential-required: {'essential > required': 0.98989898989899, 'rank': ('essential', 'required'), 'required > essential': 0.010101010101010055}
+indispensable-needed: {'needed > indispensable': 0.06557294837470547, 'indispensable > needed': 0.5166810461104158, 'rank': ('indispensable', 'needed')}
+necessary-required: {'required > necessary': 0.004854368932038833, 'necessary > required': 0.9951456310679612, 'rank': ('necessary', 'required')}
+essential-indispensable: {'indispensable > essential': 0.14182980543147208, 'essential > indispensable': 0.40000893154038086, 'rank': ('essential', 'indispensable')}
+needed-required: {'needed > required': 0.02127659574468085, 'rank': ('required', 'needed'), 'required > needed': 0.9787234042553191}
+essential-necessary: {'necessary > essential': 0.11959287531806617, 'essential > necessary': 0.8804071246819338, 'rank': ('essential', 'necessary')}
+necessary-indispensable: {'indispensable > necessary': 0.975, 'necessary > indispensable': 0.025, 'rank': ('indispensable', 'necessary')}
+indispensable-required: {'required > indispensable': 0.9669241103825736, 'indispensable > required': 2.18424463637478, 'rank': ('indispensable', 'required')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.666666666667
+
+=== pairwise accuracy:
+0.166666666667
+
+=== gold: 
+['some']
+['many']
+['numerous']
+['galore']
+
+=== algo: 
+['galore']
+['numerous']
+['some']
+['many']
+
+=== raw score: 
+numerous-some: {'numerous > some': 0.6164734910240279, 'rank': ('some', 'numerous'), 'some > numerous': 3.752377849424227}
+numerous-many: {'numerous > many': 0.25090045743113387, 'many > numerous': 0.5163049353886917, 'rank': ('many', 'numerous')}
+galore-some: {'some > galore': 5.010788540456867, 'rank': ('some', 'galore'), 'galore > some': 0.0}
+galore-many: {'many > galore': 0.6894547823919035, 'galore > many': 0.0, 'rank': ('many', 'galore')}
+many-some: {'some > many': 0.0385760073260073, 'many > some': 0.9614239926739927, 'rank': ('many', 'some')}
+galore-numerous: {'numerous > galore': 0.0025956106746729338, 'rank': ('numerous', 'galore'), 'galore > numerous': 0.0}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['quiet']
+['inaudible', 'imperceptible']
+['silent']
+
+=== algo: 
+['quiet']
+['silent']
+['inaudible']
+['imperceptible']
+
+=== raw score: 
+silent-quiet: {'silent > quiet': 0.9974554707379135, 'quiet > silent': 0.0025445292620864812, 'rank': ('silent', 'quiet')}
+inaudible-quiet: {'inaudible > quiet': 0.9921875, 'quiet > inaudible': 0.0078125, 'rank': ('inaudible', 'quiet')}
+inaudible-imperceptible: {'inaudible > imperceptible': 0.0, 'rank': ('imperceptible', 'inaudible'), 'imperceptible > inaudible': 0.0034383957551372556}
+silent-imperceptible: {'silent > imperceptible': 0.0, 'imperceptible > silent': 0.15548350035593192, 'rank': ('imperceptible', 'silent')}
+silent-inaudible: {'inaudible > silent': 0.056735486702702155, 'silent > inaudible': 0.0017229484650846199, 'rank': ('inaudible', 'silent')}
+quiet-imperceptible: {'imperceptible > quiet': 0.9822485207100592, 'quiet > imperceptible': 0.01775147928994083, 'rank': ('imperceptible', 'quiet')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['wrong']
+['immoral']
+['sinful']
+['evil']
+
+=== algo: 
+['wrong']
+['immoral']
+['evil']
+['sinful']
+
+=== raw score: 
+immoral-sinful: {'immoral > sinful': 0.0014805105665561156, 'sinful > immoral': 0.00564116624289182, 'rank': ('sinful', 'immoral')}
+evil-sinful: {'sinful > evil': 0.03503961755798823, 'evil > sinful': 0.007420822963176377, 'rank': ('sinful', 'evil')}
+immoral-evil: {'evil > immoral': 0.9423076923076923, 'immoral > evil': 0.057692307692307696, 'rank': ('evil', 'immoral')}
+immoral-wrong: {'immoral > wrong': 0.98, 'rank': ('immoral', 'wrong'), 'wrong > immoral': 0.020000000000000018}
+sinful-wrong: {'sinful > wrong': 0.9904761904761905, 'wrong > sinful': 0.00952380952380949, 'rank': ('sinful', 'wrong')}
+evil-wrong: {'wrong > evil': 0.005747126436781658, 'rank': ('evil', 'wrong'), 'evil > wrong': 0.9942528735632183}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.428571428571
+
+=== pairwise accuracy:
+0.714285714286
+
+=== gold: 
+['lean']
+['slim']
+['thin']
+['skinny']
+['gaunt']
+['emaciated']
+['skeletal']
+
+=== algo: 
+['slim']
+['thin']
+['lean']
+['skeletal']
+['gaunt']
+['skinny']
+['emaciated']
+
+=== raw score: 
+thin-slim: {'slim > thin': 0.03182095402530804, 'thin > slim': 0.08086056961921831, 'rank': ('thin', 'slim')}
+emaciated-slim: {'emaciated > slim': 0.0011422393672330614, 'slim > emaciated': 0.0, 'rank': ('emaciated', 'slim')}
+emaciated-gaunt: {'emaciated > gaunt': 6.735160219063594e-05, 'rank': ('emaciated', 'gaunt'), 'gaunt > emaciated': 0.0}
+skeletal-skinny: {'skeletal > skinny': 0.0008231744732116818, 'skinny > skeletal': 0.0015042741006448825, 'rank': ('skinny', 'skeletal')}
+lean-slim: {'slim > lean': 0.002277065877821485, 'lean > slim': 0.00515938118310162, 'rank': ('lean', 'slim')}
+thin-skinny: {'thin > skinny': 0.015228426395939087, 'skinny > thin': 0.9847715736040609, 'rank': ('skinny', 'thin')}
+gaunt-slim: {'gaunt > slim': 0.0006796119532641154, 'slim > gaunt': 0.00022281551549088518, 'rank': ('gaunt', 'slim')}
+skinny-slim: {'slim > skinny': 0.0062893081761006275, 'skinny > slim': 0.9937106918238994, 'rank': ('skinny', 'slim')}
+lean-skinny: {'lean > skinny': 0.06382978723404255, 'rank': ('skinny', 'lean'), 'skinny > lean': 0.9361702127659575}
+skeletal-gaunt: {'skeletal > gaunt': 0.00013132355409213603, 'gaunt > skeletal': 0.00015051808360883094, 'rank': ('gaunt', 'skeletal')}
+emaciated-skinny: {'emaciated > skinny': 0.00042217955519496185, 'rank': ('emaciated', 'skinny'), 'skinny > emaciated': 0.0}
+lean-gaunt: {'gaunt > lean': 0.0004095264742344166, 'lean > gaunt': 7.507651713723216e-05, 'rank': ('gaunt', 'lean')}
+skeletal-lean: {'lean > skeletal': 0.0002819947229057013, 'skeletal > lean': 0.0013420626625513413, 'rank': ('skeletal', 'lean')}
+lean-thin: {'thin > lean': 0.006357528458446335, 'lean > thin': 0.025955350365430015, 'rank': ('lean', 'thin')}
+lean-emaciated: {'lean > emaciated': 0.0, 'emaciated > lean': 0.0006883005199482062, 'rank': ('emaciated', 'lean')}
+skeletal-slim: {'skeletal > slim': 0.0022271620637089084, 'rank': ('skeletal', 'slim'), 'slim > skeletal': 0.0008369168142828371}
+skeletal-emaciated: {'skeletal > emaciated': 0.0, 'emaciated > skeletal': 0.00025297918871604715, 'rank': ('emaciated', 'skeletal')}
+gaunt-skinny: {'skinny > gaunt': 0.00040048855926259864, 'gaunt > skinny': 0.0002511892693991529, 'rank': ('skinny', 'gaunt')}
+thin-emaciated: {'emaciated > thin': 0.9814814814814815, 'thin > emaciated': 0.018518518518518517, 'rank': ('emaciated', 'thin')}
+skeletal-thin: {'thin > skeletal': 0.012658227848101222, 'rank': ('skeletal', 'thin'), 'skeletal > thin': 0.9873417721518988}
+thin-gaunt: {'gaunt > thin': 0.9823529411764705, 'thin > gaunt': 0.01764705882352941, 'rank': ('gaunt', 'thin')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['statewide']
+['nationwide']
+['worldwide']
+
+=== algo: 
+['statewide']
+['nationwide']
+['worldwide']
+
+=== raw score: 
+worldwide-statewide: {'worldwide > statewide': 0.011567016012926342, 'statewide > worldwide': 0.010238774196679352, 'rank': ('worldwide', 'statewide')}
+nationwide-statewide: {'statewide > nationwide': 0.020000000000000018, 'nationwide > statewide': 0.98, 'rank': ('nationwide', 'statewide')}
+nationwide-worldwide: {'worldwide > nationwide': 0.9975165562913907, 'nationwide > worldwide': 0.0024834437086092716, 'rank': ('worldwide', 'nationwide')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.948683298051
+
+=== pairwise accuracy:
+0.9
+
+=== gold: 
+['general']
+['extensive']
+['complete', 'comprehensive']
+['universal']
+
+=== algo: 
+['general']
+['extensive']
+['comprehensive']
+['complete']
+['universal']
+
+=== raw score: 
+complete-universal: {'complete > universal': 5.559157132724557, 'universal > complete': 16.87892633055767, 'rank': ('universal', 'complete')}
+extensive-universal: {'universal > extensive': 0.9433962264150944, 'extensive > universal': 0.05660377358490566, 'rank': ('universal', 'extensive')}
+comprehensive-general: {'comprehensive > general': 7.655047362616297, 'general > comprehensive': 2.827920063959471, 'rank': ('comprehensive', 'general')}
+general-universal: {'general > universal': 0.06167400881057269, 'universal > general': 0.9383259911894273, 'rank': ('universal', 'general')}
+extensive-comprehensive: {'comprehensive > extensive': 0.9347826086956522, 'extensive > comprehensive': 0.06521739130434782, 'rank': ('comprehensive', 'extensive')}
+complete-general: {'complete > general': 23.237527941191004, 'general > complete': 6.98602379885044, 'rank': ('complete', 'general')}
+comprehensive-universal: {'universal > comprehensive': 6.8178581851753295, 'comprehensive > universal': 1.8332388146680898, 'rank': ('universal', 'comprehensive')}
+complete-comprehensive: {'complete > comprehensive': 0.9937888198757764, 'comprehensive > complete': 0.006211180124223614, 'rank': ('complete', 'comprehensive')}
+extensive-general: {'extensive > general': 0.43487314381983944, 'general > extensive': 0.3101163965101731, 'rank': ('extensive', 'general')}
+complete-extensive: {'extensive > complete': 0.003389830508474523, 'complete > extensive': 0.9966101694915255, 'rank': ('complete', 'extensive')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.527046276695
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['warm']
+['hot']
+['overheated']
+['stifling', 'sultry']
+
+=== algo: 
+['warm']
+['sultry']
+['hot']
+['overheated']
+['stifling']
+
+=== raw score: 
+warm-overheated: {'warm > overheated': 0.015228426395939087, 'overheated > warm': 0.9847715736040609, 'rank': ('overheated', 'warm')}
+warm-hot: {'warm > hot': 0.04215277186408924, 'hot > warm': 0.9578472281359107, 'rank': ('hot', 'warm')}
+overheated-sultry: {'overheated > sultry': 7.159088478328021e-05, 'rank': ('overheated', 'sultry'), 'sultry > overheated': 1.2953363477524176e-05}
+stifling-sultry: {'stifling > sultry': 5.378589789417425e-05, 'sultry > stifling': 0.0, 'rank': ('stifling', 'sultry')}
+warm-sultry: {'warm > sultry': 0.022058823529411766, 'rank': ('sultry', 'warm'), 'sultry > warm': 0.9779411764705882}
+stifling-hot: {'hot > stifling': 0.0, 'stifling > hot': 0.015377075168327045, 'rank': ('stifling', 'hot')}
+hot-sultry: {'sultry > hot': 0.013998440842890827, 'hot > sultry': 0.014213201721455689, 'rank': ('hot', 'sultry')}
+warm-stifling: {'warm > stifling': 0.05263157894736842, 'stifling > warm': 0.9473684210526316, 'rank': ('stifling', 'warm')}
+overheated-hot: {'overheated > hot': 0.020467417293014618, 'hot > overheated': 0.0037601062755173776, 'rank': ('overheated', 'hot')}
+overheated-stifling: {'stifling > overheated': 1.4229073516977315e-05, 'overheated > stifling': 0.0, 'rank': ('stifling', 'overheated')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.836660026534
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['easy', 'simple', 'smooth']
+['painless']
+['effortless']
+
+=== algo: 
+['smooth']
+['simple']
+['easy']
+['painless']
+['effortless']
+
+=== raw score: 
+painless-easy: {'easy > painless': 0.006711409395973145, 'painless > easy': 0.9932885906040269, 'rank': ('painless', 'easy')}
+simple-effortless: {'effortless > simple': 0.7427519852094256, 'simple > effortless': 0.026922535606848288, 'rank': ('effortless', 'simple')}
+effortless-painless: {'painless > effortless': 0.0026937108140760503, 'effortless > painless': 0.011757100734066519, 'rank': ('effortless', 'painless')}
+smooth-effortless: {'effortless > smooth': 0.9662921348314607, 'smooth > effortless': 0.033707865168539325, 'rank': ('effortless', 'smooth')}
+effortless-easy: {'easy > effortless': 0.0060975609756097615, 'effortless > easy': 0.9939024390243902, 'rank': ('effortless', 'easy')}
+simple-easy: {'easy > simple': 0.9994478188845941, 'rank': ('easy', 'simple'), 'simple > easy': 0.0005521811154058532}
+smooth-painless: {'painless > smooth': 0.4854545768887545, 'smooth > painless': 0.008603545516538361, 'rank': ('painless', 'smooth')}
+smooth-simple: {'smooth > simple': 0.6303618556024378, 'rank': ('simple', 'smooth'), 'simple > smooth': 8.6264581053144}
+smooth-easy: {'smooth > easy': 1.4646877480944245, 'easy > smooth': 7.478572335597199, 'rank': ('easy', 'smooth')}
+simple-painless: {'simple > painless': 0.05357142857142857, 'painless > simple': 0.9464285714285714, 'rank': ('painless', 'simple')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['plain']
+['unattractive']
+['ugly']
+
+=== algo: 
+['plain']
+['unattractive']
+['ugly']
+
+=== raw score: 
+plain-unattractive: {'unattractive > plain': 0.9444444444444444, 'plain > unattractive': 0.05555555555555555, 'rank': ('unattractive', 'plain')}
+plain-ugly: {'ugly > plain': 0.9904761904761905, 'plain > ugly': 0.009523809523809525, 'rank': ('ugly', 'plain')}
+ugly-unattractive: {'ugly > unattractive': 0.014567075835876669, 'unattractive > ugly': 0.0029857502815693227, 'rank': ('ugly', 'unattractive')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['like']
+['equal']
+['same']
+
+=== algo: 
+['like']
+['equal']
+['same']
+
+=== raw score: 
+like-equal: {'equal > like': 58.41689880032515, 'like > equal': 53.16429487866421, 'rank': ('equal', 'like')}
+same-equal: {'same > equal': 0.7983193277310925, 'equal > same': 0.2016806722689075, 'rank': ('same', 'equal')}
+same-like: {'like > same': 0.0023041474654378336, 'same > like': 0.9976958525345622, 'rank': ('same', 'like')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.912870929175
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['broad', 'widespread']
+['general']
+['universal']
+
+=== algo: 
+['widespread']
+['broad']
+['general']
+['universal']
+
+=== raw score: 
+broad-widespread: {'broad > widespread': 0.008652069601177498, 'widespread > broad': 0.005905907245419487, 'rank': ('broad', 'widespread')}
+general-widespread: {'general > widespread': 0.2698146320499071, 'widespread > general': 0.03049371728710571, 'rank': ('general', 'widespread')}
+general-universal: {'general > universal': 0.06167400881057269, 'universal > general': 0.9383259911894273, 'rank': ('universal', 'general')}
+general-broad: {'general > broad': 0.29192405218333334, 'rank': ('general', 'broad'), 'broad > general': 0.08785918231384854}
+universal-broad: {'universal > broad': 0.9896907216494846, 'broad > universal': 0.010309278350515427, 'rank': ('universal', 'broad')}
+universal-widespread: {'universal > widespread': 0.9992229992229992, 'rank': ('universal', 'widespread'), 'widespread > universal': 0.0007770007770008247}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.547722557505
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['cheap', 'mediocre']
+['bad']
+['worst']
+
+=== algo: 
+['cheap']
+['bad']
+['mediocre']
+['worst']
+
+=== raw score: 
+worst-bad: {'worst > bad': 0.9925925925925926, 'rank': ('worst', 'bad'), 'bad > worst': 0.007407407407407418}
+mediocre-cheap: {'mediocre > cheap': 0.47765430952242593, 'rank': ('mediocre', 'cheap'), 'cheap > mediocre': 0.023865047146131718}
+worst-cheap: {'worst > cheap': 2.1193675682002877, 'cheap > worst': 0.0659182902907541, 'rank': ('worst', 'cheap')}
+bad-cheap: {'bad > cheap': 0.9885057471264368, 'rank': ('bad', 'cheap'), 'cheap > bad': 0.011494252873563204}
+bad-mediocre: {'bad > mediocre': 0.4881450488145049, 'mediocre > bad': 0.5118549511854951, 'rank': ('mediocre', 'bad')}
+worst-mediocre: {'mediocre > worst': 0.030152404344444925, 'rank': ('worst', 'mediocre'), 'worst > mediocre': 0.10667392162311894}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.258198889747
+
+=== pairwise accuracy:
+0.4
+
+=== gold: 
+['handsome', 'lovely', 'gorgeous']
+['beautiful', 'pretty', 'attractive']
+
+=== algo: 
+['gorgeous']
+['handsome']
+['pretty']
+['attractive']
+['beautiful']
+['lovely']
+
+=== raw score: 
+gorgeous-lovely: {'gorgeous > lovely': 0.9886363636363636, 'rank': ('gorgeous', 'lovely'), 'lovely > gorgeous': 0.011363636363636354}
+handsome-attractive: {'attractive > handsome': 0.043946347039141714, 'handsome > attractive': 0.03633075723562943, 'rank': ('attractive', 'handsome')}
+handsome-pretty: {'handsome > pretty': 0.9777777777777777, 'pretty > handsome': 0.022222222222222254, 'rank': ('handsome', 'pretty')}
+attractive-lovely: {'attractive > lovely': 0.17879950855356294, 'rank': ('attractive', 'lovely'), 'lovely > attractive': 0.029428509006256754}
+handsome-lovely: {'handsome > lovely': 0.02505443538349678, 'rank': ('handsome', 'lovely'), 'lovely > handsome': 0.0031850809565492906}
+gorgeous-beautiful: {'beautiful > gorgeous': 0.14133717868582377, 'gorgeous > beautiful': 0.26607871179273335, 'rank': ('gorgeous', 'beautiful')}
+attractive-beautiful: {'beautiful > attractive': 0.9798657718120806, 'attractive > beautiful': 0.020134228187919462, 'rank': ('beautiful', 'attractive')}
+pretty-beautiful: {'beautiful > pretty': 0.8824289405684754, 'pretty > beautiful': 0.11757105943152454, 'rank': ('beautiful', 'pretty')}
+gorgeous-pretty: {'pretty > gorgeous': 0.02083333333333337, 'gorgeous > pretty': 0.9791666666666666, 'rank': ('gorgeous', 'pretty')}
+handsome-beautiful: {'handsome > beautiful': 0.20659674802960537, 'beautiful > handsome': 0.03952827830255166, 'rank': ('handsome', 'beautiful')}
+gorgeous-handsome: {'handsome > gorgeous': 0.030757529145724632, 'rank': ('handsome', 'gorgeous'), 'gorgeous > handsome': 0.008619512118056262}
+pretty-lovely: {'pretty > lovely': 0.18599999211301754, 'lovely > pretty': 0.03743455119293186, 'rank': ('pretty', 'lovely')}
+beautiful-lovely: {'lovely > beautiful': 0.09954441784192125, 'beautiful > lovely': 0.16048046814320976, 'rank': ('beautiful', 'lovely')}
+gorgeous-attractive: {'attractive > gorgeous': 0.15600556566012022, 'gorgeous > attractive': 0.05666506308068772, 'rank': ('attractive', 'gorgeous')}
+pretty-attractive: {'attractive > pretty': 0.4276896599388803, 'pretty > attractive': 0.28509541652659265, 'rank': ('attractive', 'pretty')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['thick']
+['dense']
+['impenetrable']
+
+=== algo: 
+['thick']
+['dense']
+['impenetrable']
+
+=== raw score: 
+dense-thick: {'dense > thick': 0.07693566599177101, 'rank': ('dense', 'thick'), 'thick > dense': 0.010587431439110062}
+impenetrable-thick: {'thick > impenetrable': 0.009708737864077666, 'rank': ('impenetrable', 'thick'), 'impenetrable > thick': 0.9902912621359223}
+impenetrable-dense: {'impenetrable > dense': 0.9966216216216216, 'rank': ('impenetrable', 'dense'), 'dense > impenetrable': 0.0033783783783783994}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['soft']
+['quiet']
+['inaudible']
+['silent']
+
+=== algo: 
+['soft']
+['quiet']
+['silent']
+['inaudible']
+
+=== raw score: 
+silent-quiet: {'silent > quiet': 0.9974554707379135, 'quiet > silent': 0.0025445292620864812, 'rank': ('silent', 'quiet')}
+inaudible-quiet: {'inaudible > quiet': 0.9921875, 'quiet > inaudible': 0.0078125, 'rank': ('inaudible', 'quiet')}
+soft-quiet: {'soft > quiet': 0.3378403609313825, 'quiet > soft': 1.1037031090506262, 'rank': ('quiet', 'soft')}
+inaudible-soft: {'soft > inaudible': 0.0055248618784530246, 'inaudible > soft': 0.994475138121547, 'rank': ('inaudible', 'soft')}
+soft-silent: {'soft > silent': 0.06475938658507348, 'silent > soft': 0.9083543523724551, 'rank': ('silent', 'soft')}
+inaudible-silent: {'inaudible > silent': 0.056735486702702155, 'silent > inaudible': 0.0017229484650846199, 'rank': ('inaudible', 'silent')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.912870929175
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['cool', 'chilly']
+['unfriendly']
+['hostile']
+
+=== algo: 
+['cool']
+['chilly']
+['unfriendly']
+['hostile']
+
+=== raw score: 
+chilly-unfriendly: {'chilly > unfriendly': 0.0003285444009299314, 'unfriendly > chilly': 0.002430443514549521, 'rank': ('unfriendly', 'chilly')}
+unfriendly-cool: {'unfriendly > cool': 0.10336851962091008, 'cool > unfriendly': 0.005356804587205225, 'rank': ('unfriendly', 'cool')}
+hostile-unfriendly: {'hostile > unfriendly': 0.9927007299270073, 'unfriendly > hostile': 0.007299270072992692, 'rank': ('hostile', 'unfriendly')}
+chilly-hostile: {'hostile > chilly': 0.22697931530181042, 'chilly > hostile': 0.0004041096131438156, 'rank': ('hostile', 'chilly')}
+chilly-cool: {'cool > chilly': 0.008000000000000007, 'chilly > cool': 0.992, 'rank': ('chilly', 'cool')}
+hostile-cool: {'hostile > cool': 0.9876543209876543, 'rank': ('hostile', 'cool'), 'cool > hostile': 0.012345679012345734}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.527046276695
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['sizeable']
+['big', 'large']
+['huge']
+['colossal']
+
+=== algo: 
+['large']
+['big']
+['sizeable']
+['huge']
+['colossal']
+
+=== raw score: 
+colossal-huge: {'huge > colossal': 0.011111111111111072, 'colossal > huge': 0.9888888888888889, 'rank': ('colossal', 'huge')}
+colossal-sizeable: {'colossal > sizeable': 2.565551020881758e-05, 'sizeable > colossal': 0.0, 'rank': ('colossal', 'sizeable')}
+sizeable-large: {'large > sizeable': 0.01657584615398535, 'sizeable > large': 0.5709649556897917, 'rank': ('sizeable', 'large')}
+huge-large: {'large > huge': 0.0016181229773463146, 'huge > large': 0.9983818770226537, 'rank': ('huge', 'large')}
+big-large: {'big > large': 27.452180546466067, 'large > big': 8.715609373976275, 'rank': ('big', 'large')}
+big-huge: {'huge > big': 0.9969666329625885, 'big > huge': 0.003033367037411527, 'rank': ('huge', 'big')}
+sizeable-huge: {'sizeable > huge': 0.06382978723404255, 'huge > sizeable': 0.9361702127659575, 'rank': ('huge', 'sizeable')}
+colossal-large: {'colossal > large': 0.01896600470811977, 'large > colossal': 0.0, 'rank': ('colossal', 'large')}
+colossal-big: {'big > colossal': 0.0, 'colossal > big': 0.0041114642972143916, 'rank': ('colossal', 'big')}
+sizeable-big: {'big > sizeable': 0.019727595751149976, 'sizeable > big': 0.12377419843590766, 'rank': ('sizeable', 'big')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.856348838578
+
+=== pairwise accuracy:
+0.733333333333
+
+=== gold: 
+['dual', 'double', 'doubled']
+['triple', 'treble']
+['quadruple']
+
+=== algo: 
+['dual']
+['double']
+['doubled']
+['triple']
+['treble']
+['quadruple']
+
+=== raw score: 
+triple-doubled: {'doubled > triple': 0.008264462809917328, 'rank': ('triple', 'doubled'), 'triple > doubled': 0.9917355371900827}
+quadruple-doubled: {'doubled > quadruple': 0.0, 'quadruple > doubled': 0.3809281305923877, 'rank': ('quadruple', 'doubled')}
+triple-double: {'double > triple': 2.9527268432416598e-05, 'triple > double': 0.9999704727315676, 'rank': ('triple', 'double')}
+triple-dual: {'triple > dual': 0.9956709956709957, 'rank': ('triple', 'dual'), 'dual > triple': 0.0043290043290042934}
+triple-treble: {'treble > triple': 0.03150948647522931, 'rank': ('treble', 'triple'), 'triple > treble': 0.008677100994782399}
+doubled-double: {'double > doubled': 2.38854489280447, 'doubled > double': 7.848048206719383, 'rank': ('doubled', 'double')}
+treble-double: {'treble > double': 0.9990942028985508, 'double > treble': 0.0009057971014492239, 'rank': ('treble', 'double')}
+dual-double: {'double > dual': 1.7562739248010109, 'dual > double': 1.2638450725286592, 'rank': ('double', 'dual')}
+quadruple-dual: {'quadruple > dual': 0.2800927648452498, 'dual > quadruple': 0.0, 'rank': ('quadruple', 'dual')}
+dual-treble: {'treble > dual': 0.01889306549595633, 'rank': ('treble', 'dual'), 'dual > treble': 0.0017747364047939276}
+quadruple-double: {'double > quadruple': 0.00019646365422398837, 'quadruple > double': 0.999803536345776, 'rank': ('quadruple', 'double')}
+triple-quadruple: {'quadruple > triple': 0.9996657381615599, 'triple > quadruple': 0.0003342618384401114, 'rank': ('quadruple', 'triple')}
+doubled-treble: {'treble > doubled': 0.02569470198386041, 'rank': ('treble', 'doubled'), 'doubled > treble': 0.011020509682547938}
+doubled-dual: {'dual > doubled': 0.22498420685690887, 'doubled > dual': 1.027256033687993, 'rank': ('doubled', 'dual')}
+quadruple-treble: {'treble > quadruple': 0.01538461538461533, 'rank': ('quadruple', 'treble'), 'quadruple > treble': 0.9846153846153847}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.737864787373
+
+=== pairwise accuracy:
+0.1
+
+=== gold: 
+['creepy']
+['scary', 'frightening']
+['terrifying']
+['sinister']
+
+=== algo: 
+['sinister']
+['terrifying']
+['frightening']
+['creepy']
+['scary']
+
+=== raw score: 
+terrifying-scary: {'terrifying > scary': 0.01960030344078251, 'rank': ('scary', 'terrifying'), 'scary > terrifying': 0.041068302742757364}
+sinister-terrifying: {'terrifying > sinister': 0.0, 'sinister > terrifying': 0.00057767290795766, 'rank': ('sinister', 'terrifying')}
+terrifying-creepy: {'terrifying > creepy': 0.002789624582734627, 'creepy > terrifying': 0.00021613275751498066, 'rank': ('terrifying', 'creepy')}
+terrifying-frightening: {'terrifying > frightening': 0.9923076923076923, 'frightening > terrifying': 0.007692307692307665, 'rank': ('terrifying', 'frightening')}
+frightening-creepy: {'creepy > frightening': 0.0010652257334666905, 'frightening > creepy': 0.012090875546158208, 'rank': ('frightening', 'creepy')}
+sinister-creepy: {'sinister > creepy': 0.0017536498991571822, 'creepy > sinister': 0.0, 'rank': ('sinister', 'creepy')}
+creepy-scary: {'creepy > scary': 0.06, 'scary > creepy': 0.94, 'rank': ('scary', 'creepy')}
+frightening-scary: {'frightening > scary': 0.9895833333333334, 'scary > frightening': 0.01041666666666663, 'rank': ('frightening', 'scary')}
+sinister-scary: {'scary > sinister': 0.0050000000000000044, 'sinister > scary': 0.995, 'rank': ('sinister', 'scary')}
+sinister-frightening: {'sinister > frightening': 0.0028471021892198956, 'frightening > sinister': 0.0, 'rank': ('sinister', 'frightening')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['some']
+['few']
+['fewer']
+
+=== algo: 
+['few']
+['some']
+['fewer']
+
+=== raw score: 
+few-fewer: {'fewer > few': 0.9552238805970149, 'few > fewer': 0.04477611940298507, 'rank': ('fewer', 'few')}
+some-few: {'some > few': 0.5102040816326531, 'few > some': 0.4897959183673469, 'rank': ('some', 'few')}
+some-fewer: {'some > fewer': 0.541359423270568, 'rank': ('fewer', 'some'), 'fewer > some': 115.62586024832426}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.547722557505
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['neglected']
+['ignored', 'overlooked']
+['forgotten']
+
+=== algo: 
+['overlooked']
+['neglected']
+['ignored']
+['forgotten']
+
+=== raw score: 
+ignored-neglected: {'neglected > ignored': 0.015151515151515138, 'ignored > neglected': 0.9848484848484849, 'rank': ('ignored', 'neglected')}
+forgotten-overlooked: {'overlooked > forgotten': 0.0055248618784530246, 'forgotten > overlooked': 0.994475138121547, 'rank': ('forgotten', 'overlooked')}
+forgotten-ignored: {'forgotten > ignored': 11.385316526890898, 'rank': ('forgotten', 'ignored'), 'ignored > forgotten': 0.2739481406166032}
+overlooked-neglected: {'overlooked > neglected': 0.005070996472596974, 'rank': ('neglected', 'overlooked'), 'neglected > overlooked': 0.0051040962415437085}
+forgotten-neglected: {'forgotten > neglected': 0.9956896551724138, 'neglected > forgotten': 0.004310344827586188, 'rank': ('forgotten', 'neglected')}
+overlooked-ignored: {'overlooked > ignored': 0.014705882352941176, 'ignored > overlooked': 0.9852941176470589, 'rank': ('ignored', 'overlooked')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['old']
+['obsolete', 'outdated']
+
+=== algo: 
+['old']
+['outdated']
+['obsolete']
+
+=== raw score: 
+old-outdated: {'outdated > old': 0.9765625, 'old > outdated': 0.0234375, 'rank': ('outdated', 'old')}
+old-obsolete: {'old > obsolete': 0.05555555555555555, 'obsolete > old': 0.9444444444444444, 'rank': ('obsolete', 'old')}
+obsolete-outdated: {'outdated > obsolete': 0.005411593389453493, 'obsolete > outdated': 0.02567652213448279, 'rank': ('obsolete', 'outdated')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['necessary']
+['vital']
+['indispensable']
+['critical']
+
+=== algo: 
+['necessary']
+['vital']
+['critical']
+['indispensable']
+
+=== raw score: 
+indispensable-necessary: {'indispensable > necessary': 0.9916666666666667, 'necessary > indispensable': 0.008333333333333304, 'rank': ('indispensable', 'necessary')}
+vital-necessary: {'necessary > vital': 0.004310344827586188, 'vital > necessary': 0.9956896551724138, 'rank': ('vital', 'necessary')}
+critical-indispensable: {'critical > indispensable': 0.02597322088756631, 'indispensable > critical': 0.06091222221342746, 'rank': ('indispensable', 'critical')}
+indispensable-vital: {'indispensable > vital': 0.03193284753418389, 'vital > indispensable': 0.00956972904780357, 'rank': ('indispensable', 'vital')}
+critical-necessary: {'critical > necessary': 0.9777777777777777, 'necessary > critical': 0.022222222222222254, 'rank': ('critical', 'necessary')}
+critical-vital: {'vital > critical': 0.0456170404940976, 'critical > vital': 0.07187821136076909, 'rank': ('critical', 'vital')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.912870929175
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['attractive']
+['beautiful']
+['mesmerizing', 'seductive']
+
+=== algo: 
+['attractive']
+['beautiful']
+['mesmerizing']
+['seductive']
+
+=== raw score: 
+mesmerizing-seductive: {'mesmerizing > seductive': 0.00010736571955120607, 'rank': ('seductive', 'mesmerizing'), 'seductive > mesmerizing': 0.00012797334326544908}
+attractive-mesmerizing: {'attractive > mesmerizing': 0.0028741864946729007, 'rank': ('mesmerizing', 'attractive'), 'mesmerizing > attractive': 0.01909371505885401}
+attractive-beautiful: {'beautiful > attractive': 0.9798657718120806, 'attractive > beautiful': 0.020134228187919462, 'rank': ('beautiful', 'attractive')}
+beautiful-seductive: {'seductive > beautiful': 0.0502060886998482, 'beautiful > seductive': 0.0016729268931222473, 'rank': ('seductive', 'beautiful')}
+attractive-seductive: {'attractive > seductive': 0.05263157894736842, 'seductive > attractive': 0.9473684210526316, 'rank': ('seductive', 'attractive')}
+mesmerizing-beautiful: {'beautiful > mesmerizing': 0.009433962264150941, 'mesmerizing > beautiful': 0.9905660377358491, 'rank': ('mesmerizing', 'beautiful')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['closed']
+['shut']
+['sealed']
+
+=== algo: 
+['closed']
+['sealed']
+['shut']
+
+=== raw score: 
+shut-sealed: {'sealed > shut': 0.1589954555145749, 'shut > sealed': 0.6310168841931211, 'rank': ('shut', 'sealed')}
+closed-sealed: {'closed > sealed': 0.010135135135135136, 'rank': ('sealed', 'closed'), 'sealed > closed': 0.9898648648648649}
+shut-closed: {'closed > shut': 0.01388888888888884, 'shut > closed': 0.9861111111111112, 'rank': ('shut', 'closed')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['unexpected']
+['astonishing', 'stunning']
+
+=== algo: 
+['unexpected']
+['stunning']
+['astonishing']
+
+=== raw score: 
+unexpected-astonishing: {'unexpected > astonishing': 0.007575757575757576, 'astonishing > unexpected': 0.9924242424242424, 'rank': ('astonishing', 'unexpected')}
+stunning-unexpected: {'stunning > unexpected': 0.9914529914529915, 'unexpected > stunning': 0.008547008547008517, 'rank': ('stunning', 'unexpected')}
+stunning-astonishing: {'stunning > astonishing': 0.0029401289279276485, 'rank': ('astonishing', 'stunning'), 'astonishing > stunning': 0.020621265961141836}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['indecent']
+['profane']
+['obscene']
+
+=== algo: 
+['indecent']
+['profane']
+['obscene']
+
+=== raw score: 
+indecent-profane: {'profane > indecent': 0.9318181818181819, 'indecent > profane': 0.06818181818181818, 'rank': ('profane', 'indecent')}
+obscene-profane: {'obscene > profane': 0.003067376097786024, 'profane > obscene': 0.0007930755668039075, 'rank': ('obscene', 'profane')}
+indecent-obscene: {'obscene > indecent': 0.9979973297730307, 'indecent > obscene': 0.0020026702269692926, 'rank': ('obscene', 'indecent')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['attractive']
+['sexy']
+['seductive']
+
+=== algo: 
+['attractive']
+['sexy']
+['seductive']
+
+=== raw score: 
+seductive-sexy: {'seductive > sexy': 0.006525050775565661, 'sexy > seductive': 0.0014301690857684648, 'rank': ('seductive', 'sexy')}
+attractive-sexy: {'sexy > attractive': 0.9473684210526316, 'attractive > sexy': 0.05263157894736842, 'rank': ('sexy', 'attractive')}
+seductive-attractive: {'attractive > seductive': 0.01754385964912286, 'seductive > attractive': 0.9824561403508771, 'rank': ('seductive', 'attractive')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['humbled']
+['humiliated']
+['crushed']
+
+=== algo: 
+['humbled']
+['crushed']
+['humiliated']
+
+=== raw score: 
+humbled-humiliated: {'humbled > humiliated': 0.017964071856287425, 'rank': ('humiliated', 'humbled'), 'humiliated > humbled': 0.9820359281437125}
+humbled-crushed: {'humbled > crushed': 0.0, 'rank': ('crushed', 'humbled'), 'crushed > humbled': 0.0064287307423252895}
+crushed-humiliated: {'humiliated > crushed': 0.9690721649484536, 'crushed > humiliated': 0.030927835051546393, 'rank': ('humiliated', 'crushed')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.632455532034
+
+=== pairwise accuracy:
+0.0
+
+=== gold: 
+['bright', 'intelligent', 'smart', 'clever']
+['brilliant']
+
+=== algo: 
+['brilliant']
+['clever']
+['smart']
+['bright']
+['intelligent']
+
+=== raw score: 
+brilliant-intelligent: {'intelligent > brilliant': 0.016949152542372836, 'brilliant > intelligent': 0.9830508474576272, 'rank': ('brilliant', 'intelligent')}
+bright-intelligent: {'bright > intelligent': 0.052944878462590314, 'rank': ('intelligent', 'bright'), 'intelligent > bright': 0.17126471721362418}
+brilliant-bright: {'brilliant > bright': 0.2632930705767454, 'bright > brilliant': 0.2889450249768938, 'rank': ('bright', 'brilliant')}
+clever-bright: {'bright > clever': 0.9444444444444444, 'clever > bright': 0.05555555555555555, 'rank': ('bright', 'clever')}
+smart-intelligent: {'intelligent > smart': 0.08355429659497732, 'smart > intelligent': 0.1052524117736645, 'rank': ('smart', 'intelligent')}
+brilliant-clever: {'clever > brilliant': 0.02083333333333337, 'brilliant > clever': 0.9791666666666666, 'rank': ('brilliant', 'clever')}
+brilliant-smart: {'brilliant > smart': 0.9803921568627451, 'rank': ('brilliant', 'smart'), 'smart > brilliant': 0.019607843137254943}
+clever-intelligent: {'clever > intelligent': 0.025861449055036935, 'intelligent > clever': 0.022363199573758954, 'rank': ('clever', 'intelligent')}
+smart-bright: {'smart > bright': 0.6245711814758783, 'bright > smart': 0.24602186368959794, 'rank': ('smart', 'bright')}
+clever-smart: {'smart > clever': 0.0832759060660159, 'clever > smart': 0.1335704720128379, 'rank': ('clever', 'smart')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['violent']
+['homicidal', 'murderous']
+
+=== algo: 
+['violent']
+['murderous']
+['homicidal']
+
+=== raw score: 
+murderous-violent: {'murderous > violent': 0.9818181818181818, 'violent > murderous': 0.018181818181818188, 'rank': ('murderous', 'violent')}
+homicidal-murderous: {'murderous > homicidal': 0.0, 'rank': ('homicidal', 'murderous'), 'homicidal > murderous': 0.0}
+homicidal-violent: {'violent > homicidal': 0.021739130434782594, 'homicidal > violent': 0.9782608695652174, 'rank': ('homicidal', 'violent')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['personal']
+['private']
+['secret']
+
+=== algo: 
+['personal']
+['secret']
+['private']
+
+=== raw score: 
+personal-secret: {'personal > secret': 1.0336282445876779, 'rank': ('personal', 'secret'), 'secret > personal': 0.04946512686947137}
+secret-private: {'secret > private': 0.98989898989899, 'private > secret': 0.010101010101010055, 'rank': ('secret', 'private')}
+personal-private: {'personal > private': 0.0078125, 'rank': ('private', 'personal'), 'private > personal': 0.9921875}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.333333333333
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['high']
+['higher']
+['soaring']
+
+=== algo: 
+['soaring']
+['high']
+['higher']
+
+=== raw score: 
+soaring-higher: {'soaring > higher': 0.011673151750972763, 'higher > soaring': 0.9883268482490273, 'rank': ('higher', 'soaring')}
+soaring-high: {'soaring > high': 0.0, 'high > soaring': 0.04415155903944946, 'rank': ('high', 'soaring')}
+higher-high: {'high > higher': 0.020051194539249195, 'higher > high': 0.9799488054607508, 'rank': ('higher', 'high')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['harmful']
+['toxic']
+['deadly']
+
+=== algo: 
+['harmful']
+['toxic']
+['deadly']
+
+=== raw score: 
+toxic-harmful: {'toxic > harmful': 0.98989898989899, 'rank': ('toxic', 'harmful'), 'harmful > toxic': 0.010101010101010055}
+deadly-toxic: {'toxic > deadly': 0.011494252873563204, 'deadly > toxic': 0.9885057471264368, 'rank': ('deadly', 'toxic')}
+deadly-harmful: {'deadly > harmful': 0.9991334488734835, 'harmful > deadly': 0.0008665511265164572, 'rank': ('deadly', 'harmful')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.444749589997
+
+=== pairwise accuracy:
+0.678571428571
+
+=== gold: 
+['small']
+['smaller']
+['midget']
+['minute']
+['tiny', 'minuscule']
+['micro', 'microscopic']
+
+=== algo: 
+['small']
+['minute']
+['minuscule']
+['tiny']
+['midget']
+['smaller']
+['micro']
+['microscopic']
+
+=== raw score: 
+minuscule-small: {'small > minuscule': 0.0078125, 'rank': ('minuscule', 'small'), 'minuscule > small': 0.9921875}
+micro-smaller: {'micro > smaller': 0.0174091438770178, 'smaller > micro': 0.013443041832222018, 'rank': ('micro', 'smaller')}
+minute-micro: {'minute > micro': 0.002593479257591632, 'micro > minute': 0.03179085119363861, 'rank': ('micro', 'minute')}
+tiny-micro: {'micro > tiny': 0.01650423368026294, 'tiny > micro': 0.0022110154998710913, 'rank': ('micro', 'tiny')}
+midget-microscopic: {'microscopic > midget': 0.0017283555130210714, 'rank': ('microscopic', 'midget'), 'midget > microscopic': 0.0}
+minuscule-micro: {'minuscule > micro': 1.7059187173733354e-05, 'micro > minuscule': 0.00016327125874170245, 'rank': ('micro', 'minuscule')}
+microscopic-small: {'microscopic > small': 0.9944444444444445, 'small > microscopic': 0.005555555555555536, 'rank': ('microscopic', 'small')}
+minuscule-microscopic: {'microscopic > minuscule': 0.0003376588585041166, 'rank': ('microscopic', 'minuscule'), 'minuscule > microscopic': 0.0}
+minute-smaller: {'minute > smaller': 0.40044199103259653, 'smaller > minute': 3.7689669148693503, 'rank': ('smaller', 'minute')}
+minuscule-tiny: {'tiny > minuscule': 0.0031817052315218147, 'rank': ('tiny', 'minuscule'), 'minuscule > tiny': 0.002481487617174286}
+minute-tiny: {'tiny > minute': 0.6210602665462168, 'minute > tiny': 0.3858188146589109, 'rank': ('tiny', 'minute')}
+midget-small: {'small > midget': 0.21773960262805925, 'rank': ('midget', 'small'), 'midget > small': 0.446622516749695}
+midget-micro: {'micro > midget': 0.0008357274599999008, 'midget > micro': 0.00027375167342000414, 'rank': ('micro', 'midget')}
+tiny-small: {'small > tiny': 0.00111358574610243, 'tiny > small': 0.9988864142538976, 'rank': ('tiny', 'small')}
+minute-minuscule: {'minuscule > minute': 0.004779901030532897, 'minute > minuscule': 0.0037320799072660072, 'rank': ('minuscule', 'minute')}
+tiny-smaller: {'smaller > tiny': 1.961479968567712, 'tiny > smaller': 0.3404387932706933, 'rank': ('smaller', 'tiny')}
+minute-microscopic: {'microscopic > minute': 0.06574618587280155, 'minute > microscopic': 0.0, 'rank': ('microscopic', 'minute')}
+minuscule-midget: {'minuscule > midget': 0.00012565547625530423, 'midget > minuscule': 0.00039393533492146934, 'rank': ('midget', 'minuscule')}
+midget-tiny: {'tiny > midget': 0.016286016608806575, 'midget > tiny': 0.039820853177485474, 'rank': ('midget', 'tiny')}
+smaller-small: {'small > smaller': 0.0009689922480620172, 'smaller > small': 0.999031007751938, 'rank': ('smaller', 'small')}
+tiny-microscopic: {'tiny > microscopic': 0.009230769230769232, 'rank': ('microscopic', 'tiny'), 'microscopic > tiny': 0.9907692307692307}
+microscopic-micro: {'micro > microscopic': 0.0, 'microscopic > micro': 0.00023464429150286067, 'rank': ('microscopic', 'micro')}
+micro-small: {'micro > small': 0.99, 'rank': ('micro', 'small'), 'small > micro': 0.010000000000000009}
+microscopic-smaller: {'microscopic > smaller': 0.036003591166938936, 'smaller > microscopic': 0.0, 'rank': ('microscopic', 'smaller')}
+minute-midget: {'midget > minute': 0.07670388351826847, 'rank': ('midget', 'minute'), 'minute > midget': 0.019103188677870073}
+midget-smaller: {'midget > smaller': 0.01910828025477707, 'smaller > midget': 0.9808917197452229, 'rank': ('smaller', 'midget')}
+minuscule-smaller: {'smaller > minuscule': 0.019344865075636562, 'minuscule > smaller': 0.0026175450368282082, 'rank': ('smaller', 'minuscule')}
+minute-small: {'minute > small': 0.9976580796252927, 'rank': ('minute', 'small'), 'small > minute': 0.0023419203747072626}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.737864787373
+
+=== pairwise accuracy:
+0.8
+
+=== gold: 
+['impractical', 'impracticable']
+['unrealistic']
+['infeasible']
+['impossible']
+
+=== algo: 
+['impractical']
+['unrealistic']
+['impracticable']
+['infeasible']
+['impossible']
+
+=== raw score: 
+impractical-infeasible: {'impractical > infeasible': 8.287797468619559e-05, 'rank': ('infeasible', 'impractical'), 'infeasible > impractical': 0.0042756462166611805}
+impossible-impractical: {'impossible > impractical': 0.9997962510187449, 'impractical > impossible': 0.00020374898125508079, 'rank': ('impossible', 'impractical')}
+impossible-infeasible: {'impossible > infeasible': 0.98, 'infeasible > impossible': 0.020000000000000018, 'rank': ('impossible', 'infeasible')}
+unrealistic-infeasible: {'unrealistic > infeasible': 3.827915170691387e-05, 'rank': ('infeasible', 'unrealistic'), 'infeasible > unrealistic': 0.0013547491082359952}
+unrealistic-impractical: {'impractical > unrealistic': 0.0035331240947745557, 'rank': ('unrealistic', 'impractical'), 'unrealistic > impractical': 0.005150210215523694}
+impracticable-impractical: {'impracticable > impractical': 0.008988574432753617, 'impractical > impracticable': 0.0008630119537975585, 'rank': ('impracticable', 'impractical')}
+unrealistic-impracticable: {'unrealistic > impracticable': 0.0003986024710350379, 'impracticable > unrealistic': 0.002848052102541581, 'rank': ('impracticable', 'unrealistic')}
+impracticable-infeasible: {'impracticable > infeasible': 6.68079534507459e-05, 'infeasible > impracticable': 0.0003309152589724843, 'rank': ('infeasible', 'impracticable')}
+unrealistic-impossible: {'unrealistic > impossible': 0.015789473684210527, 'impossible > unrealistic': 0.9842105263157894, 'rank': ('impossible', 'unrealistic')}
+impracticable-impossible: {'impossible > impracticable': 0.991044776119403, 'rank': ('impossible', 'impracticable'), 'impracticable > impossible': 0.008955223880597015}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['mature']
+['ripe']
+['overripe']
+
+=== algo: 
+['mature']
+['ripe']
+['overripe']
+
+=== raw score: 
+mature-ripe: {'ripe > mature': 1.731051372915906, 'mature > ripe': 0.16959783340834347, 'rank': ('ripe', 'mature')}
+ripe-overripe: {'overripe > ripe': 0.9774436090225564, 'rank': ('overripe', 'ripe'), 'ripe > overripe': 0.022556390977443608}
+mature-overripe: {'overripe > mature': 0.9811320754716981, 'rank': ('overripe', 'mature'), 'mature > overripe': 0.018867924528301886}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['overweight']
+['chubby']
+['fat']
+['obese']
+
+=== algo: 
+['overweight']
+['fat']
+['chubby']
+['obese']
+
+=== raw score: 
+overweight-chubby: {'overweight > chubby': 9.652807210834418e-05, 'chubby > overweight': 0.005654553347782758, 'rank': ('chubby', 'overweight')}
+overweight-fat: {'overweight > fat': 0.015117922739025553, 'rank': ('fat', 'overweight'), 'fat > overweight': 0.26263722699385594}
+fat-chubby: {'fat > chubby': 0.9929078014184397, 'chubby > fat': 0.007092198581560294, 'rank': ('fat', 'chubby')}
+chubby-obese: {'obese > chubby': 0.001536382741022503, 'rank': ('chubby', 'obese'), 'chubby > obese': 0.001541175485509187}
+overweight-obese: {'obese > overweight': 0.9832347140039448, 'overweight > obese': 0.016765285996055226, 'rank': ('obese', 'overweight')}
+fat-obese: {'obese > fat': 0.983957219251337, 'fat > obese': 0.016042780748663103, 'rank': ('obese', 'fat')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['uncomfortable']
+['uneasy']
+['painful']
+
+=== algo: 
+['uneasy']
+['uncomfortable']
+['painful']
+
+=== raw score: 
+uncomfortable-painful: {'painful > uncomfortable': 0.9992362525458248, 'rank': ('painful', 'uncomfortable'), 'uncomfortable > painful': 0.0007637474541751527}
+uneasy-painful: {'painful > uneasy': 0.9454545454545454, 'uneasy > painful': 0.05454545454545454, 'rank': ('painful', 'uneasy')}
+uneasy-uncomfortable: {'uncomfortable > uneasy': 0.0050162488855961355, 'uneasy > uncomfortable': 0.0, 'rank': ('uncomfortable', 'uneasy')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['friendly', 'cordial']
+['warm']
+['intimate']
+
+=== algo: 
+['warm']
+['cordial']
+['friendly']
+['intimate']
+
+=== raw score: 
+warm-cordial: {'cordial > warm': 0.009545955700560653, 'warm > cordial': 0.004643135101149371, 'rank': ('cordial', 'warm')}
+friendly-intimate: {'friendly > intimate': 0.020689655172413793, 'rank': ('intimate', 'friendly'), 'intimate > friendly': 0.9793103448275862}
+intimate-cordial: {'intimate > cordial': 0.002918524287751802, 'cordial > intimate': 0.000237276179445794, 'rank': ('intimate', 'cordial')}
+friendly-cordial: {'friendly > cordial': 0.9956140350877193, 'rank': ('friendly', 'cordial'), 'cordial > friendly': 0.004385964912280715}
+warm-intimate: {'intimate > warm': 0.9863013698630136, 'warm > intimate': 0.0136986301369863, 'rank': ('intimate', 'warm')}
+friendly-warm: {'warm > friendly': 0.5491867980693004, 'friendly > warm': 0.643568441828194, 'rank': ('friendly', 'warm')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.688032961232
+
+=== pairwise accuracy:
+0.714285714286
+
+=== gold: 
+['cool', 'refrigerated', 'chilly']
+['cold']
+['frigid']
+['icy', 'frozen']
+
+=== algo: 
+['refrigerated']
+['cool']
+['cold']
+['chilly']
+['frozen']
+['frigid']
+['icy']
+
+=== raw score: 
+chilly-frozen: {'frozen > chilly': 0.027783944091257794, 'chilly > frozen': 0.004343356980293693, 'rank': ('frozen', 'chilly')}
+icy-frozen: {'frozen > icy': 0.0, 'rank': ('icy', 'frozen'), 'icy > frozen': 0.0034334584477526985}
+refrigerated-chilly: {'chilly > refrigerated': 0.0015375877963520789, 'refrigerated > chilly': 0.00037140825825555685, 'rank': ('chilly', 'refrigerated')}
+frigid-chilly: {'chilly > frigid': 0.0, 'frigid > chilly': 0.0002834431444581881, 'rank': ('frigid', 'chilly')}
+cold-chilly: {'cold > chilly': 0.39586206896551723, 'chilly > cold': 0.6041379310344828, 'rank': ('chilly', 'cold')}
+refrigerated-cold: {'refrigerated > cold': 0.005644286825911405, 'rank': ('cold', 'refrigerated'), 'cold > refrigerated': 0.07715494318612583}
+icy-refrigerated: {'icy > refrigerated': 0.0010553694014387926, 'rank': ('icy', 'refrigerated'), 'refrigerated > icy': 0.0}
+cold-frozen: {'cold > frozen': 0.004431314623338257, 'frozen > cold': 0.9955686853766618, 'rank': ('frozen', 'cold')}
+icy-chilly: {'icy > chilly': 0.0012478014290515638, 'chilly > icy': 0.0, 'rank': ('icy', 'chilly')}
+icy-cold: {'icy > cold': 0.9930555555555556, 'cold > icy': 0.00694444444444442, 'rank': ('icy', 'cold')}
+icy-cool: {'icy > cool': 0.10210998277831744, 'cool > icy': 0.0, 'rank': ('icy', 'cool')}
+icy-frigid: {'frigid > icy': 0.0, 'icy > frigid': 0.0, 'rank': ('icy', 'frigid')}
+cool-chilly: {'cool > chilly': 0.024, 'chilly > cool': 0.976, 'rank': ('chilly', 'cool')}
+frigid-cool: {'frigid > cool': 0.9803921568627451, 'cool > frigid': 0.019607843137254943, 'rank': ('frigid', 'cool')}
+cold-frigid: {'frigid > cold': 0.9318181818181819, 'cold > frigid': 0.06818181818181818, 'rank': ('frigid', 'cold')}
+cold-cool: {'cold > cool': 0.991417127598703, 'cool > cold': 0.00858287240129696, 'rank': ('cold', 'cool')}
+cool-frozen: {'cool > frozen': 0.007792207792207792, 'frozen > cool': 0.9922077922077922, 'rank': ('frozen', 'cool')}
+refrigerated-cool: {'refrigerated > cool': 0.015796261711506367, 'cool > refrigerated': 0.025069845468120456, 'rank': ('cool', 'refrigerated')}
+frigid-frozen: {'frozen > frigid': 0.0, 'frigid > frozen': 0.0011079190144109067, 'rank': ('frigid', 'frozen')}
+refrigerated-frozen: {'frozen > refrigerated': 0.9900662251655629, 'rank': ('frozen', 'refrigerated'), 'refrigerated > frozen': 0.009933774834437087}
+refrigerated-frigid: {'frigid > refrigerated': 0.0002397314306140338, 'refrigerated > frigid': 0.0, 'rank': ('frigid', 'refrigerated')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.527046276695
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['cool']
+['cold']
+['frigid']
+['icy', 'frozen']
+
+=== algo: 
+['cool']
+['cold']
+['frozen']
+['icy']
+['frigid']
+
+=== raw score: 
+cold-frigid: {'frigid > cold': 0.9318181818181819, 'cold > frigid': 0.06818181818181818, 'rank': ('frigid', 'cold')}
+cold-icy: {'icy > cold': 0.9791666666666666, 'cold > icy': 0.020833333333333332, 'rank': ('icy', 'cold')}
+frigid-icy: {'frigid > icy': 0.0, 'icy > frigid': 0.0, 'rank': ('frigid', 'icy')}
+cold-frozen: {'cold > frozen': 0.004431314623338257, 'frozen > cold': 0.9955686853766618, 'rank': ('frozen', 'cold')}
+cool-icy: {'icy > cool': 0.10210998277831744, 'cool > icy': 0.0, 'rank': ('icy', 'cool')}
+frigid-frozen: {'frozen > frigid': 0.0, 'frigid > frozen': 0.0011079190144109067, 'rank': ('frigid', 'frozen')}
+cool-frozen: {'cool > frozen': 0.007792207792207792, 'frozen > cool': 0.9922077922077922, 'rank': ('frozen', 'cool')}
+frozen-icy: {'frozen > icy': 0.0, 'rank': ('icy', 'frozen'), 'icy > frozen': 0.0034334584477526985}
+cool-cold: {'cold > cool': 0.9910356666030898, 'cool > cold': 0.008964333396910166, 'rank': ('cold', 'cool')}
+cool-frigid: {'frigid > cool': 0.9411764705882353, 'cool > frigid': 0.058823529411764705, 'rank': ('frigid', 'cool')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['disappointed']
+['frustrated']
+['defeated']
+
+=== algo: 
+['disappointed']
+['frustrated']
+['defeated']
+
+=== raw score: 
+disappointed-defeated: {'disappointed > defeated': 0.008982035928143712, 'rank': ('defeated', 'disappointed'), 'defeated > disappointed': 0.9910179640718563}
+frustrated-disappointed: {'frustrated > disappointed': 0.9846153846153847, 'rank': ('frustrated', 'disappointed'), 'disappointed > frustrated': 0.01538461538461533}
+frustrated-defeated: {'frustrated > defeated': 0.0192188975410793, 'rank': ('defeated', 'frustrated'), 'defeated > frustrated': 0.059110083556986076}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.333333333333
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['close']
+['tight']
+['snug']
+
+=== algo: 
+['snug']
+['close']
+['tight']
+
+=== raw score: 
+tight-snug: {'tight > snug': 0.9998273480662984, 'rank': ('tight', 'snug'), 'snug > tight': 0.00017265193370163967}
+tight-close: {'close > tight': 0.013333333333333308, 'rank': ('tight', 'close'), 'tight > close': 0.9866666666666667}
+snug-close: {'snug > close': 0.0, 'close > snug': 14.28161916368324, 'rank': ('close', 'snug')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['statewide']
+['nationwide']
+['worldwide']
+
+=== algo: 
+['statewide']
+['nationwide']
+['worldwide']
+
+=== raw score: 
+statewide-nationwide: {'statewide > nationwide': 0.06, 'nationwide > statewide': 0.94, 'rank': ('nationwide', 'statewide')}
+worldwide-nationwide: {'worldwide > nationwide': 0.9991721854304636, 'nationwide > worldwide': 0.0008278145695364003, 'rank': ('worldwide', 'nationwide')}
+statewide-worldwide: {'worldwide > statewide': 0.011567016012926342, 'statewide > worldwide': 0.010238774196679352, 'rank': ('worldwide', 'statewide')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.948683298051
+
+=== pairwise accuracy:
+0.9
+
+=== gold: 
+['general']
+['extensive']
+['complete', 'comprehensive']
+['universal']
+
+=== algo: 
+['general']
+['extensive']
+['comprehensive']
+['complete']
+['universal']
+
+=== raw score: 
+comprehensive-universal: {'universal > comprehensive': 6.8178581851753295, 'comprehensive > universal': 1.8332388146680898, 'rank': ('universal', 'comprehensive')}
+general-complete: {'complete > general': 23.237527941191004, 'general > complete': 6.98602379885044, 'rank': ('complete', 'general')}
+comprehensive-general: {'comprehensive > general': 7.655047362616297, 'general > comprehensive': 2.827920063959471, 'rank': ('comprehensive', 'general')}
+comprehensive-complete: {'complete > comprehensive': 0.9813664596273292, 'comprehensive > complete': 0.018633540372670808, 'rank': ('complete', 'comprehensive')}
+extensive-complete: {'extensive > complete': 0.010169491525423728, 'complete > extensive': 0.9898305084745763, 'rank': ('complete', 'extensive')}
+universal-extensive: {'universal > extensive': 0.9811320754716981, 'extensive > universal': 0.018867924528301883, 'rank': ('universal', 'extensive')}
+universal-general: {'universal > general': 0.9405286343612335, 'general > universal': 0.05947136563876654, 'rank': ('universal', 'general')}
+comprehensive-extensive: {'comprehensive > extensive': 0.9782608695652174, 'extensive > comprehensive': 0.021739130434782594, 'rank': ('comprehensive', 'extensive')}
+universal-complete: {'complete > universal': 5.559157132724557, 'universal > complete': 16.87892633055767, 'rank': ('universal', 'complete')}
+general-extensive: {'extensive > general': 0.43487314381983944, 'general > extensive': 0.3101163965101731, 'rank': ('extensive', 'general')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.547722557505
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['alive']
+['awake']
+['aware', 'conscious']
+
+=== algo: 
+['awake']
+['alive']
+['conscious']
+['aware']
+
+=== raw score: 
+awake-alive: {'alive > awake': 0.9850746268656716, 'awake > alive': 0.014925373134328358, 'rank': ('alive', 'awake')}
+awake-conscious: {'awake > conscious': 0.023622047244094488, 'conscious > awake': 0.9763779527559056, 'rank': ('conscious', 'awake')}
+awake-aware: {'awake > aware': 0.006423982869379015, 'aware > awake': 0.9935760171306209, 'rank': ('aware', 'awake')}
+alive-aware: {'aware > alive': 0.9743589743589743, 'alive > aware': 0.02564102564102564, 'rank': ('aware', 'alive')}
+conscious-aware: {'conscious > aware': 0.1198044009779951, 'aware > conscious': 0.880195599022005, 'rank': ('aware', 'conscious')}
+conscious-alive: {'conscious > alive': 0.6985645933014354, 'alive > conscious': 0.3014354066985646, 'rank': ('conscious', 'alive')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['interested']
+['concerned']
+['involved']
+
+=== algo: 
+['concerned']
+['interested']
+['involved']
+
+=== raw score: 
+involved-interested: {'involved > interested': 0.6487603305785123, 'rank': ('involved', 'interested'), 'interested > involved': 0.35123966942148765}
+concerned-interested: {'concerned > interested': 0.6793543676395708, 'interested > concerned': 2.3542571147611744, 'rank': ('interested', 'concerned')}
+involved-concerned: {'involved > concerned': 0.9911504424778761, 'concerned > involved': 0.008849557522123908, 'rank': ('involved', 'concerned')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['critical']
+['negative']
+['hostile']
+
+=== algo: 
+['negative']
+['critical']
+['hostile']
+
+=== raw score: 
+critical-negative: {'critical > negative': 1.091711756524191, 'rank': ('critical', 'negative'), 'negative > critical': 0.3472430966103571}
+hostile-negative: {'hostile > negative': 0.9973614775725593, 'rank': ('hostile', 'negative'), 'negative > hostile': 0.0026385224274406704}
+hostile-critical: {'hostile > critical': 0.9960159362549801, 'rank': ('hostile', 'critical'), 'critical > hostile': 0.003984063745019917}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['hard']
+['painful']
+['hopeless']
+
+=== algo: 
+['hard']
+['painful']
+['hopeless']
+
+=== raw score: 
+hard-hopeless: {'hard > hopeless': 0.020689655172413793, 'rank': ('hopeless', 'hard'), 'hopeless > hard': 0.9793103448275862}
+painful-hard: {'painful > hard': 0.9855072463768116, 'hard > painful': 0.01449275362318836, 'rank': ('painful', 'hard')}
+painful-hopeless: {'painful > hopeless': 0.08166372639381247, 'hopeless > painful': 0.14394821419563303, 'rank': ('hopeless', 'painful')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['happy', 'content']
+['euphoric']
+
+=== algo: 
+['content']
+['happy']
+['euphoric']
+
+=== raw score: 
+content-euphoric: {'content > euphoric': 0.0, 'euphoric > content': 0.045123895418366484, 'rank': ('euphoric', 'content')}
+euphoric-happy: {'euphoric > happy': 0.9782608695652174, 'rank': ('euphoric', 'happy'), 'happy > euphoric': 0.021739130434782594}
+content-happy: {'content > happy': 0.49551569506726456, 'happy > content': 0.5044843049327354, 'rank': ('happy', 'content')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['calm', 'cool']
+['serene']
+
+=== algo: 
+['cool']
+['calm']
+['serene']
+
+=== raw score: 
+cool-serene: {'serene > cool': 0.04919011322442772, 'cool > serene': 0.011285001663712341, 'rank': ('serene', 'cool')}
+cool-calm: {'cool > calm': 0.02564102564102564, 'calm > cool': 0.9743589743589743, 'rank': ('calm', 'cool')}
+calm-serene: {'calm > serene': 0.011673151750972763, 'serene > calm': 0.9883268482490273, 'rank': ('serene', 'calm')}
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.547722557505
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['unreliable']
+['dangerous', 'risky']
+['suicidal']
+
+=== algo: 
+['risky']
+['unreliable']
+['dangerous']
+['suicidal']
+
+=== raw score: 
+unreliable-risky: {'unreliable > risky': 0.19189475349781684, 'risky > unreliable': 0.003235441301800389, 'rank': ('unreliable', 'risky')}
+dangerous-suicidal: {'dangerous > suicidal': 0.007832898172323759, 'suicidal > dangerous': 0.9921671018276762, 'rank': ('suicidal', 'dangerous')}
+unreliable-dangerous: {'dangerous > unreliable': 0.9625, 'rank': ('dangerous', 'unreliable'), 'unreliable > dangerous': 0.0375}
+unreliable-suicidal: {'suicidal > unreliable': 0.009817224645980798, 'unreliable > suicidal': 0.007948719628025404, 'rank': ('suicidal', 'unreliable')}
+risky-dangerous: {'risky > dangerous': 0.01195219123505976, 'rank': ('dangerous', 'risky'), 'dangerous > risky': 0.9880478087649402}
+risky-suicidal: {'risky > suicidal': 0.0006180932899000252, 'suicidal > risky': 0.10017975873155467, 'rank': ('suicidal', 'risky')}
+
+=== raw counts: 
+------------------------------------------------
+
+------------------------------------------------
+Patterns Used: 
+------------------------------------------------
+=== strong
+
+not (a|an|the) * (,) just (a|an|the) <*>
+not (a|an|the) * (,) but just (a|an|the) <*>
+not (a|an|the) * (,) still (a|an|the) <*>
+not (a|an|the) * (,) but still (a|an|the) <*>
+not (a|an|the) * (,) although still (a|an|the) <*>
+not (a|an|the) * (,) though still (a|an|the) <*>
+* (,) or very (a|an|the) <*>
+a * (,) or very (a|an|the) <*>
+an * (,) or very (a|an|the) <*>
+the * (,) or very (a|an|the) <*>
+* unbelievably <*>
+* not even <*>
+very <*> (and|or) totally *
+<*> (,) yet still (a|an|the|as) *
+<*> (,) (and|or) fully *
+<*> (,) (and|or) outright *
+<*> (,) but not (a|an|the) *
+a <*> (,) but not (a|an|the) *
+an <*> (,) but not (a|an|the) *
+the <*> (,) but not (a|an|the) *
+<*> (,) if not (a|an|the) *
+a <*> (,) if not (a|an|the) *
+an <*> (,) if not (a|an|the) *
+the <*> (,) if not (a|an|the) *
+<*> (,) although not (a|an|the) *
+a <*> (,) although not (a|an|the) *
+an <*> (,) although not (a|an|the) *
+the <*> (,) although not (a|an|the) *
+<*> (,) though not (a|an|the) *
+a <*> (,) though not (a|an|the) *
+an <*> (,) though not (a|an|the) *
+the <*> (,) though not (a|an|the) *
+<*> (,) (and|or) even (a|an|the) *
+a <*> (,) (and|or) even (a|an|the) *
+an <*> (,) (and|or) even (a|an|the) *
+the <*> (,) (and|or) even (a|an|the) *
+<*> (,) (and|or) almost (a|an|the) *
+a <*> (,) (and|or) almost (a|an|the) *
+an <*> (,) (and|or) almost (a|an|the) *
+the <*> (,) (and|or) almost (a|an|the) *
+not only (a|an|the) <*> but (a|an|the) *
+not just (a|an|the) <*> but (a|an|the) *
+
+=== weak
+
+not (a|an|the) <*> (,) just (a|an|the) *
+not (a|an|the) <*> (,) but just (a|an|the) *
+not (a|an|the) <*> (,) still (a|an|the) *
+not (a|an|the) <*> (,) but still (a|an|the) *
+not (a|an|the) <*> (,) although still (a|an|the) *
+not (a|an|the) <*> (,) though still (a|an|the) *
+<*> (,) or very (a|an|the) *
+a <*> (,) or very (a|an|the) *
+an <*> (,) or very (a|an|the) *
+the <*> (,) or very (a|an|the) *
+<*> unbelievably *
+<*> not even *
+very * (and|or) totally <*>
+* (,) yet still (a|an|the|as) <*>
+* (,) (and|or) fully <*>
+* (,) (and|or) outright <*>
+* (,) but not (a|an|the) <*>
+a * (,) but not (a|an|the) <*>
+an * (,) but not (a|an|the) <*>
+the * (,) but not (a|an|the) <*>
+* (,) if not (a|an|the) <*>
+a * (,) if not (a|an|the) <*>
+an * (,) if not (a|an|the) <*>
+the * (,) if not (a|an|the) <*>
+* (,) although not (a|an|the) <*>
+a * (,) although not (a|an|the) <*>
+an * (,) although not (a|an|the) <*>
+the * (,) although not (a|an|the) <*>
+* (,) though not (a|an|the) <*>
+a * (,) though not (a|an|the) <*>
+an * (,) though not (a|an|the) <*>
+the * (,) though not (a|an|the) <*>
+* (,) (and|or) even (a|an|the) <*>
+a * (,) (and|or) even (a|an|the) <*>
+an * (,) (and|or) even (a|an|the) <*>
+the * (,) (and|or) even (a|an|the) <*>
+* (,) (and|or) almost (a|an|the) <*>
+a * (,) (and|or) almost (a|an|the) <*>
+an * (,) (and|or) almost (a|an|the) <*>
+the * (,) (and|or) almost (a|an|the) <*>
+not only (a|an|the) * but (a|an|the) <*>
+not just (a|an|the) * but (a|an|the) <*>
+
+=== END

@@ -1,0 +1,51 @@
+\relax 
+\citation{demelo:13}
+\citation{sheinman2009adjscales}
+\citation{kim2013deriving}
+\citation{sheinman2009adjscales,schulam2010automatically,sheinman2012refining}
+\citation{demelo:13}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
+\citation{demelo:13}
+\citation{sheinman2012refining}
+\citation{brants2006web}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Data Preparation}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Extracting Intensity Patterns}{2}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces  Bansal and de Melo's linguistic patterns. Note the syntax (and,or) means either one of ``and" or ``or" are allowed to appear, or not appear at all. Similarly, (,) denotes a comman is allowed to appear. Additionally, articles such as ``a", ``an", and ``the" are may also appear before the wildcards. Wildcards matches any string.}}{2}}
+\newlabel{font-table}{{1}{2}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces  The weak-strong patterns were found by Sheinman. We mined for the strong-weak patterns from google N-gram corpus.}}{2}}
+\newlabel{font-table}{{2}{2}}
+\citation{demelo:13}
+\citation{sheinman2012refining}
+\citation{pavlick-EtAl:2015:ACL-IJCNLP3}
+\citation{demelo:13}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Collecting Pattern Statistics from N-grams}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Extracting PPDB Adverb Patterns}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Problem Formulation}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Global Ranking with Two Sided Patterns}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Pairwise Ranking with One Sided Patterns}{4}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces  An example from the PPDB corpus. In column 1 we initialize the base, comparative and superlative triples to some value in [-1,1] and solve for values of the adverbs. In column 2 we are given adjectives of unknown value, and use the now known adverbs to determine their value.}}{6}}
+\newlabel{font-table}{{3}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Pairwise Ranking using learned category of adverbs.}{6}}
+\@writefile{loa}{\contentsline {algocf}{\numberline {1}{\ignorespaces Simultaneous assignment of adjective and adverb intensities.}}{6}}
+\citation{demelo:13}
+\citation{Kruskal:58}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Results}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Metrics}{7}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces  The top row displays an example where Bansal's MILP fails to output the correct order (tau = $-0.18$) but Markov Mixed ILP output the correct order modulo ties (tau = $0.91$). The middle row is an example where Bansal' MILP correctly predicted the ranking despite sparse data, only six out of twenty pairs had any N-gram hits. Using markov assumption the missing data was filled in, but at the cost accuracy. The bottom row shows an instance where both methods fail because there is overwhelming copora evidence that higher is more intense than soaring, revealing the limitations of the pattern-based approach.}}{8}}
+\newlabel{font-table}{{4}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Analysis}{8}}
+\bibdata{scalar-adjectives}
+\bibcite{brants2006web}{\citename {Brants and Franz}2006}
+\bibcite{demelo:13}{\citename {de Melo and Bansal}2013}
+\bibcite{kim2013deriving}{\citename {Kim and de Marneffe}2013}
+\bibcite{Kruskal:58}{\citename {Kruskal}1958}
+\bibcite{pavlick-EtAl:2015:ACL-IJCNLP3}{\citename {Pavlick \bgroup et al.\egroup }2015}
+\bibcite{schulam2010automatically}{\citename {Schulam and Fellbaum}2010}
+\bibcite{sheinman2009adjscales}{\citename {Sheinman and Tokunaga}2009}
+\bibcite{sheinman2012refining}{\citename {Sheinman \bgroup et al.\egroup }2012}
+\bibstyle{naaclhlt2016}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Conclusion}{9}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces  Main results using Bansal's patterns. Note $\tau $ refers to kendall's $\tau $ with ties, while $\tau '$ referrs to the variant where ties are not considered.}}{10}}
+\newlabel{font-table}{{5}{10}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces  Main results using Bansal's patterns and those found in table 2.}}{10}}
+\newlabel{font-table}{{6}{10}}

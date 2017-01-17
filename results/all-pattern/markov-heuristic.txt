@@ -1,0 +1,3833 @@
+markov-heuristic
+2017-01-09 15:46:00.311212
+------------------------------------------------
+average tau:  0.47
+average |tau|: 0.62
+average tau  no tie  0.36
+average |tau| no tie  0.55
+average pairwise accuracy: 68.0%
+------------------------------------------------
+=== tau:
+0.428571428571
+
+=== pairwise accuracy:
+0.714285714286
+
+=== gold: 
+['first']
+['second']
+['third']
+['fourth']
+['fifth']
+['sixth']
+['seventh']
+['eighth']
+
+=== algo: 
+['first']
+['second']
+['seventh']
+['sixth']
+['fourth']
+['third']
+['fifth']
+['eighth']
+
+=== raw score: 
+third: 4.83968276448
+sixth: 2.97368421053
+seventh: 0.693467336683
+second: 0.62114861452
+fourth: 3.47488173012
+eighth: 7.1875
+fifth: 5.16083916084
+first: 0.204144667309
+
+=== raw counts: 
+third
+	word-freq: 22983830.0
+	strong: 136691.0
+	weak: 28243.0
+sixth
+	word-freq: 4595321.0
+	strong: 903.0
+	weak: 303.0
+seventh
+	word-freq: 3391315.0
+	strong: 137.0
+	weak: 198.0
+second
+	word-freq: 40378976.0
+	strong: 70095.0
+	weak: 112848.0
+fourth
+	word-freq: 9396759.0
+	strong: 15424.0
+	weak: 4438.0
+eighth
+	word-freq: 1940618.0
+	strong: 344.0
+	weak: 47.0
+fifth
+	word-freq: 7311340.0
+	strong: 9593.0
+	weak: 1858.0
+first
+	word-freq: 157117961.0
+	strong: 87111.0
+	weak: 426716.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['known']
+['famous']
+['legendary']
+
+=== algo: 
+['known']
+['legendary']
+['famous']
+
+=== raw score: 
+known: 4.77119370422
+famous: 9.46222768798
+legendary: 8.19689119171
+
+=== raw counts: 
+known
+	word-freq: 4688452.0
+	strong: 244933.0
+	weak: 51335.0
+famous
+	word-freq: 8175647.0
+	strong: 53858.0
+	weak: 5691.0
+legendary
+	word-freq: 1643224.0
+	strong: 7909.0
+	weak: 964.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['dim']
+['gloomy']
+['dark']
+['black']
+
+=== algo: 
+['gloomy']
+['dark']
+['dim']
+['black']
+
+=== raw score: 
+dark: 0.766513524204
+dim: 1.57142857143
+gloomy: 0.431309904153
+black: 5.80429997065
+
+=== raw counts: 
+dark
+	word-freq: 50690717.0
+	strong: 25192.0
+	weak: 32866.0
+dim
+	word-freq: 3091026.0
+	strong: 692.0
+	weak: 440.0
+gloomy
+	word-freq: 148177.0
+	strong: 134.0
+	weak: 312.0
+black
+	word-freq: 244783924.0
+	strong: 79100.0
+	weak: 13627.0
+------------------------------------------------
+=== tau:
+-0.333333333333
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['close']
+['near']
+['intimate']
+
+=== algo: 
+['near']
+['intimate']
+['close']
+
+=== raw score: 
+close: 3.78712841093
+near: 0.433962895988
+intimate: 3.13636363636
+
+=== raw counts: 
+close
+	word-freq: 107863997.0
+	strong: 620929.0
+	weak: 163957.0
+near
+	word-freq: 14049411.0
+	strong: 25917.0
+	weak: 59723.0
+intimate
+	word-freq: 1731381.0
+	strong: 4691.0
+	weak: 1495.0
+------------------------------------------------
+=== tau:
+0.912870929175
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['nearby', 'near']
+['close']
+['adjacent']
+
+=== algo: 
+['near']
+['nearby']
+['close']
+['adjacent']
+
+=== raw score: 
+close: 3.78712841093
+near: 0.433962895988
+adjacent: 28.7105624143
+nearby: 0.538461538462
+
+=== raw counts: 
+close
+	word-freq: 107863997.0
+	strong: 620929.0
+	weak: 163957.0
+near
+	word-freq: 14049411.0
+	strong: 25917.0
+	weak: 59723.0
+adjacent
+	word-freq: 9869232.0
+	strong: 20929.0
+	weak: 728.0
+nearby
+	word-freq: 12958129.0
+	strong: 1182.0
+	weak: 2196.0
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['sufficient']
+['good', 'wide']
+['full']
+
+=== algo: 
+['wide']
+['good']
+['sufficient']
+['full']
+
+=== raw score: 
+wide: 0.131983439612
+sufficient: 7.1622024549
+good: 0.376006993838
+full: 7.43364456772
+
+=== raw counts: 
+wide
+	word-freq: 23999752.0
+	strong: 5546.0
+	weak: 42027.0
+sufficient
+	word-freq: 612007.0
+	strong: 144124.0
+	weak: 20122.0
+good
+	word-freq: 89827779.0
+	strong: 294188.0
+	weak: 782402.0
+full
+	word-freq: 122265139.0
+	strong: 190278.0
+	weak: 25596.0
+------------------------------------------------
+=== tau:
+-0.666666666667
+
+=== pairwise accuracy:
+0.166666666667
+
+=== gold: 
+['real']
+['solemn']
+['serious']
+['grave']
+
+=== algo: 
+['grave']
+['serious']
+['real']
+['solemn']
+
+=== raw score: 
+real: 2.68646679742
+serious: 0.630131067262
+solemn: 8.28301886792
+grave: 0.592559787422
+
+=== raw counts: 
+real
+	word-freq: 153036225.0
+	strong: 76703.0
+	weak: 28551.0
+solemn
+	word-freq: 138503.0
+	strong: 1316.0
+	weak: 158.0
+grave
+	word-freq: 2062197.0
+	strong: 668.0
+	weak: 1128.0
+serious
+	word-freq: 4767173.0
+	strong: 34999.0
+	weak: 55543.0
+------------------------------------------------
+=== tau:
+0.214834462212
+
+=== pairwise accuracy:
+0.533333333333
+
+=== gold: 
+['interesting']
+['intriguing']
+['amusing', 'entertaining']
+['fascinating', 'exciting']
+
+=== algo: 
+['intriguing']
+['interesting']
+['exciting']
+['fascinating']
+['entertaining']
+['amusing']
+
+=== raw score: 
+intriguing: 0.079171291158
+fascinating: 0.594346289753
+interesting: 0.141976988742
+amusing: 3.9805601318
+entertaining: 0.875326764528
+exciting: 0.362282008588
+
+=== raw counts: 
+intriguing
+	word-freq: 161076.0
+	strong: 213.0
+	weak: 2702.0
+fascinating
+	word-freq: 553833.0
+	strong: 2522.0
+	weak: 4244.0
+interesting
+	word-freq: 6417322.0
+	strong: 11475.0
+	weak: 80829.0
+amusing
+	word-freq: 2420176.0
+	strong: 12080.0
+	weak: 3034.0
+entertaining
+	word-freq: 1362516.0
+	strong: 13058.0
+	weak: 14918.0
+exciting
+	word-freq: 1413678.0
+	strong: 4133.0
+	weak: 11410.0
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['far']
+['further', 'farther']
+['removed']
+
+=== algo: 
+['far']
+['removed']
+['further']
+['farther']
+
+=== raw score: 
+far: 0.488632713516
+further: 15.3324157059
+removed: 2.33650820648
+farther: 62.5431309904
+
+=== raw counts: 
+far
+	word-freq: 11208119.0
+	strong: 13690.0
+	weak: 28018.0
+further
+	word-freq: 21603659.0
+	strong: 740754.0
+	weak: 48312.0
+removed
+	word-freq: 2949725.0
+	strong: 54949.0
+	weak: 23517.0
+farther
+	word-freq: 217596.0
+	strong: 39151.0
+	weak: 625.0
+------------------------------------------------
+=== tau:
+0.235702260396
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['acceptable', 'okay', 'alright']
+['right']
+
+=== algo: 
+['alright']
+['okay']
+['right']
+['acceptable']
+
+=== raw score: 
+alright: 0.00010889687466
+acceptable: 0.620293738998
+right: 0.588722940091
+okay: 0.0117325511633
+
+=== raw counts: 
+alright
+	word-freq: 3637904.0
+	strong: 0.0
+	weak: 9182.0
+acceptable
+	word-freq: 14591768.0
+	strong: 23608.0
+	weak: 38060.0
+right
+	word-freq: 43002847.0
+	strong: 87704.0
+	weak: 148974.0
+okay
+	word-freq: 7489197.0
+	strong: 703.0
+	weak: 60003.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['cracked']
+['broken']
+['crushed']
+
+=== algo: 
+['broken']
+['cracked']
+['crushed']
+
+=== raw score: 
+broken: 4.0922766053
+cracked: 9.02773722628
+crushed: 10.9097938144
+
+=== raw counts: 
+broken
+	word-freq: 31409057.0
+	strong: 36453.0
+	weak: 8907.0
+cracked
+	word-freq: 2888634.0
+	strong: 6183.0
+	weak: 684.0
+crushed
+	word-freq: 2840208.0
+	strong: 4232.0
+	weak: 387.0
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['full']
+['stuffed']
+['overloaded']
+['overflowing']
+
+=== algo: 
+['full']
+['stuffed']
+['overflowing']
+['overloaded']
+
+=== raw score: 
+overloaded: 2444.0
+full: 7.43364456772
+overflowing: 307.0
+stuffed: 8.95909090909
+
+=== raw counts: 
+overloaded
+	word-freq: 172044.0
+	strong: 2443.0
+	weak: 0.0
+full
+	word-freq: 122265139.0
+	strong: 190278.0
+	weak: 25596.0
+overflowing
+	word-freq: 43892.0
+	strong: 306.0
+	weak: 0.0
+stuffed
+	word-freq: 2338574.0
+	strong: 1970.0
+	weak: 219.0
+------------------------------------------------
+=== tau:
+0.547722557505
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['flavorful']
+['zesty']
+['hot', 'spicy']
+
+=== algo: 
+['flavorful']
+['spicy']
+['zesty']
+['hot']
+
+=== raw score: 
+zesty: 0.250447227191
+spicy: 0.155939524838
+flavorful: 0.000838926174497
+hot: 0.817509948835
+
+=== raw counts: 
+zesty
+	word-freq: 93039.0
+	strong: 139.0
+	weak: 558.0
+spicy
+	word-freq: 1383134.0
+	strong: 360.0
+	weak: 2314.0
+flavorful
+	word-freq: 36891.0
+	strong: 0.0
+	weak: 1191.0
+hot
+	word-freq: 74365827.0
+	strong: 54643.0
+	weak: 66841.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['unstable']
+['crazy']
+['insane']
+
+=== algo: 
+['unstable']
+['crazy']
+['insane']
+
+=== raw score: 
+insane: 3.60200316289
+crazy: 0.26804199398
+unstable: 0.257422284317
+
+=== raw counts: 
+insane
+	word-freq: 1324719.0
+	strong: 6832.0
+	weak: 1896.0
+crazy
+	word-freq: 23058637.0
+	strong: 3650.0
+	weak: 13620.0
+unstable
+	word-freq: 429702.0
+	strong: 736.0
+	weak: 2862.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['good']
+['real']
+['authentic']
+
+=== algo: 
+['good']
+['real']
+['authentic']
+
+=== raw score: 
+real: 2.68646679742
+good: 0.376006993838
+authentic: 2.83815350389
+
+=== raw counts: 
+real
+	word-freq: 153036225.0
+	strong: 76703.0
+	weak: 28551.0
+good
+	word-freq: 89827779.0
+	strong: 294188.0
+	weak: 782402.0
+authentic
+	word-freq: 10236072.0
+	strong: 10205.0
+	weak: 3595.0
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['clean']
+['spotless', 'immaculate']
+
+=== algo: 
+['immaculate']
+['clean']
+['spotless']
+
+=== raw score: 
+spotless: 0.665384615385
+clean: 0.50874855671
+immaculate: 0.135030864198
+
+=== raw counts: 
+spotless
+	word-freq: 342927.0
+	strong: 172.0
+	weak: 259.0
+clean
+	word-freq: 45392737.0
+	strong: 22911.0
+	weak: 45035.0
+immaculate
+	word-freq: 754348.0
+	strong: 174.0
+	weak: 1295.0
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['possible']
+['realistic']
+['feasible']
+['practical']
+
+=== algo: 
+['realistic']
+['practical']
+['possible']
+['feasible']
+
+=== raw score: 
+practical: 0.685122227619
+realistic: 0.576491205296
+possible: 0.970203273519
+feasible: 1.23215558497
+
+=== raw counts: 
+practical
+	word-freq: 7879864.0
+	strong: 8463.0
+	weak: 12353.0
+realistic
+	word-freq: 1447581.0
+	strong: 8881.0
+	weak: 15406.0
+possible
+	word-freq: 7049399.0
+	strong: 324890.0
+	weak: 334868.0
+feasible
+	word-freq: 123627.0
+	strong: 12100.0
+	weak: 9820.0
+------------------------------------------------
+=== tau:
+-0.182574185835
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['sick', 'ill']
+['impaired']
+['disabled']
+
+=== algo: 
+['impaired']
+['sick']
+['disabled']
+['ill']
+
+=== raw score: 
+disabled: 0.626849894292
+impaired: 0.187621359223
+ill: 0.654901960784
+sick: 0.537511464384
+
+=== raw counts: 
+disabled
+	word-freq: 5504736.0
+	strong: 7708.0
+	weak: 12297.0
+impaired
+	word-freq: 1325192.0
+	strong: 772.0
+	weak: 4119.0
+ill
+	word-freq: 6518446.0
+	strong: 5343.0
+	weak: 8159.0
+sick
+	word-freq: 3538416.0
+	strong: 8790.0
+	weak: 16354.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['uncommon']
+['unusual']
+['rare']
+['extraordinary']
+['exceptional']
+
+=== algo: 
+['uncommon']
+['unusual']
+['rare']
+['extraordinary']
+['exceptional']
+
+=== raw score: 
+extraordinary: 1.32155339806
+unusual: 0.339484679666
+rare: 0.344763408719
+uncommon: 0.182678461222
+exceptional: 3.59035191775
+
+=== raw counts: 
+extraordinary
+	word-freq: 1963433.0
+	strong: 3402.0
+	weak: 2574.0
+unusual
+	word-freq: 2306312.0
+	strong: 4874.0
+	weak: 14359.0
+rare
+	word-freq: 13270198.0
+	strong: 12225.0
+	weak: 35461.0
+uncommon
+	word-freq: 896658.0
+	strong: 887.0
+	weak: 4860.0
+exceptional
+	word-freq: 2012271.0
+	strong: 9079.0
+	weak: 2528.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['impractical']
+['unrealistic']
+['impossible']
+
+=== algo: 
+['impractical']
+['unrealistic']
+['impossible']
+
+=== raw score: 
+unrealistic: 0.216615698267
+impractical: 0.176252019386
+impossible: 50.3195768669
+
+=== raw counts: 
+impractical
+	word-freq: 27541.0
+	strong: 1090.0
+	weak: 6189.0
+unrealistic
+	word-freq: 63833.0
+	strong: 424.0
+	weak: 1961.0
+impossible
+	word-freq: 1777020.0
+	strong: 1446083.0
+	weak: 28737.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['transnational']
+['international']
+['global']
+
+=== algo: 
+['transnational']
+['international']
+['global']
+
+=== raw score: 
+transnational: 0.00990099009901
+global: 16.3174924166
+international: 5.46447574335
+
+=== raw counts: 
+international
+	word-freq: 217435500.0
+	strong: 52376.0
+	weak: 9584.0
+global
+	word-freq: 50612323.0
+	strong: 32275.0
+	weak: 1977.0
+transnational
+	word-freq: 741115.0
+	strong: 0.0
+	weak: 100.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['concerned']
+['preoccupied']
+['obsessed']
+
+=== algo: 
+['concerned']
+['preoccupied']
+['obsessed']
+
+=== raw score: 
+concerned: 0.460625674218
+preoccupied: 3.0306122449
+obsessed: 8.51822916667
+
+=== raw counts: 
+concerned
+	word-freq: 25490625.0
+	strong: 9393.0
+	weak: 20393.0
+preoccupied
+	word-freq: 17573.0
+	strong: 296.0
+	weak: 97.0
+obsessed
+	word-freq: 292840.0
+	strong: 3270.0
+	weak: 383.0
+------------------------------------------------
+=== tau:
+-0.333333333333
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['interesting']
+['moving']
+['exciting']
+['thrilling']
+
+=== algo: 
+['thrilling']
+['interesting']
+['exciting']
+['moving']
+
+=== raw score: 
+interesting: 0.141976988742
+moving: 0.986824014665
+exciting: 0.362282008588
+thrilling: 0.0908465244322
+
+=== raw counts: 
+thrilling
+	word-freq: 217483.0
+	strong: 263.0
+	weak: 2905.0
+exciting
+	word-freq: 1413678.0
+	strong: 4133.0
+	weak: 11410.0
+moving
+	word-freq: 17295151.0
+	strong: 17225.0
+	weak: 17455.0
+interesting
+	word-freq: 6417322.0
+	strong: 11475.0
+	weak: 80829.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['low']
+['subdued']
+['quiet']
+
+=== algo: 
+['low']
+['quiet']
+['subdued']
+
+=== raw score: 
+subdued: 0.422879177378
+low: 0.0517141705822
+quiet: 0.236574538164
+
+=== raw counts: 
+subdued
+	word-freq: 59438.0
+	strong: 328.0
+	weak: 777.0
+quiet
+	word-freq: 3827245.0
+	strong: 4955.0
+	weak: 20948.0
+low
+	word-freq: 70566149.0
+	strong: 78540.0
+	weak: 1518751.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['sweet']
+['sugary']
+['syrupy']
+
+=== algo: 
+['sweet']
+['sugary']
+['syrupy']
+
+=== raw score: 
+sweet: 0.348570838923
+syrupy: 656.0
+sugary: 58.0
+
+=== raw counts: 
+sugary
+	word-freq: 25124.0
+	strong: 57.0
+	weak: 0.0
+syrupy
+	word-freq: 5764.0
+	strong: 655.0
+	weak: 0.0
+sweet
+	word-freq: 15820742.0
+	strong: 6755.0
+	weak: 19381.0
+------------------------------------------------
+=== tau:
+0.4
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['strong']
+['intense']
+['terrible']
+['overwhelming']
+['violent']
+
+=== algo: 
+['intense']
+['terrible']
+['strong']
+['violent']
+['overwhelming']
+
+=== raw score: 
+overwhelming: 8.48778359511
+violent: 5.81340206186
+strong: 0.358380374197
+intense: 0.11114893617
+terrible: 0.215984662393
+
+=== raw counts: 
+violent
+	word-freq: 1957330.0
+	strong: 11277.0
+	weak: 1939.0
+overwhelming
+	word-freq: 120536.0
+	strong: 29180.0
+	weak: 3437.0
+intense
+	word-freq: 1096046.0
+	strong: 1305.0
+	weak: 11749.0
+strong
+	word-freq: 9539802.0
+	strong: 20188.0
+	weak: 56333.0
+terrible
+	word-freq: 2152847.0
+	strong: 3604.0
+	weak: 16690.0
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['bleak', 'desperate']
+['hopeless']
+
+=== algo: 
+['bleak']
+['desperate']
+['hopeless']
+
+=== raw score: 
+desperate: 0.900641503804
+bleak: 0.0027027027027
+hopeless: 4.20288040075
+
+=== raw counts: 
+desperate
+	word-freq: 2061943.0
+	strong: 6036.0
+	weak: 6702.0
+hopeless
+	word-freq: 220736.0
+	strong: 6711.0
+	weak: 1596.0
+bleak
+	word-freq: 1088632.0
+	strong: 0.0
+	weak: 369.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['unfortunate']
+['disastrous']
+['fatal']
+
+=== algo: 
+['unfortunate']
+['disastrous']
+['fatal']
+
+=== raw score: 
+fatal: 6.43546296296
+disastrous: 4.34947368421
+unfortunate: 0.0664451827243
+
+=== raw counts: 
+disastrous
+	word-freq: 51962.0
+	strong: 2065.0
+	weak: 474.0
+fatal
+	word-freq: 2503748.0
+	strong: 69502.0
+	weak: 10799.0
+unfortunate
+	word-freq: 508489.0
+	strong: 139.0
+	weak: 2106.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['negligent']
+['careless']
+['reckless']
+
+=== algo: 
+['negligent']
+['careless']
+['reckless']
+
+=== raw score: 
+negligent: 0.247689463956
+careless: 0.318681318681
+reckless: 5.29621848739
+
+=== raw counts: 
+negligent
+	word-freq: 114795.0
+	strong: 133.0
+	weak: 540.0
+careless
+	word-freq: 1098944.0
+	strong: 86.0
+	weak: 272.0
+reckless
+	word-freq: 356944.0
+	strong: 2520.0
+	weak: 475.0
+------------------------------------------------
+=== tau:
+0.527046276695
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['strange', 'funny']
+['unusual']
+['weird']
+['eerie']
+
+=== algo: 
+['strange']
+['unusual']
+['weird']
+['funny']
+['eerie']
+
+=== raw score: 
+funny: 2.07673688342
+unusual: 0.339484679666
+strange: 0.113081554461
+weird: 1.2272800386
+eerie: 52.0222222222
+
+=== raw counts: 
+funny
+	word-freq: 13542509.0
+	strong: 95234.0
+	weak: 45857.0
+unusual
+	word-freq: 2306312.0
+	strong: 4874.0
+	weak: 14359.0
+strange
+	word-freq: 5746461.0
+	strong: 2065.0
+	weak: 18269.0
+weird
+	word-freq: 4338448.0
+	strong: 7629.0
+	weak: 6216.0
+eerie
+	word-freq: 148512.0
+	strong: 2340.0
+	weak: 44.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['reasonable']
+['valid']
+['sound']
+
+=== algo: 
+['reasonable']
+['sound']
+['valid']
+
+=== raw score: 
+sound: 0.44668164885
+valid: 1.24669042384
+reasonable: 0.442287327921
+
+=== raw counts: 
+sound
+	word-freq: 40992522.0
+	strong: 44124.0
+	weak: 98783.0
+valid
+	word-freq: 16789576.0
+	strong: 82212.0
+	weak: 65944.0
+reasonable
+	word-freq: 1420915.0
+	strong: 10023.0
+	weak: 22663.0
+------------------------------------------------
+=== tau:
+-0.333333333333
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['affordable']
+['inexpensive']
+['cheap']
+
+=== algo: 
+['inexpensive']
+['cheap']
+['affordable']
+
+=== raw score: 
+affordable: 0.878701985845
+inexpensive: 0.113776379604
+cheap: 0.243932675344
+
+=== raw counts: 
+affordable
+	word-freq: 21650746.0
+	strong: 51150.0
+	weak: 58211.0
+inexpensive
+	word-freq: 1016721.0
+	strong: 867.0
+	weak: 7628.0
+cheap
+	word-freq: 97055997.0
+	strong: 10231.0
+	weak: 41945.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['available']
+['accessible']
+['visible']
+
+=== algo: 
+['available']
+['visible']
+['accessible']
+
+=== raw score: 
+available: 0.962000305102
+visible: 1.81448641524
+accessible: 19.4912904234
+
+=== raw counts: 
+accessible
+	word-freq: 18696470.0
+	strong: 499054.0
+	weak: 25603.0
+visible
+	word-freq: 2702709.0
+	strong: 60572.0
+	weak: 33382.0
+available
+	word-freq: 379649251.0
+	strong: 264855.0
+	weak: 275317.0
+------------------------------------------------
+=== tau:
+0.793884186037
+
+=== pairwise accuracy:
+0.761904761905
+
+=== gold: 
+['cool', 'refrigerated', 'chilly']
+['cold']
+['frigid']
+['icy', 'frozen']
+
+=== algo: 
+['refrigerated']
+['cool']
+['chilly']
+['cold']
+['frozen']
+['frigid']
+['icy']
+
+=== raw score: 
+frozen: 2.14995059289
+chilly: 0.336544250452
+icy: 447.0
+frigid: 148.0
+refrigerated: 0.0818505338078
+cold: 0.764363636364
+cool: 0.119707753354
+
+=== raw counts: 
+frozen
+	word-freq: 3199933.0
+	strong: 8702.0
+	weak: 4047.0
+chilly
+	word-freq: 1173786.0
+	strong: 558.0
+	weak: 1660.0
+icy
+	word-freq: 459455.0
+	strong: 446.0
+	weak: 0.0
+frigid
+	word-freq: 55462.0
+	strong: 147.0
+	weak: 0.0
+refrigerated
+	word-freq: 379593.0
+	strong: 114.0
+	weak: 1404.0
+cold
+	word-freq: 40847409.0
+	strong: 32580.0
+	weak: 42624.0
+cool
+	word-freq: 56496991.0
+	strong: 9502.0
+	weak: 79384.0
+------------------------------------------------
+=== tau:
+0.737864787373
+
+=== pairwise accuracy:
+0.8
+
+=== gold: 
+['cool']
+['cold']
+['frigid']
+['icy', 'frozen']
+
+=== algo: 
+['cool']
+['cold']
+['frozen']
+['frigid']
+['icy']
+
+=== raw score: 
+frozen: 2.14995059289
+cold: 0.764363636364
+icy: 447.0
+frigid: 148.0
+cool: 0.119707753354
+
+=== raw counts: 
+frozen
+	word-freq: 3199933.0
+	strong: 8702.0
+	weak: 4047.0
+cold
+	word-freq: 40847409.0
+	strong: 32580.0
+	weak: 42624.0
+cool
+	word-freq: 56496991.0
+	strong: 9502.0
+	weak: 79384.0
+icy
+	word-freq: 459455.0
+	strong: 446.0
+	weak: 0.0
+frigid
+	word-freq: 55462.0
+	strong: 147.0
+	weak: 0.0
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['content', 'satisfied']
+['pleased', 'happy']
+
+=== algo: 
+['content']
+['pleased']
+['happy']
+['satisfied']
+
+=== raw score: 
+content: 0.234347170845
+satisfied: 9.18159453303
+pleased: 0.843332706413
+happy: 0.93184572121
+
+=== raw counts: 
+content
+	word-freq: 188892058.0
+	strong: 17104.0
+	weak: 72989.0
+happy
+	word-freq: 25470820.0
+	strong: 40757.0
+	weak: 43738.0
+pleased
+	word-freq: 370911.0
+	strong: 4483.0
+	weak: 5316.0
+satisfied
+	word-freq: 1275854.0
+	strong: 705375.0
+	weak: 76824.0
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['misleading']
+['deceptive', 'fraudulent']
+['false']
+
+=== algo: 
+['misleading']
+['false']
+['deceptive']
+['fraudulent']
+
+=== raw score: 
+deceptive: 4.30128205128
+fraudulent: 54.1923076923
+misleading: 0.240382666505
+false: 0.73393660008
+
+=== raw counts: 
+deceptive
+	word-freq: 146864.0
+	strong: 1341.0
+	weak: 311.0
+fraudulent
+	word-freq: 303879.0
+	strong: 2817.0
+	weak: 51.0
+misleading
+	word-freq: 265928.0
+	strong: 5929.0
+	weak: 24668.0
+false
+	word-freq: 13075262.0
+	strong: 12895.0
+	weak: 17570.0
+------------------------------------------------
+=== tau:
+0.737864787373
+
+=== pairwise accuracy:
+0.8
+
+=== gold: 
+['needed']
+['necessary']
+['required', 'essential']
+['indispensable']
+
+=== algo: 
+['needed']
+['necessary']
+['required']
+['indispensable']
+['essential']
+
+=== raw score: 
+needed: 0.796199037545
+indispensable: 6.14913957935
+required: 2.72869475777
+necessary: 0.930153669702
+essential: 17.7169425165
+
+=== raw counts: 
+needed
+	word-freq: 5832600.0
+	strong: 32593.0
+	weak: 40936.0
+indispensable
+	word-freq: 154760.0
+	strong: 6431.0
+	weak: 1045.0
+required
+	word-freq: 19702881.0
+	strong: 472216.0
+	weak: 173055.0
+necessary
+	word-freq: 1741594.0
+	strong: 191393.0
+	weak: 205765.0
+essential
+	word-freq: 10955850.0
+	strong: 199102.0
+	weak: 11237.0
+------------------------------------------------
+=== tau:
+-0.666666666667
+
+=== pairwise accuracy:
+0.166666666667
+
+=== gold: 
+['some']
+['many']
+['numerous']
+['galore']
+
+=== algo: 
+['galore']
+['many']
+['numerous']
+['some']
+
+=== raw score: 
+many: 0.322660702737
+some: 1.1143438701
+numerous: 0.324581430746
+galore: 0.000284981476204
+
+=== raw counts: 
+many
+	word-freq: 47421822.0
+	strong: 101278.0
+	weak: 313886.0
+numerous
+	word-freq: 1663784.0
+	strong: 852.0
+	weak: 2627.0
+some
+	word-freq: 91428156.0
+	strong: 733605.0
+	weak: 658329.0
+galore
+	word-freq: 1397764.0
+	strong: 0.0
+	weak: 3508.0
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['quiet']
+['inaudible', 'imperceptible']
+['silent']
+
+=== algo: 
+['quiet']
+['silent']
+['inaudible']
+['imperceptible']
+
+=== raw score: 
+imperceptible: 19253.0
+inaudible: 76.3695652174
+quiet: 0.236574538164
+silent: 2.3115250291
+
+=== raw counts: 
+imperceptible
+	word-freq: 4632.0
+	strong: 19252.0
+	weak: 0.0
+inaudible
+	word-freq: 149625.0
+	strong: 7025.0
+	weak: 91.0
+quiet
+	word-freq: 3827245.0
+	strong: 4955.0
+	weak: 20948.0
+silent
+	word-freq: 6180457.0
+	strong: 9927.0
+	weak: 4294.0
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['wrong']
+['immoral']
+['sinful']
+['evil']
+
+=== algo: 
+['immoral']
+['wrong']
+['sinful']
+['evil']
+
+=== raw score: 
+sinful: 2.89751552795
+wrong: 0.830869030672
+immoral: 0.751838823153
+evil: 21.120160833
+
+=== raw counts: 
+sinful
+	word-freq: 227502.0
+	strong: 932.0
+	weak: 321.0
+wrong
+	word-freq: 5428912.0
+	strong: 51360.0
+	weak: 61815.0
+immoral
+	word-freq: 95284.0
+	strong: 2350.0
+	weak: 3126.0
+evil
+	word-freq: 10232954.0
+	strong: 409709.0
+	weak: 19398.0
+------------------------------------------------
+=== tau:
+0.428571428571
+
+=== pairwise accuracy:
+0.714285714286
+
+=== gold: 
+['lean']
+['slim']
+['thin']
+['skinny']
+['gaunt']
+['emaciated']
+['skeletal']
+
+=== algo: 
+['thin']
+['lean']
+['slim']
+['skeletal']
+['gaunt']
+['skinny']
+['emaciated']
+
+=== raw score: 
+emaciated: 280.0
+skeletal: 1.17710583153
+slim: 0.318730596758
+lean: 0.29093799682
+gaunt: 1.34677419355
+thin: 0.171325301205
+skinny: 2.20725388601
+
+=== raw counts: 
+emaciated
+	word-freq: 6551.0
+	strong: 279.0
+	weak: 0.0
+skeletal
+	word-freq: 525046.0
+	strong: 544.0
+	weak: 462.0
+slim
+	word-freq: 5820794.0
+	strong: 923.0
+	weak: 2898.0
+lean
+	word-freq: 2869840.0
+	strong: 365.0
+	weak: 1257.0
+gaunt
+	word-freq: 189570.0
+	strong: 166.0
+	weak: 123.0
+thin
+	word-freq: 4721492.0
+	strong: 3554.0
+	weak: 20749.0
+skinny
+	word-freq: 1528860.0
+	strong: 1703.0
+	weak: 771.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['statewide']
+['nationwide']
+['worldwide']
+
+=== algo: 
+['nationwide']
+['statewide']
+['worldwide']
+
+=== raw score: 
+worldwide: 0.573516840486
+nationwide: 0.256715591249
+statewide: 0.505084745763
+
+=== raw counts: 
+worldwide
+	word-freq: 36360116.0
+	strong: 6708.0
+	weak: 11697.0
+nationwide
+	word-freq: 7051698.0
+	strong: 926.0
+	weak: 3610.0
+statewide
+	word-freq: 3914204.0
+	strong: 446.0
+	weak: 884.0
+------------------------------------------------
+=== tau:
+0.948683298051
+
+=== pairwise accuracy:
+0.9
+
+=== gold: 
+['general']
+['extensive']
+['complete', 'comprehensive']
+['universal']
+
+=== algo: 
+['general']
+['extensive']
+['comprehensive']
+['complete']
+['universal']
+
+=== raw score: 
+comprehensive: 3.74944389228
+extensive: 1.9478560655
+complete: 4.60572238123
+universal: 13.971690117
+general: 1.40634616153
+
+=== raw counts: 
+comprehensive
+	word-freq: 37544700.0
+	strong: 158443.0
+	weak: 42257.0
+extensive
+	word-freq: 2233377.0
+	strong: 9039.0
+	weak: 4640.0
+universal
+	word-freq: 27470151.0
+	strong: 82418.0
+	weak: 5898.0
+complete
+	word-freq: 149317513.0
+	strong: 481145.0
+	weak: 104466.0
+general
+	word-freq: 214071163.0
+	strong: 35190.0
+	weak: 25022.0
+------------------------------------------------
+=== tau:
+0.527046276695
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['warm']
+['hot']
+['overheated']
+['stifling', 'sultry']
+
+=== algo: 
+['warm']
+['sultry']
+['hot']
+['overheated']
+['stifling']
+
+=== raw score: 
+stifling: 146.0
+hot: 0.817509948835
+warm: 0.162257286353
+sultry: 0.7
+overheated: 3.80392156863
+
+=== raw counts: 
+stifling
+	word-freq: 28556.0
+	strong: 145.0
+	weak: 0.0
+hot
+	word-freq: 74365827.0
+	strong: 54643.0
+	weak: 66841.0
+warm
+	word-freq: 4625395.0
+	strong: 8205.0
+	weak: 50573.0
+overheated
+	word-freq: 13999.0
+	strong: 193.0
+	weak: 50.0
+sultry
+	word-freq: 127404.0
+	strong: 132.0
+	weak: 189.0
+------------------------------------------------
+=== tau:
+0.836660026534
+
+=== pairwise accuracy:
+0.7
+
+=== gold: 
+['easy', 'simple', 'smooth']
+['painless']
+['effortless']
+
+=== algo: 
+['smooth']
+['easy']
+['simple']
+['painless']
+['effortless']
+
+=== raw score: 
+simple: 1.21582109124
+painless: 7.39515151515
+smooth: 0.120222015047
+easy: 0.359040356171
+effortless: 32.1725663717
+
+=== raw counts: 
+simple
+	word-freq: 21249007.0
+	strong: 68609.0
+	weak: 56430.0
+painless
+	word-freq: 199639.0
+	strong: 6100.0
+	weak: 824.0
+smooth
+	word-freq: 4595130.0
+	strong: 5544.0
+	weak: 46122.0
+easy
+	word-freq: 33915173.0
+	strong: 41289.0
+	weak: 115000.0
+effortless
+	word-freq: 97615.0
+	strong: 7270.0
+	weak: 225.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['plain']
+['unattractive']
+['ugly']
+
+=== algo: 
+['plain']
+['unattractive']
+['ugly']
+
+=== raw score: 
+plain: 2.02077043835
+unattractive: 2.02631578947
+ugly: 8.92144202314
+
+=== raw counts: 
+ugly
+	word-freq: 2348089.0
+	strong: 33160.0
+	weak: 3716.0
+unattractive
+	word-freq: 15572.0
+	strong: 461.0
+	weak: 227.0
+plain
+	word-freq: 8317435.0
+	strong: 16733.0
+	weak: 8280.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['like']
+['equal']
+['same']
+
+=== algo: 
+['like']
+['equal']
+['same']
+
+=== raw score: 
+like: 2.88229626923
+same: 6.61465709939
+equal: 3.51407520325
+
+=== raw counts: 
+like
+	word-freq: 44228196.0
+	strong: 694079.0
+	weak: 240807.0
+same
+	word-freq: 14635139.0
+	strong: 704288.0
+	weak: 106473.0
+equal
+	word-freq: 6575197.0
+	strong: 138313.0
+	weak: 39359.0
+------------------------------------------------
+=== tau:
+0.912870929175
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['broad', 'widespread']
+['general']
+['universal']
+
+=== algo: 
+['widespread']
+['broad']
+['general']
+['universal']
+
+=== raw score: 
+broad: 0.491717936583
+widespread: 0.159980188212
+universal: 13.971690117
+general: 1.40634616153
+
+=== raw counts: 
+broad
+	word-freq: 21370804.0
+	strong: 2077.0
+	weak: 4225.0
+widespread
+	word-freq: 651476.0
+	strong: 645.0
+	weak: 4037.0
+universal
+	word-freq: 27470151.0
+	strong: 82418.0
+	weak: 5898.0
+general
+	word-freq: 214071163.0
+	strong: 35190.0
+	weak: 25022.0
+------------------------------------------------
+=== tau:
+0.547722557505
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['cheap', 'mediocre']
+['bad']
+['worst']
+
+=== algo: 
+['cheap']
+['bad']
+['mediocre']
+['worst']
+
+=== raw score: 
+worst: 17.3195610071
+bad: 0.690674045928
+cheap: 0.243932675344
+mediocre: 4.73615023474
+
+=== raw counts: 
+cheap
+	word-freq: 97055997.0
+	strong: 10231.0
+	weak: 41945.0
+mediocre
+	word-freq: 353684.0
+	strong: 5043.0
+	weak: 1064.0
+worst
+	word-freq: 3934512.0
+	strong: 53655.0
+	weak: 3097.0
+bad
+	word-freq: 95110222.0
+	strong: 83612.0
+	weak: 121059.0
+------------------------------------------------
+=== tau:
+0.258198889747
+
+=== pairwise accuracy:
+0.4
+
+=== gold: 
+['handsome', 'lovely', 'gorgeous']
+['beautiful', 'pretty', 'attractive']
+
+=== algo: 
+['lovely']
+['beautiful']
+['gorgeous']
+['pretty']
+['handsome']
+['attractive']
+
+=== raw score: 
+beautiful: 0.101427728904
+attractive: 0.489280609814
+pretty: 0.330670660676
+gorgeous: 0.158794376454
+lovely: 0.0764985727878
+handsome: 0.387072243346
+
+=== raw counts: 
+beautiful
+	word-freq: 58522209.0
+	strong: 8254.0
+	weak: 81387.0
+attractive
+	word-freq: 11857953.0
+	strong: 9242.0
+	weak: 18890.0
+pretty
+	word-freq: 8001522.0
+	strong: 7947.0
+	weak: 24035.0
+gorgeous
+	word-freq: 3077333.0
+	strong: 1569.0
+	weak: 9886.0
+lovely
+	word-freq: 3679253.0
+	strong: 803.0
+	weak: 10509.0
+handsome
+	word-freq: 879811.0
+	strong: 1017.0
+	weak: 2629.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['thick']
+['dense']
+['impenetrable']
+
+=== algo: 
+['thick']
+['dense']
+['impenetrable']
+
+=== raw score: 
+thick: 0.386004514673
+dense: 2.81200353045
+impenetrable: 19.6827309237
+
+=== raw counts: 
+thick
+	word-freq: 2111595.0
+	strong: 3077.0
+	weak: 7973.0
+dense
+	word-freq: 661979.0
+	strong: 3185.0
+	weak: 1132.0
+impenetrable
+	word-freq: 30422.0
+	strong: 4900.0
+	weak: 248.0
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['soft']
+['quiet']
+['inaudible']
+['silent']
+
+=== algo: 
+['soft']
+['quiet']
+['silent']
+['inaudible']
+
+=== raw score: 
+inaudible: 76.3695652174
+soft: 0.172338700336
+quiet: 0.236574538164
+silent: 2.3115250291
+
+=== raw counts: 
+inaudible
+	word-freq: 149625.0
+	strong: 7025.0
+	weak: 91.0
+soft
+	word-freq: 16480931.0
+	strong: 7438.0
+	weak: 43164.0
+silent
+	word-freq: 6180457.0
+	strong: 9927.0
+	weak: 4294.0
+quiet
+	word-freq: 3827245.0
+	strong: 4955.0
+	weak: 20948.0
+------------------------------------------------
+=== tau:
+0.912870929175
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['cool', 'chilly']
+['unfriendly']
+['hostile']
+
+=== algo: 
+['cool']
+['chilly']
+['unfriendly']
+['hostile']
+
+=== raw score: 
+chilly: 0.336544250452
+unfriendly: 2.48172757475
+hostile: 188.297297297
+cool: 0.119707753354
+
+=== raw counts: 
+chilly
+	word-freq: 1173786.0
+	strong: 558.0
+	weak: 1660.0
+unfriendly
+	word-freq: 51565.0
+	strong: 746.0
+	weak: 300.0
+hostile
+	word-freq: 758958.0
+	strong: 69669.0
+	weak: 369.0
+cool
+	word-freq: 56496991.0
+	strong: 9502.0
+	weak: 79384.0
+------------------------------------------------
+=== tau:
+0.105409255339
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['sizeable']
+['big', 'large']
+['huge']
+['colossal']
+
+=== algo: 
+['large']
+['huge']
+['big']
+['sizeable']
+['colossal']
+
+=== raw score: 
+large: 0.573604809856
+huge: 1.70439774697
+colossal: 87.0
+sizeable: 16.9281045752
+big: 2.63809627929
+
+=== raw counts: 
+large
+	word-freq: 45494438.0
+	strong: 77754.0
+	weak: 135554.0
+colossal
+	word-freq: 930268.0
+	strong: 86.0
+	weak: 0.0
+huge
+	word-freq: 12526055.0
+	strong: 31469.0
+	weak: 18463.0
+sizeable
+	word-freq: 16005.0
+	strong: 2589.0
+	weak: 152.0
+big
+	word-freq: 216700628.0
+	strong: 72391.0
+	weak: 27440.0
+------------------------------------------------
+=== tau:
+0.700649049745
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['dual', 'double', 'doubled']
+['triple', 'treble']
+['quadruple']
+
+=== algo: 
+['dual']
+['double']
+['triple']
+['doubled']
+['treble']
+['quadruple']
+
+=== raw score: 
+treble: 27.3225806452
+dual: 2.60682257781
+double: 3.61394323505
+quadruple: 25100.0
+doubled: 11.9023791052
+triple: 7.64223956137
+
+=== raw counts: 
+treble
+	word-freq: 431952.0
+	strong: 1693.0
+	weak: 61.0
+triple
+	word-freq: 7778882.0
+	strong: 72478.0
+	weak: 9483.0
+double
+	word-freq: 31097954.0
+	strong: 157379.0
+	weak: 43547.0
+quadruple
+	word-freq: 196679.0
+	strong: 25099.0
+	weak: 0.0
+doubled
+	word-freq: 114998.0
+	strong: 92052.0
+	weak: 7733.0
+dual
+	word-freq: 17510428.0
+	strong: 14824.0
+	weak: 5686.0
+------------------------------------------------
+=== tau:
+0.737864787373
+
+=== pairwise accuracy:
+0.8
+
+=== gold: 
+['creepy']
+['scary', 'frightening']
+['terrifying']
+['sinister']
+
+=== algo: 
+['creepy']
+['scary']
+['terrifying']
+['frightening']
+['sinister']
+
+=== raw score: 
+scary: 1.65257804279
+sinister: 1169.0
+frightening: 6.47948511665
+terrifying: 1.66279069767
+creepy: 0.57180156658
+
+=== raw counts: 
+scary
+	word-freq: 1655015.0
+	strong: 9422.0
+	weak: 5701.0
+sinister
+	word-freq: 549645.0
+	strong: 1168.0
+	weak: 0.0
+frightening
+	word-freq: 88410.0
+	strong: 8053.0
+	weak: 1242.0
+terrifying
+	word-freq: 97236.0
+	strong: 1858.0
+	weak: 1117.0
+creepy
+	word-freq: 1698020.0
+	strong: 437.0
+	weak: 765.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['some']
+['few']
+['fewer']
+
+=== algo: 
+['some']
+['few']
+['fewer']
+
+=== raw score: 
+few: 5.52372340229
+some: 1.1143438701
+fewer: 236.626315789
+
+=== raw counts: 
+few
+	word-freq: 5533153.0
+	strong: 299313.0
+	weak: 54186.0
+some
+	word-freq: 91428156.0
+	strong: 733605.0
+	weak: 658329.0
+fewer
+	word-freq: 1173675.0
+	strong: 89917.0
+	weak: 379.0
+------------------------------------------------
+=== tau:
+0.547722557505
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['neglected']
+['ignored', 'overlooked']
+['forgotten']
+
+=== algo: 
+['overlooked']
+['neglected']
+['ignored']
+['forgotten']
+
+=== raw score: 
+ignored: 0.414128284826
+overlooked: 0.219423589247
+neglected: 0.22093837535
+forgotten: 17.2271471033
+
+=== raw counts: 
+ignored
+	word-freq: 363503.0
+	strong: 7327.0
+	weak: 17694.0
+overlooked
+	word-freq: 142629.0
+	strong: 905.0
+	weak: 4128.0
+neglected
+	word-freq: 183703.0
+	strong: 630.0
+	weak: 2855.0
+forgotten
+	word-freq: 6929555.0
+	strong: 330364.0
+	weak: 19176.0
+------------------------------------------------
+=== tau:
+-0.816496580928
+
+=== pairwise accuracy:
+0.0
+
+=== gold: 
+['old']
+['obsolete', 'outdated']
+
+=== algo: 
+['outdated']
+['obsolete']
+['old']
+
+=== raw score: 
+old: 1.2217877095
+outdated: 0.250323834197
+obsolete: 1.11085150571
+
+=== raw counts: 
+old
+	word-freq: 58177931.0
+	strong: 85292.0
+	weak: 69809.0
+outdated
+	word-freq: 134372.0
+	strong: 772.0
+	weak: 3087.0
+obsolete
+	word-freq: 879600.0
+	strong: 4278.0
+	weak: 3851.0
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['necessary']
+['vital']
+['indispensable']
+['critical']
+
+=== algo: 
+['necessary']
+['vital']
+['critical']
+['indispensable']
+
+=== raw score: 
+indispensable: 6.14913957935
+vital: 1.863549981
+necessary: 0.930153669702
+critical: 2.79468845761
+
+=== raw counts: 
+indispensable
+	word-freq: 154760.0
+	strong: 6431.0
+	weak: 1045.0
+vital
+	word-freq: 3680443.0
+	strong: 4902.0
+	weak: 2630.0
+necessary
+	word-freq: 1741594.0
+	strong: 191393.0
+	weak: 205765.0
+critical
+	word-freq: 46136412.0
+	strong: 13679.0
+	weak: 4894.0
+------------------------------------------------
+=== tau:
+0.547722557505
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['attractive']
+['beautiful']
+['mesmerizing', 'seductive']
+
+=== algo: 
+['beautiful']
+['attractive']
+['mesmerizing']
+['seductive']
+
+=== raw score: 
+beautiful: 0.101427728904
+seductive: 3.83018867925
+attractive: 0.489280609814
+mesmerizing: 3.22222222222
+
+=== raw counts: 
+beautiful
+	word-freq: 58522209.0
+	strong: 8254.0
+	weak: 81387.0
+seductive
+	word-freq: 245474.0
+	strong: 405.0
+	weak: 105.0
+mesmerizing
+	word-freq: 41503.0
+	strong: 521.0
+	weak: 161.0
+attractive
+	word-freq: 11857953.0
+	strong: 9242.0
+	weak: 18890.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['closed']
+['shut']
+['sealed']
+
+=== algo: 
+['closed']
+['shut']
+['sealed']
+
+=== raw score: 
+shut: 8.79573810312
+sealed: 13.4141689373
+closed: 5.19534237052
+
+=== raw counts: 
+shut
+	word-freq: 2399517.0
+	strong: 79662.0
+	weak: 9056.0
+sealed
+	word-freq: 8340891.0
+	strong: 54152.0
+	weak: 4036.0
+closed
+	word-freq: 41788937.0
+	strong: 104628.0
+	weak: 20138.0
+------------------------------------------------
+=== tau:
+-0.816496580928
+
+=== pairwise accuracy:
+0.0
+
+=== gold: 
+['unexpected']
+['astonishing', 'stunning']
+
+=== algo: 
+['stunning']
+['astonishing']
+['unexpected']
+
+=== raw score: 
+astonishing: 0.675453047776
+stunning: 0.0957991009146
+unexpected: 1.51118475559
+
+=== raw counts: 
+astonishing
+	word-freq: 1601692.0
+	strong: 819.0
+	weak: 1213.0
+stunning
+	word-freq: 2505698.0
+	strong: 1235.0
+	weak: 12901.0
+unexpected
+	word-freq: 1104752.0
+	strong: 3647.0
+	weak: 2413.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['indecent']
+['profane']
+['obscene']
+
+=== algo: 
+['indecent']
+['profane']
+['obscene']
+
+=== raw score: 
+obscene: 7.89270746018
+profane: 2.03592814371
+indecent: 0.898412698413
+
+=== raw counts: 
+profane
+	word-freq: 113942.0
+	strong: 339.0
+	weak: 166.0
+indecent
+	word-freq: 182988.0
+	strong: 1414.0
+	weak: 1574.0
+obscene
+	word-freq: 199989.0
+	strong: 9415.0
+	weak: 1192.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['attractive']
+['sexy']
+['seductive']
+
+=== algo: 
+['attractive']
+['sexy']
+['seductive']
+
+=== raw score: 
+sexy: 0.68945447371
+seductive: 3.83018867925
+attractive: 0.489280609814
+
+=== raw counts: 
+sexy
+	word-freq: 16453886.0
+	strong: 6988.0
+	weak: 10136.0
+seductive
+	word-freq: 245474.0
+	strong: 405.0
+	weak: 105.0
+attractive
+	word-freq: 11857953.0
+	strong: 9242.0
+	weak: 18890.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['humbled']
+['humiliated']
+['crushed']
+
+=== algo: 
+['humbled']
+['humiliated']
+['crushed']
+
+=== raw score: 
+humiliated: 0.490842490842
+humbled: 0.00129032258065
+crushed: 10.9097938144
+
+=== raw counts: 
+humbled
+	word-freq: 27046.0
+	strong: 0.0
+	weak: 774.0
+humiliated
+	word-freq: 65812.0
+	strong: 401.0
+	weak: 818.0
+crushed
+	word-freq: 2840208.0
+	strong: 4232.0
+	weak: 387.0
+------------------------------------------------
+=== tau:
+-0.316227766017
+
+=== pairwise accuracy:
+0.1
+
+=== gold: 
+['bright', 'intelligent', 'smart', 'clever']
+['brilliant']
+
+=== algo: 
+['bright']
+['brilliant']
+['intelligent']
+['clever']
+['smart']
+
+=== raw score: 
+brilliant: 0.539304993252
+bright: 0.294212942129
+clever: 1.09443681319
+intelligent: 0.978484341382
+smart: 1.19221655122
+
+=== raw counts: 
+brilliant
+	word-freq: 10303324.0
+	strong: 6393.0
+	weak: 11855.0
+bright
+	word-freq: 19447707.0
+	strong: 6537.0
+	weak: 22221.0
+clever
+	word-freq: 4865717.0
+	strong: 3186.0
+	weak: 2911.0
+intelligent
+	word-freq: 6133003.0
+	strong: 4092.0
+	weak: 4182.0
+smart
+	word-freq: 22421666.0
+	strong: 13080.0
+	weak: 10971.0
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['violent']
+['homicidal', 'murderous']
+
+=== algo: 
+['violent']
+['homicidal']
+['murderous']
+
+=== raw score: 
+homicidal: 43.0
+violent: 5.81340206186
+murderous: 546.0
+
+=== raw counts: 
+homicidal
+	word-freq: 47472.0
+	strong: 42.0
+	weak: 0.0
+violent
+	word-freq: 1957330.0
+	strong: 11277.0
+	weak: 1939.0
+murderous
+	word-freq: 149075.0
+	strong: 545.0
+	weak: 0.0
+------------------------------------------------
+=== tau:
+-1.0
+
+=== pairwise accuracy:
+0.0
+
+=== gold: 
+['personal']
+['private']
+['secret']
+
+=== algo: 
+['secret']
+['private']
+['personal']
+
+=== raw score: 
+personal: 5.07755167441
+secret: 0.249253017808
+private: 1.10576216375
+
+=== raw counts: 
+personal
+	word-freq: 100368434.0
+	strong: 31688.0
+	weak: 6240.0
+secret
+	word-freq: 13779842.0
+	strong: 4170.0
+	weak: 16733.0
+private
+	word-freq: 58788294.0
+	strong: 30089.0
+	weak: 27211.0
+------------------------------------------------
+=== tau:
+-0.333333333333
+
+=== pairwise accuracy:
+0.333333333333
+
+=== gold: 
+['high']
+['higher']
+['soaring']
+
+=== algo: 
+['soaring']
+['high']
+['higher']
+
+=== raw score: 
+high: 1.56276646139
+soaring: 0.00337837837838
+higher: 67.8279113626
+
+=== raw counts: 
+high
+	word-freq: 138117985.0
+	strong: 128660.0
+	weak: 82328.0
+soaring
+	word-freq: 566352.0
+	strong: 0.0
+	weak: 295.0
+higher
+	word-freq: 14679197.0
+	strong: 575451.0
+	weak: 8483.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['harmful']
+['toxic']
+['deadly']
+
+=== algo: 
+['toxic']
+['harmful']
+['deadly']
+
+=== raw score: 
+toxic: 0.450453593859
+harmful: 2.53384372342
+deadly: 6.18243571082
+
+=== raw counts: 
+harmful
+	word-freq: 554758.0
+	strong: 20850.0
+	weak: 8228.0
+toxic
+	word-freq: 3103267.0
+	strong: 2581.0
+	weak: 5731.0
+deadly
+	word-freq: 5742520.0
+	strong: 12741.0
+	weak: 2060.0
+------------------------------------------------
+=== tau:
+0.370624658331
+
+=== pairwise accuracy:
+0.642857142857
+
+=== gold: 
+['small']
+['smaller']
+['midget']
+['minute']
+['tiny', 'minuscule']
+['micro', 'microscopic']
+
+=== algo: 
+['minute']
+['small']
+['minuscule']
+['tiny']
+['midget']
+['smaller']
+['micro']
+['microscopic']
+
+=== raw score: 
+smaller: 26.2341226282
+tiny: 4.41735933504
+micro: 33.5952380952
+midget: 11.2310231023
+small: 3.35143974587
+microscopic: 2917.0
+minuscule: 3.55
+minute: 2.80715517241
+
+=== raw counts: 
+smaller
+	word-freq: 2079151.0
+	strong: 167294.0
+	weak: 6376.0
+tiny
+	word-freq: 5144380.0
+	strong: 27634.0
+	weak: 6255.0
+micro
+	word-freq: 15329560.0
+	strong: 1410.0
+	weak: 41.0
+microscopic
+	word-freq: 312203.0
+	strong: 2916.0
+	weak: 0.0
+small
+	word-freq: 66061192.0
+	strong: 392466.0
+	weak: 117103.0
+midget
+	word-freq: 897534.0
+	strong: 3402.0
+	weak: 302.0
+minuscule
+	word-freq: 11687.0
+	strong: 212.0
+	weak: 59.0
+minute
+	word-freq: 9415606.0
+	strong: 32562.0
+	weak: 11599.0
+------------------------------------------------
+=== tau:
+0.737864787373
+
+=== pairwise accuracy:
+0.8
+
+=== gold: 
+['impractical', 'impracticable']
+['unrealistic']
+['infeasible']
+['impossible']
+
+=== algo: 
+['impractical']
+['unrealistic']
+['impracticable']
+['infeasible']
+['impossible']
+
+=== raw score: 
+unrealistic: 0.216615698267
+infeasible: 8.36170212766
+impractical: 0.176252019386
+impracticable: 1.54375
+impossible: 50.3195768669
+
+=== raw counts: 
+unrealistic
+	word-freq: 63833.0
+	strong: 424.0
+	weak: 1961.0
+impractical
+	word-freq: 27541.0
+	strong: 1090.0
+	weak: 6189.0
+infeasible
+	word-freq: 14665.0
+	strong: 392.0
+	weak: 46.0
+impracticable
+	word-freq: 3673.0
+	strong: 740.0
+	weak: 479.0
+impossible
+	word-freq: 1777020.0
+	strong: 1446083.0
+	weak: 28737.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['mature']
+['ripe']
+['overripe']
+
+=== algo: 
+['mature']
+['ripe']
+['overripe']
+
+=== raw score: 
+overripe: 285.0
+ripe: 33.099270073
+mature: 4.19759959142
+
+=== raw counts: 
+overripe
+	word-freq: 3529.0
+	strong: 284.0
+	weak: 0.0
+mature
+	word-freq: 15541091.0
+	strong: 82188.0
+	weak: 19579.0
+ripe
+	word-freq: 7295266.0
+	strong: 45345.0
+	weak: 1369.0
+------------------------------------------------
+=== tau:
+0.666666666667
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['overweight']
+['chubby']
+['fat']
+['obese']
+
+=== algo: 
+['overweight']
+['fat']
+['chubby']
+['obese']
+
+=== raw score: 
+chubby: 3.60869565217
+overweight: 0.0849056603774
+fat: 0.713874330473
+obese: 3.64836520666
+
+=== raw counts: 
+obese
+	word-freq: 254892.0
+	strong: 5913.0
+	weak: 1620.0
+overweight
+	word-freq: 553948.0
+	strong: 593.0
+	weak: 6995.0
+fat
+	word-freq: 15275880.0
+	strong: 12394.0
+	weak: 17362.0
+chubby
+	word-freq: 6930695.0
+	strong: 497.0
+	weak: 137.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['uncomfortable']
+['uneasy']
+['painful']
+
+=== algo: 
+['uneasy']
+['uncomfortable']
+['painful']
+
+=== raw score: 
+uneasy: 0.00281690140845
+painful: 2.27596644469
+uncomfortable: 0.605256733664
+
+=== raw counts: 
+uneasy
+	word-freq: 114412.0
+	strong: 0.0
+	weak: 354.0
+painful
+	word-freq: 521778.0
+	strong: 26316.0
+	weak: 11562.0
+uncomfortable
+	word-freq: 83281.0
+	strong: 7437.0
+	weak: 12288.0
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['friendly', 'cordial']
+['warm']
+['intimate']
+
+=== algo: 
+['warm']
+['friendly']
+['cordial']
+['intimate']
+
+=== raw score: 
+cordial: 0.320754716981
+warm: 0.162257286353
+friendly: 0.217324722019
+intimate: 3.13636363636
+
+=== raw counts: 
+cordial
+	word-freq: 585191.0
+	strong: 101.0
+	weak: 317.0
+warm
+	word-freq: 4625395.0
+	strong: 8205.0
+	weak: 50573.0
+friendly
+	word-freq: 23547681.0
+	strong: 6527.0
+	weak: 30037.0
+intimate
+	word-freq: 1731381.0
+	strong: 4691.0
+	weak: 1495.0
+------------------------------------------------
+=== tau:
+0.793884186037
+
+=== pairwise accuracy:
+0.761904761905
+
+=== gold: 
+['cool', 'refrigerated', 'chilly']
+['cold']
+['frigid']
+['icy', 'frozen']
+
+=== algo: 
+['refrigerated']
+['cool']
+['chilly']
+['cold']
+['frozen']
+['frigid']
+['icy']
+
+=== raw score: 
+frozen: 2.14995059289
+chilly: 0.336544250452
+icy: 447.0
+frigid: 148.0
+refrigerated: 0.0818505338078
+cold: 0.764363636364
+cool: 0.119707753354
+
+=== raw counts: 
+frozen
+	word-freq: 3199933.0
+	strong: 8702.0
+	weak: 4047.0
+chilly
+	word-freq: 1173786.0
+	strong: 558.0
+	weak: 1660.0
+icy
+	word-freq: 459455.0
+	strong: 446.0
+	weak: 0.0
+frigid
+	word-freq: 55462.0
+	strong: 147.0
+	weak: 0.0
+refrigerated
+	word-freq: 379593.0
+	strong: 114.0
+	weak: 1404.0
+cold
+	word-freq: 40847409.0
+	strong: 32580.0
+	weak: 42624.0
+cool
+	word-freq: 56496991.0
+	strong: 9502.0
+	weak: 79384.0
+------------------------------------------------
+=== tau:
+0.737864787373
+
+=== pairwise accuracy:
+0.8
+
+=== gold: 
+['cool']
+['cold']
+['frigid']
+['icy', 'frozen']
+
+=== algo: 
+['cool']
+['cold']
+['frozen']
+['frigid']
+['icy']
+
+=== raw score: 
+frozen: 2.14995059289
+cold: 0.764363636364
+icy: 447.0
+frigid: 148.0
+cool: 0.119707753354
+
+=== raw counts: 
+frozen
+	word-freq: 3199933.0
+	strong: 8702.0
+	weak: 4047.0
+cold
+	word-freq: 40847409.0
+	strong: 32580.0
+	weak: 42624.0
+icy
+	word-freq: 459455.0
+	strong: 446.0
+	weak: 0.0
+frigid
+	word-freq: 55462.0
+	strong: 147.0
+	weak: 0.0
+cool
+	word-freq: 56496991.0
+	strong: 9502.0
+	weak: 79384.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['disappointed']
+['frustrated']
+['defeated']
+
+=== algo: 
+['disappointed']
+['frustrated']
+['defeated']
+
+=== raw score: 
+frustrated: 1.74721780604
+disappointed: 0.190422393774
+defeated: 5.49293405114
+
+=== raw counts: 
+disappointed
+	word-freq: 289375.0
+	strong: 3033.0
+	weak: 15932.0
+frustrated
+	word-freq: 370401.0
+	strong: 3296.0
+	weak: 1886.0
+defeated
+	word-freq: 429986.0
+	strong: 16324.0
+	weak: 2971.0
+------------------------------------------------
+=== tau:
+-1.0
+
+=== pairwise accuracy:
+0.0
+
+=== gold: 
+['close']
+['tight']
+['snug']
+
+=== algo: 
+['snug']
+['tight']
+['close']
+
+=== raw score: 
+tight: 0.774288518155
+snug: 8.51498637602e-05
+close: 3.78712841093
+
+=== raw counts: 
+tight
+	word-freq: 3276474.0
+	strong: 8678.0
+	weak: 11208.0
+snug
+	word-freq: 262011.0
+	strong: 0.0
+	weak: 11743.0
+close
+	word-freq: 107863997.0
+	strong: 620929.0
+	weak: 163957.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['statewide']
+['nationwide']
+['worldwide']
+
+=== algo: 
+['nationwide']
+['statewide']
+['worldwide']
+
+=== raw score: 
+worldwide: 0.573516840486
+nationwide: 0.256715591249
+statewide: 0.505084745763
+
+=== raw counts: 
+worldwide
+	word-freq: 36360116.0
+	strong: 6708.0
+	weak: 11697.0
+nationwide
+	word-freq: 7051698.0
+	strong: 926.0
+	weak: 3610.0
+statewide
+	word-freq: 3914204.0
+	strong: 446.0
+	weak: 884.0
+------------------------------------------------
+=== tau:
+0.948683298051
+
+=== pairwise accuracy:
+0.9
+
+=== gold: 
+['general']
+['extensive']
+['complete', 'comprehensive']
+['universal']
+
+=== algo: 
+['general']
+['extensive']
+['comprehensive']
+['complete']
+['universal']
+
+=== raw score: 
+comprehensive: 3.74944389228
+extensive: 1.9478560655
+complete: 4.60572238123
+universal: 13.971690117
+general: 1.40634616153
+
+=== raw counts: 
+comprehensive
+	word-freq: 37544700.0
+	strong: 158443.0
+	weak: 42257.0
+universal
+	word-freq: 27470151.0
+	strong: 82418.0
+	weak: 5898.0
+extensive
+	word-freq: 2233377.0
+	strong: 9039.0
+	weak: 4640.0
+complete
+	word-freq: 149317513.0
+	strong: 481145.0
+	weak: 104466.0
+general
+	word-freq: 214071163.0
+	strong: 35190.0
+	weak: 25022.0
+------------------------------------------------
+=== tau:
+0.912870929175
+
+=== pairwise accuracy:
+0.833333333333
+
+=== gold: 
+['alive']
+['awake']
+['aware', 'conscious']
+
+=== algo: 
+['alive']
+['awake']
+['conscious']
+['aware']
+
+=== raw score: 
+aware: 392.629362792
+awake: 22.086577324
+alive: 3.0184667539
+conscious: 63.1462644686
+
+=== raw counts: 
+aware
+	word-freq: 25701317.0
+	strong: 2452362.0
+	weak: 6245.0
+awake
+	word-freq: 3233171.0
+	strong: 103828.0
+	weak: 4700.0
+alive
+	word-freq: 16076926.0
+	strong: 101504.0
+	weak: 33627.0
+conscious
+	word-freq: 6037028.0
+	strong: 180029.0
+	weak: 2850.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['interested']
+['concerned']
+['involved']
+
+=== algo: 
+['concerned']
+['interested']
+['involved']
+
+=== raw score: 
+involved: 12.6911420653
+concerned: 0.460625674218
+interested: 3.02888185944
+
+=== raw counts: 
+involved
+	word-freq: 4040814.0
+	strong: 352597.0
+	weak: 27782.0
+concerned
+	word-freq: 25490625.0
+	strong: 9393.0
+	weak: 20393.0
+interested
+	word-freq: 5418766.0
+	strong: 44045.0
+	weak: 14541.0
+------------------------------------------------
+=== tau:
+0.333333333333
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['critical']
+['negative']
+['hostile']
+
+=== algo: 
+['negative']
+['critical']
+['hostile']
+
+=== raw score: 
+critical: 2.79468845761
+negative: 1.06062874251
+hostile: 188.297297297
+
+=== raw counts: 
+critical
+	word-freq: 46136412.0
+	strong: 13679.0
+	weak: 4894.0
+negative
+	word-freq: 4705870.0
+	strong: 38258.0
+	weak: 36071.0
+hostile
+	word-freq: 758958.0
+	strong: 69669.0
+	weak: 369.0
+------------------------------------------------
+=== tau:
+1.0
+
+=== pairwise accuracy:
+1.0
+
+=== gold: 
+['hard']
+['painful']
+['hopeless']
+
+=== algo: 
+['hard']
+['painful']
+['hopeless']
+
+=== raw score: 
+hard: 0.565903725965
+hopeless: 4.20288040075
+painful: 2.27596644469
+
+=== raw counts: 
+hard
+	word-freq: 37354315.0
+	strong: 54418.0
+	weak: 96162.0
+hopeless
+	word-freq: 220736.0
+	strong: 6711.0
+	weak: 1596.0
+painful
+	word-freq: 521778.0
+	strong: 26316.0
+	weak: 11562.0
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['happy', 'content']
+['euphoric']
+
+=== algo: 
+['content']
+['happy']
+['euphoric']
+
+=== raw score: 
+content: 0.234347170845
+euphoric: 316.0
+happy: 0.93184572121
+
+=== raw counts: 
+content
+	word-freq: 188892058.0
+	strong: 17104.0
+	weak: 72989.0
+euphoric
+	word-freq: 82704.0
+	strong: 315.0
+	weak: 0.0
+happy
+	word-freq: 25470820.0
+	strong: 40757.0
+	weak: 43738.0
+------------------------------------------------
+=== tau:
+0.816496580928
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['calm', 'cool']
+['serene']
+
+=== algo: 
+['cool']
+['calm']
+['serene']
+
+=== raw score: 
+serene: 0.562401263823
+calm: 0.207287449393
+cool: 0.119707753354
+
+=== raw counts: 
+serene
+	word-freq: 430529.0
+	strong: 355.0
+	weak: 632.0
+calm
+	word-freq: 7869271.0
+	strong: 2047.0
+	weak: 9879.0
+cool
+	word-freq: 56496991.0
+	strong: 9502.0
+	weak: 79384.0
+------------------------------------------------
+=== tau:
+0.182574185835
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['unreliable']
+['dangerous', 'risky']
+['suicidal']
+
+=== algo: 
+['risky']
+['dangerous']
+['unreliable']
+['suicidal']
+
+=== raw score: 
+dangerous: 1.52769151772
+suicidal: 18.3470588235
+unreliable: 10.4116117851
+risky: 0.120586438607
+
+=== raw counts: 
+dangerous
+	word-freq: 16912946.0
+	strong: 62477.0
+	weak: 40896.0
+suicidal
+	word-freq: 395391.0
+	strong: 6237.0
+	weak: 339.0
+unreliable
+	word-freq: 118395.0
+	strong: 12014.0
+	weak: 1153.0
+risky
+	word-freq: 439910.0
+	strong: 986.0
+	weak: 8184.0
+------------------------------------------------
+
+------------------------------------------------
+Patterns Used: 
+------------------------------------------------
+=== strong
+
+not (a|an|the) * (,) just (a|an|the) <*>
+not (a|an|the) * (,) but just (a|an|the) <*>
+not (a|an|the) * (,) still (a|an|the) <*>
+not (a|an|the) * (,) but still (a|an|the) <*>
+not (a|an|the) * (,) although still (a|an|the) <*>
+not (a|an|the) * (,) though still (a|an|the) <*>
+* (,) or very (a|an|the) <*>
+a * (,) or very (a|an|the) <*>
+an * (,) or very (a|an|the) <*>
+the * (,) or very (a|an|the) <*>
+* unbelievably <*>
+* not even <*>
+very <*> (and|or) totally *
+<*> (,) yet still (a|an|the|as) *
+<*> (,) (and|or) fully *
+<*> (,) (and|or) outright *
+<*> (,) but not (a|an|the) *
+a <*> (,) but not (a|an|the) *
+an <*> (,) but not (a|an|the) *
+the <*> (,) but not (a|an|the) *
+<*> (,) if not (a|an|the) *
+a <*> (,) if not (a|an|the) *
+an <*> (,) if not (a|an|the) *
+the <*> (,) if not (a|an|the) *
+<*> (,) although not (a|an|the) *
+a <*> (,) although not (a|an|the) *
+an <*> (,) although not (a|an|the) *
+the <*> (,) although not (a|an|the) *
+<*> (,) though not (a|an|the) *
+a <*> (,) though not (a|an|the) *
+an <*> (,) though not (a|an|the) *
+the <*> (,) though not (a|an|the) *
+<*> (,) (and|or) even (a|an|the) *
+a <*> (,) (and|or) even (a|an|the) *
+an <*> (,) (and|or) even (a|an|the) *
+the <*> (,) (and|or) even (a|an|the) *
+<*> (,) (and|or) almost (a|an|the) *
+a <*> (,) (and|or) almost (a|an|the) *
+an <*> (,) (and|or) almost (a|an|the) *
+the <*> (,) (and|or) almost (a|an|the) *
+not only (a|an|the) <*> but (a|an|the) *
+not just (a|an|the) <*> but (a|an|the) *
+
+=== weak
+
+not (a|an|the) <*> (,) just (a|an|the) *
+not (a|an|the) <*> (,) but just (a|an|the) *
+not (a|an|the) <*> (,) still (a|an|the) *
+not (a|an|the) <*> (,) but still (a|an|the) *
+not (a|an|the) <*> (,) although still (a|an|the) *
+not (a|an|the) <*> (,) though still (a|an|the) *
+<*> (,) or very (a|an|the) *
+a <*> (,) or very (a|an|the) *
+an <*> (,) or very (a|an|the) *
+the <*> (,) or very (a|an|the) *
+<*> unbelievably *
+<*> not even *
+very * (and|or) totally <*>
+* (,) yet still (a|an|the|as) <*>
+* (,) (and|or) fully <*>
+* (,) (and|or) outright <*>
+* (,) but not (a|an|the) <*>
+a * (,) but not (a|an|the) <*>
+an * (,) but not (a|an|the) <*>
+the * (,) but not (a|an|the) <*>
+* (,) if not (a|an|the) <*>
+a * (,) if not (a|an|the) <*>
+an * (,) if not (a|an|the) <*>
+the * (,) if not (a|an|the) <*>
+* (,) although not (a|an|the) <*>
+a * (,) although not (a|an|the) <*>
+an * (,) although not (a|an|the) <*>
+the * (,) although not (a|an|the) <*>
+* (,) though not (a|an|the) <*>
+a * (,) though not (a|an|the) <*>
+an * (,) though not (a|an|the) <*>
+the * (,) though not (a|an|the) <*>
+* (,) (and|or) even (a|an|the) <*>
+a * (,) (and|or) even (a|an|the) <*>
+an * (,) (and|or) even (a|an|the) <*>
+the * (,) (and|or) even (a|an|the) <*>
+* (,) (and|or) almost (a|an|the) <*>
+a * (,) (and|or) almost (a|an|the) <*>
+an * (,) (and|or) almost (a|an|the) <*>
+the * (,) (and|or) almost (a|an|the) <*>
+not only (a|an|the) * but (a|an|the) <*>
+not just (a|an|the) * but (a|an|the) <*>
+
+=== END
