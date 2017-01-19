@@ -1,0 +1,61 @@
+=== foo, bar **
+gorgeous
+pretty
+=== foo, bar **
+little
+mediocre
+=== foo, bar **
+appropriate
+faultless
+=== foo, bar **
+appropriate
+well
+=== foo, bar **
+insignificant
+limited
+=== foo, bar **
+detailed
+specified
+=== foo, bar **
+fewer
+scarce
+=== foo, bar **
+ignorant
+stupider
+=== foo, bar **
+fine
+right
+=== foo, bar **
+idiot
+stupider
+=== foo, bar **
+derisory
+pointless
+=== foo, bar **
+hard
+rough
+=== foo, bar **
+incredible
+terrific
+=== foo, bar **
+fair
+honest
+=== foo, bar **
+fantastic
+marvelous
+=== foo, bar **
+enjoyable
+magnificent
+=== foo, bar **
+remarkable
+substantial
+=== foo, bar **
+challenging
+elusive
+=== foo, bar **
+appropriate
+right
+=== foo, bar **
+detailed
+specifically
+=== END

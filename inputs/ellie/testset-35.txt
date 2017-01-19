@@ -1,0 +1,61 @@
+=== foo, bar **
+big
+monumental
+=== foo, bar **
+crucial
+indispensable
+=== foo, bar **
+formidable
+remarkable
+=== foo, bar **
+beautiful
+gorgeous
+=== foo, bar **
+outstanding
+positive
+=== foo, bar **
+fine
+impressive
+=== foo, bar **
+finest
+satisfactory
+=== foo, bar **
+distressing
+ghastly
+=== foo, bar **
+convinced
+precisely
+=== foo, bar **
+appropriate
+beneficial
+=== foo, bar **
+spooky
+terrifying
+=== foo, bar **
+random
+spooky
+=== foo, bar **
+horrific
+lethal
+=== foo, bar **
+perfect
+spectacular
+=== foo, bar **
+perfect
+terrific
+=== foo, bar **
+awesome
+fair
+=== foo, bar **
+precise
+specific
+=== foo, bar **
+colossal
+large-scale
+=== foo, bar **
+ludicrous
+preposterous
+=== foo, bar **
+beautiful
+finer
+=== END

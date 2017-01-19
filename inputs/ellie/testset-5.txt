@@ -1,0 +1,61 @@
+=== foo, bar **
+severe
+stringent
+=== foo, bar **
+awesome
+magnificent
+=== foo, bar **
+asinine
+goofy
+=== foo, bar **
+absolutely
+vital
+=== foo, bar **
+nonsense
+stupid
+=== foo, bar **
+mighty
+strongest
+=== foo, bar **
+beautiful
+fairer
+=== foo, bar **
+fantastic
+incredible
+=== foo, bar **
+impressive
+outstanding
+=== foo, bar **
+extensive
+overwhelming
+=== foo, bar **
+broader
+wider
+=== foo, bar **
+formidable
+immense
+=== foo, bar **
+abundant
+wider
+=== foo, bar **
+better
+right
+=== foo, bar **
+accurate
+definite
+=== foo, bar **
+cumbersome
+problematic
+=== foo, bar **
+painful
+unfortunate
+=== foo, bar **
+honest
+open
+=== foo, bar **
+apt
+right
+=== foo, bar **
+sizeable
+substantial
+=== END

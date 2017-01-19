@@ -1,0 +1,61 @@
+=== foo, bar **
+greater
+perfect
+=== foo, bar **
+engaged
+instrumental
+=== foo, bar **
+accessible
+convenient
+=== foo, bar **
+major
+substantial
+=== foo, bar **
+big
+greater
+=== foo, bar **
+awesome
+good
+=== foo, bar **
+accurate
+distinctive
+=== foo, bar **
+big
+extensive
+=== foo, bar **
+astonishing
+remarkable
+=== foo, bar **
+big
+heavy
+=== foo, bar **
+big
+strong
+=== foo, bar **
+appropriate
+relevant
+=== foo, bar **
+cute
+magnificent
+=== foo, bar **
+amazing
+fantastic
+=== foo, bar **
+awesome
+enjoyable
+=== foo, bar **
+big
+heavyset
+=== foo, bar **
+precarious
+ultra-hazardous
+=== foo, bar **
+overwhelming
+wide-ranging
+=== foo, bar **
+comprehensive
+global
+=== foo, bar **
+little
+weaker
+=== END

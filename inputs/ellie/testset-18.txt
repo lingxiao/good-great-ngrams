@@ -1,0 +1,61 @@
+=== foo, bar **
+cool
+exciting
+=== foo, bar **
+big
+large
+=== foo, bar **
+astonishing
+perfect
+=== foo, bar **
+ridiculous
+senseless
+=== foo, bar **
+commonplace
+ordinary
+=== foo, bar **
+amazing
+awesome
+=== foo, bar **
+fine
+wonderful
+=== foo, bar **
+challenging
+problematic
+=== foo, bar **
+annoying
+awful
+=== foo, bar **
+fascinating
+terrific
+=== foo, bar **
+curious
+strange
+=== foo, bar **
+formidable
+sizeable
+=== foo, bar **
+integral
+principal
+=== foo, bar **
+childish
+dumb
+=== foo, bar **
+asinine
+ludicrous
+=== foo, bar **
+elusive
+problematic
+=== foo, bar **
+beneficial
+worthwhile
+=== foo, bar **
+delighted
+happy
+=== foo, bar **
+infrequent
+scarce
+=== foo, bar **
+distressing
+dreadful
+=== END

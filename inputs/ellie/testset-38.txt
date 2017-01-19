@@ -1,0 +1,61 @@
+=== foo, bar **
+fantastic
+impressive
+=== foo, bar **
+breathtaking
+exceptional
+=== foo, bar **
+odd
+remarkable
+=== foo, bar **
+delighted
+pleased
+=== foo, bar **
+beneficial
+incredible
+=== foo, bar **
+trivial
+unimportant
+=== foo, bar **
+detailed
+precise
+=== foo, bar **
+cute
+pretty
+=== foo, bar **
+marvelous
+positive
+=== foo, bar **
+easier
+simple
+=== foo, bar **
+frank
+honest
+=== foo, bar **
+fabulous
+incredible
+=== foo, bar **
+restless
+upset
+=== foo, bar **
+insignificant
+mild
+=== foo, bar **
+brief
+concise
+=== foo, bar **
+cute
+incredible
+=== foo, bar **
+awesome
+fine
+=== foo, bar **
+critical
+gravest
+=== foo, bar **
+convinced
+secure
+=== foo, bar **
+renowned
+well-known
+=== END

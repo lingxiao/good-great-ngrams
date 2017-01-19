@@ -1,0 +1,61 @@
+=== foo, bar **
+bigger
+prodigious
+=== foo, bar **
+awesome
+pretty
+=== foo, bar **
+fair
+terrific
+=== foo, bar **
+fabulous
+glorious
+=== foo, bar **
+good
+greater
+=== foo, bar **
+bigger
+huge
+=== foo, bar **
+indispensable
+useful
+=== foo, bar **
+primary
+vital
+=== foo, bar **
+beneficial
+useful
+=== foo, bar **
+convenient
+universal
+=== foo, bar **
+integral
+primary
+=== foo, bar **
+outstanding
+worthwhile
+=== foo, bar **
+better
+superb
+=== foo, bar **
+strengthened
+strongest
+=== foo, bar **
+general
+widespread
+=== foo, bar **
+broader
+endemic
+=== foo, bar **
+faultless
+right
+=== foo, bar **
+psycho
+wacko
+=== foo, bar **
+far-reaching
+longest
+=== foo, bar **
+marvellous
+topnotch
+=== END

@@ -1,0 +1,61 @@
+=== foo, bar **
+larger
+wider
+=== foo, bar **
+daft
+insane
+=== foo, bar **
+handsome
+hospitable
+=== foo, bar **
+impressive
+special
+=== foo, bar **
+magnificent
+satisfactory
+=== foo, bar **
+distributed
+general
+=== foo, bar **
+leading
+primary
+=== foo, bar **
+honorable
+sincerely
+=== foo, bar **
+beautiful
+superb
+=== foo, bar **
+graver
+life-threatening
+=== foo, bar **
+cheap
+terrible
+=== foo, bar **
+nessessary
+terrific
+=== foo, bar **
+gentle
+handsome
+=== foo, bar **
+awesome
+nessessary
+=== foo, bar **
+fantastic
+remarkable
+=== foo, bar **
+preferable
+right
+=== foo, bar **
+breathtaking
+cute
+=== foo, bar **
+fair
+sincerely
+=== foo, bar **
+effective
+helpful
+=== foo, bar **
+substantial
+tremendous
+=== END

@@ -1,0 +1,61 @@
+=== foo, bar **
+awesome
+brilliant
+=== foo, bar **
+major
+relevant
+=== foo, bar **
+awesome
+terrific
+=== foo, bar **
+nut
+rogue
+=== foo, bar **
+broader
+large
+=== foo, bar **
+awesome
+satisfactory
+=== foo, bar **
+significant
+useful
+=== foo, bar **
+colossal
+substantial
+=== foo, bar **
+marvelous
+right
+=== foo, bar **
+pleased
+satisfied
+=== foo, bar **
+amazing
+cool
+=== foo, bar **
+crazy
+mental
+=== foo, bar **
+clarified
+specific
+=== foo, bar **
+excited
+terrific
+=== foo, bar **
+sincere
+sincerely
+=== foo, bar **
+valuable
+worthwhile
+=== foo, bar **
+major
+severe
+=== foo, bar **
+particularly
+specifically
+=== foo, bar **
+accessible
+distributed
+=== foo, bar **
+freaky
+terrifying
+=== END

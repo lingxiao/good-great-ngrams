@@ -1,0 +1,61 @@
+=== foo, bar **
+accessible
+widespread
+=== foo, bar **
+marvelous
+superb
+=== foo, bar **
+a-okay
+best
+=== foo, bar **
+strengthened
+stronger
+=== foo, bar **
+clarified
+detailed
+=== foo, bar **
+beneficial
+desirable
+=== foo, bar **
+defined
+developed
+=== foo, bar **
+attractive
+convenient
+=== foo, bar **
+likable
+lovelier
+=== foo, bar **
+fair
+incredible
+=== foo, bar **
+fucked
+ludicrous
+=== foo, bar **
+perfect
+wonderful
+=== foo, bar **
+affirmative
+yes
+=== foo, bar **
+ggood
+magnificent
+=== foo, bar **
+insignificant
+lowest
+=== foo, bar **
+limited
+scarce
+=== foo, bar **
+attractive
+lovely
+=== foo, bar **
+affirmative
+trusted
+=== foo, bar **
+beneficial
+best
+=== foo, bar **
+huge
+tremendous
+=== END

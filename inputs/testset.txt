@@ -1,0 +1,2842 @@
+=== foo, bar **
+confused
+uncomfortable
+=== foo, bar **
+transparent
+understood
+=== foo, bar **
+satisfactory
+wonderful
+=== foo, bar **
+excited
+pleased
+=== foo, bar **
+first-class
+superb
+=== foo, bar **
+confusing
+spooky
+=== foo, bar **
+formidable
+overwhelming
+=== foo, bar **
+best
+satisfactory
+=== foo, bar **
+elegant
+glorious
+=== foo, bar **
+little
+mild
+=== foo, bar **
+heartfelt
+honorable
+=== foo, bar **
+prominent
+visible
+=== foo, bar **
+incorrect
+unfavourable
+=== foo, bar **
+exemplary
+magnificent
+=== foo, bar **
+atrocious
+dreadful
+=== foo, bar **
+fair
+well-formed
+=== foo, bar **
+honest
+honorable
+=== foo, bar **
+excited
+overwhelmed
+=== foo, bar **
+dopey
+stupider
+=== foo, bar **
+global
+universal
+=== foo, bar **
+bright
+clever
+=== foo, bar **
+insubstantial
+sparse
+=== foo, bar **
+awesome
+outstanding
+=== foo, bar **
+best
+desirable
+=== foo, bar **
+beautiful
+hot
+=== foo, bar **
+cute
+wonderful
+=== foo, bar **
+limited
+minuscule
+=== foo, bar **
+big
+enormously
+=== foo, bar **
+nonsense
+stupider
+=== foo, bar **
+productive
+relevant
+=== foo, bar **
+huge
+major
+=== foo, bar **
+awesome
+impressive
+=== foo, bar **
+affordable
+universal
+=== foo, bar **
+awesome
+exemplary
+=== foo, bar **
+critical
+right
+=== foo, bar **
+lovely
+superb
+=== foo, bar **
+good
+superior
+=== foo, bar **
+potent
+rigorous
+=== foo, bar **
+minuscule
+smaller
+=== foo, bar **
+hot
+incredible
+=== foo, bar **
+cute
+fabulous
+=== foo, bar **
+fine
+loveable
+=== foo, bar **
+lowest
+smaller
+=== foo, bar **
+limited
+rarest
+=== foo, bar **
+urgent
+useful
+=== foo, bar **
+fantastic
+outstanding
+=== foo, bar **
+genuine
+sincere
+=== foo, bar **
+comprehensive
+detailed
+=== foo, bar **
+easiest
+simple
+=== foo, bar **
+idiot
+senseless
+=== foo, bar **
+exquisite
+unexpected
+=== foo, bar **
+exceptional
+remarkable
+=== foo, bar **
+interesting
+relevant
+=== foo, bar **
+fine
+remarkable
+=== foo, bar **
+apt
+well-formed
+=== foo, bar **
+breathtaking
+bright
+=== foo, bar **
+comprehensively
+defined
+=== foo, bar **
+fine
+strong
+=== foo, bar **
+increased
+overwhelming
+=== foo, bar **
+indispensible
+valuable
+=== foo, bar **
+stringent
+tough
+=== foo, bar **
+beautiful
+breathtaking
+=== foo, bar **
+demented
+insane
+=== foo, bar **
+unacceptable
+unfair
+=== foo, bar **
+beneficial
+positive
+=== foo, bar **
+related
+useful
+=== foo, bar **
+awesome
+fascinating
+=== foo, bar **
+appropriate
+okay
+=== foo, bar **
+prodigious
+sharp
+=== foo, bar **
+awful
+sad
+=== foo, bar **
+obvious
+self-explanatory
+=== foo, bar **
+busy
+live
+=== foo, bar **
+vast
+wide-ranging
+=== foo, bar **
+marvellous
+remarkable
+=== foo, bar **
+appropriate
+justified
+=== foo, bar **
+definite
+distinctive
+=== foo, bar **
+amazing
+dreamy
+=== foo, bar **
+exciting
+unexpected
+=== foo, bar **
+indispensable
+urgent
+=== foo, bar **
+cute
+gorgeous
+=== foo, bar **
+severe
+stringent
+=== foo, bar **
+awesome
+magnificent
+=== foo, bar **
+asinine
+goofy
+=== foo, bar **
+absolutely
+vital
+=== foo, bar **
+nonsense
+stupid
+=== foo, bar **
+mighty
+strongest
+=== foo, bar **
+beautiful
+fairer
+=== foo, bar **
+fantastic
+incredible
+=== foo, bar **
+impressive
+outstanding
+=== foo, bar **
+extensive
+overwhelming
+=== foo, bar **
+broader
+wider
+=== foo, bar **
+formidable
+immense
+=== foo, bar **
+abundant
+wider
+=== foo, bar **
+better
+right
+=== foo, bar **
+accurate
+definite
+=== foo, bar **
+cumbersome
+problematic
+=== foo, bar **
+painful
+unfortunate
+=== foo, bar **
+honest
+open
+=== foo, bar **
+apt
+right
+=== foo, bar **
+sizeable
+substantial
+=== foo, bar **
+pivotal
+useful
+=== foo, bar **
+awesome
+interesting
+=== foo, bar **
+exceptional
+thought-out
+=== foo, bar **
+impressive
+remarkable
+=== foo, bar **
+disturbing
+lethal
+=== foo, bar **
+acute
+fatal
+=== foo, bar **
+effective
+real
+=== foo, bar **
+significant
+vital
+=== foo, bar **
+bright
+remarkable
+=== foo, bar **
+respectable
+sensible
+=== foo, bar **
+precisely
+trusted
+=== foo, bar **
+enjoyable
+lovelier
+=== foo, bar **
+daft
+stir-crazy
+=== foo, bar **
+awesome
+fantastic
+=== foo, bar **
+comfortable
+enjoyable
+=== foo, bar **
+indispensible
+urgent
+=== foo, bar **
+atrocious
+distressing
+=== foo, bar **
+positive
+satisfied
+=== foo, bar **
+taller
+thicker
+=== foo, bar **
+grateful
+pleased
+=== foo, bar **
+awesome
+brilliant
+=== foo, bar **
+major
+relevant
+=== foo, bar **
+awesome
+terrific
+=== foo, bar **
+nut
+rogue
+=== foo, bar **
+broader
+large
+=== foo, bar **
+awesome
+satisfactory
+=== foo, bar **
+significant
+useful
+=== foo, bar **
+colossal
+substantial
+=== foo, bar **
+marvelous
+right
+=== foo, bar **
+pleased
+satisfied
+=== foo, bar **
+amazing
+cool
+=== foo, bar **
+crazy
+mental
+=== foo, bar **
+clarified
+specific
+=== foo, bar **
+excited
+terrific
+=== foo, bar **
+sincere
+sincerely
+=== foo, bar **
+valuable
+worthwhile
+=== foo, bar **
+major
+severe
+=== foo, bar **
+particularly
+specifically
+=== foo, bar **
+accessible
+distributed
+=== foo, bar **
+freaky
+terrifying
+=== foo, bar **
+major
+primary
+=== foo, bar **
+amazing
+spectacular
+=== foo, bar **
+curious
+odd
+=== foo, bar **
+indispensible
+significant
+=== foo, bar **
+right
+vital
+=== foo, bar **
+good
+perfect
+=== foo, bar **
+dumb
+stupid
+=== foo, bar **
+huge
+overwhelming
+=== foo, bar **
+active
+aggressive
+=== foo, bar **
+beautiful
+magnificent
+=== foo, bar **
+beneficial
+right
+=== foo, bar **
+delighted
+excited
+=== foo, bar **
+dynamic
+instrumental
+=== foo, bar **
+best
+incredible
+=== foo, bar **
+few
+rare
+=== foo, bar **
+live
+real
+=== foo, bar **
+big
+overwhelming
+=== foo, bar **
+enormously
+greater
+=== foo, bar **
+disappointing
+unfortunate
+=== foo, bar **
+excited
+happy
+=== foo, bar **
+better
+easier
+=== foo, bar **
+hazardous
+treacherous
+=== foo, bar **
+available
+distributed
+=== foo, bar **
+effective
+fruitful
+=== foo, bar **
+apt
+correct
+=== foo, bar **
+formidable
+huge
+=== foo, bar **
+foolish
+idiot
+=== foo, bar **
+interesting
+strange
+=== foo, bar **
+brighter
+good
+=== foo, bar **
+distressing
+unfortunate
+=== foo, bar **
+available
+widespread
+=== foo, bar **
+awesome
+marvelous
+=== foo, bar **
+cute
+hot
+=== foo, bar **
+crazy
+ludicrous
+=== foo, bar **
+perfect
+right
+=== foo, bar **
+confident
+trusted
+=== foo, bar **
+cute
+elegant
+=== foo, bar **
+cheerful
+fortunate
+=== foo, bar **
+awesome
+right
+=== foo, bar **
+high
+outstanding
+=== foo, bar **
+accessible
+open
+=== foo, bar **
+heartfelt
+honest
+=== foo, bar **
+interesting
+perfect
+=== foo, bar **
+confused
+overwhelmed
+=== foo, bar **
+gentle
+lovelier
+=== foo, bar **
+valuable
+vital
+=== foo, bar **
+beautiful
+fairest
+=== foo, bar **
+ultra-hazardous
+unsafe
+=== foo, bar **
+perfect
+seamless
+=== foo, bar **
+insane
+nuts
+=== foo, bar **
+delightful
+fascinating
+=== foo, bar **
+satisfactory
+successful
+=== foo, bar **
+brilliant
+marvelous
+=== foo, bar **
+excited
+jumpy
+=== foo, bar **
+concise
+succinct
+=== foo, bar **
+larger
+powerful
+=== foo, bar **
+immense
+large-scale
+=== foo, bar **
+prominent
+remarkable
+=== foo, bar **
+distressing
+sad
+=== foo, bar **
+cheesy
+ridiculous
+=== foo, bar **
+crucial
+valuable
+=== foo, bar **
+awesome
+fabulous
+=== foo, bar **
+precarious
+unsafe
+=== foo, bar **
+exciting
+fascinating
+=== foo, bar **
+comfortable
+handsome
+=== foo, bar **
+noteworthy
+worthwhile
+=== foo, bar **
+awesome
+righteous
+=== foo, bar **
+longest
+wide-ranging
+=== foo, bar **
+first-rate
+outstanding
+=== foo, bar **
+taller
+wider
+=== foo, bar **
+larger
+thicker
+=== foo, bar **
+exceptional
+marvellous
+=== foo, bar **
+admirable
+remarkable
+=== foo, bar **
+interesting
+noteworthy
+=== foo, bar **
+excited
+grateful
+=== foo, bar **
+fine
+guaranteed
+=== foo, bar **
+ecstatic
+thrilled
+=== foo, bar **
+substantial
+wide-ranging
+=== foo, bar **
+precise
+specifically
+=== foo, bar **
+exquisite
+inspiring
+=== foo, bar **
+heavy
+severe
+=== foo, bar **
+crucial
+vital
+=== foo, bar **
+desirable
+helpful
+=== foo, bar **
+excellent
+fine
+=== foo, bar **
+apt
+justified
+=== foo, bar **
+dreadful
+worst
+=== foo, bar **
+bizarre
+incorrect
+=== foo, bar **
+bright
+prominent
+=== foo, bar **
+excellent
+remarkable
+=== foo, bar **
+relevant
+topical
+=== foo, bar **
+amazing
+elegant
+=== foo, bar **
+awesome
+big
+=== foo, bar **
+inadequate
+lacklustre
+=== foo, bar **
+confused
+upset
+=== foo, bar **
+breathtaking
+spectacular
+=== foo, bar **
+poor
+scarce
+=== foo, bar **
+faultless
+well
+=== foo, bar **
+perfect
+shipshape
+=== foo, bar **
+less
+scarce
+=== foo, bar **
+all-important
+formidable
+=== foo, bar **
+easy
+simple
+=== foo, bar **
+farther
+high
+=== foo, bar **
+positive
+rewarding
+=== foo, bar **
+critical
+formidable
+=== foo, bar **
+bad
+painful
+=== foo, bar **
+cute
+glorious
+=== foo, bar **
+indispensible
+needed
+=== foo, bar **
+astonishing
+awesome
+=== foo, bar **
+awesome
+superb
+=== foo, bar **
+enjoyable
+handsome
+=== foo, bar **
+incredible
+magnificent
+=== foo, bar **
+special
+sweet
+=== foo, bar **
+fascinating
+perfect
+=== foo, bar **
+big
+formidable
+=== foo, bar **
+remarkable
+sizeable
+=== foo, bar **
+brilliant
+special
+=== foo, bar **
+potent
+strengthened
+=== foo, bar **
+funny
+ridiculous
+=== foo, bar **
+awful
+distressing
+=== foo, bar **
+beautiful
+horny
+=== foo, bar **
+gorgeous
+pretty
+=== foo, bar **
+little
+mediocre
+=== foo, bar **
+appropriate
+faultless
+=== foo, bar **
+appropriate
+well
+=== foo, bar **
+insignificant
+limited
+=== foo, bar **
+detailed
+specified
+=== foo, bar **
+fewer
+scarce
+=== foo, bar **
+ignorant
+stupider
+=== foo, bar **
+fine
+right
+=== foo, bar **
+idiot
+stupider
+=== foo, bar **
+derisory
+pointless
+=== foo, bar **
+hard
+rough
+=== foo, bar **
+incredible
+terrific
+=== foo, bar **
+fair
+honest
+=== foo, bar **
+fantastic
+marvelous
+=== foo, bar **
+enjoyable
+magnificent
+=== foo, bar **
+remarkable
+substantial
+=== foo, bar **
+challenging
+elusive
+=== foo, bar **
+appropriate
+right
+=== foo, bar **
+detailed
+specifically
+=== foo, bar **
+astonishing
+fantastic
+=== foo, bar **
+limited
+rare
+=== foo, bar **
+dainty
+fine
+=== foo, bar **
+marvelous
+nessessary
+=== foo, bar **
+insane
+stir-crazy
+=== foo, bar **
+convenient
+opportune
+=== foo, bar **
+marvelous
+terrific
+=== foo, bar **
+primary
+principal
+=== foo, bar **
+aroused
+overjoyed
+=== foo, bar **
+simple
+simplest
+=== foo, bar **
+intact
+sound
+=== foo, bar **
+large-scale
+sizeable
+=== foo, bar **
+fine
+handsome
+=== foo, bar **
+dreadful
+horrible
+=== foo, bar **
+bright
+lovely
+=== foo, bar **
+crazy
+fucked
+=== foo, bar **
+better
+desirable
+=== foo, bar **
+gravest
+life-threatening
+=== foo, bar **
+cute
+nicer
+=== foo, bar **
+certain
+convinced
+=== foo, bar **
+impressive
+strong
+=== foo, bar **
+handsome
+likable
+=== foo, bar **
+easier
+simplest
+=== foo, bar **
+considerable
+high
+=== foo, bar **
+lovely
+perfect
+=== foo, bar **
+amazing
+beautiful
+=== foo, bar **
+beautiful
+perfect
+=== foo, bar **
+incredible
+perfect
+=== foo, bar **
+pretty
+righteous
+=== foo, bar **
+remarkable
+superb
+=== foo, bar **
+exquisite
+interesting
+=== foo, bar **
+attractive
+breathtaking
+=== foo, bar **
+broader
+wide-ranging
+=== foo, bar **
+confusing
+weird
+=== foo, bar **
+okay
+well
+=== foo, bar **
+dreadful
+horrific
+=== foo, bar **
+breathtaking
+fantastic
+=== foo, bar **
+bright
+brilliant
+=== foo, bar **
+heinous
+horrific
+=== foo, bar **
+critical
+significant
+=== foo, bar **
+shaky
+vulnerable
+=== foo, bar **
+major
+principal
+=== foo, bar **
+important
+useful
+=== foo, bar **
+clever
+smart
+=== foo, bar **
+fewer
+less
+=== foo, bar **
+fucked
+goofy
+=== foo, bar **
+broader
+thicker
+=== foo, bar **
+awful
+dreadful
+=== foo, bar **
+handsome
+perfect
+=== foo, bar **
+beneficial
+marvelous
+=== foo, bar **
+comfortable
+gentle
+=== foo, bar **
+beautiful
+cute
+=== foo, bar **
+long-standing
+time-consuming
+=== foo, bar **
+concise
+precise
+=== foo, bar **
+awesome
+yummy
+=== foo, bar **
+beneficial
+rewarding
+=== foo, bar **
+bleak
+tragic
+=== foo, bar **
+positive
+right
+=== foo, bar **
+fair
+undisputed
+=== foo, bar **
+beautiful
+fantastic
+=== foo, bar **
+cool
+exciting
+=== foo, bar **
+big
+large
+=== foo, bar **
+astonishing
+perfect
+=== foo, bar **
+ridiculous
+senseless
+=== foo, bar **
+commonplace
+ordinary
+=== foo, bar **
+amazing
+awesome
+=== foo, bar **
+fine
+wonderful
+=== foo, bar **
+challenging
+problematic
+=== foo, bar **
+annoying
+awful
+=== foo, bar **
+fascinating
+terrific
+=== foo, bar **
+curious
+strange
+=== foo, bar **
+formidable
+sizeable
+=== foo, bar **
+integral
+principal
+=== foo, bar **
+childish
+dumb
+=== foo, bar **
+asinine
+ludicrous
+=== foo, bar **
+elusive
+problematic
+=== foo, bar **
+beneficial
+worthwhile
+=== foo, bar **
+delighted
+happy
+=== foo, bar **
+infrequent
+scarce
+=== foo, bar **
+distressing
+dreadful
+=== foo, bar **
+beneficial
+terrific
+=== foo, bar **
+limited
+scant
+=== foo, bar **
+huge
+sizeable
+=== foo, bar **
+incorrect
+strange
+=== foo, bar **
+cute
+horny
+=== foo, bar **
+diverse
+multifaceted
+=== foo, bar **
+prominent
+significant
+=== foo, bar **
+detailed
+specific
+=== foo, bar **
+disappointing
+hopeless
+=== foo, bar **
+horrible
+lamentable
+=== foo, bar **
+beautiful
+handsome
+=== foo, bar **
+attractive
+wonderful
+=== foo, bar **
+cute
+loveable
+=== foo, bar **
+dumber
+senseless
+=== foo, bar **
+breathtaking
+remarkable
+=== foo, bar **
+comforting
+hospitable
+=== foo, bar **
+disturbing
+worst
+=== foo, bar **
+right
+well-formed
+=== foo, bar **
+fair
+true
+=== foo, bar **
+exquisite
+marvellous
+=== foo, bar **
+interesting
+odd
+=== foo, bar **
+asinine
+crazy
+=== foo, bar **
+all-important
+major
+=== foo, bar **
+endemic
+wide-ranging
+=== foo, bar **
+familiar
+recognised
+=== foo, bar **
+remarkable
+terrific
+=== foo, bar **
+admirable
+wonderful
+=== foo, bar **
+comfortable
+hospitable
+=== foo, bar **
+fine
+greater
+=== foo, bar **
+happy
+overwhelmed
+=== foo, bar **
+breathtaking
+lovelier
+=== foo, bar **
+dreadful
+worse
+=== foo, bar **
+concerned
+upset
+=== foo, bar **
+beautiful
+incredible
+=== foo, bar **
+stir-crazy
+wacko
+=== foo, bar **
+few
+scant
+=== foo, bar **
+indispensable
+valuable
+=== foo, bar **
+little
+weak
+=== foo, bar **
+bright
+smarter
+=== foo, bar **
+strengthened
+tougher
+=== foo, bar **
+larger
+wider
+=== foo, bar **
+daft
+insane
+=== foo, bar **
+handsome
+hospitable
+=== foo, bar **
+impressive
+special
+=== foo, bar **
+magnificent
+satisfactory
+=== foo, bar **
+distributed
+general
+=== foo, bar **
+leading
+primary
+=== foo, bar **
+honorable
+sincerely
+=== foo, bar **
+beautiful
+superb
+=== foo, bar **
+graver
+life-threatening
+=== foo, bar **
+cheap
+terrible
+=== foo, bar **
+nessessary
+terrific
+=== foo, bar **
+gentle
+handsome
+=== foo, bar **
+awesome
+nessessary
+=== foo, bar **
+fantastic
+remarkable
+=== foo, bar **
+preferable
+right
+=== foo, bar **
+breathtaking
+cute
+=== foo, bar **
+fair
+sincerely
+=== foo, bar **
+effective
+helpful
+=== foo, bar **
+substantial
+tremendous
+=== foo, bar **
+crucial
+indispensible
+=== foo, bar **
+gentle
+nicer
+=== foo, bar **
+inadequate
+meagre
+=== foo, bar **
+helpful
+thoughtful
+=== foo, bar **
+breathtaking
+special
+=== foo, bar **
+achievable
+convenient
+=== foo, bar **
+obvious
+straightforward
+=== foo, bar **
+daft
+dumber
+=== foo, bar **
+substantial
+vast
+=== foo, bar **
+amazing
+perfect
+=== foo, bar **
+fantastic
+nicer
+=== foo, bar **
+defined
+particular
+=== foo, bar **
+live
+reality
+=== foo, bar **
+leading
+principal
+=== foo, bar **
+insignificant
+smaller
+=== foo, bar **
+effective
+profitable
+=== foo, bar **
+overwhelming
+remarkable
+=== foo, bar **
+lengthy
+long-standing
+=== foo, bar **
+interesting
+marvelous
+=== foo, bar **
+perfect
+special
+=== foo, bar **
+bigger
+prodigious
+=== foo, bar **
+awesome
+pretty
+=== foo, bar **
+fair
+terrific
+=== foo, bar **
+fabulous
+glorious
+=== foo, bar **
+good
+greater
+=== foo, bar **
+bigger
+huge
+=== foo, bar **
+indispensable
+useful
+=== foo, bar **
+primary
+vital
+=== foo, bar **
+beneficial
+useful
+=== foo, bar **
+convenient
+universal
+=== foo, bar **
+integral
+primary
+=== foo, bar **
+outstanding
+worthwhile
+=== foo, bar **
+better
+superb
+=== foo, bar **
+strengthened
+strongest
+=== foo, bar **
+general
+widespread
+=== foo, bar **
+broader
+endemic
+=== foo, bar **
+faultless
+right
+=== foo, bar **
+psycho
+wacko
+=== foo, bar **
+far-reaching
+longest
+=== foo, bar **
+marvellous
+topnotch
+=== foo, bar **
+better
+good
+=== foo, bar **
+huge
+large-scale
+=== foo, bar **
+distressing
+painful
+=== foo, bar **
+remarkable
+visible
+=== foo, bar **
+logical
+routine
+=== foo, bar **
+asinine
+insane
+=== foo, bar **
+enjoyable
+outstanding
+=== foo, bar **
+secure
+trusted
+=== foo, bar **
+hazardous
+ultra-hazardous
+=== foo, bar **
+desirable
+preferable
+=== foo, bar **
+convenient
+fortunate
+=== foo, bar **
+noteworthy
+remarkable
+=== foo, bar **
+potent
+strongest
+=== foo, bar **
+beautiful
+elegant
+=== foo, bar **
+few
+scarce
+=== foo, bar **
+cute
+lovelier
+=== foo, bar **
+bad
+severe
+=== foo, bar **
+bad
+ghastly
+=== foo, bar **
+relevant
+worthwhile
+=== foo, bar **
+overwhelming
+sizeable
+=== foo, bar **
+awesome
+sweet
+=== foo, bar **
+fabulous
+hot
+=== foo, bar **
+treacherous
+unsafe
+=== foo, bar **
+foolish
+ignorant
+=== foo, bar **
+rigorous
+severe
+=== foo, bar **
+excited
+exquisite
+=== foo, bar **
+excited
+nervous
+=== foo, bar **
+exciting
+remarkable
+=== foo, bar **
+increased
+substantial
+=== foo, bar **
+restless
+unhappy
+=== foo, bar **
+positive
+terrific
+=== foo, bar **
+dumber
+foolish
+=== foo, bar **
+psycho
+stir-crazy
+=== foo, bar **
+fruitful
+useful
+=== foo, bar **
+active
+intense
+=== foo, bar **
+bizarre
+crazy
+=== foo, bar **
+aroused
+excited
+=== foo, bar **
+precise
+specified
+=== foo, bar **
+all-important
+overwhelming
+=== foo, bar **
+advantageous
+useful
+=== foo, bar **
+flagrant
+visible
+=== foo, bar **
+plenty
+significant
+=== foo, bar **
+beneficial
+efficient
+=== foo, bar **
+satisfactory
+successfully
+=== foo, bar **
+frank
+open
+=== foo, bar **
+cute
+superb
+=== foo, bar **
+dopey
+stupid
+=== foo, bar **
+intense
+powerful
+=== foo, bar **
+certain
+trusted
+=== foo, bar **
+bigger
+monumental
+=== foo, bar **
+excellent
+incredible
+=== foo, bar **
+better
+exceptional
+=== foo, bar **
+elegant
+superb
+=== foo, bar **
+incorrect
+unsatisfactory
+=== foo, bar **
+fascinating
+wonderful
+=== foo, bar **
+easy
+simplest
+=== foo, bar **
+demented
+nuts
+=== foo, bar **
+comprehensive
+enormous
+=== foo, bar **
+enormous
+tremendous
+=== foo, bar **
+best
+positive
+=== foo, bar **
+nessessary
+right
+=== foo, bar **
+enjoyable
+fantastic
+=== foo, bar **
+perfect
+remarkable
+=== foo, bar **
+mental
+psycho
+=== foo, bar **
+nice
+satisfactory
+=== foo, bar **
+brutal
+foul
+=== foo, bar **
+far-reaching
+substantial
+=== foo, bar **
+senseless
+unwise
+=== foo, bar **
+prodigious
+sizeable
+=== foo, bar **
+outstanding
+satisfactory
+=== foo, bar **
+cute
+handsome
+=== foo, bar **
+cute
+fantastic
+=== foo, bar **
+ghastly
+painful
+=== foo, bar **
+defined
+specific
+=== foo, bar **
+idiot
+unwise
+=== foo, bar **
+cool
+magic
+=== foo, bar **
+demented
+mental
+=== foo, bar **
+naughty
+unfair
+=== foo, bar **
+noteworthy
+relevant
+=== foo, bar **
+outstanding
+special
+=== foo, bar **
+fascinating
+marvelous
+=== foo, bar **
+lovely
+pretty
+=== foo, bar **
+exciting
+special
+=== foo, bar **
+extensive
+wide-ranging
+=== foo, bar **
+marvelous
+perfect
+=== foo, bar **
+amazing
+cute
+=== foo, bar **
+marvellous
+unexpected
+=== foo, bar **
+crucial
+useful
+=== foo, bar **
+bigger
+enormously
+=== foo, bar **
+fabulous
+remarkable
+=== foo, bar **
+lamentable
+tragic
+=== foo, bar **
+magnificent
+outstanding
+=== foo, bar **
+ghastly
+horrendous
+=== foo, bar **
+bigger
+colossal
+=== foo, bar **
+content
+grateful
+=== foo, bar **
+restless
+sad
+=== foo, bar **
+amazing
+sweet
+=== foo, bar **
+faultless
+fine
+=== foo, bar **
+fine
+perfect
+=== foo, bar **
+heinous
+lethal
+=== foo, bar **
+comforting
+handsome
+=== foo, bar **
+excellent
+outstanding
+=== foo, bar **
+crucial
+relevant
+=== foo, bar **
+cool
+cute
+=== foo, bar **
+easier
+effective
+=== foo, bar **
+fine
+fitting
+=== foo, bar **
+colossal
+sizeable
+=== foo, bar **
+certain
+precisely
+=== foo, bar **
+rigorous
+tougher
+=== foo, bar **
+derisory
+senseless
+=== foo, bar **
+frightening
+spooky
+=== foo, bar **
+excellent
+satisfactory
+=== foo, bar **
+bizarre
+unusual
+=== foo, bar **
+crazy
+insane
+=== foo, bar **
+dumber
+unwise
+=== foo, bar **
+endemic
+large
+=== foo, bar **
+thicker
+wider
+=== foo, bar **
+crazy
+preposterous
+=== foo, bar **
+fancy
+neat
+=== foo, bar **
+interesting
+wonderful
+=== foo, bar **
+accessible
+widespread
+=== foo, bar **
+marvelous
+superb
+=== foo, bar **
+a-okay
+best
+=== foo, bar **
+strengthened
+stronger
+=== foo, bar **
+clarified
+detailed
+=== foo, bar **
+beneficial
+desirable
+=== foo, bar **
+defined
+developed
+=== foo, bar **
+attractive
+convenient
+=== foo, bar **
+likable
+lovelier
+=== foo, bar **
+fair
+incredible
+=== foo, bar **
+fucked
+ludicrous
+=== foo, bar **
+perfect
+wonderful
+=== foo, bar **
+affirmative
+yes
+=== foo, bar **
+ggood
+magnificent
+=== foo, bar **
+insignificant
+lowest
+=== foo, bar **
+limited
+scarce
+=== foo, bar **
+attractive
+lovely
+=== foo, bar **
+affirmative
+trusted
+=== foo, bar **
+beneficial
+best
+=== foo, bar **
+huge
+tremendous
+=== foo, bar **
+crazy
+perverse
+=== foo, bar **
+amazing
+incredible
+=== foo, bar **
+delirious
+rogue
+=== foo, bar **
+ggood
+outstanding
+=== foo, bar **
+unfair
+wrong
+=== foo, bar **
+appropriate
+preferable
+=== foo, bar **
+awesome
+beautiful
+=== foo, bar **
+colossal
+overwhelming
+=== foo, bar **
+big
+substantial
+=== foo, bar **
+magnificent
+positive
+=== foo, bar **
+endemic
+wider
+=== foo, bar **
+okay
+perfect
+=== foo, bar **
+expensive
+valuable
+=== foo, bar **
+familiar
+renowned
+=== foo, bar **
+genuine
+sincerely
+=== foo, bar **
+comprehensive
+defined
+=== foo, bar **
+cute
+lovely
+=== foo, bar **
+justified
+right
+=== foo, bar **
+fair
+positive
+=== foo, bar **
+fantastic
+perfect
+=== foo, bar **
+fabulous
+fantastic
+=== foo, bar **
+confusing
+ironic
+=== foo, bar **
+horrible
+sad
+=== foo, bar **
+manageable
+reasonnable
+=== foo, bar **
+marvellous
+spectacular
+=== foo, bar **
+comprehensively
+detailed
+=== foo, bar **
+best
+fair
+=== foo, bar **
+distressing
+foul
+=== foo, bar **
+fantastic
+fine
+=== foo, bar **
+heartfelt
+sincere
+=== foo, bar **
+beautiful
+fabulous
+=== foo, bar **
+best
+fantastic
+=== foo, bar **
+interesting
+significant
+=== foo, bar **
+major
+pronounced
+=== foo, bar **
+neat
+perfect
+=== foo, bar **
+comfortable
+lovelier
+=== foo, bar **
+astonishing
+sweet
+=== foo, bar **
+breathtaking
+pretty
+=== foo, bar **
+big
+vast
+=== foo, bar **
+content
+fortunate
+=== foo, bar **
+exciting
+interesting
+=== foo, bar **
+jumpy
+overwhelmed
+=== foo, bar **
+advantageous
+worthwhile
+=== foo, bar **
+awesome
+breathtaking
+=== foo, bar **
+brief
+succinct
+=== foo, bar **
+bad
+terrible
+=== foo, bar **
+meaningful
+true
+=== foo, bar **
+little
+scarce
+=== foo, bar **
+confident
+convinced
+=== foo, bar **
+crazy
+demented
+=== foo, bar **
+best
+right
+=== foo, bar **
+dreadful
+heinous
+=== foo, bar **
+attractive
+cute
+=== foo, bar **
+competent
+impressive
+=== foo, bar **
+faint
+weaker
+=== foo, bar **
+interesting
+meaningful
+=== foo, bar **
+fine
+pretty
+=== foo, bar **
+ludicrous
+queer
+=== foo, bar **
+incredible
+special
+=== foo, bar **
+rational
+reasonnable
+=== foo, bar **
+incredible
+marvelous
+=== foo, bar **
+right
+terrific
+=== foo, bar **
+problematic
+strange
+=== foo, bar **
+fair
+marvelous
+=== foo, bar **
+meagre
+mediocre
+=== foo, bar **
+beautiful
+lovelier
+=== foo, bar **
+fantastic
+terrific
+=== foo, bar **
+breathtaking
+fabulous
+=== foo, bar **
+excessive
+substantial
+=== foo, bar **
+convenient
+easiest
+=== foo, bar **
+hopeless
+unfortunate
+=== foo, bar **
+profitable
+valuable
+=== foo, bar **
+convenient
+simple
+=== foo, bar **
+bad
+brutal
+=== foo, bar **
+distressing
+unlucky
+=== foo, bar **
+magnificent
+remarkable
+=== foo, bar **
+beautiful
+marvelous
+=== foo, bar **
+overwhelmed
+pleased
+=== foo, bar **
+dumber
+stupider
+=== foo, bar **
+amazing
+interesting
+=== foo, bar **
+big
+monumental
+=== foo, bar **
+crucial
+indispensable
+=== foo, bar **
+formidable
+remarkable
+=== foo, bar **
+beautiful
+gorgeous
+=== foo, bar **
+outstanding
+positive
+=== foo, bar **
+fine
+impressive
+=== foo, bar **
+finest
+satisfactory
+=== foo, bar **
+distressing
+ghastly
+=== foo, bar **
+convinced
+precisely
+=== foo, bar **
+appropriate
+beneficial
+=== foo, bar **
+spooky
+terrifying
+=== foo, bar **
+random
+spooky
+=== foo, bar **
+horrific
+lethal
+=== foo, bar **
+perfect
+spectacular
+=== foo, bar **
+perfect
+terrific
+=== foo, bar **
+awesome
+fair
+=== foo, bar **
+precise
+specific
+=== foo, bar **
+colossal
+large-scale
+=== foo, bar **
+ludicrous
+preposterous
+=== foo, bar **
+beautiful
+finer
+=== foo, bar **
+fucked
+insane
+=== foo, bar **
+appropriate
+perfect
+=== foo, bar **
+disappointing
+unlucky
+=== foo, bar **
+marvelous
+sweet
+=== foo, bar **
+big
+far-reaching
+=== foo, bar **
+best
+outstanding
+=== foo, bar **
+flourishing
+valuable
+=== foo, bar **
+principal
+vital
+=== foo, bar **
+powerful
+substantial
+=== foo, bar **
+noteworthy
+useful
+=== foo, bar **
+authoritative
+true
+=== foo, bar **
+interesting
+valuable
+=== foo, bar **
+confident
+precisely
+=== foo, bar **
+best
+nessessary
+=== foo, bar **
+breathtaking
+topnotch
+=== foo, bar **
+precisely
+yes
+=== foo, bar **
+fantastic
+special
+=== foo, bar **
+awful
+bad
+=== foo, bar **
+colossal
+formidable
+=== foo, bar **
+lovelier
+mild
+=== foo, bar **
+awesome
+remarkable
+=== foo, bar **
+demented
+psycho
+=== foo, bar **
+distressing
+horrific
+=== foo, bar **
+marvelous
+satisfactory
+=== foo, bar **
+brutal
+distressing
+=== foo, bar **
+necessary
+need
+=== foo, bar **
+broadest
+excessive
+=== foo, bar **
+cheap
+horrible
+=== foo, bar **
+productive
+useful
+=== foo, bar **
+certain
+definite
+=== foo, bar **
+crazy
+psycho
+=== foo, bar **
+incredible
+right
+=== foo, bar **
+inadequate
+mediocre
+=== foo, bar **
+hospitable
+lovelier
+=== foo, bar **
+horrendous
+lethal
+=== foo, bar **
+honest
+sincere
+=== foo, bar **
+pointless
+ridiculous
+=== foo, bar **
+nervous
+overwhelmed
+=== foo, bar **
+random
+weird
+=== foo, bar **
+all-important
+sizeable
+=== foo, bar **
+fantastic
+impressive
+=== foo, bar **
+breathtaking
+exceptional
+=== foo, bar **
+odd
+remarkable
+=== foo, bar **
+delighted
+pleased
+=== foo, bar **
+beneficial
+incredible
+=== foo, bar **
+trivial
+unimportant
+=== foo, bar **
+detailed
+precise
+=== foo, bar **
+cute
+pretty
+=== foo, bar **
+marvelous
+positive
+=== foo, bar **
+easier
+simple
+=== foo, bar **
+frank
+honest
+=== foo, bar **
+fabulous
+incredible
+=== foo, bar **
+restless
+upset
+=== foo, bar **
+insignificant
+mild
+=== foo, bar **
+brief
+concise
+=== foo, bar **
+cute
+incredible
+=== foo, bar **
+awesome
+fine
+=== foo, bar **
+critical
+gravest
+=== foo, bar **
+convinced
+secure
+=== foo, bar **
+renowned
+well-known
+=== foo, bar **
+fitting
+guaranteed
+=== foo, bar **
+genuine
+honest
+=== foo, bar **
+impressive
+incredible
+=== foo, bar **
+critical
+graver
+=== foo, bar **
+daft
+unwise
+=== foo, bar **
+convenient
+simplest
+=== foo, bar **
+amazing
+terrific
+=== foo, bar **
+demented
+stir-crazy
+=== foo, bar **
+obvious
+visible
+=== foo, bar **
+goofy
+ludicrous
+=== foo, bar **
+incredible
+sweet
+=== foo, bar **
+bad
+horrendous
+=== foo, bar **
+daft
+idiot
+=== foo, bar **
+goofy
+stupid
+=== foo, bar **
+clarified
+specified
+=== foo, bar **
+gorgeous
+lovelier
+=== foo, bar **
+outstanding
+strong
+=== foo, bar **
+fine
+gorgeous
+=== foo, bar **
+dumb
+stupider
+=== foo, bar **
+better
+transparent
+=== foo, bar **
+bizarre
+odd
+=== foo, bar **
+hazardous
+unsafe
+=== foo, bar **
+gentle
+likable
+=== foo, bar **
+genuine
+honorable
+=== foo, bar **
+excellent
+superb
+=== foo, bar **
+rigorous
+stronger
+=== foo, bar **
+apparent
+known
+=== foo, bar **
+fair
+nessessary
+=== foo, bar **
+appropriate
+best
+=== foo, bar **
+flourishing
+profitable
+=== foo, bar **
+limited
+lowest
+=== foo, bar **
+enjoyable
+gentle
+=== foo, bar **
+particularly
+relevant
+=== foo, bar **
+fine
+finer
+=== foo, bar **
+desperate
+dire
+=== foo, bar **
+outstanding
+remarkable
+=== foo, bar **
+lovelier
+sweet
+=== foo, bar **
+brutal
+dreadful
+=== foo, bar **
+harsh
+rough
+=== foo, bar **
+interesting
+remarkable
+=== foo, bar **
+disappointing
+distressing
+=== foo, bar **
+disgusting
+ghastly
+=== foo, bar **
+defined
+specifically
+=== foo, bar **
+handsome
+nicer
+=== foo, bar **
+freaky
+frightening
+=== foo, bar **
+exceptional
+strong
+=== foo, bar **
+exceptional
+topnotch
+=== foo, bar **
+useful
+valuable
+=== foo, bar **
+huge
+immense
+=== foo, bar **
+perfect
+well
+=== foo, bar **
+likable
+sweet
+=== foo, bar **
+certain
+confident
+=== foo, bar **
+a-okay
+faultless
+=== foo, bar **
+dreadful
+tragic
+=== foo, bar **
+appropriate
+excellent
+=== foo, bar **
+formidable
+substantial
+=== foo, bar **
+dreadful
+lethal
+=== foo, bar **
+dreadful
+horrendous
+=== foo, bar **
+appropriate
+well-formed
+=== foo, bar **
+pleased
+positive
+=== foo, bar **
+cheesy
+stupid
+=== foo, bar **
+critical
+lethal
+=== foo, bar **
+rigorous
+stringent
+=== foo, bar **
+huge
+substantial
+=== foo, bar **
+indispensable
+pivotal
+=== foo, bar **
+considerable
+sizeable
+=== foo, bar **
+adequate
+guaranteed
+=== foo, bar **
+plenty
+vast
+=== foo, bar **
+outstanding
+superb
+=== foo, bar **
+useful
+vital
+=== foo, bar **
+inspiring
+marvellous
+=== foo, bar **
+faint
+little
+=== foo, bar **
+certain
+distinctive
+=== foo, bar **
+fucked
+preposterous
+=== foo, bar **
+limited
+meagre
+=== foo, bar **
+crazy
+twisted
+=== foo, bar **
+demented
+screwy
+=== foo, bar **
+fantastic
+magnificent
+=== foo, bar **
+brilliant
+incredible
+=== foo, bar **
+specific
+specifically
+=== foo, bar **
+finest
+immeasurable
+=== foo, bar **
+content
+satisfied
+=== foo, bar **
+lethal
+worst
+=== foo, bar **
+handsome
+lovelier
+=== foo, bar **
+foolish
+queer
+=== foo, bar **
+enjoyable
+yummy
+=== foo, bar **
+attractive
+fine
+=== foo, bar **
+childish
+ridiculous
+=== foo, bar **
+better
+fine
+=== foo, bar **
+definite
+secure
+=== foo, bar **
+immense
+sizeable
+=== foo, bar **
+awesome
+positive
+=== foo, bar **
+nuts
+stir-crazy
+=== foo, bar **
+fascinating
+incredible
+=== foo, bar **
+fruitful
+worthwhile
+=== foo, bar **
+urgent
+valuable
+=== foo, bar **
+accessible
+simplest
+=== foo, bar **
+advantageous
+valuable
+=== foo, bar **
+convenient
+reachable
+=== foo, bar **
+awkward
+embarrassing
+=== foo, bar **
+deep
+severe
+=== foo, bar **
+content
+pleased
+=== foo, bar **
+bizarre
+problematic
+=== foo, bar **
+faultless
+okay
+=== foo, bar **
+clever
+smarter
+=== foo, bar **
+ordinary
+understood
+=== foo, bar **
+severe
+violent
+=== foo, bar **
+remarkable
+righteous
+=== foo, bar **
+awesome
+perfect
+=== foo, bar **
+lovelier
+nicer
+=== foo, bar **
+immense
+overwhelming
+=== foo, bar **
+concise
+detailed
+=== foo, bar **
+handsome
+mild
+=== foo, bar **
+awesome
+beneficial
+=== foo, bar **
+strongest
+tougher
+=== foo, bar **
+principal
+significant
+=== foo, bar **
+remarkable
+satisfactory
+=== foo, bar **
+beautiful
+glorious
+=== foo, bar **
+a-okay
+perfect
+=== foo, bar **
+relevant
+useful
+=== foo, bar **
+distressing
+horrendous
+=== foo, bar **
+big
+immense
+=== foo, bar **
+correct
+fair
+=== foo, bar **
+affirmative
+precisely
+=== foo, bar **
+nicer
+sweet
+=== foo, bar **
+enormous
+substantial
+=== foo, bar **
+neat
+pure
+=== foo, bar **
+nuts
+psycho
+=== foo, bar **
+greater
+monumental
+=== foo, bar **
+fewer
+limited
+=== foo, bar **
+admirable
+beautiful
+=== foo, bar **
+brilliant
+remarkable
+=== foo, bar **
+indispensible
+useful
+=== foo, bar **
+beautiful
+fine
+=== foo, bar **
+clean
+neat
+=== foo, bar **
+ignorant
+unwise
+=== foo, bar **
+marvelous
+remarkable
+=== foo, bar **
+fantastic
+sweet
+=== foo, bar **
+fair
+heartfelt
+=== foo, bar **
+rewarding
+useful
+=== foo, bar **
+affirmative
+convinced
+=== foo, bar **
+certain
+specific
+=== foo, bar **
+amazing
+fascinating
+=== foo, bar **
+delighted
+overwhelmed
+=== foo, bar **
+atrocious
+lethal
+=== foo, bar **
+comforting
+lovelier
+=== foo, bar **
+insane
+wacko
+=== foo, bar **
+desirable
+right
+=== foo, bar **
+affirmative
+confident
+=== foo, bar **
+excellent
+exemplary
+=== foo, bar **
+clarified
+specifically
+=== foo, bar **
+fabulous
+marvelous
+=== foo, bar **
+handsome
+sweet
+=== foo, bar **
+awesome
+incredible
+=== foo, bar **
+incredible
+remarkable
+=== foo, bar **
+enormously
+monumental
+=== foo, bar **
+big
+broad
+=== foo, bar **
+sizeable
+tremendous
+=== foo, bar **
+insane
+mental
+=== foo, bar **
+critical
+relevant
+=== foo, bar **
+greater
+perfect
+=== foo, bar **
+engaged
+instrumental
+=== foo, bar **
+accessible
+convenient
+=== foo, bar **
+major
+substantial
+=== foo, bar **
+big
+greater
+=== foo, bar **
+awesome
+good
+=== foo, bar **
+accurate
+distinctive
+=== foo, bar **
+big
+extensive
+=== foo, bar **
+astonishing
+remarkable
+=== foo, bar **
+big
+heavy
+=== foo, bar **
+big
+strong
+=== foo, bar **
+appropriate
+relevant
+=== foo, bar **
+cute
+magnificent
+=== foo, bar **
+amazing
+fantastic
+=== foo, bar **
+awesome
+enjoyable
+=== foo, bar **
+big
+heavyset
+=== foo, bar **
+precarious
+ultra-hazardous
+=== foo, bar **
+overwhelming
+wide-ranging
+=== foo, bar **
+comprehensive
+global
+=== foo, bar **
+little
+weaker
+=== foo, bar **
+topical
+useful
+=== foo, bar **
+overwhelming
+vast
+=== foo, bar **
+detailed
+developed
+=== foo, bar **
+fantastic
+finest
+=== foo, bar **
+pivotal
+valuable
+=== foo, bar **
+primary
+seminal
+=== foo, bar **
+defined
+particularly
+=== END

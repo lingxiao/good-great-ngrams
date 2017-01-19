@@ -1,0 +1,61 @@
+=== foo, bar **
+deep
+severe
+=== foo, bar **
+content
+pleased
+=== foo, bar **
+bizarre
+problematic
+=== foo, bar **
+faultless
+okay
+=== foo, bar **
+clever
+smarter
+=== foo, bar **
+ordinary
+understood
+=== foo, bar **
+severe
+violent
+=== foo, bar **
+remarkable
+righteous
+=== foo, bar **
+awesome
+perfect
+=== foo, bar **
+lovelier
+nicer
+=== foo, bar **
+immense
+overwhelming
+=== foo, bar **
+concise
+detailed
+=== foo, bar **
+handsome
+mild
+=== foo, bar **
+awesome
+beneficial
+=== foo, bar **
+strongest
+tougher
+=== foo, bar **
+principal
+significant
+=== foo, bar **
+remarkable
+satisfactory
+=== foo, bar **
+beautiful
+glorious
+=== foo, bar **
+a-okay
+perfect
+=== foo, bar **
+relevant
+useful
+=== END

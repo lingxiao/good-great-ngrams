@@ -1,0 +1,53 @@
+=== strong
+
+* (,) very <*>
+
+not (a|an|the) * but <*> enough
+
+* unbelievably <*> 
+
+* not even <*>
+
+* but still very <*>
+
+<*> even (a|an|the) *
+
+<*> if not (a|an|the) * 
+
+<*> almost (a|an|the) *
+
+<*> perhaps (a|an|the) *
+
+is (a|an|the) <*> but not (a|an|the) * 
+
+are (a|an|the) <*> but not *
+
+<*> sometimes (a|an|the) *
+
+=== weak
+
+<*> (,) very *
+
+not (a|an|the) <*> but * enough
+
+<*> unbelievably * 
+
+<*> not even *
+
+<*> but still very *
+
+* even (a|an|the) <*>
+
+* if not (a|an|the) <*> 
+
+* almost (a|an|the) <*>
+
+* perhaps (a|an|the) <*>
+
+is (a|an|the) * but not (a|an|the) <*> 
+
+are (a|an|the) * but not <*>
+
+* sometimes (a|an|the) <*>
+
+=== END

@@ -1,0 +1,61 @@
+=== foo, bar **
+heavy
+severe
+=== foo, bar **
+crucial
+vital
+=== foo, bar **
+desirable
+helpful
+=== foo, bar **
+excellent
+fine
+=== foo, bar **
+apt
+justified
+=== foo, bar **
+dreadful
+worst
+=== foo, bar **
+bizarre
+incorrect
+=== foo, bar **
+bright
+prominent
+=== foo, bar **
+excellent
+remarkable
+=== foo, bar **
+relevant
+topical
+=== foo, bar **
+amazing
+elegant
+=== foo, bar **
+awesome
+big
+=== foo, bar **
+inadequate
+lacklustre
+=== foo, bar **
+confused
+upset
+=== foo, bar **
+breathtaking
+spectacular
+=== foo, bar **
+poor
+scarce
+=== foo, bar **
+faultless
+well
+=== foo, bar **
+perfect
+shipshape
+=== foo, bar **
+less
+scarce
+=== foo, bar **
+all-important
+formidable
+=== END

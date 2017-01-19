@@ -1,0 +1,61 @@
+=== foo, bar **
+better
+good
+=== foo, bar **
+huge
+large-scale
+=== foo, bar **
+distressing
+painful
+=== foo, bar **
+remarkable
+visible
+=== foo, bar **
+logical
+routine
+=== foo, bar **
+asinine
+insane
+=== foo, bar **
+enjoyable
+outstanding
+=== foo, bar **
+secure
+trusted
+=== foo, bar **
+hazardous
+ultra-hazardous
+=== foo, bar **
+desirable
+preferable
+=== foo, bar **
+convenient
+fortunate
+=== foo, bar **
+noteworthy
+remarkable
+=== foo, bar **
+potent
+strongest
+=== foo, bar **
+beautiful
+elegant
+=== foo, bar **
+few
+scarce
+=== foo, bar **
+cute
+lovelier
+=== foo, bar **
+bad
+severe
+=== foo, bar **
+bad
+ghastly
+=== foo, bar **
+relevant
+worthwhile
+=== foo, bar **
+overwhelming
+sizeable
+=== END

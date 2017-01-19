@@ -1,0 +1,61 @@
+=== foo, bar **
+flagrant
+visible
+=== foo, bar **
+plenty
+significant
+=== foo, bar **
+beneficial
+efficient
+=== foo, bar **
+satisfactory
+successfully
+=== foo, bar **
+frank
+open
+=== foo, bar **
+cute
+superb
+=== foo, bar **
+dopey
+stupid
+=== foo, bar **
+intense
+powerful
+=== foo, bar **
+certain
+trusted
+=== foo, bar **
+bigger
+monumental
+=== foo, bar **
+excellent
+incredible
+=== foo, bar **
+better
+exceptional
+=== foo, bar **
+elegant
+superb
+=== foo, bar **
+incorrect
+unsatisfactory
+=== foo, bar **
+fascinating
+wonderful
+=== foo, bar **
+easy
+simplest
+=== foo, bar **
+demented
+nuts
+=== foo, bar **
+comprehensive
+enormous
+=== foo, bar **
+enormous
+tremendous
+=== foo, bar **
+best
+positive
+=== END

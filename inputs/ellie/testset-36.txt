@@ -1,0 +1,61 @@
+=== foo, bar **
+fucked
+insane
+=== foo, bar **
+appropriate
+perfect
+=== foo, bar **
+disappointing
+unlucky
+=== foo, bar **
+marvelous
+sweet
+=== foo, bar **
+big
+far-reaching
+=== foo, bar **
+best
+outstanding
+=== foo, bar **
+flourishing
+valuable
+=== foo, bar **
+principal
+vital
+=== foo, bar **
+powerful
+substantial
+=== foo, bar **
+noteworthy
+useful
+=== foo, bar **
+authoritative
+true
+=== foo, bar **
+interesting
+valuable
+=== foo, bar **
+confident
+precisely
+=== foo, bar **
+best
+nessessary
+=== foo, bar **
+breathtaking
+topnotch
+=== foo, bar **
+precisely
+yes
+=== foo, bar **
+fantastic
+special
+=== foo, bar **
+awful
+bad
+=== foo, bar **
+colossal
+formidable
+=== foo, bar **
+lovelier
+mild
+=== END

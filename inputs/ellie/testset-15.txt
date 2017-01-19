@@ -1,0 +1,61 @@
+=== foo, bar **
+astonishing
+fantastic
+=== foo, bar **
+limited
+rare
+=== foo, bar **
+dainty
+fine
+=== foo, bar **
+marvelous
+nessessary
+=== foo, bar **
+insane
+stir-crazy
+=== foo, bar **
+convenient
+opportune
+=== foo, bar **
+marvelous
+terrific
+=== foo, bar **
+primary
+principal
+=== foo, bar **
+aroused
+overjoyed
+=== foo, bar **
+simple
+simplest
+=== foo, bar **
+intact
+sound
+=== foo, bar **
+large-scale
+sizeable
+=== foo, bar **
+fine
+handsome
+=== foo, bar **
+dreadful
+horrible
+=== foo, bar **
+bright
+lovely
+=== foo, bar **
+crazy
+fucked
+=== foo, bar **
+better
+desirable
+=== foo, bar **
+gravest
+life-threatening
+=== foo, bar **
+cute
+nicer
+=== foo, bar **
+certain
+convinced
+=== END

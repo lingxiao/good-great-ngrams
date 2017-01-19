@@ -1,0 +1,61 @@
+=== foo, bar **
+awesome
+remarkable
+=== foo, bar **
+demented
+psycho
+=== foo, bar **
+distressing
+horrific
+=== foo, bar **
+marvelous
+satisfactory
+=== foo, bar **
+brutal
+distressing
+=== foo, bar **
+necessary
+need
+=== foo, bar **
+broadest
+excessive
+=== foo, bar **
+cheap
+horrible
+=== foo, bar **
+productive
+useful
+=== foo, bar **
+certain
+definite
+=== foo, bar **
+crazy
+psycho
+=== foo, bar **
+incredible
+right
+=== foo, bar **
+inadequate
+mediocre
+=== foo, bar **
+hospitable
+lovelier
+=== foo, bar **
+horrendous
+lethal
+=== foo, bar **
+honest
+sincere
+=== foo, bar **
+pointless
+ridiculous
+=== foo, bar **
+nervous
+overwhelmed
+=== foo, bar **
+random
+weird
+=== foo, bar **
+all-important
+sizeable
+=== END

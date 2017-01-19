@@ -4,9 +4,9 @@
 # Author  : Xiao Ling
 ############################################################
 
+import os
 import re
 import datetime
-from pulp    import *
 
 from prelude import * 
 from utils   import *
@@ -19,37 +19,115 @@ from copy    import deepcopy
 # Initialize application 
 ############################################################
 
-root   = "/Users/lingxiao/Documents/research/code/good-great"
-# data   = "/Users/lingxiao/Documents/research/data/ngrams/"
-data   = os.path.join(root, 'ngrams/')
+############################################################
+# Module  : Applicaton Main
+# Date    : November 14th
+# Author  : Xiao Ling
+############################################################
 
-app    = App(root
+import re
+import datetime
+
+
+from prelude import * 
+from utils   import *
+from server  import * 
+from client  import * 
+from app     import * 
+from copy    import deepcopy
+
+############################################################
+# Initialize application 
+############################################################
+
+root   = "/Users/lingxiao/Documents/research/code/good-great-ngrams"
+data   = "/Users/lingxiao/Documents/research/data/ngrams/"
+
+
+
+app36   = App(root
             ,data
             ,'one-sided-patterns'
             ,'two-sided-patterns'
-            ,'testset')
+            ,'/ellie/testset-36')
 
-ngram  = app.NGRAM
-one    = app.OneSided
-two    = app.TwoSided
 
-app.to_one_sided()
+app35   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-35')
 
-# read_test :: FilePath -> IO [String]
-# def read_test(path):
+app34   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-34')
 
-# path  = '/Users/lingxiao/Documents/research/code/good-great/inputs/testset.txt'
+app33   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-33')
 
-# raw = [r for r in open(path,'r').read().split('=== ') if r]
-# raw = [r.split('\n')[0:-1] for r in raw]
-# raw = [r for r in raw if r][0:-1]
+app32   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-32')
 
-# test = []
 
-# for xs in raw:
-# 	u,v = xs[0].split(', ')
-# 	ys  = [x.split(', ') for x in xs[1:]]
-# 	test.append((u,v,ys))
+
+
+
+app37   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-37')
+
+app31   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-31')
+
+
+app30   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-30')
+
+
+app29   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-29')
+
+
+app28   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-28')
+
+
+app27   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-27')
+
+
+app26   = App(root
+            ,data
+            ,'one-sided-patterns'
+            ,'two-sided-patterns'
+            ,'/ellie/testset-26')
+
+# app.to_one_sided()
 
 ############################################################
 # run all experiments

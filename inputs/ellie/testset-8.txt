@@ -1,0 +1,61 @@
+=== foo, bar **
+major
+primary
+=== foo, bar **
+amazing
+spectacular
+=== foo, bar **
+curious
+odd
+=== foo, bar **
+indispensible
+significant
+=== foo, bar **
+right
+vital
+=== foo, bar **
+good
+perfect
+=== foo, bar **
+dumb
+stupid
+=== foo, bar **
+huge
+overwhelming
+=== foo, bar **
+active
+aggressive
+=== foo, bar **
+beautiful
+magnificent
+=== foo, bar **
+beneficial
+right
+=== foo, bar **
+delighted
+excited
+=== foo, bar **
+dynamic
+instrumental
+=== foo, bar **
+best
+incredible
+=== foo, bar **
+few
+rare
+=== foo, bar **
+live
+real
+=== foo, bar **
+big
+overwhelming
+=== foo, bar **
+enormously
+greater
+=== foo, bar **
+disappointing
+unfortunate
+=== foo, bar **
+excited
+happy
+=== END

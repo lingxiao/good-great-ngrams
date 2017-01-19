@@ -1,0 +1,61 @@
+=== foo, bar **
+confused
+uncomfortable
+=== foo, bar **
+transparent
+understood
+=== foo, bar **
+satisfactory
+wonderful
+=== foo, bar **
+excited
+pleased
+=== foo, bar **
+first-class
+superb
+=== foo, bar **
+confusing
+spooky
+=== foo, bar **
+formidable
+overwhelming
+=== foo, bar **
+best
+satisfactory
+=== foo, bar **
+elegant
+glorious
+=== foo, bar **
+little
+mild
+=== foo, bar **
+heartfelt
+honorable
+=== foo, bar **
+prominent
+visible
+=== foo, bar **
+incorrect
+unfavourable
+=== foo, bar **
+exemplary
+magnificent
+=== foo, bar **
+atrocious
+dreadful
+=== foo, bar **
+fair
+well-formed
+=== foo, bar **
+honest
+honorable
+=== foo, bar **
+excited
+overwhelmed
+=== foo, bar **
+dopey
+stupider
+=== foo, bar **
+global
+universal
+=== END

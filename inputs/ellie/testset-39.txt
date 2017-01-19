@@ -1,0 +1,61 @@
+=== foo, bar **
+fitting
+guaranteed
+=== foo, bar **
+genuine
+honest
+=== foo, bar **
+impressive
+incredible
+=== foo, bar **
+critical
+graver
+=== foo, bar **
+daft
+unwise
+=== foo, bar **
+convenient
+simplest
+=== foo, bar **
+amazing
+terrific
+=== foo, bar **
+demented
+stir-crazy
+=== foo, bar **
+obvious
+visible
+=== foo, bar **
+goofy
+ludicrous
+=== foo, bar **
+incredible
+sweet
+=== foo, bar **
+bad
+horrendous
+=== foo, bar **
+daft
+idiot
+=== foo, bar **
+goofy
+stupid
+=== foo, bar **
+clarified
+specified
+=== foo, bar **
+gorgeous
+lovelier
+=== foo, bar **
+outstanding
+strong
+=== foo, bar **
+fine
+gorgeous
+=== foo, bar **
+dumb
+stupider
+=== foo, bar **
+better
+transparent
+=== END

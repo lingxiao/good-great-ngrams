@@ -1,0 +1,118 @@
+=== strong-weak
+
+not (a|an|the|as) * (,) just (a|an|the|as) *
+
+not (a|an|the|as) * (,) but just (a|an|the|as) *
+
+not (a|an|the|as) * (,) still (a|an|the|as) * 
+
+not (a|an|the|as) * (,) but still (a|an|the|as) *
+
+not (a|an|the|as) * (,) although still (a|an|the|as) *
+
+not (a|an|the|as) * (,) though still (a|an|the|as) * 
+
+
+
+
+not <*> * (,) just (a|an|the|as) *
+
+not <*> * (,) but just (a|an|the|as) *
+
+not <*> * (,) still (a|an|the|as) * 
+
+not <*> * (,) but still (a|an|the|as) *
+
+not <*> * (,) although still (a|an|the|as) *
+
+not <*> * (,) though still (a|an|the|as) * 
+
+
+not <*> * but * enough
+
+not (a|an|the|as) * but * enough
+
+not (a|an|the|as) * but (maybe|perhaps|could be|should be|can be|will be) * enough
+
+not <*> * but (maybe|perhaps|could be|should be|can be|will be) * enough
+* unbelievably *
+
+* not even *
+
+* (,) (and) strictly (a|an|as|the) * 
+
+
+
+
+* (,) but not completely * 
+* (,) too *
+
+
+=== weak-strong
+
+* (,) and * 
+
+
+
+
+* (,) but not (a|an|the|as) *
+
+* (,) if not (a|an|the|as) *
+
+* (,) although not (a|an|the|as) *
+
+* (,) though not (a|an|the|as) *
+
+* (,) (and|or) even (a|an|the|as) *
+
+* (,) (and|or) almost (a|an|the|as) *
+
+not (just|only) * (,) but (also) *
+
+* <*> (,) but not (a|an|the|as) *
+
+* <*> (,) if not (a|an|the|as) *
+
+* <*> (,) although not (a|an|the|as) *
+
+* <*> (,) though not (a|an|the|as) *
+
+* <*> (,) (and|or) even (a|an|the|as) *
+
+* <*> (,) (and|or) almost (a|an|the|as) *
+
+not (just|only) * <*> (,) but *
+
+not (just|only) <*> * (,) but *
+
+* (,) but nowhere (a|an|the|as) * 
+
+* (,) enough to be (a|an|the|as) *
+
+* (,) (and|or) very *
+
+* (,) (and|or) otherwise *
+
+* (,) (and|or) become *
+
+very * (and|or) totally *
+
+* (,) yet still (a|an|the|as) *
+
+* (,) (and|or) easily *
+
+* (,) (and|or) fully *
+
+* (,) (and|or) outright * 
+
+* <*> (,) but not * 
+
+* <*> <*> (,) but not * 
+
+* (,) (and|or) possibly (a|an|the|as) * 
+
+* <*> (,) (and|or) possibly (an|an|the|as) *
+
+
+=== END
+

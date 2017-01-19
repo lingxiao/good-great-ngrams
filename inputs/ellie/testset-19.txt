@@ -1,0 +1,61 @@
+=== foo, bar **
+beneficial
+terrific
+=== foo, bar **
+limited
+scant
+=== foo, bar **
+huge
+sizeable
+=== foo, bar **
+incorrect
+strange
+=== foo, bar **
+cute
+horny
+=== foo, bar **
+diverse
+multifaceted
+=== foo, bar **
+prominent
+significant
+=== foo, bar **
+detailed
+specific
+=== foo, bar **
+disappointing
+hopeless
+=== foo, bar **
+horrible
+lamentable
+=== foo, bar **
+beautiful
+handsome
+=== foo, bar **
+attractive
+wonderful
+=== foo, bar **
+cute
+loveable
+=== foo, bar **
+dumber
+senseless
+=== foo, bar **
+breathtaking
+remarkable
+=== foo, bar **
+comforting
+hospitable
+=== foo, bar **
+disturbing
+worst
+=== foo, bar **
+right
+well-formed
+=== foo, bar **
+fair
+true
+=== foo, bar **
+exquisite
+marvellous
+=== END

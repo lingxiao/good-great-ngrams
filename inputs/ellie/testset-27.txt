@@ -1,0 +1,61 @@
+=== foo, bar **
+nessessary
+right
+=== foo, bar **
+enjoyable
+fantastic
+=== foo, bar **
+perfect
+remarkable
+=== foo, bar **
+mental
+psycho
+=== foo, bar **
+nice
+satisfactory
+=== foo, bar **
+brutal
+foul
+=== foo, bar **
+far-reaching
+substantial
+=== foo, bar **
+senseless
+unwise
+=== foo, bar **
+prodigious
+sizeable
+=== foo, bar **
+outstanding
+satisfactory
+=== foo, bar **
+cute
+handsome
+=== foo, bar **
+cute
+fantastic
+=== foo, bar **
+ghastly
+painful
+=== foo, bar **
+defined
+specific
+=== foo, bar **
+idiot
+unwise
+=== foo, bar **
+cool
+magic
+=== foo, bar **
+demented
+mental
+=== foo, bar **
+naughty
+unfair
+=== foo, bar **
+noteworthy
+relevant
+=== foo, bar **
+outstanding
+special
+=== END

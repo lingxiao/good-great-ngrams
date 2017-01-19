@@ -1,0 +1,61 @@
+=== foo, bar **
+finest
+immeasurable
+=== foo, bar **
+content
+satisfied
+=== foo, bar **
+lethal
+worst
+=== foo, bar **
+handsome
+lovelier
+=== foo, bar **
+foolish
+queer
+=== foo, bar **
+enjoyable
+yummy
+=== foo, bar **
+attractive
+fine
+=== foo, bar **
+childish
+ridiculous
+=== foo, bar **
+better
+fine
+=== foo, bar **
+definite
+secure
+=== foo, bar **
+immense
+sizeable
+=== foo, bar **
+awesome
+positive
+=== foo, bar **
+nuts
+stir-crazy
+=== foo, bar **
+fascinating
+incredible
+=== foo, bar **
+fruitful
+worthwhile
+=== foo, bar **
+urgent
+valuable
+=== foo, bar **
+accessible
+simplest
+=== foo, bar **
+advantageous
+valuable
+=== foo, bar **
+convenient
+reachable
+=== foo, bar **
+awkward
+embarrassing
+=== END

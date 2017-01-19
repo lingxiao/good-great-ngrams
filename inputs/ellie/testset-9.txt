@@ -1,0 +1,61 @@
+=== foo, bar **
+better
+easier
+=== foo, bar **
+hazardous
+treacherous
+=== foo, bar **
+available
+distributed
+=== foo, bar **
+effective
+fruitful
+=== foo, bar **
+apt
+correct
+=== foo, bar **
+formidable
+huge
+=== foo, bar **
+foolish
+idiot
+=== foo, bar **
+interesting
+strange
+=== foo, bar **
+brighter
+good
+=== foo, bar **
+distressing
+unfortunate
+=== foo, bar **
+available
+widespread
+=== foo, bar **
+awesome
+marvelous
+=== foo, bar **
+cute
+hot
+=== foo, bar **
+crazy
+ludicrous
+=== foo, bar **
+perfect
+right
+=== foo, bar **
+confident
+trusted
+=== foo, bar **
+cute
+elegant
+=== foo, bar **
+cheerful
+fortunate
+=== foo, bar **
+awesome
+right
+=== foo, bar **
+high
+outstanding
+=== END

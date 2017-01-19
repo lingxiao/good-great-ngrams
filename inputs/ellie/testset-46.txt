@@ -1,0 +1,61 @@
+=== foo, bar **
+affirmative
+convinced
+=== foo, bar **
+certain
+specific
+=== foo, bar **
+amazing
+fascinating
+=== foo, bar **
+delighted
+overwhelmed
+=== foo, bar **
+atrocious
+lethal
+=== foo, bar **
+comforting
+lovelier
+=== foo, bar **
+insane
+wacko
+=== foo, bar **
+desirable
+right
+=== foo, bar **
+affirmative
+confident
+=== foo, bar **
+excellent
+exemplary
+=== foo, bar **
+clarified
+specifically
+=== foo, bar **
+fabulous
+marvelous
+=== foo, bar **
+handsome
+sweet
+=== foo, bar **
+awesome
+incredible
+=== foo, bar **
+incredible
+remarkable
+=== foo, bar **
+enormously
+monumental
+=== foo, bar **
+big
+broad
+=== foo, bar **
+sizeable
+tremendous
+=== foo, bar **
+insane
+mental
+=== foo, bar **
+critical
+relevant
+=== END

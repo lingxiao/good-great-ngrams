@@ -1,0 +1,22 @@
+=== foo, bar **
+topical
+useful
+=== foo, bar **
+overwhelming
+vast
+=== foo, bar **
+detailed
+developed
+=== foo, bar **
+fantastic
+finest
+=== foo, bar **
+pivotal
+valuable
+=== foo, bar **
+primary
+seminal
+=== foo, bar **
+defined
+particularly
+=== END

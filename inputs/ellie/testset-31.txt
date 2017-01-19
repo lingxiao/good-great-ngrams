@@ -1,0 +1,61 @@
+=== foo, bar **
+crazy
+perverse
+=== foo, bar **
+amazing
+incredible
+=== foo, bar **
+delirious
+rogue
+=== foo, bar **
+ggood
+outstanding
+=== foo, bar **
+unfair
+wrong
+=== foo, bar **
+appropriate
+preferable
+=== foo, bar **
+awesome
+beautiful
+=== foo, bar **
+colossal
+overwhelming
+=== foo, bar **
+big
+substantial
+=== foo, bar **
+magnificent
+positive
+=== foo, bar **
+endemic
+wider
+=== foo, bar **
+okay
+perfect
+=== foo, bar **
+expensive
+valuable
+=== foo, bar **
+familiar
+renowned
+=== foo, bar **
+genuine
+sincerely
+=== foo, bar **
+comprehensive
+defined
+=== foo, bar **
+cute
+lovely
+=== foo, bar **
+justified
+right
+=== foo, bar **
+fair
+positive
+=== foo, bar **
+fantastic
+perfect
+=== END

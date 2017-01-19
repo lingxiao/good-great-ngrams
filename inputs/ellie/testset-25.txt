@@ -1,0 +1,61 @@
+=== foo, bar **
+awesome
+sweet
+=== foo, bar **
+fabulous
+hot
+=== foo, bar **
+treacherous
+unsafe
+=== foo, bar **
+foolish
+ignorant
+=== foo, bar **
+rigorous
+severe
+=== foo, bar **
+excited
+exquisite
+=== foo, bar **
+excited
+nervous
+=== foo, bar **
+exciting
+remarkable
+=== foo, bar **
+increased
+substantial
+=== foo, bar **
+restless
+unhappy
+=== foo, bar **
+positive
+terrific
+=== foo, bar **
+dumber
+foolish
+=== foo, bar **
+psycho
+stir-crazy
+=== foo, bar **
+fruitful
+useful
+=== foo, bar **
+active
+intense
+=== foo, bar **
+bizarre
+crazy
+=== foo, bar **
+aroused
+excited
+=== foo, bar **
+precise
+specified
+=== foo, bar **
+all-important
+overwhelming
+=== foo, bar **
+advantageous
+useful
+=== END

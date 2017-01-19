@@ -1,0 +1,61 @@
+=== foo, bar **
+bright
+clever
+=== foo, bar **
+insubstantial
+sparse
+=== foo, bar **
+awesome
+outstanding
+=== foo, bar **
+best
+desirable
+=== foo, bar **
+beautiful
+hot
+=== foo, bar **
+cute
+wonderful
+=== foo, bar **
+limited
+minuscule
+=== foo, bar **
+big
+enormously
+=== foo, bar **
+nonsense
+stupider
+=== foo, bar **
+productive
+relevant
+=== foo, bar **
+huge
+major
+=== foo, bar **
+awesome
+impressive
+=== foo, bar **
+affordable
+universal
+=== foo, bar **
+awesome
+exemplary
+=== foo, bar **
+critical
+right
+=== foo, bar **
+lovely
+superb
+=== foo, bar **
+good
+superior
+=== foo, bar **
+potent
+rigorous
+=== foo, bar **
+minuscule
+smaller
+=== foo, bar **
+hot
+incredible
+=== END

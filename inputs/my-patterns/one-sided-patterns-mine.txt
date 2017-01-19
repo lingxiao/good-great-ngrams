@@ -1,0 +1,102 @@
+=== strong
+
+<*> (,) (and|or) almost (a|an|the|as) *
+(and|or) almost (a|an|the|as) *
+almost (a|an|the|as) *
+<*> (,) but not (a|an|the|as) *
+but not (a|an|the|as) *
+<*> (,) if not (a|an|the|as) *
+if not (a|an|the|as) *
+<*> (,) although not (a|an|the|as) *
+although not (a|an|the|as) *
+<*> (,) though not (a|an|the|as) *
+though not (a|an|the|as) *
+<*> (,) (and|or) even (a|an|the|as) *
+(and|or) even (a|an|the|as) *
+even (a|an|the|as) *
+not only <*> (,) but (also) *
+not just <*> (,) but (also) *
+not (a|an|the|as) * (,) just (a|an|the) <*>
+not (a|an|the|as) * (,) but just (a|an|the) <*>
+not (a|an|the|as) * (,) still (a|an|the) <*> 
+not (a|an|the|as) * (,) but still (a|an|the) <*>
+* (,) or very <*>
+not (a|an|the|as) * but (maybe|perhaps|could be|should be|can be|will be) <*> enough
+not (a|an|the|as) * but <*> enough
+* unbelievably <*>
+* not even <*>
+not (a|an|the|as) * (,) although still (a|an|the|as) <*>
+not (a|an|the|as) * (,) though still (a|an|the|as) <*> 
+not <*> * (,) although still (a|an|the|as) <*>
+not <*> * (,) though still (a|an|the|as) <*> 
+not <*> * but <*> enough
+not (a|an|the|as) * but <*> enough
+not (a|an|the|as) * but (maybe|perhaps|could be|should be|can be|will be) <*> enough
+not <*> * but (maybe|perhaps|could be|should be|can be|will be) <*> enough
+<*> (,) but not (a|an|the|as) *
+<*> (,) although not (a|an|the|as) *
+<*> (,) though not (a|an|the|as) *
+<*> <*> (,) but not (a|an|the|as) *
+<*> <*> (,) if not (a|an|the|as) *
+<*> <*> (,) although not (a|an|the|as) *
+<*> <*> (,) though not (a|an|the|as) *
+<*> <*> (,) (and|or) almost (a|an|the|as) *
+not (just|only) <*> <*> (,) but *
+<*> (,) but nowhere (a|an|the|as) * 
+<*> (,) enough to be (a|an|the|as) *
+very <*> (and|or) totally *
+<*> (,) yet still (a|an|the|as) *
+<*> (,) (and|or) easily *
+<*> (,) (and|or) outright * 
+<*> <*> (,) but not * 
+<*> <*> <*> (,) but not * 
+<*> <*> (,) (and|or) possibly (an|an|the|as) *
+<*> (,) (and|or) so *
+
+=== weak
+
+* (,) (and|or) so <*>
+* <*> (,) (and|or) possibly (an|an|the|as) <*>
+* <*> <*> (,) but not <*> 
+* <*> (,) but not <*> 
+* (,) (and|or) outright <*> 
+* (,) (and|or) easily <*>
+* (,) yet still (a|an|the|as) <*>
+very * (and|or) totally <*>
+* (,) enough to be (a|an|the|as) <*>
+* (,) but nowhere (a|an|the|as) <*> 
+not (just|only) * <*> (,) but <*>
+* <*> (,) (and|or) almost (a|an|the|as) <*>
+* <*> (,) though not (a|an|the|as) <*>
+* <*> (,) but not (a|an|the|as) <*>
+* <*> (,) if not (a|an|the|as) <*>
+* <*> (,) although not (a|an|the|as) <*>
+* (,) but not (a|an|the|as) <*>
+* (,) although not (a|an|the|as) <*>
+* (,) though not (a|an|the|as) <*>
+not (a|an|the|as) <*> (,) although still (a|an|the|as) *
+not (a|an|the|as) <*> (,) though still (a|an|the|as) * 
+not <*> <*> (,) although still (a|an|the|as) *
+not <*> <*> (,) though still (a|an|the|as) * 
+not <*> <*> but * enough
+not (a|an|the|as) <*> but * enough
+not (a|an|the|as) <*> but (maybe|perhaps|could be|should be|can be|will be) * enough
+not <*> <*> but (maybe|perhaps|could be|should be|can be|will be) * enough
+* (,) (and|or) almost (a|an|the|as) <*>
+* (,) but not (a|an|the|as) <*>
+* (,) if not (a|an|the|as) <*>
+* (,) although not (a|an|the|as) <*>
+* (,) though not (a|an|the|as) <*>
+* (,) (and|or) even (a|an|the|as) <*>
+not only * (,) but (also) <*>
+not just * (,) but (also) <*>
+not (a|an|the|as) <*> (,) just (a|an|the) *
+not (a|an|the|as) <*> (,) but just (a|an|the) *
+not (a|an|the|as) <*> (,) still (a|an|the) * 
+not (a|an|the|as) <*> (,) but still (a|an|the) *
+<*> (,) or very *
+or very *
+not (a|an|the|as) <*> but (maybe|perhaps|could be|should be|can be|will be) * enough
+not (a|an|the|as) <*> but * enough
+<*> unbelievably *
+<*> not even *

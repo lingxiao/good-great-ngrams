@@ -1,0 +1,61 @@
+=== foo, bar **
+accessible
+open
+=== foo, bar **
+heartfelt
+honest
+=== foo, bar **
+interesting
+perfect
+=== foo, bar **
+confused
+overwhelmed
+=== foo, bar **
+gentle
+lovelier
+=== foo, bar **
+valuable
+vital
+=== foo, bar **
+beautiful
+fairest
+=== foo, bar **
+ultra-hazardous
+unsafe
+=== foo, bar **
+perfect
+seamless
+=== foo, bar **
+insane
+nuts
+=== foo, bar **
+delightful
+fascinating
+=== foo, bar **
+satisfactory
+successful
+=== foo, bar **
+brilliant
+marvelous
+=== foo, bar **
+excited
+jumpy
+=== foo, bar **
+concise
+succinct
+=== foo, bar **
+larger
+powerful
+=== foo, bar **
+immense
+large-scale
+=== foo, bar **
+prominent
+remarkable
+=== foo, bar **
+distressing
+sad
+=== foo, bar **
+cheesy
+ridiculous
+=== END

@@ -1,0 +1,61 @@
+=== foo, bar **
+exciting
+interesting
+=== foo, bar **
+jumpy
+overwhelmed
+=== foo, bar **
+advantageous
+worthwhile
+=== foo, bar **
+awesome
+breathtaking
+=== foo, bar **
+brief
+succinct
+=== foo, bar **
+bad
+terrible
+=== foo, bar **
+meaningful
+true
+=== foo, bar **
+little
+scarce
+=== foo, bar **
+confident
+convinced
+=== foo, bar **
+crazy
+demented
+=== foo, bar **
+best
+right
+=== foo, bar **
+dreadful
+heinous
+=== foo, bar **
+attractive
+cute
+=== foo, bar **
+competent
+impressive
+=== foo, bar **
+faint
+weaker
+=== foo, bar **
+interesting
+meaningful
+=== foo, bar **
+fine
+pretty
+=== foo, bar **
+ludicrous
+queer
+=== foo, bar **
+incredible
+special
+=== foo, bar **
+rational
+reasonnable
+=== END

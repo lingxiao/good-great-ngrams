@@ -3,6 +3,7 @@ from .markov_probs     import *
 from .score            import *
 from .to_rank          import *
 from .evaluation       import * 
+from .parse_pattern    import *
 
 from .milp            import *
 from .markov_absolute import *
@@ -10,7 +11,8 @@ from .markov_derive   import *
 from .markov_ilp      import *
 from .markov_milp     import *
 
-__all__ = [ "tau"
+__all__ = [ 'parse_pattern'
+          , "tau"
           , 'tau2'
           ,  "pairwise_accuracy"
           , 'rank_pairwise'

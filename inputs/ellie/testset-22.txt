@@ -1,0 +1,61 @@
+=== foo, bar **
+crucial
+indispensible
+=== foo, bar **
+gentle
+nicer
+=== foo, bar **
+inadequate
+meagre
+=== foo, bar **
+helpful
+thoughtful
+=== foo, bar **
+breathtaking
+special
+=== foo, bar **
+achievable
+convenient
+=== foo, bar **
+obvious
+straightforward
+=== foo, bar **
+daft
+dumber
+=== foo, bar **
+substantial
+vast
+=== foo, bar **
+amazing
+perfect
+=== foo, bar **
+fantastic
+nicer
+=== foo, bar **
+defined
+particular
+=== foo, bar **
+live
+reality
+=== foo, bar **
+leading
+principal
+=== foo, bar **
+insignificant
+smaller
+=== foo, bar **
+effective
+profitable
+=== foo, bar **
+overwhelming
+remarkable
+=== foo, bar **
+lengthy
+long-standing
+=== foo, bar **
+interesting
+marvelous
+=== foo, bar **
+perfect
+special
+=== END

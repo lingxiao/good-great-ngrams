@@ -1,0 +1,61 @@
+=== foo, bar **
+comforting
+handsome
+=== foo, bar **
+excellent
+outstanding
+=== foo, bar **
+crucial
+relevant
+=== foo, bar **
+cool
+cute
+=== foo, bar **
+easier
+effective
+=== foo, bar **
+fine
+fitting
+=== foo, bar **
+colossal
+sizeable
+=== foo, bar **
+certain
+precisely
+=== foo, bar **
+rigorous
+tougher
+=== foo, bar **
+derisory
+senseless
+=== foo, bar **
+frightening
+spooky
+=== foo, bar **
+excellent
+satisfactory
+=== foo, bar **
+bizarre
+unusual
+=== foo, bar **
+crazy
+insane
+=== foo, bar **
+dumber
+unwise
+=== foo, bar **
+endemic
+large
+=== foo, bar **
+thicker
+wider
+=== foo, bar **
+crazy
+preposterous
+=== foo, bar **
+fancy
+neat
+=== foo, bar **
+interesting
+wonderful
+=== END

@@ -1,0 +1,61 @@
+=== foo, bar **
+interesting
+odd
+=== foo, bar **
+asinine
+crazy
+=== foo, bar **
+all-important
+major
+=== foo, bar **
+endemic
+wide-ranging
+=== foo, bar **
+familiar
+recognised
+=== foo, bar **
+remarkable
+terrific
+=== foo, bar **
+admirable
+wonderful
+=== foo, bar **
+comfortable
+hospitable
+=== foo, bar **
+fine
+greater
+=== foo, bar **
+happy
+overwhelmed
+=== foo, bar **
+breathtaking
+lovelier
+=== foo, bar **
+dreadful
+worse
+=== foo, bar **
+concerned
+upset
+=== foo, bar **
+beautiful
+incredible
+=== foo, bar **
+stir-crazy
+wacko
+=== foo, bar **
+few
+scant
+=== foo, bar **
+indispensable
+valuable
+=== foo, bar **
+little
+weak
+=== foo, bar **
+bright
+smarter
+=== foo, bar **
+strengthened
+tougher
+=== END

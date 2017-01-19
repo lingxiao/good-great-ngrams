@@ -1,0 +1,61 @@
+=== foo, bar **
+shaky
+vulnerable
+=== foo, bar **
+major
+principal
+=== foo, bar **
+important
+useful
+=== foo, bar **
+clever
+smart
+=== foo, bar **
+fewer
+less
+=== foo, bar **
+fucked
+goofy
+=== foo, bar **
+broader
+thicker
+=== foo, bar **
+awful
+dreadful
+=== foo, bar **
+handsome
+perfect
+=== foo, bar **
+beneficial
+marvelous
+=== foo, bar **
+comfortable
+gentle
+=== foo, bar **
+beautiful
+cute
+=== foo, bar **
+long-standing
+time-consuming
+=== foo, bar **
+concise
+precise
+=== foo, bar **
+awesome
+yummy
+=== foo, bar **
+beneficial
+rewarding
+=== foo, bar **
+bleak
+tragic
+=== foo, bar **
+positive
+right
+=== foo, bar **
+fair
+undisputed
+=== foo, bar **
+beautiful
+fantastic
+=== END

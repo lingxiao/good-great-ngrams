@@ -1,0 +1,61 @@
+=== foo, bar **
+disappointing
+distressing
+=== foo, bar **
+disgusting
+ghastly
+=== foo, bar **
+defined
+specifically
+=== foo, bar **
+handsome
+nicer
+=== foo, bar **
+freaky
+frightening
+=== foo, bar **
+exceptional
+strong
+=== foo, bar **
+exceptional
+topnotch
+=== foo, bar **
+useful
+valuable
+=== foo, bar **
+huge
+immense
+=== foo, bar **
+perfect
+well
+=== foo, bar **
+likable
+sweet
+=== foo, bar **
+certain
+confident
+=== foo, bar **
+a-okay
+faultless
+=== foo, bar **
+dreadful
+tragic
+=== foo, bar **
+appropriate
+excellent
+=== foo, bar **
+formidable
+substantial
+=== foo, bar **
+dreadful
+lethal
+=== foo, bar **
+dreadful
+horrendous
+=== foo, bar **
+appropriate
+well-formed
+=== foo, bar **
+pleased
+positive
+=== END

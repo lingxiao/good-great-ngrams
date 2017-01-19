@@ -1,0 +1,61 @@
+=== foo, bar **
+bizarre
+odd
+=== foo, bar **
+hazardous
+unsafe
+=== foo, bar **
+gentle
+likable
+=== foo, bar **
+genuine
+honorable
+=== foo, bar **
+excellent
+superb
+=== foo, bar **
+rigorous
+stronger
+=== foo, bar **
+apparent
+known
+=== foo, bar **
+fair
+nessessary
+=== foo, bar **
+appropriate
+best
+=== foo, bar **
+flourishing
+profitable
+=== foo, bar **
+limited
+lowest
+=== foo, bar **
+enjoyable
+gentle
+=== foo, bar **
+particularly
+relevant
+=== foo, bar **
+fine
+finer
+=== foo, bar **
+desperate
+dire
+=== foo, bar **
+outstanding
+remarkable
+=== foo, bar **
+lovelier
+sweet
+=== foo, bar **
+brutal
+dreadful
+=== foo, bar **
+harsh
+rough
+=== foo, bar **
+interesting
+remarkable
+=== END

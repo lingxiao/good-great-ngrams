@@ -1,0 +1,61 @@
+=== foo, bar **
+cheesy
+stupid
+=== foo, bar **
+critical
+lethal
+=== foo, bar **
+rigorous
+stringent
+=== foo, bar **
+huge
+substantial
+=== foo, bar **
+indispensable
+pivotal
+=== foo, bar **
+considerable
+sizeable
+=== foo, bar **
+adequate
+guaranteed
+=== foo, bar **
+plenty
+vast
+=== foo, bar **
+outstanding
+superb
+=== foo, bar **
+useful
+vital
+=== foo, bar **
+inspiring
+marvellous
+=== foo, bar **
+faint
+little
+=== foo, bar **
+certain
+distinctive
+=== foo, bar **
+fucked
+preposterous
+=== foo, bar **
+limited
+meagre
+=== foo, bar **
+crazy
+twisted
+=== foo, bar **
+demented
+screwy
+=== foo, bar **
+fantastic
+magnificent
+=== foo, bar **
+brilliant
+incredible
+=== foo, bar **
+specific
+specifically
+=== END

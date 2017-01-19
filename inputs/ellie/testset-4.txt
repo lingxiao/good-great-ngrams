@@ -1,0 +1,65 @@
+=== foo, bar **
+stringent
+tough
+=== foo, bar **
+beautiful
+breathtaking
+=== foo, bar **
+demented
+insane
+=== foo, bar **
+unacceptable
+unfair
+=== foo, bar **
+beneficial
+positive
+=== foo, bar **
+related
+useful
+=== foo, bar **
+awesome
+fascinating
+=== foo, bar **
+appropriate
+okay
+=== foo, bar **
+prodigious
+sharp
+=== foo, bar **
+awful
+sad
+=== foo, bar **
+obvious
+self-explanatory
+=== foo, bar **
+busy
+live
+=== foo, bar **
+vast
+wide-ranging
+=== foo, bar **
+marvellous
+remarkable
+=== foo, bar **
+appropriate
+justified
+=== foo, bar **
+definite
+distinctive
+=== foo, bar **
+amazing
+dreamy
+=== foo, bar **
+exciting
+unexpected
+=== foo, bar **
+indispensable
+urgent
+=== foo, bar **
+cute
+gorgeous
+=== ** known, unknown
+known
+famous
+legendary
+=== END
