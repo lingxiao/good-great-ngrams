@@ -242,8 +242,8 @@ def run_all(refresh, onesided, twosided, ngram):
   
   test   = [ws for (_,_,ws) in onesided.test()]
 
-  # collect_one_sided    (refresh,ngram,onesided,join(join(test)))
-  collect_two_sided    (refresh,ngram,twosided,test)
+  collect_one_sided    (refresh,ngram,onesided,join(join(test)))
+  # collect_two_sided    (refresh,ngram,twosided,test)
   # collect_normalization(refresh,ngram,twosided)
   # collect_word         (refresh,ngram,onesided)
 

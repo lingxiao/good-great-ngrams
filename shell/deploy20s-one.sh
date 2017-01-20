@@ -1,0 +1,1 @@
+deploy10s-one.sh
