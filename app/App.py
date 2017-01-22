@@ -65,21 +65,21 @@ class App(object):
   # run :: App -> IO App
   def run(self):
     log("Re-Running Entire Application")
-    run_all(False, self.OneSided, self.TwoSided, self.NGRAM)
+    run_all(False, 2, self.OneSided, self.TwoSided, self.NGRAM)
+    run_all(False, 1, self.OneSided, self.TwoSided, self.NGRAM)
     return self
 
   # @Use: refresh application and run any new
   #       vocabulary and relations added since last run
   #       also runs normalization if it does not exist
-  # @Input:  None
+  # @Input:  number 1 or 2, for refresh onesided or two sided
   # @Output: App
-  # refresh :: App -> IO App
-  def refresh(self):
+  # refresh :: App -> Int -> IO App
+  def refresh(self, n):
     log("Refreshing Application")
-    run_all(True, self.OneSided, self.TwoSided, self.NGRAM)
+    run_all(True, n, self.OneSided, self.TwoSided, self.NGRAM)
     log ("All Application Data Up To Date")
     return self
-
 
   def refresh_word(self):
     collect_word(True, self.NGRAM,self.OneSided)
@@ -235,6 +235,7 @@ demark = "------------------------------------------------\n"
 # @ Input : `refresh` flag, if True then
 #           overwrite existsing data
 #           if False then do not overwrite data
+#           `n` denoting one-sided or two-sided patterns
 #           server for application data
 #           server for ngram data
 #           list of words [ai,ak,...]
@@ -244,14 +245,19 @@ demark = "------------------------------------------------\n"
 # run_all :: InputServer
 #      ls      -> OutputServer
 #            -> IO ()
-def run_all(refresh, onesided, twosided, ngram):
+def run_all(refresh, n, onesided, twosided, ngram):
   
-  test   = [ws for (_,_,ws) in onesided.test()]
+  test = [ws for (_,_,ws) in onesided.test()]
 
-  collect_one_sided    (refresh,ngram,onesided,join(join(test)))
-  # collect_two_sided    (refresh,ngram,twosided,test)
-  # collect_normalization(refresh,ngram,twosided)
-  # collect_word         (refresh,ngram,onesided)
+  if n == 1:
+    collect_one_sided    (refresh,ngram,onesided,join(join(test)))
+  elif n == 2:    
+    collect_two_sided    (refresh,ngram,twosided,test)
+    collect_normalization(refresh,ngram,twosided)
+    collect_word         (refresh,ngram,onesided)
+  else:
+    raise NameError('Improper input ' + str(n))
+
 
 
 # TODO: this is not the fn that is run for most of the project

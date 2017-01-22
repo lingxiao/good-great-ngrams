@@ -24,32 +24,37 @@ from copy    import deepcopy
 root   = "/Users/lingxiao/Documents/research/code/good-great-ngrams"
 data   = os.path.join(root,'ngrams')
 
+'''
+   bansal's data
+'''
 app = App(root
          ,data
-         ,'outputs-2'
+         ,'outputs-1'
          ,'one-sided-patterns'
          ,'two-sided-patterns'
          , 'testset-bansal')
 
 
-
+'''
+   Ellie's data
+'''
 app_e = App(root
          ,data
-         ,'outputs-1'
+         ,'outputs-2'
          ,'one-sided-patterns'
          ,'two-sided-patterns'
          , 'testset-ellie')
 
 app_t = App(root
          ,data
-         ,'outputs-1'
+         ,'outputs-2'
          ,'one-sided-patterns'
          ,'two-sided-patterns'
          , 'testset-trans')
 
 app_d = App(root
          ,data
-         ,'outputs-1'
+         ,'outputs-2'
          ,'one-sided-patterns'
          ,'two-sided-patterns'
          , 'testset-ellie-has-data')
@@ -59,7 +64,28 @@ one  = app_e.OneSided
 
 ############################################################
 
+# t = join([u,v] for _,_,[[u],[v]] in two.test())
 
+# missing = []
+
+# for u in t:
+#    d = one.data(u)
+#    s = [type(n) for _,n in d['strong']]
+#    w = [type(n) for _,n in d['weak']]
+
+#    if bool in s or bool in w:
+#       missing.append((u,v))
+
+
+# f = open(os.path.join(root, 'missing-one.txt'),'w')
+
+# for u,v in missing:
+#    f.write('=== foo, bar **' + '\n') 
+#    f.write(u + '\n')
+#    f.write(v + '\n')
+
+# f.write('=== END')   
+# f.close()
 
 
 ############################################################

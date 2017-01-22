@@ -139,9 +139,8 @@ class OutputServer(object):
     if p:
       return read_total(p)
     else: 
-      # return False
       print ("missing data for " + ai + ' ' + str(args))
-      return 0
+      return False
 
 
   # merle

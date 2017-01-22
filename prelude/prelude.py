@@ -33,7 +33,7 @@ def join(xxs):
 
 
 # any :: (a -> Bool) -> [a] -> Bool
-def any(g,xs):
+def any_(g,xs):
 	o = False
 	for x in xs:
 		o = o or g(x)
