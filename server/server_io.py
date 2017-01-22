@@ -88,16 +88,17 @@ demark = "------------------------------------------------\n"
 
 # read_pattern :: FilePath -> Dict String [String]
 def read_pattern(path):
-  h   = open(path,'r')
-  xs  = h.read()
-  xs  = [x.strip() for x in xs.split('===') if x.strip()]
-  xxs = [x.split('\n') for x in xs]
+
+  h    = [x.strip() for x in open(path,'r').read().split('===') if x.strip()]
+  xxs  = [x.split('\n') for x in h]
 
   d = dict()
   for xs in xxs:
-     if xs[0] != 'END':
-      d[xs[0]] = [x.strip() for x in xs[1:] if x]
+   if xs[0] != 'END':
+    d[xs[0]] = [x.strip() for x in xs[1:] if x]
+
   return d
+
 
 # read_test :: FilePath -> IO [String]
 def read_test(path):

@@ -8,6 +8,7 @@ import os
 import re
 import datetime
 
+from pulp import *
 from prelude import * 
 from utils   import *
 from server  import * 
@@ -19,123 +20,61 @@ from copy    import deepcopy
 # Initialize application 
 ############################################################
 
-############################################################
-# Module  : Applicaton Main
-# Date    : November 14th
-# Author  : Xiao Ling
-############################################################
-
-import re
-import datetime
-
-
-from prelude import * 
-from utils   import *
-from server  import * 
-from client  import * 
-from app     import * 
-from copy    import deepcopy
-
-############################################################
-# Initialize application 
-############################################################
 
 root   = "/Users/lingxiao/Documents/research/code/good-great-ngrams"
-data   = "/Users/lingxiao/Documents/research/data/ngrams/"
+data   = os.path.join(root,'ngrams')
+
+app = App(root
+         ,data
+         ,'outputs-2'
+         ,'one-sided-patterns'
+         ,'two-sided-patterns'
+         , 'testset-bansal')
 
 
 
-app36   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-36')
+app_e = App(root
+         ,data
+         ,'outputs-1'
+         ,'one-sided-patterns'
+         ,'two-sided-patterns'
+         , 'testset-ellie')
 
+app_t = App(root
+         ,data
+         ,'outputs-1'
+         ,'one-sided-patterns'
+         ,'two-sided-patterns'
+         , 'testset-trans')
 
-app35   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-35')
+app_d = App(root
+         ,data
+         ,'outputs-1'
+         ,'one-sided-patterns'
+         ,'two-sided-patterns'
+         , 'testset-ellie-has-data')
 
-app34   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-34')
+two  = app_e.TwoSided
+one  = app_e.OneSided
 
-app33   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-33')
-
-app32   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-32')
+############################################################
 
 
 
-
-
-app37   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-37')
-
-app31   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-31')
-
-
-app30   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-30')
-
-
-app29   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-29')
-
-
-app28   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-28')
-
-
-app27   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-27')
-
-
-app26   = App(root
-            ,data
-            ,'one-sided-patterns'
-            ,'two-sided-patterns'
-            ,'/ellie/testset-26')
-
-# app.to_one_sided()
 
 ############################################################
 # run all experiments
 
-prefix = 'veronica_'
+# app.to_one_sided()
 
-# rmilp          = milp(app)
-# app.save(prefix + 'milp-syn', rmilp)
+# prefix = 'ellie_'
+
+# rmilp          = milp(app_d)
+# app.save(prefix + 'milp-has-data', rmilp)
+
+# rmilpt         = milp(app_t)
+# app_t.save(prefix + 'milp-trans', rmilpt)
+
 
 # rmarkov_abs    = markov_absolute(app)
 # app.save(prefix + 'markov-heuristic', rmarkov_abs)
@@ -143,12 +82,16 @@ prefix = 'veronica_'
 # rmarkov_derive = markov_derive(app)
 # app.save(prefix +  'markov-pairwise-approx', rmarkov_derive)
 
-# rmarkov_ilp    = markov_ilp(app)
+# rmarkov_ilp    = markov_ilp(app_e)
 # print (rmarkov_ilp['average'])
 # app.save(prefix + 'markov-ilp', rmarkov_ilp)
 
 # rmarkov_milp   = markov_milp(app)
 # app.save(prefix + 'markov-milp', rmarkov_milp)
+
+# test = two.test()
+
+
 
 
 

@@ -1,0 +1,91 @@
+=== foo, bar **
+good
+superior
+=== foo, bar **
+interesting
+relevant
+=== foo, bar **
+appropriate
+justified
+=== foo, bar **
+exciting
+unexpected
+=== foo, bar **
+better
+right
+=== foo, bar **
+pleased
+satisfied
+=== foo, bar **
+major
+severe
+=== foo, bar **
+major
+primary
+=== foo, bar **
+good
+perfect
+=== foo, bar **
+huge
+overwhelming
+=== foo, bar **
+active
+aggressive
+=== foo, bar **
+cute
+hot
+=== foo, bar **
+valuable
+vital
+=== foo, bar **
+delightful
+fascinating
+=== foo, bar **
+fair
+honest
+=== foo, bar **
+beautiful
+perfect
+=== foo, bar **
+important
+useful
+=== foo, bar **
+better
+good
+=== foo, bar **
+excited
+nervous
+=== foo, bar **
+crazy
+insane
+=== foo, bar **
+okay
+perfect
+=== foo, bar **
+exciting
+interesting
+=== foo, bar **
+bad
+terrible
+=== foo, bar **
+appropriate
+beneficial
+=== foo, bar **
+interesting
+valuable
+=== foo, bar **
+useful
+valuable
+=== foo, bar **
+useful
+vital
+=== foo, bar **
+awesome
+perfect
+=== foo, bar **
+big
+heavy
+=== foo, bar **
+big
+strong
+=== END

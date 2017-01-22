@@ -149,7 +149,6 @@ def milp_no_syn(gold, app):
         their score, and the normalization constant
 
   to_score :: [String] -> App -> (Dict String Float, Float)
-'''
 def to_score(pairs,app):
 
   one    = app.OneSided
@@ -171,6 +170,7 @@ def to_score(pairs,app):
   C  = sum(abs(scores[uv]) for uv in scores) * 1000
 
   return (scores, C)
+'''
 
 # markov score
 def markov_score(ai,ak,one,two):

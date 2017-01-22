@@ -72,7 +72,7 @@ def ilp_each(gold,one,two):
   '''
     construct milp solver
   '''
-  prob =  LpProblem ('-'.join(words), LpMaximize)
+  prob =  LpProblem ('='.join(words), LpMaximize)
 
 
   '''
@@ -81,15 +81,15 @@ def ilp_each(gold,one,two):
   variables = dict()
 
   for u,v in pairs:
-    uv = u +'-'+ v
+    uv = u +'='+ v
     variables[uv] = LpVariable('s_' + uv, 0,1, LpInteger)
 
   '''
     objective function
   '''
-  objective = [ score[u+' > '+v]     *      variables[u+'-'+v]  \
+  objective = [ score[u+' > '+v]     *      variables[u+'='+v]  \
               for u,v in pairs] \
-            + [ score[v + ' > '+  u] * (1 - variables[u+'-'+v]) \
+            + [ score[v + ' > '+  u] * (1 - variables[u+'='+v]) \
               for u,v in pairs]
 
 
@@ -98,9 +98,9 @@ def ilp_each(gold,one,two):
 
   # constraints
   for i,j,k in triples:
-    prob += (1 - variables[i + '-' + j]) \
-         +  (1 - variables[j + '-' + k]) \
-         >= (1 - variables[i + '-' + k])
+    prob += (1 - variables[i + '=' + j]) \
+         +  (1 - variables[j + '=' + k]) \
+         >= (1 - variables[i + '=' + k])
 
 
   prob.solve()

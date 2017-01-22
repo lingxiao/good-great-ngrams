@@ -33,6 +33,7 @@ class App(object):
 
   # @Input : path/to/good-great
   #          path/to/google-ngram
+  #          path/to/output-directory
   #          path/to/one-sided-pattern.txt
   #          path/to/two-sided-pattern.txt
   # @Output: None
@@ -40,14 +41,19 @@ class App(object):
   def __init__(self \
               ,root \
               ,ngram \
+              ,out_dir \
               ,one_sided_patterns \
               ,two_sided_patterns
               ,test_set):
 
+    in_dir          = os.path.join(root,'inputs')
+    out_dir         = os.path.join(root, out_dir )
+
     self.root       = root
-    self.output_dir = os.path.join(root, 'outputs')
-    self.OneSided   = OutputServer(root, one_sided_patterns, test_set)
-    self.TwoSided   = OutputServer(root, two_sided_patterns, test_set)
+    self.output_dir = out_dir
+    self.input_dir  = in_dir
+    self.OneSided   = OutputServer(in_dir, out_dir, one_sided_patterns, test_set)
+    self.TwoSided   = OutputServer(in_dir, out_dir, two_sided_patterns, test_set)
     self.NGRAM      = NgramServer (ngram, False)
 
   ############################################################

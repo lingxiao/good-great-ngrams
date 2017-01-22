@@ -1,0 +1,800 @@
+ellie_milp-trans
+2017-01-21 10:28:12.170313
+------------------------------------------------
+average tau:  0.0
+average |tau|: 0.02
+average tau  no tie  0.0
+average |tau| no tie  0.02
+average pairwise accuracy: 50.0%
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['best']
+['satisfactory']
+
+=== algo: 
+['good']
+['best']
+['satisfactory']
+['poor']
+['better']
+
+=== raw score: 
+satisfactory=poor: 0.0
+best=poor: 0.0
+better=good: -60.2205108767
+good=poor: 0.0
+better=best: -2.55067137416
+satisfactory=good: 0.0
+satisfactory=best: 0.0
+good=best: 1.0
+poor=better: 0.0
+poor=best: 0.0
+poor=good: 0.0
+better=satisfactory: 0.0
+good=better: 60.2205108767
+satisfactory=better: 0.0
+good=satisfactory: 0.0
+best=satisfactory: 0.0
+best=better: 2.55067137416
+better=poor: 0.0
+best=good: -1.0
+poor=satisfactory: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['best']
+['desirable']
+
+=== algo: 
+['good']
+['best']
+['desirable']
+['poor']
+['better']
+
+=== raw score: 
+best=poor: 0.0
+better=good: -60.2205108767
+best=desirable: 0.0
+good=poor: 0.0
+better=best: -2.55067137416
+better=desirable: 0.0
+good=best: 1.0
+poor=better: 0.0
+poor=best: 0.0
+poor=good: 0.0
+poor=desirable: 0.0
+desirable=best: 0.0
+good=desirable: 0.0
+desirable=poor: 0.0
+good=better: 60.2205108767
+desirable=better: 0.0
+best=better: 2.55067137416
+desirable=good: 0.0
+better=poor: 0.0
+best=good: -1.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['right']
+
+=== algo: 
+['good']
+['right']
+['poor']
+['better']
+
+=== raw score: 
+right=better: 1.99127201967
+better=right: -1.99127201967
+good=poor: 0.0
+better=good: -1988.2438572
+poor=better: 0.0
+right=poor: 0.0
+poor=good: 0.0
+good=right: 1.0
+good=better: 1988.2438572
+poor=right: 0.0
+right=good: -1.0
+better=poor: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['best']
+['incredible']
+
+=== algo: 
+['good']
+['best']
+['incredible']
+['poor']
+['better']
+
+=== raw score: 
+best=better: 2.55067137416
+incredible=better: 0.0
+best=poor: 0.0
+better=good: -60.2205108767
+good=poor: 0.0
+better=best: -2.55067137416
+poor=incredible: 0.0
+incredible=best: 0.0
+incredible=poor: 0.0
+good=best: 1.0
+poor=better: 0.0
+best=incredible: 0.0
+poor=best: 0.0
+poor=good: 0.0
+incredible=good: -1.66265710015
+good=better: 60.2205108767
+better=incredible: 0.0
+good=incredible: 1.66265710015
+better=poor: 0.0
+best=good: -1.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['easier']
+
+=== algo: 
+['good']
+['easier']
+['poor']
+['better']
+
+=== raw score: 
+good=poor: 0.0
+poor=easier: 0.0
+better=good: -1.0
+poor=better: 0.0
+easier=better: 0.0
+poor=good: 0.0
+easier=good: 0.0
+good=better: 1.0
+good=easier: 0.0
+easier=poor: 0.0
+better=poor: 0.0
+better=easier: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['brighter']
+['good']
+['better']
+['best']
+
+=== algo: 
+['good']
+['best']
+['brighter']
+['better']
+
+=== raw score: 
+brighter=better: 0.0
+brighter=good: 0.0
+better=brighter: 0.0
+good=best: 1.0
+good=brighter: 0.0
+brighter=best: 0.0
+better=best: -2.55067137416
+good=better: 60.2205108767
+better=good: -60.2205108767
+best=better: 2.55067137416
+best=brighter: 0.0
+best=good: -1.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['desirable']
+
+=== algo: 
+['good']
+['desirable']
+['poor']
+['better']
+
+=== raw score: 
+good=poor: 0.0
+better=desirable: 0.0
+better=good: -1.0
+poor=better: 0.0
+poor=good: 0.0
+poor=desirable: 0.0
+good=desirable: 0.0
+desirable=poor: 0.0
+good=better: 1.0
+desirable=better: 0.0
+desirable=good: 0.0
+better=poor: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['superb']
+
+=== algo: 
+['good']
+['superb']
+['poor']
+['better']
+
+=== raw score: 
+good=poor: 0.0
+better=good: -1.0
+poor=better: 0.0
+poor=good: 0.0
+superb=better: 0.0
+superb=good: 0.0
+better=superb: 0.0
+good=better: 1.0
+poor=superb: 0.0
+good=superb: 0.0
+better=poor: 0.0
+superb=poor: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.2
+
+=== pairwise accuracy:
+0.666666666667
+
+=== gold: 
+['poor']
+['good']
+['better']
+['good']
+['better']
+['best']
+
+=== algo: 
+['good']
+['best']
+['poor']
+['better']
+
+=== raw score: 
+best=poor: 0.0
+better=good: -60.2205108767
+good=poor: 0.0
+better=best: -2.55067137416
+good=best: 1.0
+poor=better: 0.0
+poor=best: 0.0
+poor=good: 0.0
+good=better: 60.2205108767
+best=better: 2.55067137416
+better=poor: 0.0
+best=good: -1.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['exceptional']
+
+=== algo: 
+['good']
+['exceptional']
+['poor']
+['better']
+
+=== raw score: 
+better=exceptional: 0.0
+good=exceptional: 0.0
+good=poor: 0.0
+exceptional=better: 0.0
+better=good: -1.0
+poor=better: 0.0
+poor=good: 0.0
+good=better: 1.0
+poor=exceptional: 0.0
+better=poor: 0.0
+exceptional=poor: 0.0
+exceptional=good: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['best']
+['positive']
+
+=== algo: 
+['good']
+['best']
+['positive']
+['poor']
+['better']
+
+=== raw score: 
+best=poor: 0.0
+better=good: -60.2205108767
+good=poor: 0.0
+better=best: -2.55067137416
+positive=good: 0.0
+good=best: 1.0
+poor=better: 0.0
+positive=poor: 0.0
+poor=best: 0.0
+poor=good: 0.0
+poor=positive: 0.0
+good=positive: 0.0
+good=better: 60.2205108767
+best=positive: 0.0
+better=positive: 0.0
+best=better: 2.55067137416
+positive=better: 0.0
+better=poor: 0.0
+best=good: -1.0
+positive=best: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['best']
+['fair']
+
+=== algo: 
+['good']
+['best']
+['fair']
+['poor']
+['better']
+
+=== raw score: 
+poor=fair: 0.0
+better=good: -60.2205108767
+good=poor: 0.0
+better=best: -2.55067137416
+fair=better: 0.0
+fair=best: 0.0
+best=fair: 0.0
+good=best: 1.0
+poor=better: 0.0
+best=poor: 0.0
+poor=best: 0.0
+poor=good: 0.0
+fair=poor: 0.0
+better=fair: 0.0
+good=fair: 0.0
+good=better: 60.2205108767
+best=better: 2.55067137416
+better=poor: 0.0
+best=good: -1.0
+fair=good: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['best']
+['fantastic']
+
+=== algo: 
+['good']
+['best']
+['fantastic']
+['poor']
+['better']
+
+=== raw score: 
+best=better: 2.55067137416
+best=poor: 0.0
+better=good: -60.2205108767
+best=fantastic: 0.0
+good=poor: 0.0
+better=best: -2.55067137416
+fantastic=best: 0.0
+fantastic=poor: 0.0
+good=best: 1.0
+poor=better: 0.0
+good=fantastic: 0.0
+poor=best: 0.0
+poor=good: 0.0
+good=better: 60.2205108767
+fantastic=good: 0.0
+fantastic=better: 0.0
+poor=fantastic: 0.0
+better=poor: 0.0
+best=good: -1.0
+better=fantastic: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+-0.2
+
+=== pairwise accuracy:
+0.4
+
+=== gold: 
+['poor']
+['good']
+['better']
+['best']
+['right']
+
+=== algo: 
+['good']
+['right']
+['best']
+['poor']
+['better']
+
+=== raw score: 
+best=right: 0.0
+best=poor: 0.0
+better=good: -1988.2438572
+good=poor: 0.0
+better=best: -84.2131130669
+right=good: -1.0
+good=best: 33.0160576231
+poor=better: 0.0
+right=poor: 0.0
+poor=best: 0.0
+poor=good: 0.0
+better=right: -1.99127201967
+good=right: 1.0
+good=better: 1988.2438572
+poor=right: 0.0
+right=better: 1.99127201967
+best=better: 84.2131130669
+better=poor: 0.0
+best=good: -33.0160576231
+right=best: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['best']
+['outstanding']
+
+=== algo: 
+['good']
+['best']
+['outstanding']
+['poor']
+['better']
+
+=== raw score: 
+best=poor: 0.0
+better=good: -60.2205108767
+good=poor: 0.0
+better=best: -2.55067137416
+better=outstanding: 0.0
+outstanding=poor: 0.0
+good=best: 1.0
+poor=better: 0.0
+poor=best: 0.0
+poor=good: 0.0
+best=outstanding: 0.0
+good=outstanding: 0.0
+good=better: 60.2205108767
+poor=outstanding: 0.0
+best=better: 2.55067137416
+outstanding=best: 0.0
+better=poor: 0.0
+best=good: -1.0
+outstanding=good: 0.0
+outstanding=better: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['best']
+['nessessary']
+
+=== algo: 
+['good']
+['best']
+['nessessary']
+['poor']
+['better']
+
+=== raw score: 
+best=poor: 0.0
+better=good: -60.2205108767
+better=nessessary: 0.0
+good=poor: 0.0
+better=best: -2.55067137416
+nessessary=poor: 0.0
+best=nessessary: 0.0
+good=best: 1.0
+poor=better: 0.0
+poor=best: 0.0
+poor=good: 0.0
+nessessary=better: 0.0
+nessessary=good: 0.0
+good=better: 60.2205108767
+poor=nessessary: 0.0
+best=better: 2.55067137416
+better=poor: 0.0
+best=good: -1.0
+nessessary=best: 0.0
+good=nessessary: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['transparent']
+
+=== algo: 
+['good']
+['transparent']
+['poor']
+['better']
+
+=== raw score: 
+good=poor: 0.0
+transparent=poor: 0.0
+better=good: -1.0
+poor=better: 0.0
+poor=good: 0.0
+transparent=good: 0.0
+better=transparent: 0.0
+good=better: 1.0
+transparent=better: 0.0
+better=poor: 0.0
+good=transparent: 0.0
+poor=transparent: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['poor']
+['good']
+['better']
+['fine']
+
+=== algo: 
+['good']
+['fine']
+['poor']
+['better']
+
+=== raw score: 
+fine=poor: 0.0
+fine=better: 1.0
+fine=good: 0.0
+good=poor: 0.0
+poor=fine: 0.0
+good=fine: 0.0
+better=good: -43.7771501264
+poor=better: 0.0
+poor=good: 0.0
+good=better: 43.7771501264
+better=fine: -1.0
+better=poor: 0.0
+
+=== raw counts: 
+------------------------------------------------
+=== tau:
+0.0
+
+=== pairwise accuracy:
+0.5
+
+=== gold: 
+['awesome']
+['good']
+['better']
+['best']
+
+=== algo: 
+['good']
+['best']
+['awesome']
+['better']
+
+=== raw score: 
+better=good: -60.2205108767
+awesome=best: 0.0
+good=awesome: 4.29995454805
+good=best: 1.0
+best=awesome: 0.0
+better=best: -2.55067137416
+awesome=good: -4.29995454805
+better=awesome: 0.0
+good=better: 60.2205108767
+best=better: 2.55067137416
+best=good: -1.0
+awesome=better: 0.0
+
+=== raw counts: 
+------------------------------------------------
+
+------------------------------------------------
+Patterns Used: 
+------------------------------------------------
+=== strong
+
+not (a|an|the) * (,) just (a|an|the) *
+not (a|an|the) * (,) but just (a|an|the) *
+not (a|an|the) * (,) still (a|an|the) *
+not (a|an|the) * (,) but still (a|an|the) *
+not (a|an|the) * (,) although still (a|an|the) *
+not (a|an|the) * (,) though still (a|an|the) *
+* (,) or very (a|an|the) *
+a * (,) or very (a|an|the) *
+an * (,) or very (a|an|the) *
+the * (,) or very (a|an|the) *
+* unbelievably *
+* not even *
+
+=== weak
+
+very * (and|or) totally *
+* (,) yet still (a|an|the|as) *
+* (,) (and|or) fully *
+* (,) (and|or) outright *
+* (,) but not (a|an|the) *
+a * (,) but not (a|an|the) *
+an * (,) but not (a|an|the) *
+the * (,) but not (a|an|the) *
+* (,) if not (a|an|the) *
+a * (,) if not (a|an|the) *
+an * (,) if not (a|an|the) *
+the * (,) if not (a|an|the) *
+* (,) although not (a|an|the) *
+a * (,) although not (a|an|the) *
+an * (,) although not (a|an|the) *
+the * (,) although not (a|an|the) *
+* (,) though not (a|an|the) *
+a * (,) though not (a|an|the) *
+an * (,) though not (a|an|the) *
+the * (,) though not (a|an|the) *
+* (,) (and|or) even (a|an|the) *
+a * (,) (and|or) even (a|an|the) *
+an * (,) (and|or) even (a|an|the) *
+the * (,) (and|or) even (a|an|the) *
+* (,) (and|or) almost (a|an|the) *
+a * (,) (and|or) almost (a|an|the) *
+an * (,) (and|or) almost (a|an|the) *
+the * (,) (and|or) almost (a|an|the) *
+not only (a|an|the) * but (a|an|the) *
+not just (a|an|the) * but (a|an|the) *
+
+=== END

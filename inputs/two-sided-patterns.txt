@@ -1,4 +1,4 @@
-ex=== strong-weak
+=== strong-weak
 
 not (a|an|the) * (,) just (a|an|the) *
 not (a|an|the) * (,) but just (a|an|the) *

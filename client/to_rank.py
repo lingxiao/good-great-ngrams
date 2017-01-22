@@ -20,16 +20,26 @@ from app     import *
 '''  
 def prob_to_algo_rank(prob,words):
 
-  raw1 = [tuple(v.name.split('_'))                    
-        for v in prob.variables() if v.varValue == 1.0]
+  raw0 = [tuple(v.name.split('_'))                    
+      for v in prob.variables() if v.varValue == 1.0]
 
-  # if we have s_ij and w_ij, then we have a contradiction
+  raw1 = []
+
+  for x,uv in raw0:
+      [u,v] = uv.split('=')
+      raw1.append((x,u,v))
+
+  # if all varValue = 0, then we have ties
+  # if not raw1: 
+    # return [words]
+  # else:
+
+    # if we have s_ij and w_ij, then we have a contradiction
   contradiction = [(s,u,v)                  \
                 for (s,u,v) in raw1       \
                 for (w,u1,v1) in raw1     \
                 if s == 's' and w == 'w'  \
                 and u == u1 and v == v1]
-
 
   raw  = [(u,v) for (x,u,v) in raw1 if x == 's']
 

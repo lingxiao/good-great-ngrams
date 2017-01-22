@@ -36,16 +36,17 @@ class OutputServer(object):
   #          path/to/google-ngram
   # @Output: None
   # init :: OutputServer -> DirectoryPath -> String -> ()
-  def __init__(self, root, pattern_name, test_set):
-    pattern = os.path.join(root  , "inputs/" + pattern_name + '.txt')
-    test    = os.path.join(root  , 'inputs/' + test_set + '.txt')
-    output  = os.path.join(root  , "outputs"            )
+  def __init__(self, in_dir, out_dir, pattern_name, test_set):
+
+
+    pattern = os.path.join(in_dir, pattern_name + '.txt')
+    test    = os.path.join(in_dir, test_set     + '.txt')
+    output  = out_dir
     norm    = os.path.join(output, 'total'              )
 
     [out_pattern, out_word] = make_output_dir(output
                              ,[pattern_name, 'word'])
 
-    self.root = root
     self.PATH = {'pattern'      : pattern
                 ,'test'         : test
                 ,'out-pattern'  : out_pattern
@@ -138,7 +139,9 @@ class OutputServer(object):
     if p:
       return read_total(p)
     else: 
-      raise NameError("missing data for " + ai + ' ' + str(args))
+      # return False
+      print ("missing data for " + ai + ' ' + str(args))
+      return 0
 
 
   # merle

@@ -3,7 +3,7 @@
 set -x
 
 # add app to python path                                                                                                                                     \
-export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-ngrams-one                                                                                                    
+export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-ngrams                                                                                                    
 
 # $HOME/sample_applications/sample_sge_script_1.sh
 
@@ -18,13 +18,14 @@ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-ngrams-one
 
 # name of job
 # man 1 qsub
-#$ -N deploy20s-one
+#$ -N deploy-trans
 
 # working directory (check for specific requirements for your research group)
 # man 1 qsub
 
+
 # make sure I set my $CWD (current working directory)
-cd $HOME/xiao/good-great-ngrams-one/shell
+cd $HOME/xiao/good-great-ngrams/shell
 
 # You must set the error and output locations, as the default log output
 # location is the directory you qsub'ed from. For instance, say I cd to
@@ -46,5 +47,5 @@ cd $HOME/xiao/good-great-ngrams-one/shell
 #echo $JOB_ID $SGE_STDOUT_PATH 
 
 # run my scripts
-python $HOME/xiao/good-great-ngrams/deploy-one-sided/deploy20s.py
+python $HOME/xiao/good-great-ngrams/deploy/deploy-trans.py
 

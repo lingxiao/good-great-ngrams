@@ -79,7 +79,12 @@ def tau(gold,algo):
   '''
   bot = sqrt((P + Q + X)*(P + Q + Y))
 
-  return top / bot
+  '''
+    If we only output ties, then 
+    defult to 0
+  '''
+  if not bot: return 0.0
+  else: return top / bot
 
 
 def tau2(gold,algo):
