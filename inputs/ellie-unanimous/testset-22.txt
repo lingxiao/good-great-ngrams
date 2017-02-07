@@ -1,0 +1,50 @@
+=== disappointing, obnoxious **
+annoying
+disappointing
+awful
+obnoxious
+=== increased, vast **
+big
+wide-ranging
+extensive
+vast
+far-reaching
+increased
+overwhelming
+substantial
+=== awful, scary **
+awful
+dreadful
+scary
+=== jumpy, overwhelmed **
+jumpy
+nervous
+excited
+overwhelmed
+=== appropriate, qualified **
+appropriate
+relevant
+valid
+qualified
+=== different, alternative **
+different
+alternate
+alternative
+=== prominent, outstanding **
+remarkable
+outstanding
+prominent
+=== marvellous, pretty **
+pretty
+marvellous
+breathtaking
+spectacular
+=== worthwhile, outstanding **
+worthwhile
+valuable
+outstanding
+=== alternative, different **
+alternative
+alternate
+different
+=== END

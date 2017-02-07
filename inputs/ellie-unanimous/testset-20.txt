@@ -1,0 +1,53 @@
+=== sound, sturdy **
+intact
+sturdy
+sound
+=== powerful, considerable **
+powerful
+considerable
+=== big, vast **
+big
+vast
+extensive
+=== idiot, foolish **
+idiot
+dumber
+senseless
+daft
+ignorant
+unwise
+stupider
+foolish
+asinine
+=== profitable, flourishing **
+profitable
+valuable
+flourishing
+beneficial
+successful
+=== rough, harsh **
+rough
+harsh
+hard
+=== okay, normal **
+fine
+okay
+fair
+normal
+=== sweet, nicer **
+fine
+sweet
+nicer
+fantastic
+=== unimaginable, incredible **
+unimaginable
+inconceivable
+incredible
+=== breathtaking, fabulous **
+marvelous
+breathtaking
+fabulous
+enjoyable
+awesome
+fantastic
+=== END

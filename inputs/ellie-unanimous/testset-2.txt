@@ -1,0 +1,47 @@
+=== scarce, limited **
+scarce
+low
+limited
+short
+=== productive, useful **
+productive
+useful
+=== cute, lovelier **
+bright
+cute
+attractive
+pretty
+lovely
+lovelier
+breathtaking
+=== costly, valuable **
+valuable
+exorbitant
+excessive
+expensive
+costly
+=== lousy, miserable **
+lousy
+miserable
+horrible
+=== sensible, responsible **
+responsible
+sensible
+=== remarkable, noteworthy **
+noteworthy
+remarkable
+=== guaranteed, adequate **
+fine
+fitting
+adequate
+good
+guaranteed
+=== bad, ludicrous **
+bad
+ludicrous
+=== necessary, valuable **
+useful
+valuable
+relevant
+necessary
+=== END

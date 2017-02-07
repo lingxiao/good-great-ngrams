@@ -1,0 +1,51 @@
+=== miserable, sad **
+unhappy
+sad
+miserable
+=== competent, impressive **
+competent
+fine
+impressive
+=== specific, correct **
+concrete
+sure
+correct
+specific
+real
+=== relevant, significant **
+relevant
+significant
+vital
+crucial
+=== positive, affirmative **
+satisfactory
+okay
+affirmative
+positive
+=== effective, potent **
+potent
+effective
+=== wide-ranging, general **
+general
+broad
+broader
+wide-ranging
+diverse
+=== excessive, valuable **
+costly
+exorbitant
+excessive
+valuable
+expensive
+=== spooky, eerie **
+spooky
+eerie
+strange
+=== major, big **
+tremendous
+staggering
+awesome
+substantial
+major
+big
+=== END

@@ -18,7 +18,7 @@ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-ngrams
 
 # name of job
 # man 1 qsub
-#$ -N deploy20s
+#$ -N deploy40s
 
 # working directory (check for specific requirements for your research group)
 # man 1 qsub
@@ -47,5 +47,4 @@ cd $HOME/xiao/good-great-ngrams/shell
 #echo $JOB_ID $SGE_STDOUT_PATH 
 
 # run my scripts
-python $HOME/xiao/good-great-ngrams/deploy/deploy20s.py
-
+python $HOME/xiao/good-great-ngrams/deploy/deploy40s.py

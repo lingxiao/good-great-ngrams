@@ -34,7 +34,6 @@ app = App(root
          ,'two-sided-patterns'
          , 'testset-bansal')
 
-
 '''
    Ellie's data
 '''
@@ -43,6 +42,7 @@ app_e = App(root
          ,'outputs-2'
          ,'one-sided-patterns'
          ,'two-sided-patterns'
+         # , 'ellie/testset-6')
          , 'testset-ellie')
 
 app_t = App(root
@@ -57,52 +57,44 @@ app_d = App(root
          ,'outputs-2'
          ,'one-sided-patterns'
          ,'two-sided-patterns'
-         , 'testset-ellie-has-data')
+         , 'testset-ellie-has-two-data')
 
-two  = app_e.TwoSided
-one  = app_e.OneSided
+app_d2 = App(root
+           ,data
+           ,'outputs-2'
+           ,'one-sided-patterns'
+           ,'two-sided-patterns'
+           ,'testset-has-data-one-sided')
 
-############################################################
-
-# t = join([u,v] for _,_,[[u],[v]] in two.test())
-
-# missing = []
-
-# for u in t:
-#    d = one.data(u)
-#    s = [type(n) for _,n in d['strong']]
-#    w = [type(n) for _,n in d['weak']]
-
-#    if bool in s or bool in w:
-#       missing.append((u,v))
+app_u = App(root
+           ,data
+           ,'outputs-2'
+           ,'one-sided-patterns'
+           ,'two-sided-patterns'
+           ,'ellie-unanimous/testset-1')
 
 
-# f = open(os.path.join(root, 'missing-one.txt'),'w')
+two  = app_u.TwoSided
+one  = app_u.OneSided
 
-# for u,v in missing:
-#    f.write('=== foo, bar **' + '\n') 
-#    f.write(u + '\n')
-#    f.write(v + '\n')
-
-# f.write('=== END')   
-# f.close()
-
+app.to_one_sided()
 
 ############################################################
-# run all experiments
 
-# app.to_one_sided()
+# tset = one.test()
+# prefix = 'ellie'
+# rmarkov_ilp    = markov_ilp     (app_u)
+# rmarkov_abs    = markov_absolute(app_u)
 
-# prefix = 'ellie_'
+# print (rmarkov_ilp['average'])
+# app.save(prefix + 'markov-ilp', rmarkov_ilp)
 
-# rmilp          = milp(app_d)
-# app.save(prefix + 'milp-has-data', rmilp)
+
+# milp_e = milp(app_e)
 
 # rmilpt         = milp(app_t)
 # app_t.save(prefix + 'milp-trans', rmilpt)
 
-
-# rmarkov_abs    = markov_absolute(app)
 # app.save(prefix + 'markov-heuristic', rmarkov_abs)
 
 # rmarkov_derive = markov_derive(app)
@@ -115,7 +107,81 @@ one  = app_e.OneSided
 # rmarkov_milp   = markov_milp(app)
 # app.save(prefix + 'markov-milp', rmarkov_milp)
 
-# test = two.test()
+'''
+  Collect patterns for remaining words
+test = one.test()
+name = 'testset'
+
+k    = 1
+
+words = list(chunks(test,10))
+
+for word_set in words:
+  if word_set:
+    p = os.path.join(root, name + '-' + str(k) + '.txt')
+    f = open(p,'w')
+
+    for u,v,xs in word_set:
+      f.write('=== ' + u + ', ' + v + '\n')
+      for [x] in xs:
+        f.write(x + '\n')
+    f.write('=== END')
+    k += 1
+'''  
+
+
+
+'''
+  test = two.test()
+
+  not_zero = []
+
+  words = list(set(join([u,v] for _,_,[[u],[v]] in tset)))
+
+  for word in words:
+    d = one.data(word)
+    s = [n for _,n in d['strong']]
+    w = [n for _,n in d['weak']]
+    if None not in s and None not in w:
+      if sum(s) or sum(w): 
+        not_zero.append(word)
+
+  not_zero_pairs = [(u,v) for _,_,[[u],[v]] in tset if u in not_zero and v in not_zero]      
+
+  f = open(os.path.join(root,'inputs/testset-has-data-one-sided.txt'),'w')
+
+  for u,v in not_zero_pairs:
+     f.write('=== foo, bar **\n')
+     f.write(u + '\n')
+     f.write(v + '\n')
+  f.write('=== END')   
+  f.close()
+
+'''
+
+'''
+
+not_zero = []
+
+for _,_,[[u],[v]] in tset:
+   d = one.data(u,v)
+     s = [n for _,n in d['strong-weak']]
+     w = [n for _,n in d['weak-strong']]
+
+     if None not in s and None not in w:
+        if sum(s) or sum(w): not_zero.append((u,v))
+
+f = open(os.path.join(root,'has-data.txt'),'w')
+
+for u,v in not_zero:
+   f.write('=== foo, bar **\n')
+   f.write(u + '\n')
+   f.write(v + '\n')
+f.write('=== END')   
+f.close()
+
+'''
+
 
 
 

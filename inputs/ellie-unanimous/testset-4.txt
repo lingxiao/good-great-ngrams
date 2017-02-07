@@ -1,0 +1,46 @@
+=== finest, excellent **
+qualified
+excellent
+finest
+outstanding
+=== high, higher **
+taller
+high
+higher
+farther
+=== useful, best **
+desirable
+best
+useful
+=== fine, remarkable **
+fine
+remarkable
+spectacular
+=== perfect, fine **
+a-okay
+okay
+well
+right
+fine
+appropriate
+faultless
+perfect
+=== critical, gravest **
+graver
+gravest
+critical
+life-threatening
+=== remarkable, special **
+special
+remarkable
+=== bizarre, odd **
+odd
+ridiculous
+bizarre
+=== widespread, frequent **
+frequent
+widespread
+=== unfortunate, reprehensible **
+unfortunate
+reprehensible
+=== END

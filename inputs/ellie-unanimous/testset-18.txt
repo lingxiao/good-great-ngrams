@@ -1,0 +1,56 @@
+=== efficient, worthwhile **
+beneficial
+worthwhile
+rationalized
+efficient
+=== unremarkable, understood **
+ordinary
+commonplace
+unremarkable
+understood
+normal
+=== house-trained, clean **
+clean
+house-trained
+=== perfect, excited **
+perfect
+amazing
+spectacular
+remarkable
+excited
+terrific
+=== shorter, tiny **
+tiny
+little
+short
+shorter
+=== enjoyable, pleasant **
+ggood
+pleasant
+enjoyable
+outstanding
+fantastic
+magnificent
+=== insane, weird **
+weird
+screwy
+crazy
+insane
+demented
+psycho
+=== tenacious, tough **
+hardworking
+tenacious
+tough
+=== cute, gorgeous **
+cute
+nicer
+fine
+gorgeous
+=== proper, enough **
+proper
+satisfactory
+appropriate
+enough
+adequate
+=== END

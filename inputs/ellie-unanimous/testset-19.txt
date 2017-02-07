@@ -1,0 +1,46 @@
+=== terrific, clever **
+clever
+terrific
+fantastic
+=== seminal, principal **
+primary
+principal
+seminal
+integral
+vital
+=== known, noteworthy **
+known
+noteworthy
+celebrated
+=== unfortunate, disgraceful **
+disgraceful
+unfortunate
+=== random, confusing **
+awkward
+confusing
+random
+strange
+=== fine, spectacular **
+spectacular
+remarkable
+fine
+=== hurting, wrong **
+hurting
+wrong
+=== simple, convenient **
+simple
+easiest
+accessible
+convenient
+=== wide-ranging, multifaceted **
+varied
+different
+diverse
+multifaceted
+wide-ranging
+=== beautiful, bonnie **
+cute
+attractive
+beautiful
+bonnie
+=== END

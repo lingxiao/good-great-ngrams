@@ -1,0 +1,42 @@
+=== abundant, plenty **
+considerable
+plenty
+abundant
+=== plausible, achievable **
+plausible
+achievable
+reasonable
+=== extensive, formidable **
+long
+substantial
+formidable
+extensive
+=== fine, remarkable **
+fine
+remarkable
+impressive
+=== admirable, noteworthy **
+fine
+admirable
+noteworthy
+upstanding
+=== broad, general **
+broad
+general
+=== useful, fruitful **
+valuable
+useful
+fruitful
+=== small, limited **
+infrequent
+fewer
+small
+limited
+less
+=== ridiculous, embarrassing **
+embarrassing
+ridiculous
+=== distressing, bad **
+bad
+distressing
+=== END

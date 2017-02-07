@@ -1,0 +1,45 @@
+=== outstanding, prominent **
+remarkable
+prominent
+outstanding
+=== timely, opportune **
+convenient
+opportune
+fortunate
+timely
+=== wrong, hurting **
+wrong
+hurting
+=== useful, crucial **
+crucial
+useful
+=== stupid, senseless **
+senseless
+stupid
+=== incredible, special **
+marvelous
+awesome
+excellent
+incredible
+exciting
+special
+=== ironic, confusing **
+random
+confusing
+ironic
+spooky
+weird
+=== marvellous, spectacular **
+marvellous
+breathtaking
+spectacular
+pretty
+=== senseless, derisory **
+pointless
+senseless
+derisory
+ridiculous
+=== sensible, smart **
+smart
+sensible
+=== END

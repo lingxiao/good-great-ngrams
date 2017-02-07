@@ -1,0 +1,53 @@
+=== elementary, simple **
+elementary
+simple
+=== significant, plenty **
+abundant
+plenty
+vast
+significant
+=== beneficial, nice **
+a-okay
+okay
+right
+appropriate
+fair
+nice
+positive
+nessessary
+beneficial
+incredible
+best
+awesome
+terrific
+marvelous
+=== wonderful, yummy **
+yummy
+wonderful
+=== brighter, sensible **
+brighter
+sensible
+=== wider, broader **
+wider
+thicker
+broader
+taller
+larger
+=== normal, routine **
+customary
+routine
+logical
+normal
+=== awful, bad-looking **
+awful
+shitty
+bad-looking
+wrong
+=== crucial, useful **
+useful
+crucial
+=== messy, sloppy **
+messy
+sloppy
+bad
+=== END

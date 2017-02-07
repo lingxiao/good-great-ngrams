@@ -1,0 +1,49 @@
+=== abundant, plenty **
+plenty
+significant
+vast
+abundant
+=== excited, delighted **
+grateful
+pleased
+delighted
+excited
+=== embarrassed, uncomfortable **
+uncomfortable
+embarrassed
+awkward
+=== biggest, stronger **
+biggest
+highest
+stronger
+=== efficient, potent **
+efficient
+potent
+powerful
+optimum
+=== convenient, attractive **
+convenient
+fine
+attractive
+=== successful, best **
+strongest
+finest
+best
+successful
+=== terrific, superb **
+valuable
+first-class
+superb
+terrific
+=== perfect, beautiful **
+perfect
+beautiful
+=== perfect, righteous **
+righteous
+pretty
+perfect
+amazing
+awesome
+spectacular
+remarkable
+=== END

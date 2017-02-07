@@ -1,0 +1,48 @@
+=== beautiful, fine **
+fine
+beautiful
+brilliant
+=== scant, meagre **
+scant
+meagre
+scanty
+limited
+few
+=== miniscule, minute **
+miniscule
+minute
+small
+=== better, fine **
+better
+good
+fine
+awesome
+=== comprehensive, general **
+comprehensive
+universal
+global
+commonplace
+general
+=== precisely, affirmative **
+sure
+yes
+precisely
+affirmative
+=== enjoyable, comfortable **
+enjoyable
+comfortable
+=== wonderful, fortunate **
+grateful
+fortunate
+wonderful
+pleased
+=== better, effective **
+better
+good
+superior
+effective
+=== awful, dreadful **
+scary
+awful
+dreadful
+=== END

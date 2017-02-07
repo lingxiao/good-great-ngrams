@@ -136,11 +136,13 @@ class OutputServer(object):
   #      -> IO Float
   def read(self,ai,*args):
     p = self.exists(ai,*args)
+    print (p)
     if p:
       return read_total(p)
     else: 
-      print ("missing data for " + ai + ' ' + str(args))
-      return False
+      print("missing data for " + ai + ' ' + str(args))
+      return 0.0
+      # raise NameError("missing data for " + ai + ' ' + str(args))
 
 
   # merle

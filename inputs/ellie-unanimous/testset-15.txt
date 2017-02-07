@@ -1,0 +1,61 @@
+=== loveable, fine **
+bonnie
+fine
+dainty
+cute
+loveable
+pretty
+attractive
+=== dramatic, formidable **
+dramatic
+formidable
+desperate
+dire
+=== odd, bizarre **
+rare
+unusual
+odd
+bizarre
+=== huge, broad **
+big
+broad
+huge
+sizeable
+immense
+enormous
+tremendous
+=== shaky, vulnerable **
+weak
+shaky
+vulnerable
+=== breathtaking, special **
+special
+fantastic
+awesome
+breathtaking
+remarkable
+outstanding
+incredible
+impressive
+magnificent
+=== time-consuming, long-standing **
+time-consuming
+lengthy
+long-standing
+long
+=== overwhelming, far-reaching **
+overwhelming
+vast
+far-reaching
+significant
+=== thrilled, pleased **
+joyful
+pleased
+thrilled
+psyched
+ecstatic
+=== reasonable, proportionate **
+logical
+proportionate
+reasonable
+=== END

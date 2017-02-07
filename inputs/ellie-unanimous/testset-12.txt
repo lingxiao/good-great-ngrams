@@ -1,0 +1,50 @@
+=== substantial, remarkable **
+substantial
+remarkable
+spectacular
+=== impressive, remarkable **
+impressive
+remarkable
+=== pleasant, enjoyable **
+enjoyable
+fantastic
+ggood
+outstanding
+magnificent
+pleasant
+=== yes, affirmative **
+yes
+precisely
+affirmative
+sure
+=== limited, scarce **
+low
+short
+limited
+scarce
+=== better, exceptional **
+good
+better
+remarkable
+exceptional
+perfect
+=== active, potent **
+active
+aggressive
+potent
+intense
+=== potent, effective **
+effective
+potent
+=== rigorous, tougher **
+rigorous
+strengthened
+tougher
+potent
+stronger
+=== few, least **
+least
+few
+little
+some
+=== END

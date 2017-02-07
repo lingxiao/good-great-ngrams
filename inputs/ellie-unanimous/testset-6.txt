@@ -1,0 +1,51 @@
+=== proper, well-formed **
+adequate
+well-formed
+right
+proper
+=== terrific, big **
+big
+terrific
+=== satisfactory, excellent **
+satisfactory
+fine
+appropriate
+excellent
+=== clear, prominent **
+clear
+bright
+prominent
+remarkable
+=== daunting, formidable **
+tough
+substantial
+formidable
+impressive
+daunting
+=== childish, dumb **
+childish
+dumb
+ridiculous
+=== proficient, trained **
+skilled
+pro
+proficient
+trained
+capable
+fit
+qualified
+=== true, authentic **
+authentic
+true
+genuine
+=== possible, workable **
+possibly
+permissible
+easy
+workable
+possible
+=== desirable, best **
+useful
+desirable
+best
+=== END

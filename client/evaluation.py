@@ -138,7 +138,7 @@ def greater(ai,ak,gold):
 # same :: String -> String -> [(String,String)] -> Bool
 def equal(ai,ak,gold):
   ts = [ai in rw and ak in rw for rw in gold]
-  return any(lambda x: x == True, ts)
+  return any_(lambda x: x == True, ts)
 
 # lesser :: String -> String -> [(String,String)] -> Bool
 def lesser(ai,ak,gold):

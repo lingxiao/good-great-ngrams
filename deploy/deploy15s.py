@@ -20,44 +20,47 @@ data  = os.path.join(root, 'ngrams/')
 
 
 
-a16    = App(root
+a11    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-16')
+           ,'ellie-unanimous/testset-11')
 
-a17    = App(root
+
+a12    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-17')
+           ,'ellie-unanimous/testset-12')
 
-a18    = App(root
+
+a13    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-18')
+           ,'ellie-unanimous/testset-13')
 
-a19    = App(root
+a14    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-19')
+           ,'ellie-unanimous/testset-14')
 
-a20    = App(root
+
+a15    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-20')
+           ,'ellie-unanimous/testset-15')
 
 
-a16.refresh(1)
-a17.refresh(1)
-a18.refresh(1)
-a19.refresh(1)
-a20.refresh(1)
+a11.refresh(1)
+a12.refresh(1)
+a13.refresh(1)
+a14.refresh(1)
+a15.refresh(1)

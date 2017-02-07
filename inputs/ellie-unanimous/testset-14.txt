@@ -1,0 +1,58 @@
+=== perfect, fine **
+fine
+good
+better
+brighter
+greater
+perfect
+=== embarrassed, awkward **
+awkward
+uncomfortable
+embarrassed
+=== harmful, severe **
+dangerous
+harmful
+severe
+=== radical, remarkable **
+radical
+remarkable
+dramatic
+=== specific, distinctive **
+certain
+specific
+accurate
+definite
+distinctive
+=== huge, tremendous **
+remarkable
+all-important
+sizeable
+huge
+major
+immense
+colossal
+formidable
+overwhelming
+tremendous
+=== perfect, well **
+perfect
+terrific
+awesome
+fine
+well
+=== little, feeble **
+little
+weaker
+feeble
+=== incorrect, unfavourable **
+unsatisfactory
+unfavourable
+incorrect
+improper
+poor
+=== active, lively **
+vigorous
+lively
+actively
+active
+=== END

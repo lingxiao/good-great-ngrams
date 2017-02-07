@@ -1,0 +1,51 @@
+=== small, minute **
+small
+minute
+miniscule
+=== available, common **
+common
+available
+=== enraged, irritated **
+irritated
+upset
+angry
+enraged
+=== terrific, outstanding **
+best
+outstanding
+terrific
+positive
+=== better, excellent **
+better
+lovely
+excellent
+perfect
+superb
+=== inestimable, valuable **
+inestimable
+finest
+immeasurable
+valuable
+=== exemplary, special **
+exemplary
+incredible
+awesome
+astonishing
+exciting
+special
+remarkable
+=== interesting, noteworthy **
+relevant
+useful
+worthwhile
+noteworthy
+interesting
+=== convenient, valuable **
+useful
+convenient
+worthwhile
+valuable
+=== efficient, functioning **
+functioning
+efficient
+=== END

@@ -1,0 +1,55 @@
+=== appropriate, excellent **
+appropriate
+fine
+satisfactory
+excellent
+=== positive, sweet **
+positive
+encouraging
+sweet
+=== right, correct **
+apt
+appropriate
+right
+justified
+fair
+well-formed
+correct
+=== embarrassing, uncomfortable **
+uncomfortable
+embarrassing
+awkward
+=== major, staggering **
+big
+major
+substantial
+awesome
+staggering
+tremendous
+=== great, valuable **
+valuable
+great
+=== precise, straightforward **
+straightforward
+clear
+accurate
+precise
+exact
+=== substantial, larger **
+substantial
+greater
+larger
+powerful
+=== overwhelmed, happy **
+pleased
+happy
+excited
+delighted
+overwhelmed
+=== bad, horrendous **
+bad
+horrific
+horrendous
+horrid
+horrible
+=== END

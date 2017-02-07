@@ -34,7 +34,7 @@ __all__ = [ 'parse_pattern'
           
           , 'markov_ilp'
 
-          # , 'markov_absolute'
+          , 'markov_absolute'
           # , 'markov_derive'
           # , 'markov_milp'
           ]

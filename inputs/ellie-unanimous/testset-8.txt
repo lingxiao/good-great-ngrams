@@ -1,0 +1,46 @@
+=== insane, incredible **
+insane
+incredible
+=== content, pleased **
+positive
+glad
+content
+satisfied
+pleased
+=== guaranteed, fitting **
+adequate
+fine
+fitting
+guaranteed
+good
+=== accessible, convenient **
+accessible
+simple
+easiest
+convenient
+=== timely, appropriate **
+fitting
+right
+appropriate
+timely
+=== simple, simplest **
+simple
+simply
+easier
+simplest
+easy
+=== poor, indigent **
+bankrupt
+indigent
+poor
+=== large, spectacular **
+spectacular
+large
+=== substantial, spectacular **
+spectacular
+remarkable
+substantial
+=== beautiful, perfect **
+beautiful
+perfect
+=== END

@@ -1,0 +1,50 @@
+=== informative, worthwhile **
+informative
+helpful
+beneficial
+worthwhile
+valuable
+=== excessive, huge **
+much
+substantial
+excessive
+huge
+=== substantial, higher **
+substantial
+higher
+=== scary, frightening **
+exciting
+spooky
+scary
+freaky
+frightening
+terrifying
+=== fantastic, impressive **
+magnificent
+impressive
+fantastic
+=== special, remarkable **
+remarkable
+special
+=== rigorous, tougher **
+tough
+tougher
+rigorous
+stringent
+severe
+=== efficient, effective **
+efficient
+convenient
+effective
+beneficial
+=== short, concise **
+short
+brief
+succinct
+concise
+=== perfect, remarkable **
+admirable
+remarkable
+wonderful
+perfect
+=== END

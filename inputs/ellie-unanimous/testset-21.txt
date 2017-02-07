@@ -1,0 +1,53 @@
+=== insane, psycho **
+stir-crazy
+wacko
+nuts
+daft
+crazy
+mental
+demented
+insane
+psycho
+=== beautiful, fairer **
+fairest
+fairer
+beautiful
+fair
+=== timely, worthwhile **
+worthwhile
+timely
+=== smarter, smart **
+smarter
+bright
+smart
+clever
+=== problematic, uncomfortable **
+problematic
+cumbersome
+uncomfortable
+hard
+=== respectable, reasonable **
+respectable
+reasonable
+=== instrumental, active **
+dynamic
+engaged
+instrumental
+active
+=== perfect, excellent **
+perfect
+excellent
+fine
+remarkable
+great
+=== huge, much **
+huge
+substantial
+excessive
+much
+=== great, enormously **
+excessive
+enormously
+major
+great
+=== END

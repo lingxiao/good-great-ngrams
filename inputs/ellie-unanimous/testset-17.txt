@@ -1,0 +1,49 @@
+=== active, instrumental **
+active
+engaged
+dynamic
+instrumental
+=== self-explanatory, straightforward **
+self-explanatory
+straightforward
+inevitable
+obvious
+=== disgraceful, unfortunate **
+unfortunate
+disgraceful
+=== relevant, significant **
+right
+relevant
+significant
+crucial
+critical
+=== ridiculous, preposterous **
+ridiculous
+preposterous
+=== poor, inadequate **
+poor
+low
+scarce
+inadequate
+unacceptable
+=== overwhelming, far-reaching **
+significant
+far-reaching
+vast
+overwhelming
+=== eco-friendly, environmentally-friendly **
+eco-friendly
+environmentally-friendly
+clean
+=== pointless, derisory **
+senseless
+pointless
+derisory
+ridiculous
+=== small, less **
+infrequent
+fewer
+less
+limited
+small
+=== END

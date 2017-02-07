@@ -19,45 +19,29 @@ root  = '/home1/l/lingxiao/xiao/good-great-ngrams/'
 data  = os.path.join(root, 'ngrams/')
 
 
-
-a16    = App(root
+a21    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-16')
+           ,'ellie-unanimous/testset-21')
 
-a17    = App(root
+a22    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-17')
+           ,'ellie-unanimous/testset-22')
 
-a18    = App(root
+a23    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-18')
-
-a19    = App(root
-           ,data
-           ,'outputs-2'
-           ,'one-sided-patterns'
-           ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-19')
-
-a20    = App(root
-           ,data
-           ,'outputs-2'
-           ,'one-sided-patterns'
-           ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-20')
+           ,'ellie-unanimous/testset-23')
 
 
-a16.refresh(1)
-a17.refresh(1)
-a18.refresh(1)
-a19.refresh(1)
-a20.refresh(1)
+a21.refresh(1)
+a22.refresh(1)
+a23.refresh(1)
+

@@ -1,0 +1,62 @@
+=== generic, general **
+generally
+general
+generic
+=== miserable, sad **
+miserable
+sad
+terrible
+=== satisfactory, best **
+satisfactory
+finest
+remarkable
+positive
+awesome
+magnificent
+marvelous
+first-rate
+best
+outstanding
+=== perfect, best **
+fantastic
+magnificent
+awesome
+best
+perfect
+=== limited, scarce **
+few
+limited
+scant
+rarest
+rare
+scarce
+meagre
+=== recent, lately **
+lately
+recent
+=== huge, all-important **
+colossal
+tremendous
+huge
+immense
+all-important
+remarkable
+sizeable
+formidable
+overwhelming
+major
+=== beautiful, fairest **
+fair
+fairer
+fairest
+beautiful
+=== intensive, substantial **
+substantial
+intensive
+=== ludicrous, demented **
+ridiculous
+ludicrous
+crazy
+insane
+demented
+=== END
