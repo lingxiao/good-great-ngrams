@@ -53,3 +53,12 @@ a5    = App(root
            ,'two-sided-patterns'
            ,'ellie-unanimous/testset-5')
 
+a1.refresh(1)
+a2.refresh(1)
+a3.refresh(1)
+a4.refresh(1)
+a5.refresh(1)
+
+
+
+

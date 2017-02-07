@@ -18,38 +18,47 @@ from client  import *
 root  = '/home1/l/lingxiao/xiao/good-great-ngrams/'
 data  = os.path.join(root, 'ngrams/')
 
-a1    = App(root
+
+a6    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-1')
+           ,'ellie-unanimous/testset-6')
 
-a2    = App(root
+a7    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-2')
+           ,'ellie-unanimous/testset-7')
 
-a3    = App(root
+a8    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-3')
+           ,'ellie-unanimous/testset-8')
 
-a4    = App(root
+
+a9    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-4')
+           ,'ellie-unanimous/testset-9')
 
-a5    = App(root
+
+a10    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-5')
+           ,'ellie-unanimous/testset-10')
 
+
+a6.refresh(1)
+a7.refresh(1)
+a8.refresh(1)
+a9.refresh(1)
+a10.refresh(1)
