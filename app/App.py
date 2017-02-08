@@ -275,31 +275,10 @@ def collect_word(refresh,ngram,one):
   ngrams    = [(w.split('\t')[0], int(w.split('\t')[1])) \
               for w in ngrams if len(w.split('\t')) == 2]
 
-  for word in words:
+  for word in new_words:
     log('collecting data for ' + word + '\n')
     ret  = [(w,n) for w,n in ngrams if w == word]
     one.write_word(word,ret)
-
-
-  # words   = list(set(join(join(xs for _,_,xs in one.test()))))
-  # preds   = [('',ai) for ai in words]
-  # queries = []
-
-  # for (R,ai) in preds:
-  #   if refresh and one.exists(ai):
-  #     pass
-  #     log ("Data for " 
-  #         + ai  + " " 
-  #         + "already exists")
-  #   else:
-  #     pred = predicate(re.compile(parse_re(ai,[])))
-  #     queries.append((pred,'',[ai]))
-
-  #   if queries:
-  #     for (pred,r,[ai]) in queries:
-  #       result = ngram.filter(1,pred)
-  #       one.write_word(ai,result)
-        # log('collecting data for ' + ai + '\n')
 
         
 def collect_normalization(refresh,ngram,twosided):
