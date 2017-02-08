@@ -15,7 +15,8 @@ from client  import *
 # Initialize application 
 ############################################################
 
-root  = '/home1/l/lingxiao/xiao/good-great-ngrams/'
+# root  = '/home1/l/lingxiao/xiao/good-great-ngrams/'
+root  = "/Users/lingxiao/Documents/research/code/good-great-ngrams"
 data  = os.path.join(root, 'ngrams/')
 
 
@@ -41,7 +42,7 @@ a23    = App(root
            ,'ellie-unanimous/testset-23')
 
 
-a21.refresh(1)
-a22.refresh(1)
-a23.refresh(1)
+a21.refresh(2)
+a22.refresh(2)
+a23.refresh(2)
 

@@ -9,7 +9,7 @@ from .milp            import *
 from .markov_absolute import *
 from .markov_derive   import *
 from .markov_ilp      import *
-# from .markov_milp     import *
+from .markov_milp     import *
 
 __all__ = [ 'parse_pattern'
           , "tau"
@@ -35,7 +35,7 @@ __all__ = [ 'parse_pattern'
           , 'markov_ilp'
 
           , 'markov_absolute'
-          # , 'markov_derive'
+          , 'markov_derive'
           # , 'markov_milp'
           ]
 

@@ -59,7 +59,6 @@ def save(out_dir,name,results):
   if os.path.exists(path):
     os.remove(path)
 
-
   totals  = [(p,sum(n for _,n in out)) for p,out in results]
   total   = sum([n for (_,n) in totals])
 

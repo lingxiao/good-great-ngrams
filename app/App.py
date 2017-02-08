@@ -253,35 +253,53 @@ def run_all(refresh, n, onesided, twosided, ngram):
     collect_one_sided    (refresh,ngram,onesided,join(join(test)))
   elif n == 2:    
     collect_two_sided    (refresh,ngram,twosided,test)
-    collect_normalization(refresh,ngram,twosided)
-    collect_word         (refresh,ngram,onesided)
+    # collect_normalization(refresh,ngram,twosided)
   else:
     raise NameError('Improper input ' + str(n))
 
 
 
-# TODO: this is not the fn that is run for most of the project
-#       need to catch a bug in here
+# TODO: Remove hardcoded 'vocab.txt' path
 def collect_word(refresh,ngram,one):
-  words   = set(join(join(xs for _,_,xs in one.test())))
-  preds   = [('',ai) for ai in words]
-  queries = []
 
-  for (R,ai) in preds:
-    if refresh and one.exists(ai):
-      pass
-      log ("Data for " 
-          + ai  + " " 
-          + "already exists")
-    else:
-      pred = predicate(re.compile(parse_re(ai,[])))
-      queries.append((pred,'',[ai]))
+  tset      = one.test()
+  words     = list(set(join(join(ws for _,_,ws in tset))))
 
-    if queries:
-      for (pred,r,[ai]) in queries:
-        result = ngram.filter(1,pred)
-        one.write_word(ai,result)
-        log('collecting data for ' + ai + '\n')
+  if refresh:
+    new_words = [w for w in words if not one.exists(w)]
+  else:
+    new_words = words
+
+  path      = os.path.join(ngram.PATH['1gms'],'vocab.txt')
+  ngrams    = open(path).read().split('\n')
+  ngrams    = [(w.split('\t')[0], int(w.split('\t')[1])) \
+              for w in ngrams if len(w.split('\t')) == 2]
+
+  for word in words:
+    log('collecting data for ' + word + '\n')
+    ret  = [(w,n) for w,n in ngrams if w == word]
+    one.write_word(word,ret)
+
+
+  # words   = list(set(join(join(xs for _,_,xs in one.test()))))
+  # preds   = [('',ai) for ai in words]
+  # queries = []
+
+  # for (R,ai) in preds:
+  #   if refresh and one.exists(ai):
+  #     pass
+  #     log ("Data for " 
+  #         + ai  + " " 
+  #         + "already exists")
+  #   else:
+  #     pred = predicate(re.compile(parse_re(ai,[])))
+  #     queries.append((pred,'',[ai]))
+
+  #   if queries:
+  #     for (pred,r,[ai]) in queries:
+  #       result = ngram.filter(1,pred)
+  #       one.write_word(ai,result)
+        # log('collecting data for ' + ai + '\n')
 
         
 def collect_normalization(refresh,ngram,twosided):

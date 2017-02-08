@@ -194,10 +194,9 @@ def config(ngram_dir, hack):
             crawl onesided patterns we previously collected
 
     '''
-    # grep  = '/Users/lingxiao/Documents/research/code/good-great/outputs/iterations/53-63-78-data/one-sided-patterns'
+    # grep  = '/Users/lingxiao/Documents/research/code/good-great-ngrams/outputs-2/one-sided-patterns'
     grep  = os.path.join(ngram_dir ,"grepped/grepped-data")
 
-    # raise_errors([p_1gm, p_2gm, p_2gm, p_4gm, p_5gm, grep])
     raise_errors([p_1gm, grep])
 
     return { "grep"  : grep
@@ -207,7 +206,7 @@ def config(ngram_dir, hack):
            , "4gms"  : p_4gm
            , "5gms"  : p_5gm}
 
-    # raise_errors :: [String] -> Eff [IO, Error String) ()
+# raise_errors :: [String] -> Eff [IO, Error String) ()
 def raise_errors(paths):
   for p in paths:
     if not os.path.isdir(p) and not os.path.isfile(p):

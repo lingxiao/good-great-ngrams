@@ -16,6 +16,8 @@ from client  import *
 from app     import * 
 from copy    import deepcopy
 
+from PIL import Image
+
 ############################################################
 # Initialize application 
 ############################################################
@@ -71,7 +73,7 @@ app_u = App(root
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-1')
+           ,'testset-ellie-unanimous')
 
 
 two  = app_u.TwoSided
@@ -81,7 +83,22 @@ app.to_one_sided()
 
 ############################################################
 
-# tset = one.test()
+tset = one.test()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # prefix = 'ellie'
 # rmarkov_ilp    = markov_ilp     (app_u)
 # rmarkov_abs    = markov_absolute(app_u)
@@ -97,7 +114,7 @@ app.to_one_sided()
 
 # app.save(prefix + 'markov-heuristic', rmarkov_abs)
 
-# rmarkov_derive = markov_derive(app)
+# rmarkov_derive = markov_derive(app_u)
 # app.save(prefix +  'markov-pairwise-approx', rmarkov_derive)
 
 # rmarkov_ilp    = markov_ilp(app_e)
@@ -182,6 +199,24 @@ f.close()
 
 '''
 
+'''
+  fix images in outputs-2/two-sided-patterns
+  p_current = '/Users/lingxiao/Documents/research/code/good-great-ngrams/outputs-2/two-sided-patterns'
+  # p_current = '/Users/lingxiao/Documents/research/code/good-great-ngrams/temp'
+  p_old     = p_current + '-old'
+
+
+  old_files = os.listdir(p_current)
+
+
+  # for f in old_files:
+  #   pold  = os.path.join(p_old    ,f)
+  #   pcurr = os.path.join(p_current,f)
+  #   po = open(pold,'r').read()
+  #   print (po)
+  #   pn = open(pcurr,'w').write(po)
+
+'''
 
 
 
