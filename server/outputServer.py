@@ -24,6 +24,7 @@ from server  import *
 #    - write
 #    - write_word
 #
+#    - remove_null_files
 # 
 # Persistant data stored in objects of this class:
 #    - paths to data within the application directory
@@ -210,10 +211,6 @@ class OutputServer(object):
 
 
 
-
-    # save(self.PATH['normalization'],R,[('',results)])
-    # return self
-  
   ############################################################
   # Ping data 
 
@@ -239,6 +236,28 @@ class OutputServer(object):
       if os.path.isfile(path1)  : return path1
       elif os.path.isfile(path2): return path2
       else                      : return False
+
+  ############################################################
+  # Maintain directory
+
+  '''
+    @Use: for what ever reason sometimes files are saved
+          with no content, remove these files          
+  '''
+  def remove_null_files():
+    path   = self.PATH['out-pattern']
+    files  = os.listdir(path)
+    files1 = [f.replace('.txt','') + '-1' + '.txt' for f in files] 
+    paths  = [os.path.join(path,f) for f in files]
+
+    log('removing null files')
+
+    for p in paths:
+      f = open(p,'r').read()
+      if not f:
+        os.remove(p)
+        print ('removing ' + p)
+
 
 # naming convention
 # to_name :: String -> String -> String -> String

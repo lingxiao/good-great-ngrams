@@ -27,8 +27,8 @@ class NgramServer(object):
   #          path/to/google-ngram
   # @Output: None
   # init :: InputServer -> DirectoryPath -> DirectoryPath -> _|_
-  def __init__(self, ngram_dir, hack):
-    self.PATH  = config(ngram_dir, hack)
+  def __init__(self, ngram_dir):
+    self.PATH  = config(ngram_dir)
     self.store = []
 
 ############################################################
@@ -176,7 +176,7 @@ def pick_corpus(PATH,n):
 
 # config :: DirectoryPath
 #        -> Eff [IO, Error String] (Dict String DirectoryPath)
-def config(ngram_dir, hack):
+def config(ngram_dir):
   if not os.path.isdir(ngram_dir):
     raise NameError("Invalid Directory: " + ngram_dir)
   else:
@@ -194,8 +194,8 @@ def config(ngram_dir, hack):
             crawl onesided patterns we previously collected
 
     '''
-    # grep  = '/Users/lingxiao/Documents/research/code/good-great-ngrams/outputs-2/one-sided-patterns'
-    grep  = os.path.join(ngram_dir ,"grepped/grepped-data")
+    grep  = '/Users/lingxiao/Documents/research/code/good-great-ngrams/outputs-2/one-sided-patterns'
+    # grep  = os.path.join(ngram_dir ,"grepped/grepped-data")
 
     raise_errors([p_1gm, grep])
 

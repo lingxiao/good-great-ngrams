@@ -79,25 +79,46 @@ app_u = App(root
 two  = app_u.TwoSided
 one  = app_u.OneSided
 
-app.to_one_sided()
+app_u.to_one_sided()
 
 ############################################################
 
-tset = one.test()
+
+# path   = '/Users/lingxiao/Documents/research/code/good-great-ngrams/outputs-2/one-sided-patterns'
+# files  = os.listdir(path)
+# files1 = [f.replace('.txt','') + '-1' + '.txt' for f in files] 
+
+# paths = [os.path.join(path,f) for f in files]
+
+# no_content = []
+
+# for p in paths:
+#   f = open(p,'r').read()
+#   if not f:
+#     no_content.append(p)
+#     os.remove(p)
+#     print ('removing ' + p)
+
+
+
+
+# yes = [f1 for f1 in files1 if f1 in files]
+
+# yes = []
+
+# for f1 in files1:
+#   if f1 in files:
+#     yes.append(f1)
+#     print f1
+#   else:
+#     print 'no'
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+# m_absolute = markov_absolute(app_u)
 
 # prefix = 'ellie'
 # rmarkov_ilp    = markov_ilp     (app_u)

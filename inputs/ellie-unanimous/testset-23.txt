@@ -59,4 +59,8 @@ ludicrous
 crazy
 insane
 demented
+=== aroused, overjoyed **
+aroused
+overjoyed
+excited
 === END

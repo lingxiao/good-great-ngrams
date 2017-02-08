@@ -54,7 +54,7 @@ class App(object):
     self.input_dir  = in_dir
     self.OneSided   = OutputServer(in_dir, out_dir, one_sided_patterns, test_set)
     self.TwoSided   = OutputServer(in_dir, out_dir, two_sided_patterns, test_set)
-    self.NGRAM      = NgramServer (ngram, False)
+    self.NGRAM      = NgramServer (ngram)
 
   ############################################################
   # Collect data
@@ -76,6 +76,13 @@ class App(object):
   # @Output: App
   # refresh :: App -> Int -> IO App
   def refresh(self, n):
+
+    '''
+      clean up any files that may be null before refreshing
+    '''
+    self.OneSided.remove_null_files()
+    self.TwoSided.remove_null_files()
+
     log("Refreshing Application")
     run_all(True, n, self.OneSided, self.TwoSided, self.NGRAM)
     log ("All Application Data Up To Date")
@@ -253,10 +260,10 @@ def run_all(refresh, n, onesided, twosided, ngram):
     collect_one_sided    (refresh,ngram,onesided,join(join(test)))
   elif n == 2:    
     collect_two_sided    (refresh,ngram,twosided,test)
+    # collect_word         (refresh,ngram,onesided)
     # collect_normalization(refresh,ngram,twosided)
   else:
     raise NameError('Improper input ' + str(n))
-
 
 
 # TODO: Remove hardcoded 'vocab.txt' path
@@ -270,15 +277,19 @@ def collect_word(refresh,ngram,one):
   else:
     new_words = words
 
-  path      = os.path.join(ngram.PATH['1gms'],'vocab.txt')
-  ngrams    = open(path).read().split('\n')
-  ngrams    = [(w.split('\t')[0], int(w.split('\t')[1])) \
-              for w in ngrams if len(w.split('\t')) == 2]
+  log('searching for word in google 1-gram ...')
+
+  path   = os.path.join(ngram.PATH['1gms'],'vocab.txt')
+  ngrams = open(path).read().split('\n')
+  ngrams = [(w.split('\t')[0], int(w.split('\t')[1])) \
+           for w in ngrams if len(w.split('\t')) == 2]
 
   for word in new_words:
     log('collecting data for ' + word + '\n')
     ret  = [(w,n) for w,n in ngrams if w == word]
     one.write_word(word,ret)
+
+  log('all words up to date!')
 
         
 def collect_normalization(refresh,ngram,twosided):

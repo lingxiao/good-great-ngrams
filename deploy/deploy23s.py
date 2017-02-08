@@ -42,7 +42,7 @@ a23    = App(root
            ,'ellie-unanimous/testset-23')
 
 
-a21.refresh(2)
-a22.refresh(2)
+# a21.refresh(2)
+# a22.refresh(2)
 a23.refresh(2)
 
