@@ -194,8 +194,8 @@ def config(ngram_dir):
             crawl onesided patterns we previously collected
 
     '''
-    grep  = '/Users/lingxiao/Documents/research/code/good-great-ngrams/outputs-2/one-sided-patterns'
-    # grep  = os.path.join(ngram_dir ,"grepped/grepped-data")
+    # grep  = '/Users/lingxiao/Documents/research/code/good-great-ngrams/outputs-2/one-sided-patterns'
+    grep  = os.path.join(ngram_dir ,"grepped/grepped-data")
 
     raise_errors([p_1gm, grep])
 

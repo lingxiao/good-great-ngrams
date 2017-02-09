@@ -1,5 +1,5 @@
 ############################################################
-# Module  : Redo paper milp
+# Module  : Bansal paper milp
 # Date    : December 10th
 # Author  : Xiao Ling
 ############################################################
@@ -54,7 +54,6 @@ def milp(app):
                       }  
          }
 
-
 ############################################################
 # rank each cluster
 
@@ -69,72 +68,90 @@ def milp_no_syn(gold, app):
 
   words      = join(gold)
 
+  for k in range(0,10):
+    shuffle(words)
+
   pairs      = [u + '=' + v for u in words for v in words if u != v]
   (scores,C) = to_score(pairs,app)
 
   '''
-    initialize problem
-  '''  
-  prob = LpProblem('-'.join(words), LpMaximize)
+    If absolutely no data, output ties
+  '''
+  no_data = all(v == 0 for v in [scores[k] for k in scores])
+
+  if no_data:
+
+    algo = [[words]]
 
   '''
-    initialize variables
-  '''  
-  x = dict()     # real value of each x_i on [0,1]
-  d = dict()     # real value of distance between every x_i, x_j, i != j
-  w = dict()     # integral value where w_ij => i < j
-  s = dict()     # integral value where s_ij => i > j
-
-  for uv in pairs:
-    w[uv] = LpVariable('w_' + uv, 0, 1, LpInteger   )
-    s[uv] = LpVariable('s_' + uv, 0, 1, LpInteger   )
-    d[uv] = LpVariable('d_' + uv, 0, 1, LpContinuous)
-
-  for u in words:
-    x[u] = LpVariable('x_' + u, 0, 1, LpContinuous) 
-
-
+    If there is any data at all, run Bansal' method
   '''
-    objective function
-  '''
-  objective = [ (w[ij] - s[ij]) * scores[ij] \
-                for ij in pairs ]
+  else:
 
-  prob += lpSum(objective)
+    '''
+      initialize problem
+    '''  
+    prob = LpProblem('-'.join(words), LpMaximize)
 
+    '''
+      initialize variables
+    '''  
+    x = dict()     # real value of each x_i on [0,1]
+    d = dict()     # real value of distance between every x_i, x_j, i != j
+    w = dict()     # integral value where w_ij => i < j
+    s = dict()     # integral value where s_ij => i > j
 
-  '''
-    constraints
-  '''
-  # d_ij = x_j - x_i
-  for ij in pairs:
-    [i,j] = ij.split('=')
-    prob += x[j] - x[i] == d[ij]
+    for uv in pairs:
+      w[uv] = LpVariable('w_' + uv, 0, 1, LpInteger   )
+      s[uv] = LpVariable('s_' + uv, 0, 1, LpInteger   )
+      d[uv] = LpVariable('d_' + uv, 0, 1, LpContinuous)
 
-  # d_ij - w_ij * C <= 0
-  for ij in pairs:
-    prob += d[ij] - w[ij] * C <= 0
-
-  # d_ij + (1 - w_ij) * C > 0
-  for ij in pairs:
-    prob += d[ij] + (1 - w[ij]) * C >= 0
-
-  # d_ij + s_ij * C >= 0
-  for ij in pairs:
-    prob += d[ij] + s[ij] * C >= 0
-
-  # d_ij - (1 - sij) * C < 0
-  for ij in pairs:
-    prob += d[ij] - (1 - s[ij]) * C <= 0
+    for u in words:
+      x[u] = LpVariable('x_' + u, 0, 1, LpContinuous) 
 
 
-  '''
-    solve and interpret data
-  '''
+    '''
+      objective function
+    '''
+    objective = [ (w[ij] - s[ij]) * scores[ij] \
+                  for ij in pairs ]
 
-  prob.solve()
+    prob += lpSum(objective)
 
-  algo = prob_to_algo_rank(prob,words)
+
+    '''
+      constraints
+    '''
+    # d_ij = x_j - x_i
+    for ij in pairs:
+      [i,j] = ij.split('=')
+      prob += x[j] - x[i] == d[ij]
+
+    # d_ij - w_ij * C <= 0
+    for ij in pairs:
+      prob += d[ij] - w[ij] * C <= 0
+
+    # d_ij + (1 - w_ij) * C > 0
+    for ij in pairs:
+      prob += d[ij] + (1 - w[ij]) * C >= 0
+
+    # d_ij + s_ij * C >= 0
+    for ij in pairs:
+      prob += d[ij] + s[ij] * C >= 0
+
+    # d_ij - (1 - sij) * C < 0
+    for ij in pairs:
+      prob += d[ij] - (1 - s[ij]) * C <= 0
+
+
+    '''
+      solve and interpret data
+    '''
+
+    prob.solve()
+
+    algo = prob_to_algo_rank(prob,words)
+
 
   return {'gold'           : gold
           ,'algo'          : algo
@@ -313,103 +330,6 @@ def W2(two,ai,ak):
 
 def S2(two,ai,ak):
   return S1(two,ak,ai)
-
-
-
-def milp_syn(gold,app):
-  words      = join(gold)
-  pairs      = [u + '-' + v for u in words for v in words if u != v]
-  (scores,C) = to_score(pairs,app)
-
-  # build synonym set
-  synonyms   = [(u,v) for [u,v] in [x.split('=') for x in pairs] \
-               if is_synonym(u,v)]
-  '''
-    initialize problem
-  '''  
-  prob = LpProblem('-'.join(words), LpMaximize)
-
-
-  '''
-    initialize variables
-  '''  
-  x = dict()     # real value of each x_i on [0,1]
-  d = dict()     # real value of distance between every x_i, x_j, i != j
-  w = dict()     # integral value where w_ij => i < j
-  s = dict()     # integral value where s_ij => i > j
-
-  for uv in pairs:
-    w[uv] = LpVariable('w_' + uv, 0, 1, LpInteger   )
-    s[uv] = LpVariable('s_' + uv, 0, 1, LpInteger   )
-    d[uv] = LpVariable('d_' + uv, 0, 1, LpContinuous)
-
-  for u in words:
-    x[u] = LpVariable('x_' + u, 0, 1, LpContinuous) 
-
-  '''
-    non-synonym and snynonym pairs
-  '''  
-
-  syn_pairs     = [u + '-' + v for u,v in synonyms]
-  non_syn_pairs = [uv for uv in pairs if uv not in syn_pairs]
-
-  print ('=== ', syn_pairs)  
-
-
-  '''
-  objective function
-  '''
-  objective = [ (w[ij] - s[ij]) * scores[ij] \
-              for ij in non_syn_pairs      ] \
-            + [ -1 * C * (w[ij] + s[ij]) for ij in syn_pairs]
-
-  prob += lpSum(objective)
-
-
-  '''
-    constraints
-  '''
-  # d_ij = x_j - x_i
-  for ij in pairs:
-    [i,j] = ij.split('=')
-    prob += x[j] - x[i] == d[ij]
-
-  # d_ij - w_ij * C <= 0
-  for ij in pairs:
-    prob += d[ij] - w[ij] * C <= 0
-
-  # d_ij + (1 - w_ij) * C > 0
-  for ij in pairs:
-    prob += d[ij] + (1 - w[ij]) * C >= 0
-
-  # d_ij + s_ij * C >= 0
-  for ij in pairs:
-    prob += d[ij] + s[ij] * C >= 0
-
-  # d_ij - (1 - sij) * C < 0
-  for ij in pairs:
-    prob += d[ij] - (1 - s[ij]) * C <= 0
-
-
-  '''
-    solve and interpret data
-  ''' 
-
-  prob.solve()
-
-
-  algo = prob_to_algo_rank(prob,words)
-
-  return {'gold'            : gold
-        ,'algo'          : algo
-        ,'tau'           : tau (gold,algo)
-        ,'tau-max'       : tau (gold,gold)   # need this since max tau not necessarily 1.0
-        ,'tau-notie'     : tau2(gold,algo)
-        ,'tau-notie-max' : tau2(gold,gold)
-        ,'pairwise'      : pairwise_accuracy(gold,algo)
-        ,'raw-score'     : scores
-        ,'raw-stat'      : dict()
-        }
 
 
 

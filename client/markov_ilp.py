@@ -1,5 +1,5 @@
 ############################################################
-# Module  : My formulation of MILP
+# Module  : My formulation of ILP
 # Date    : December 10th
 # Author  : Xiao Ling
 ############################################################
@@ -67,7 +67,6 @@ def ilp_each(gold,one,two):
     Z         = p_uv + p_vu  + eps
     score[uv] = (p_uv + eps)/Z
     score[vu] = (p_vu + eps)/Z
-
 
   '''
     construct milp solver

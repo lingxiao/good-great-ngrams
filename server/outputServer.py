@@ -137,7 +137,6 @@ class OutputServer(object):
   #      -> IO Float
   def read(self,ai,*args):
     p = self.exists(ai,*args)
-    print (p)
     if p:
       return read_total(p)
     else: 
@@ -244,19 +243,19 @@ class OutputServer(object):
     @Use: for what ever reason sometimes files are saved
           with no content, remove these files          
   '''
-  def remove_null_files():
+  def remove_null_files(self):
     path   = self.PATH['out-pattern']
     files  = os.listdir(path)
     files1 = [f.replace('.txt','') + '-1' + '.txt' for f in files] 
     paths  = [os.path.join(path,f) for f in files]
 
-    log('removing null files')
+    print('=== scanning for null files for removal ...')
 
     for p in paths:
       f = open(p,'r').read()
       if not f:
         os.remove(p)
-        print ('removing ' + p)
+        print ('== removing ' + p)
 
 
 # naming convention

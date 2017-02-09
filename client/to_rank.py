@@ -20,26 +20,43 @@ from app     import *
 '''  
 def prob_to_algo_rank(prob,words):
 
+  '''
+    interpret score as ranking
+  '''
   raw0 = [tuple(v.name.split('_'))                    
-      for v in prob.variables() if v.varValue == 1.0]
+          for v in prob.variables() if v.varValue == 1.0]
+
+  '''
+    words of form wo-rd need to be taken care of
+  # '''
 
   raw1 = []
 
-  for x,uv in raw0:
-      [u,v] = uv.split('=')
+  for t in raw0:
+
+    if len(t) == 2: 
+
+      (x,uv) = t
+      [u,v]  = uv.split('=')
       raw1.append((x,u,v))
 
-  # if all varValue = 0, then we have ties
-  # if not raw1: 
-    # return [words]
-  # else:
+    elif len(t) == 3:
 
-    # if we have s_ij and w_ij, then we have a contradiction
+      (x,u,v) = t
+
+      if '=' in u:
+        [word1,word2a] = u.split('=')
+        raw1.append((x, word1, word2a + '-' + v))
+      elif '=' in v:
+        [word1b,word2] = v.split('=')
+        raw1.append((x, u + '-' + word1b, word2))
+
+  # if we have s_ij and w_ij, then we have a contradiction
   contradiction = [(s,u,v)                  \
-                for (s,u,v) in raw1       \
-                for (w,u1,v1) in raw1     \
-                if s == 's' and w == 'w'  \
-                and u == u1 and v == v1]
+                  for (s,u,v) in raw1       \
+                  for (w,u1,v1) in raw1     \
+                  if s == 's' and w == 'w'  \
+                  and u == u1 and v == v1]
 
   raw  = [(u,v) for (x,u,v) in raw1 if x == 's']
 
@@ -57,6 +74,7 @@ def prob_to_algo_rank(prob,words):
     if w not in order: order[w] = []
 
   algo = [[w] for w in toposort(order)]
+
 
   return algo
 

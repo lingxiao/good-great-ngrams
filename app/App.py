@@ -80,8 +80,10 @@ class App(object):
     '''
       clean up any files that may be null before refreshing
     '''
-    self.OneSided.remove_null_files()
-    self.TwoSided.remove_null_files()
+    if n == 1:
+      self.OneSided.remove_null_files()
+    if n == 2:
+      self.TwoSided.remove_null_files()
 
     log("Refreshing Application")
     run_all(True, n, self.OneSided, self.TwoSided, self.NGRAM)
@@ -270,12 +272,7 @@ def run_all(refresh, n, onesided, twosided, ngram):
 def collect_word(refresh,ngram,one):
 
   tset      = one.test()
-  words     = list(set(join(join(ws for _,_,ws in tset))))
-
-  if refresh:
-    new_words = [w for w in words if not one.exists(w)]
-  else:
-    new_words = words
+  new_words = list(set(join(join(ws for _,_,ws in tset))))
 
   log('searching for word in google 1-gram ...')
 
