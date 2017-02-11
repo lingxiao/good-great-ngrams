@@ -1,0 +1,5829 @@
+=== best, better ***
+best, better, finest
+adequate
+=== adequate, better ***
+adequate
+better
+best
+finest
+=== adequate, best ***
+adequate
+best
+better
+finest
+=== gentle, sensitive ***
+gentle
+sensitive, thoughtful
+=== gentle, thoughtful ***
+gentle, thoughtful
+sensitive
+=== gentle, sensitive ***
+gentle, sensitive, thoughtful
+=== convenient, worthwhile ***
+convenient, worthwhile
+useful, valuable
+=== useful, convenient ***
+useful, convenient, valuable
+worthwhile
+=== useful, convenient ***
+useful
+convenient
+worthwhile
+valuable
+=== impractical, difficult ***
+impractical
+difficult
+=== difficult, impractical ***
+difficult
+impractical
+=== difficult, impractical ***
+difficult, impractical
+=== fitting, sensible ***
+fitting
+sensible
+=== sensible, fitting ***
+sensible, fitting
+=== sensible, fitting ***
+sensible
+fitting
+=== noteworthy, remarkable ***
+noteworthy, remarkable
+=== remarkable, noteworthy ***
+remarkable, noteworthy
+=== noteworthy, remarkable ***
+noteworthy
+remarkable
+=== useful, relevant ***
+useful
+relevant, valuable, necessary
+=== useful, valuable ***
+useful
+valuable
+relevant
+necessary
+=== positive, encouraging ***
+positive
+encouraging
+sweet
+=== need, necessary ***
+need
+necessary
+=== need, necessary ***
+need
+necessary
+=== need, necessary ***
+need
+necessary
+=== nice, admirable ***
+nice, admirable
+generous, gracious
+thoughtful
+=== senseless, stupid ***
+senseless, stupid
+=== senseless, stupid ***
+senseless, stupid
+=== senseless, stupid ***
+senseless
+stupid
+=== pleased, happy ***
+pleased
+happy
+excited
+delighted
+overwhelmed
+=== pleased, happy ***
+pleased, happy
+delighted, excited
+overwhelmed
+=== pleased, happy ***
+pleased, happy
+excited, delighted
+overwhelmed
+=== bad, horrific ***
+bad
+horrific
+horrendous
+horrid
+horrible
+=== restless, unhappy ***
+restless
+unhappy, sad
+upset
+=== restless, unhappy ***
+restless
+unhappy
+upset, sad
+=== restless, upset ***
+restless
+upset, unhappy
+sad
+=== desirable, attractive ***
+desirable
+attractive
+good, admirable
+=== adequate, proper ***
+adequate, proper
+enough, appropriate, satisfactory
+=== unfortunate, reprehensible ***
+unfortunate, reprehensible
+=== unfortunate, reprehensible ***
+unfortunate, reprehensible
+=== unfortunate, reprehensible ***
+unfortunate
+reprehensible
+=== efficient, potent ***
+efficient
+potent
+powerful
+optimum
+=== powerful, potent ***
+powerful
+potent
+efficient, optimum
+=== convenient, fine ***
+convenient, fine
+attractive
+=== fine, convenient ***
+fine, convenient
+attractive
+=== convenient, fine ***
+convenient
+fine
+attractive
+=== exciting, excited ***
+exciting, excited
+psyched
+=== excited, exciting ***
+excited
+exciting
+psyched
+=== psyched, exciting ***
+psyched
+exciting
+excited
+=== attractive, terrific ***
+attractive
+terrific, marvelous
+fantastic
+=== attractive, terrific ***
+attractive
+terrific
+fantastic, marvelous
+=== terrific, marvelous ***
+terrific
+marvelous, fantastic
+attractive
+=== thought-out, strong ***
+thought-out
+strong
+exceptional
+=== thought-out, strong ***
+thought-out, strong
+exceptional
+=== thought-out, strong ***
+thought-out
+strong
+exceptional
+=== useful, sensible ***
+useful, sensible
+=== sensible, useful ***
+sensible
+useful
+=== useful, sensible ***
+useful
+sensible
+=== childish, dumb ***
+childish
+dumb
+ridiculous
+=== childish, ridiculous ***
+childish
+ridiculous, dumb
+=== childish, ridiculous ***
+childish
+ridiculous, dumb
+=== greater, larger ***
+greater, larger
+powerful
+substantial
+=== problematic, bad ***
+problematic
+bad
+messy
+worse
+worst
+dreadful
+horrific, horrendous
+disturbing
+atrocious, heinous
+critical
+lethal
+=== bad, messy ***
+bad, messy, problematic, worse, worst, critical
+dreadful, atrocious, disturbing
+horrific
+heinous
+horrendous
+lethal
+=== crazy, demented ***
+crazy, demented
+ludicrous
+ridiculous
+insane
+=== little, mild ***
+little
+mild, weak, faint
+weaker
+=== much, substantial ***
+much
+substantial
+huge, excessive
+=== fine, well ***
+fine, well, perfect
+terrific
+awesome
+=== beautiful, likable ***
+beautiful
+likable
+nicer
+sweet
+comfortable, comforting
+enjoyable
+gentle
+mild
+hospitable
+handsome
+lovelier
+nice
+pleasant
+=== odd, bizarre ***
+odd, bizarre, weird
+=== sad, awful ***
+sad
+awful
+=== sad, awful ***
+sad
+awful
+=== sad, awful ***
+sad
+awful
+=== useful, crucial ***
+useful, crucial
+=== useful, crucial ***
+useful
+crucial
+=== specific, correct ***
+specific
+correct, real
+concrete, sure
+=== large, spectacular ***
+large, spectacular
+=== spectacular, large ***
+spectacular, large
+=== spectacular, large ***
+spectacular
+large
+=== convenient, opportune ***
+convenient
+opportune
+fortunate
+timely
+=== convenient, timely ***
+convenient, timely
+opportune
+fortunate
+=== convenient, timely ***
+convenient
+timely
+opportune, fortunate
+=== real, true ***
+real, true
+truthful, meaningful, genuine, authoritative
+=== true, real ***
+true
+real, truthful, genuine, meaningful, authoritative
+=== normal, ordinary ***
+normal, ordinary
+understood
+commonplace
+unremarkable
+=== embarrassing, awkward ***
+embarrassing
+awkward, uncomfortable
+=== precise, accurate ***
+precise
+accurate
+right
+sure, correct
+true
+=== right, accurate ***
+right
+accurate, correct
+true
+sure
+precise
+=== right, correct ***
+right, correct, true, sure, precise, accurate
+=== ridiculous, amazing ***
+ridiculous
+amazing
+=== amazing, ridiculous ***
+amazing
+ridiculous
+=== ridiculous, amazing ***
+ridiculous
+amazing
+=== pointless, senseless ***
+pointless
+senseless
+derisory
+ridiculous
+=== cool, dreamy ***
+cool, dreamy
+magic
+amazing
+=== dreamy, cool ***
+dreamy
+cool
+amazing, magic
+=== cool, dreamy ***
+cool
+dreamy, magic
+amazing
+=== plausible, achievable ***
+plausible
+achievable
+reasonable
+=== visible, prominent ***
+visible
+prominent
+=== visible, prominent ***
+visible
+prominent
+=== visible, prominent ***
+visible
+prominent
+=== extensive, substantial ***
+extensive
+substantial
+long, formidable
+=== long, substantial ***
+long
+substantial
+formidable
+extensive
+=== long, extensive ***
+long, extensive
+substantial
+formidable
+=== strong, stringent ***
+strong
+stringent, rigorous
+severe
+=== miserable, horrible ***
+miserable
+horrible, lousy
+=== rare, remarkable ***
+rare, remarkable
+exceptional
+=== remarkable, exceptional ***
+remarkable
+exceptional
+rare
+=== remarkable, exceptional ***
+remarkable
+exceptional
+rare
+=== joyful, pleased ***
+joyful
+pleased
+thrilled
+psyched
+ecstatic
+=== thrilled, psyched ***
+thrilled
+psyched, ecstatic
+joyful
+pleased
+=== remarkable, special ***
+remarkable
+special
+=== tough, tougher ***
+tough
+tougher
+rigorous
+stringent
+severe
+=== tough, tougher ***
+tough, tougher
+severe, rigorous
+stringent
+=== severe, rigorous ***
+severe, rigorous, tough
+tougher, stringent
+=== comprehensible, understood ***
+comprehensible
+understood
+intelligible
+better
+clearer, transparent
+=== better, clearer ***
+better, clearer, intelligible, understood
+transparent, comprehensible
+=== clearer, understood ***
+clearer
+understood, better, comprehensible
+transparent, intelligible
+=== impressive, remarkable ***
+impressive, remarkable
+=== impressive, remarkable ***
+impressive
+remarkable
+=== impressive, remarkable ***
+impressive, remarkable
+=== enjoyable, fantastic ***
+enjoyable
+fantastic
+ggood
+outstanding
+magnificent
+pleasant
+=== yes, precisely ***
+yes
+precisely
+affirmative
+sure
+=== short, low ***
+short
+low, limited, scarce
+=== low, short ***
+low
+short
+limited
+scarce
+=== strong, rigorous ***
+strong
+rigorous, stringent
+severe
+=== good, better ***
+good, better, remarkable
+perfect, exceptional
+=== good, better ***
+good
+better
+remarkable
+exceptional
+perfect
+=== potent, active ***
+potent, active
+aggressive
+intense
+=== active, aggressive ***
+active
+aggressive
+potent
+intense
+=== active, aggressive ***
+active
+aggressive, intense
+potent
+=== keen, great ***
+keen
+great
+=== keen, great ***
+keen, great
+=== keen, great ***
+keen
+great
+=== rigorous, strengthened ***
+rigorous
+strengthened
+tougher
+potent
+stronger
+=== rigorous, strengthened ***
+rigorous
+strengthened
+potent, tougher
+stronger
+=== rigorous, strengthened ***
+rigorous, strengthened
+tougher, stronger
+potent
+=== some, least ***
+some
+least, little
+few
+=== least, few ***
+least
+few
+little
+some
+=== little, least ***
+little, least, few
+some
+=== unhappy, sad ***
+unhappy, sad, miserable
+=== miserable, sad ***
+miserable
+sad, unhappy
+=== unhappy, sad ***
+unhappy
+sad
+miserable
+=== intense, powerful ***
+intense
+powerful
+fierce
+=== fierce, intense ***
+fierce
+intense
+powerful
+=== intense, fierce ***
+intense
+fierce
+powerful
+=== spooky, freaky ***
+spooky
+freaky
+terrifying
+exciting, frightening
+scary
+=== exciting, spooky ***
+exciting
+spooky
+scary
+freaky
+frightening
+terrifying
+=== exciting, freaky ***
+exciting, freaky, spooky, scary
+frightening
+terrifying
+=== reasonnable, sensible ***
+reasonnable, sensible, appropriate
+thought-out, manageable
+logical, rational
+preferable
+right
+=== logical, reasonnable ***
+logical
+reasonnable
+rational
+thought-out
+appropriate
+manageable
+right, sensible
+preferable
+=== right, thought-out ***
+right, thought-out, preferable, reasonnable, logical
+rational
+manageable
+sensible
+appropriate
+=== inferior, small ***
+inferior
+small
+=== small, inferior ***
+small
+inferior
+=== small, inferior ***
+small, inferior
+=== major, vital ***
+major
+vital
+=== major, vital ***
+major, vital
+=== major, vital ***
+major
+vital
+=== costly, exorbitant ***
+costly
+exorbitant
+excessive
+valuable
+expensive
+=== valuable, costly ***
+valuable
+costly
+expensive
+exorbitant, excessive
+=== beautiful, likable ***
+beautiful, likable
+nice, nicer
+sweet, mild
+comfortable
+enjoyable
+gentle, pleasant
+comforting
+hospitable
+handsome
+lovelier
+=== delicious, robust ***
+delicious, robust
+excellent
+=== excellent, delicious ***
+excellent
+delicious
+robust
+=== robust, delicious ***
+robust
+delicious
+excellent
+=== interesting, remarkable ***
+interesting, remarkable
+noteworthy, significant
+valuable
+=== dramatic, remarkable ***
+dramatic
+remarkable, radical
+=== dramatic, remarkable ***
+dramatic, remarkable
+radical
+=== radical, remarkable ***
+radical
+remarkable
+dramatic
+=== fine, finer ***
+fine
+finer
+beautiful
+=== fine, finer ***
+fine
+finer
+beautiful
+=== fine, finer ***
+fine
+finer
+beautiful
+=== insane, mental ***
+insane
+mental
+delirious
+nut
+rogue
+crazy, psycho
+=== crazy, mental ***
+crazy
+mental, delirious, nut, insane, psycho
+rogue
+=== nut, delirious ***
+nut
+delirious
+rogue
+mental
+crazy, insane
+psycho
+=== unsatisfactory, unfavourable ***
+unsatisfactory
+unfavourable
+incorrect
+improper
+poor
+=== improper, unsatisfactory ***
+improper, unsatisfactory
+poor, unfavourable
+incorrect
+=== wide-ranging, vast ***
+wide-ranging
+vast
+large, far-reaching
+=== stupid, pointless ***
+stupid
+pointless
+=== stupid, pointless ***
+stupid, pointless
+=== pointless, stupid ***
+pointless
+stupid
+=== outstanding, prominent ***
+outstanding, prominent
+=== weak, shaky ***
+weak, shaky
+vulnerable
+=== shaky, weak ***
+shaky
+weak, vulnerable
+=== weak, shaky ***
+weak
+shaky
+vulnerable
+=== necessary, useful ***
+necessary
+useful, valuable
+relevant
+=== major, leading ***
+major
+leading
+top
+primary
+significant
+prominent, principal
+=== tough, scary ***
+tough
+scary
+=== tough, scary ***
+tough
+scary
+=== scary, tough ***
+scary, tough
+=== right, fair ***
+right, fair, appropriate, sensible, reasonnable, balanced
+respectable
+=== sensible, fair ***
+sensible, fair, reasonnable
+appropriate, respectable
+balanced
+right
+=== sensible, appropriate ***
+sensible
+appropriate
+right
+reasonnable, respectable
+balanced
+fair
+=== obnoxious, annoying ***
+obnoxious
+annoying
+awful, disappointing
+=== reasonable, plausible ***
+reasonable, plausible, achievable
+=== plausible, reasonable ***
+plausible
+reasonable, achievable
+=== fine, good ***
+fine, good
+appropriate
+=== appropriate, good ***
+appropriate
+good
+fine
+=== good, fine ***
+good
+fine
+appropriate
+=== inadequate, little ***
+inadequate
+little
+meagre
+mediocre
+poor, precarious
+=== precarious, poor ***
+precarious, poor
+inadequate
+little, meagre
+mediocre
+=== little, poor ***
+little
+poor, inadequate
+meagre
+mediocre
+precarious
+=== scary, awful ***
+scary, awful
+dreadful
+=== scary, awful ***
+scary
+awful
+dreadful
+=== inevitable, self-explanatory ***
+inevitable, self-explanatory
+straightforward
+obvious
+=== self-explanatory, straightforward ***
+self-explanatory
+straightforward
+inevitable
+obvious
+=== self-explanatory, straightforward ***
+self-explanatory, straightforward
+obvious
+inevitable
+=== available, easy ***
+available
+easy
+easier
+=== easier, easy ***
+easier
+easy
+available
+=== easy, easier ***
+easy
+easier, available
+=== confused, uncomfortable ***
+confused
+uncomfortable
+upset, overwhelmed, frazzled
+=== appropriate, easier ***
+appropriate
+easier
+=== easier, appropriate ***
+easier
+appropriate
+=== appropriate, easier ***
+appropriate
+easier
+=== poor, low ***
+poor
+low
+scarce
+inadequate
+unacceptable
+=== significant, far-reaching ***
+significant
+far-reaching
+vast
+overwhelming
+=== incredible, insane ***
+incredible, insane, radical, implausible
+=== susceptible, brittle ***
+susceptible
+brittle
+vulnerable
+responsive, oversensitive
+sensitive
+=== sensitive, brittle ***
+sensitive
+brittle, vulnerable, oversensitive, susceptible
+responsive
+=== responsive, susceptible ***
+responsive
+susceptible
+sensitive, vulnerable
+brittle, oversensitive
+=== ordinary, commonplace ***
+ordinary
+commonplace
+unremarkable
+understood
+normal
+=== fantastic, remarkable ***
+fantastic
+remarkable
+incredible
+awesome
+magnificent
+marvelous
+fabulous
+special
+brilliant, outstanding
+=== special, remarkable ***
+special
+remarkable, outstanding
+awesome
+incredible, marvelous
+magnificent, fantastic, fabulous, brilliant
+=== friendly, sweet ***
+friendly, sweet, loveable
+harmless
+thoughtful
+generous
+=== harmless, friendly ***
+harmless
+friendly
+sweet, thoughtful, generous, loveable
+=== sweet, friendly ***
+sweet, friendly, harmless, loveable, thoughtful, generous
+=== short, little ***
+short, little
+shorter
+tiny
+=== shorter, little ***
+shorter
+little
+short, tiny
+=== tiny, little ***
+tiny
+little
+short
+shorter
+=== ggood, pleasant ***
+ggood, pleasant, enjoyable
+fantastic
+outstanding
+magnificent
+=== ggood, pleasant ***
+ggood
+pleasant
+enjoyable
+outstanding
+fantastic
+magnificent
+=== odd, evident ***
+odd
+evident
+remarkable
+=== evident, odd ***
+evident
+odd
+remarkable
+=== fantastic, remarkable ***
+fantastic
+remarkable, special
+outstanding
+awesome
+incredible
+magnificent
+breathtaking
+impressive
+=== general, commonplace ***
+general, commonplace, comprehensive
+universal
+global
+=== commonplace, general ***
+commonplace, general
+universal, comprehensive
+global
+=== thoughtful, wonderful ***
+thoughtful
+wonderful
+=== thoughtful, wonderful ***
+thoughtful, wonderful
+=== thoughtful, wonderful ***
+thoughtful
+wonderful
+=== useful, real ***
+useful, real, substantial
+=== useful, real ***
+useful
+real
+substantial
+=== real, useful ***
+real
+useful
+substantial
+=== known, noteworthy ***
+known
+noteworthy
+celebrated
+=== celebrated, known ***
+celebrated
+known, noteworthy
+=== known, celebrated ***
+known, celebrated
+noteworthy
+=== disgraceful, unfortunate ***
+disgraceful
+unfortunate
+=== interesting, particularly ***
+interesting
+particularly
+meaningful
+relevant
+=== particularly, interesting ***
+particularly
+interesting
+relevant
+meaningful
+=== neat, pure ***
+neat
+pure, perfect
+clean
+=== recent, current ***
+recent
+current, up-to-date, emerging
+newest
+=== newest, up-to-date ***
+newest
+up-to-date
+current, emerging
+recent
+=== current, up-to-date ***
+current
+up-to-date
+emerging, newest
+recent
+=== defined, detailed ***
+defined
+detailed
+developed
+comprehensively, comprehensive
+=== interesting, terrific ***
+interesting, terrific, marvelous
+awesome
+remarkable
+superb
+=== marvelous, awesome ***
+marvelous
+awesome
+remarkable
+superb
+interesting, terrific
+=== interesting, terrific ***
+interesting, terrific
+marvelous, awesome
+remarkable
+superb
+=== wider, substantial ***
+wider
+substantial, abundant
+largest
+=== intact, sturdy ***
+intact
+sturdy, sound
+=== intact, sturdy ***
+intact, sturdy
+sound
+=== intact, sturdy ***
+intact
+sturdy
+sound
+=== certain, certainly ***
+certain
+certainly
+true
+=== certain, certainly ***
+certain
+certainly
+true
+=== true, certain ***
+true, certain, certainly
+=== fine, good ***
+fine
+good
+better
+terrific, perfect
+=== fine, good ***
+fine, good, better, terrific, perfect
+=== big, vast ***
+big
+vast
+extensive
+=== big, extensive ***
+big, extensive
+vast
+=== extensive, big ***
+extensive
+big, vast
+=== common, general ***
+common, general, universal
+=== general, common ***
+general
+common
+universal
+=== universal, general ***
+universal
+general
+common
+=== sure, affirmative ***
+sure
+affirmative
+certain
+confident
+precisely, secure
+convinced
+trusted
+definite
+=== sure, certain ***
+sure, certain, secure
+definite
+affirmative
+confident
+precisely
+convinced
+trusted
+=== secure, certain ***
+secure
+certain
+definite
+affirmative
+confident
+precisely
+trusted, convinced
+sure
+=== big, substantial ***
+big, substantial, major, awesome, tremendous
+staggering
+=== big, major ***
+big
+major
+substantial
+awesome
+staggering
+tremendous
+=== idiot, dumber ***
+idiot
+dumber
+senseless
+daft
+ignorant
+unwise
+stupider
+foolish
+asinine
+=== dumber, idiot ***
+dumber, idiot
+senseless
+daft
+ignorant
+asinine
+unwise
+stupider
+foolish
+=== rigorous, stringent ***
+rigorous
+stringent
+severe, strong
+=== valuable, profitable ***
+valuable, profitable
+flourishing
+beneficial
+successful
+=== profitable, valuable ***
+profitable
+valuable
+flourishing
+beneficial
+successful
+=== simple, basic ***
+simple, basic, minor, mere
+=== mere, basic ***
+mere
+basic
+simple, minor
+=== simple, basic ***
+simple, basic
+minor
+mere
+=== huge, substantial ***
+huge
+substantial
+excessive
+much
+=== funny, cheesy ***
+funny
+cheesy
+ridiculous
+=== funny, cheesy ***
+funny
+cheesy
+ridiculous
+=== cheesy, funny ***
+cheesy
+funny
+ridiculous
+=== awful, dreadful ***
+awful
+dreadful
+scary
+=== considerable, high ***
+considerable
+high
+excessive
+=== excessive, considerable ***
+excessive
+considerable
+high
+=== considerable, excessive ***
+considerable
+excessive
+high
+=== fine, okay ***
+fine
+okay
+fair
+normal
+=== different, alternate ***
+different, alternate, alternative
+=== different, alternate ***
+different
+alternate
+alternative
+=== remarkable, outstanding ***
+remarkable
+outstanding
+prominent
+=== perfect, attractive ***
+perfect
+attractive
+breathtaking
+fine
+enjoyable, nifty
+nice
+=== fine, nifty ***
+fine, nifty, nice, enjoyable
+attractive
+perfect, breathtaking
+=== nice, fine ***
+nice, fine
+enjoyable, attractive, nifty
+perfect, breathtaking
+=== perfect, righteous ***
+perfect
+righteous
+pretty
+remarkable
+amazing
+awesome, spectacular
+=== perfect, amazing ***
+perfect
+amazing
+spectacular
+righteous
+pretty, remarkable
+awesome
+=== neat, flattering ***
+neat
+flattering
+sweet
+=== flattering, sweet ***
+flattering
+sweet
+neat
+=== neat, sweet ***
+neat
+sweet, flattering
+=== fine, well ***
+fine, well
+terrific
+awesome
+perfect
+=== screwy, crazy ***
+screwy, crazy
+insane, psycho
+demented
+weird
+=== insane, psycho ***
+insane
+psycho
+screwy
+crazy
+weird, demented
+=== right, interesting ***
+right
+interesting
+=== interesting, right ***
+interesting
+right
+=== right, interesting ***
+right
+interesting
+=== embarrassing, stupid ***
+embarrassing
+stupid
+=== stupid, embarrassing ***
+stupid
+embarrassing
+=== stupid, embarrassing ***
+stupid
+embarrassing
+=== enjoyable, sweet ***
+enjoyable, sweet
+yummy
+=== sweet, enjoyable ***
+sweet
+enjoyable
+yummy
+=== enjoyable, yummy ***
+enjoyable
+yummy
+sweet
+=== fair, fairer ***
+fair
+fairer
+fairest
+beautiful
+=== fair, fairer ***
+fair, fairer, fairest
+beautiful
+=== distressing, unfortunate ***
+distressing
+unfortunate
+painful
+sad, disappointing
+=== delightful, exciting ***
+delightful
+exciting
+fascinating
+attractive
+=== attractive, delightful ***
+attractive
+delightful
+exciting
+fascinating
+=== exciting, delightful ***
+exciting, delightful
+attractive
+fascinating
+=== substantial, intensive ***
+substantial
+intensive
+=== substantial, intensive ***
+substantial, intensive
+=== substantial, intensive ***
+substantial, intensive
+=== comfy, comfortable ***
+comfy
+comfortable, well-off
+=== well-off, comfy ***
+well-off
+comfy, comfortable
+=== well-off, comfy ***
+well-off
+comfy, comfortable
+=== aroused, excited ***
+aroused
+excited, overjoyed
+=== aroused, overjoyed ***
+aroused
+overjoyed
+excited
+=== aroused, excited ***
+aroused
+excited, overjoyed
+=== useful, beneficial ***
+useful, beneficial
+=== useful, beneficial ***
+useful
+beneficial
+=== beneficial, useful ***
+beneficial
+useful
+=== admirable, beautiful ***
+admirable
+beautiful
+=== admirable, beautiful ***
+admirable
+beautiful
+=== admirable, beautiful ***
+admirable
+beautiful
+=== interesting, meaningful ***
+interesting
+meaningful, particularly
+relevant
+=== positive, outstanding ***
+positive
+outstanding, terrific
+best
+=== outstanding, positive ***
+outstanding
+positive
+terrific, best
+=== best, outstanding ***
+best
+outstanding
+terrific
+positive
+=== useful, current ***
+useful, current
+topical
+relevant, related
+=== useful, current ***
+useful, current
+related
+topical
+relevant
+=== useful, topical ***
+useful
+topical
+related, relevant
+current
+=== different, distinguishable ***
+different
+distinguishable
+distinctive
+distinct
+=== different, distinct ***
+different
+distinct, distinctive
+distinguishable
+=== distinct, distinctive ***
+distinct
+distinctive
+distinguishable
+different
+=== plenty, significant ***
+plenty
+significant
+vast
+abundant
+=== correct, sure ***
+correct, sure
+real
+specific
+concrete
+=== best, perfect ***
+best, perfect, awesome, fantastic
+magnificent
+=== formidable, critical ***
+formidable
+critical
+=== formidable, critical ***
+formidable
+critical
+=== formidable, critical ***
+formidable
+critical
+=== efficient, functioning ***
+efficient, functioning
+=== functioning, efficient ***
+functioning, efficient
+=== functioning, efficient ***
+functioning
+efficient
+=== useful, needed ***
+useful, needed
+significant, valuable
+indispensable
+indispensible
+urgent
+crucial
+pivotal
+vital
+=== useful, significant ***
+useful
+significant
+valuable
+vital, needed
+indispensable, indispensible
+pivotal
+urgent, crucial
+=== spectacular, remarkable ***
+spectacular
+remarkable
+substantial
+=== fine, fitting ***
+fine
+fitting
+adequate
+good
+guaranteed
+=== accessible, responsive ***
+accessible, responsive
+=== interesting, valuable ***
+interesting
+valuable, significant
+remarkable
+noteworthy
+=== appropriate, fit ***
+appropriate
+fit
+=== fit, appropriate ***
+fit
+appropriate
+=== appropriate, fit ***
+appropriate, fit
+=== timely, worthwhile ***
+timely, worthwhile
+=== timely, worthwhile ***
+timely, worthwhile
+=== worthwhile, timely ***
+worthwhile
+timely
+=== miserable, troublesome ***
+miserable
+troublesome
+unfortunate
+=== troublesome, unfortunate ***
+troublesome, unfortunate, miserable
+=== unfortunate, troublesome ***
+unfortunate
+troublesome
+miserable
+=== incredible, formidable ***
+incredible, formidable
+=== qualified, excellent ***
+qualified
+excellent
+finest
+outstanding
+=== qualified, excellent ***
+qualified
+excellent, finest, outstanding
+=== fine, remarkable ***
+fine
+remarkable
+spectacular
+=== nice, thoughtful ***
+nice, thoughtful, gracious
+generous, admirable
+=== awkward, uncomfortable ***
+awkward
+uncomfortable
+embarrassed
+=== embarrassed, awkward ***
+embarrassed
+awkward, uncomfortable
+=== biggest, highest ***
+biggest
+highest
+stronger
+=== stronger, highest ***
+stronger
+highest, biggest
+=== biggest, stronger ***
+biggest
+stronger, highest
+=== perfect, beautiful ***
+perfect
+beautiful
+=== remarkable, excited ***
+remarkable, excited
+amazing, terrific
+spectacular
+perfect
+=== content, grateful ***
+content
+grateful
+cheerful
+happy, fortunate
+=== content, cheerful ***
+content
+cheerful, happy
+fortunate, grateful
+=== content, happy ***
+content, happy, cheerful
+grateful
+fortunate
+=== cute, bonnie ***
+cute
+bonnie
+beautiful, attractive
+=== cute, bonnie ***
+cute, bonnie
+attractive
+beautiful
+=== tough, daunting ***
+tough, daunting
+substantial, impressive
+formidable
+=== tough, substantial ***
+tough
+substantial
+formidable
+impressive
+daunting
+=== satisfactory, wonderful ***
+satisfactory
+wonderful
+fine
+happy, nice
+=== big, intense ***
+big
+intense, formidable
+=== big, intense ***
+big
+intense, formidable
+=== big, intense ***
+big, intense
+formidable
+=== possibly, permissible ***
+possibly
+permissible
+easy
+workable
+possible
+=== critical, perilous ***
+critical
+perilous
+dangerous
+life-threatening, lethal
+deadly
+=== dangerous, life-threatening ***
+dangerous, life-threatening
+critical, perilous, deadly
+lethal
+=== elementary, simple ***
+elementary
+simple
+=== elementary, simple ***
+elementary, simple
+=== yummy, wonderful ***
+yummy, wonderful
+=== yummy, wonderful ***
+yummy
+wonderful
+=== yummy, wonderful ***
+yummy, wonderful
+=== useful, valuable ***
+useful, valuable, vital
+important, indispensible
+=== customary, routine ***
+customary
+routine
+logical
+normal
+=== routine, normal ***
+routine, normal
+customary
+logical
+=== big, awesome ***
+big
+awesome
+=== big, awesome ***
+big
+awesome
+=== big, awesome ***
+big
+awesome
+=== awful, shitty ***
+awful
+shitty
+bad-looking
+wrong
+=== bad-looking, wrong ***
+bad-looking, wrong, awful, shitty
+=== wrong, bad-looking ***
+wrong, bad-looking, awful
+shitty
+=== messy, sloppy ***
+messy
+sloppy, bad
+=== bad, messy ***
+bad
+messy, sloppy
+=== messy, sloppy ***
+messy
+sloppy
+bad
+=== chosen, appropriate ***
+chosen
+appropriate
+=== chosen, appropriate ***
+chosen
+appropriate
+=== appropriate, chosen ***
+appropriate
+chosen
+=== comprehensive, substantial ***
+comprehensive
+substantial
+enormous
+=== substantial, comprehensive ***
+substantial
+comprehensive
+enormous
+=== comprehensive, substantial ***
+comprehensive
+substantial
+enormous
+=== upstanding, terrific ***
+upstanding, terrific
+=== upstanding, terrific ***
+upstanding
+terrific
+=== upstanding, terrific ***
+upstanding
+terrific
+=== accessible, simple ***
+accessible
+simple
+easiest
+convenient
+=== fitting, right ***
+fitting
+right
+appropriate
+timely
+=== timely, right ***
+timely, right, fitting
+appropriate
+=== crazy, strange ***
+crazy, strange, wierd
+bizarre
+twisted
+=== disgusting, ghastly ***
+disgusting
+ghastly, terrible
+=== higher, superior ***
+higher, superior
+=== higher, superior ***
+higher
+superior
+=== higher, superior ***
+higher
+superior
+=== nervous, jumpy ***
+nervous, jumpy
+excited, overwhelmed
+=== jumpy, nervous ***
+jumpy
+nervous
+excited
+overwhelmed
+=== jumpy, nervous ***
+jumpy
+nervous
+excited, overwhelmed
+=== beautiful, perfect ***
+beautiful, perfect
+=== beautiful, perfect ***
+beautiful
+perfect
+=== powerful, clever ***
+powerful
+clever
+=== clever, powerful ***
+clever
+powerful
+=== clever, powerful ***
+clever
+powerful
+=== huge, enormous ***
+huge
+enormous
+sizeable
+tremendous
+big
+broad, immense
+=== exciting, attractive ***
+exciting, attractive
+=== attractive, exciting ***
+attractive
+exciting
+=== attractive, exciting ***
+attractive
+exciting
+=== good, attractive ***
+good
+attractive, admirable
+desirable
+=== good, admirable ***
+good, admirable
+attractive, desirable
+=== interesting, curious ***
+interesting, curious
+remarkable, unusual, odd, strange
+=== interesting, unusual ***
+interesting
+unusual
+curious
+odd, remarkable
+strange
+=== unusual, interesting ***
+unusual, interesting
+remarkable
+curious
+strange, odd
+=== significant, prominent ***
+significant
+prominent
+leading
+major
+primary, principal, top
+=== top, leading ***
+top, leading, significant, major
+principal
+primary
+prominent
+=== customary, well-known ***
+customary, well-known
+understood, comprehensible
+clear-cut
+self-explanatory
+=== well-known, clear-cut ***
+well-known, clear-cut, understood, comprehensible, self-explanatory
+customary
+=== comprehensible, clear-cut ***
+comprehensible
+clear-cut
+self-explanatory
+well-known
+customary, understood
+=== wide-ranging, big ***
+wide-ranging
+big
+extensive
+vast
+increased
+overwhelming, far-reaching
+substantial
+=== big, wide-ranging ***
+big
+wide-ranging
+extensive
+vast
+far-reaching
+increased
+overwhelming
+substantial
+=== increased, big ***
+increased
+big
+wide-ranging, far-reaching
+vast
+substantial
+extensive
+overwhelming
+=== apparent, clearer ***
+apparent
+clearer
+known
+=== apparent, known ***
+apparent
+known
+clearer
+=== clearer, apparent ***
+clearer, apparent
+known
+=== exciting, awesome ***
+exciting, awesome, marvelous
+excellent
+incredible
+special
+=== exciting, special ***
+exciting
+special
+excellent, awesome
+incredible
+marvelous
+=== marvelous, awesome ***
+marvelous
+awesome
+excellent
+incredible
+exciting
+special
+=== random, confusing ***
+random
+confusing
+ironic
+spooky
+weird
+=== confusing, random ***
+confusing
+random, ironic
+weird
+spooky
+=== random, confusing ***
+random
+confusing
+spooky
+weird, ironic
+=== marvellous, breathtaking ***
+marvellous
+breathtaking
+spectacular
+pretty
+=== live, real ***
+live
+real, reality
+=== live, real ***
+live
+real, reality
+=== live, real ***
+live
+real, reality
+=== stronger, pronounced ***
+stronger
+pronounced
+evident
+=== evident, stronger ***
+evident
+stronger
+pronounced
+=== pronounced, evident ***
+pronounced
+evident
+stronger
+=== dreadful, atrocious ***
+dreadful
+atrocious
+horrific
+heinous
+horrendous, worst
+disturbing
+critical
+lethal
+bad
+messy
+worse, problematic
+=== fine, remarkable ***
+fine
+remarkable
+impressive
+=== fine, impressive ***
+fine
+impressive, remarkable
+=== fine, impressive ***
+fine
+impressive, remarkable
+=== helpful, valuable ***
+helpful, valuable, informative, worthwhile, beneficial
+=== informative, helpful ***
+informative
+helpful
+beneficial
+worthwhile
+valuable
+=== sensible, brighter ***
+sensible
+brighter
+=== sensible, brighter ***
+sensible
+brighter
+=== fairer, reasonable ***
+fairer
+reasonable
+=== reasonable, fairer ***
+reasonable
+fairer
+=== reasonable, fairer ***
+reasonable, fairer
+=== enjoyable, lovely ***
+enjoyable
+lovely
+=== lovely, enjoyable ***
+lovely, enjoyable
+=== enjoyable, lovely ***
+enjoyable
+lovely
+=== worse, difficult ***
+worse
+difficult
+=== worse, difficult ***
+worse
+difficult
+=== difficult, worse ***
+difficult, worse
+=== sizeable, substantial ***
+sizeable
+substantial
+bigger, formidable
+large-scale
+huge
+colossal
+sharp
+considerable, prodigious
+=== sizeable, large-scale ***
+sizeable
+large-scale, considerable, substantial
+bigger
+huge
+colossal
+sharp
+formidable
+prodigious
+=== smart, clever ***
+smart, clever, sensible
+intelligent
+judicious
+=== sensible, judicious ***
+sensible, judicious
+clever
+intelligent, smart
+=== intelligent, smart ***
+intelligent
+smart, judicious
+sensible
+clever
+=== impressive, fantastic ***
+impressive, fantastic, magnificent
+=== fantastic, impressive ***
+fantastic, impressive
+magnificent
+=== magnificent, impressive ***
+magnificent
+impressive
+fantastic
+=== sharp, bigger ***
+sharp, bigger, sizeable
+large-scale, substantial, considerable, prodigious
+formidable, huge, colossal
+=== admirable, wonderful ***
+admirable
+wonderful, perfect, remarkable
+=== perfect, admirable ***
+perfect
+admirable
+wonderful, remarkable
+=== admirable, remarkable ***
+admirable
+remarkable
+wonderful
+perfect
+=== frazzled, confused ***
+frazzled
+confused
+uncomfortable, upset
+overwhelmed
+=== frazzled, confused ***
+frazzled
+confused
+overwhelmed
+upset, uncomfortable
+=== reasonable, respectable ***
+reasonable, respectable
+=== reasonable, respectable ***
+reasonable, respectable
+=== respectable, reasonable ***
+respectable
+reasonable
+=== fair, reasonable ***
+fair, reasonable
+=== fair, reasonable ***
+fair
+reasonable
+=== fair, reasonable ***
+fair
+reasonable
+=== cute, fine ***
+cute, fine
+hip
+nifty, cool
+=== hip, cute ***
+hip
+cute
+nifty
+cool, fine
+=== fine, nifty ***
+fine
+nifty, cute
+hip, cool
+=== big, strong ***
+big
+strong
+heavyset
+=== big, heavyset ***
+big
+heavyset
+strong
+=== big, strong ***
+big
+strong, heavyset
+=== satisfactory, okay ***
+satisfactory
+okay
+affirmative
+positive
+=== okay, positive ***
+okay, positive, affirmative, satisfactory
+=== okay, satisfactory ***
+okay, satisfactory
+affirmative
+positive
+=== general, broad ***
+general
+broad
+broader
+wide-ranging
+diverse
+=== general, diverse ***
+general
+diverse
+wide-ranging, broad, broader
+=== wide-ranging, diverse ***
+wide-ranging
+diverse
+broader
+broad, general
+=== remarkable, impressive ***
+remarkable
+impressive
+topnotch
+exceptional
+spectacular
+marvellous
+amazing
+sensational, breathtaking
+=== fantastic, remarkable ***
+fantastic
+remarkable
+awesome, incredible, outstanding
+magnificent
+special
+breathtaking, impressive
+=== uncomfortable, embarrassed ***
+uncomfortable
+embarrassed
+awkward
+=== adequate, well-formed ***
+adequate
+well-formed
+right
+proper
+=== right, well-formed ***
+right
+well-formed
+adequate, proper
+=== right, proper ***
+right, proper
+well-formed
+adequate
+=== cute, attractive ***
+cute
+attractive
+fine
+wonderful
+=== cute, attractive ***
+cute
+attractive
+fine
+wonderful
+=== fine, cute ***
+fine, cute
+attractive
+wonderful
+=== lovely, yummy ***
+lovely
+yummy
+=== lovely, yummy ***
+lovely
+yummy
+=== yummy, lovely ***
+yummy
+lovely
+=== remarkable, all-important ***
+remarkable
+all-important
+sizeable
+huge
+major
+immense
+colossal
+formidable
+overwhelming
+tremendous
+=== enlarged, larger ***
+enlarged
+larger
+=== enlarged, larger ***
+enlarged, larger
+=== enlarged, larger ***
+enlarged
+larger
+=== unfortunate, upset ***
+unfortunate
+upset
+=== unfortunate, upset ***
+unfortunate
+upset
+=== upset, unfortunate ***
+upset, unfortunate
+=== rare, unusual ***
+rare
+unusual
+odd
+bizarre
+=== cheesy, stupid ***
+cheesy
+stupid
+=== cheesy, stupid ***
+cheesy
+stupid
+=== cheesy, stupid ***
+cheesy
+stupid
+=== special, fantastic ***
+special
+fantastic
+awesome
+breathtaking
+remarkable
+outstanding
+incredible
+impressive
+magnificent
+=== awesome, powerful ***
+awesome
+powerful
+=== powerful, awesome ***
+powerful
+awesome
+=== awesome, powerful ***
+awesome
+powerful
+=== special, fantastic ***
+special, fantastic
+grand, magnificent
+outstanding
+=== special, grand ***
+special
+grand
+outstanding
+magnificent, fantastic
+=== understood, heeded ***
+understood
+heeded
+=== understood, heeded ***
+understood, heeded
+=== heeded, understood ***
+heeded
+understood
+=== beneficial, rationalized ***
+beneficial, rationalized
+worthwhile, efficient
+=== beneficial, worthwhile ***
+beneficial
+worthwhile
+rationalized
+efficient
+=== worthwhile, beneficial ***
+worthwhile
+beneficial
+efficient, rationalized
+=== comprehensive, universal ***
+comprehensive
+universal
+global
+commonplace
+general
+=== sure, yes ***
+sure
+yes
+precisely
+affirmative
+=== yes, sure ***
+yes, sure
+precisely
+affirmative
+=== pleased, grateful ***
+pleased, grateful, wonderful, fortunate
+=== pleased, grateful ***
+pleased, grateful
+fortunate
+wonderful
+=== grateful, fortunate ***
+grateful
+fortunate
+wonderful
+pleased
+=== good, effective ***
+good
+effective
+better, superior
+=== better, good ***
+better
+good
+superior
+effective
+=== good, effective ***
+good, effective
+better
+superior
+=== right, absolutely ***
+right
+absolutely
+vital
+=== right, absolutely ***
+right
+absolutely
+vital
+=== absolutely, right ***
+absolutely
+right
+vital
+=== abundant, plenty ***
+abundant
+plenty
+vast
+significant
+=== plenty, abundant ***
+plenty
+abundant, vast
+significant
+=== right, relevant ***
+right
+relevant
+significant
+crucial
+critical
+=== right, relevant ***
+right
+relevant
+significant
+crucial, critical
+=== right, crucial ***
+right, crucial, significant, relevant
+critical
+=== ridiculous, preposterous ***
+ridiculous, preposterous
+=== ridiculous, preposterous ***
+ridiculous
+preposterous
+=== ridiculous, preposterous ***
+ridiculous, preposterous
+=== senseless, pointless ***
+senseless
+pointless
+derisory
+ridiculous
+=== senseless, pointless ***
+senseless
+pointless
+ridiculous, derisory
+=== amazing, sensational ***
+amazing
+sensational, spectacular
+topnotch
+remarkable
+exceptional
+breathtaking
+impressive
+marvellous
+=== sensational, spectacular ***
+sensational
+spectacular
+topnotch
+remarkable
+exceptional
+breathtaking
+marvellous
+amazing, impressive
+=== efficient, optimum ***
+efficient
+optimum
+powerful, potent
+=== fantastic, fascinating ***
+fantastic
+fascinating
+incredible
+interesting
+awesome
+terrific
+amazing
+marvelous, wonderful
+perfect
+neat
+=== neat, fantastic ***
+neat, fantastic
+fascinating
+interesting, incredible, awesome, terrific
+marvelous, amazing
+wonderful
+perfect
+=== neat, interesting ***
+neat
+interesting
+fascinating
+terrific, wonderful
+awesome, fantastic
+amazing
+marvelous, incredible
+perfect
+=== positive, beneficial ***
+positive
+beneficial
+useful
+valuable, rewarding
+=== useful, positive ***
+useful, positive
+beneficial
+valuable, rewarding
+=== useful, valuable ***
+useful, valuable
+positive
+beneficial
+rewarding
+=== interesting, valuable ***
+interesting
+valuable, remarkable
+significant, noteworthy
+=== crazy, scary ***
+crazy
+scary, insane
+=== scary, crazy ***
+scary
+crazy
+insane
+=== insane, crazy ***
+insane
+crazy
+scary
+=== tenacious, tough ***
+tenacious
+tough, hardworking
+=== hardworking, tenacious ***
+hardworking
+tenacious
+tough
+=== hardworking, tough ***
+hardworking
+tough, tenacious
+=== concerned, upset ***
+concerned
+upset
+=== concerned, upset ***
+concerned
+upset
+=== concerned, upset ***
+concerned
+upset
+=== hard, challenging ***
+hard
+challenging
+complex
+intensive
+=== intensive, hard ***
+intensive, hard, challenging, complex
+=== intensive, complex ***
+intensive
+complex
+challenging
+hard
+=== cute, nicer ***
+cute
+nicer
+fine
+gorgeous
+=== fine, cute ***
+fine, cute
+nicer
+gorgeous
+=== cute, fine ***
+cute
+fine
+gorgeous, nicer
+=== insane, demented ***
+insane
+demented, crazy
+ridiculous, ludicrous
+=== precise, accurate ***
+precise
+accurate
+clearer
+=== precise, clearer ***
+precise, clearer
+accurate
+=== clearer, accurate ***
+clearer
+accurate
+precise
+=== intensive, aggressive ***
+intensive
+aggressive
+strong
+=== strong, intensive ***
+strong
+intensive
+aggressive
+=== aggressive, intensive ***
+aggressive, intensive
+strong
+=== primary, principal ***
+primary
+principal
+seminal
+integral
+vital
+=== primary, principal ***
+primary
+principal, seminal
+integral, vital
+=== primary, principal ***
+primary
+principal
+integral
+seminal, vital
+=== delighted, grateful ***
+delighted
+grateful
+pleased
+excited
+=== delighted, grateful ***
+delighted
+grateful
+pleased
+excited
+=== bad, worse ***
+bad
+worse
+worst
+dreadful
+=== worst, worse ***
+worst
+worse
+dreadful
+bad
+=== bad, worse ***
+bad, worse, worst
+dreadful
+=== cute, fine ***
+cute, fine, beautiful
+perfect, handsome, elegant
+fantastic, breathtaking
+magnificent
+amazing
+fabulous
+glorious
+superb
+=== fine, cute ***
+fine
+cute
+beautiful
+fabulous
+elegant
+fantastic, superb, glorious, amazing, handsome, breathtaking, magnificent, perfect
+=== cheap, terrible ***
+cheap
+terrible
+=== cheap, terrible ***
+cheap
+terrible
+=== cheap, terrible ***
+cheap
+terrible
+=== simple, easiest ***
+simple
+easiest
+accessible
+convenient
+=== shipshape, seamless ***
+shipshape
+seamless
+perfect
+=== seamless, shipshape ***
+seamless, shipshape
+perfect
+=== seamless, shipshape ***
+seamless
+shipshape
+perfect
+=== corny, distasteful ***
+corny
+distasteful, gross
+disgusting
+atrocious, horrible
+=== corny, distasteful ***
+corny, distasteful, gross, disgusting, horrible, atrocious
+=== distasteful, disgusting ***
+distasteful
+disgusting
+gross
+corny
+horrible, atrocious
+=== appreciable, sensitive ***
+appreciable
+sensitive
+=== appreciable, sensitive ***
+appreciable
+sensitive
+=== sensitive, appreciable ***
+sensitive, appreciable
+=== sweet, perfect ***
+sweet
+perfect
+fantastic
+special
+amazing
+awesome
+marvelous
+incredible
+remarkable
+astonishing
+=== sweet, perfect ***
+sweet, perfect
+remarkable
+fantastic
+amazing, awesome
+astonishing
+marvelous
+special
+incredible
+=== perfect, fantastic ***
+perfect
+fantastic
+remarkable
+sweet
+awesome
+astonishing
+marvelous
+amazing
+special
+incredible
+=== unfair, unacceptable ***
+unfair
+unacceptable
+naughty
+wrong
+=== unfair, naughty ***
+unfair
+naughty
+wrong
+unacceptable
+=== unfair, unacceptable ***
+unfair
+unacceptable
+wrong, naughty
+=== powerful, considerable ***
+powerful
+considerable
+=== considerable, powerful ***
+considerable, powerful
+=== powerful, considerable ***
+powerful, considerable
+=== vital, crucial ***
+vital
+crucial
+relevant, significant
+=== vital, relevant ***
+vital
+relevant, crucial
+significant
+=== fine, great ***
+fine, great, perfect
+excellent
+remarkable
+=== fine, great ***
+fine
+great
+excellent, remarkable
+perfect
+=== perfect, excellent ***
+perfect
+excellent
+fine
+remarkable
+great
+=== relevant, major ***
+relevant
+major
+crucial
+=== relevant, crucial ***
+relevant
+crucial
+major
+=== relevant, major ***
+relevant
+major, crucial
+=== unusual, odd ***
+unusual
+odd
+rare, bizarre
+=== odd, unusual ***
+odd, unusual
+bizarre
+rare
+=== nonsense, dumb ***
+nonsense, dumb
+dopey
+stupid, stupider
+=== dumb, dopey ***
+dumb
+dopey, nonsense
+stupider
+stupid
+=== dumb, dopey ***
+dumb, dopey, nonsense
+stupid
+stupider
+=== crazy, mental ***
+crazy
+mental
+stir-crazy
+nuts
+demented
+wacko
+psycho, daft
+insane
+=== stir-crazy, wacko ***
+stir-crazy
+wacko
+nuts
+daft
+crazy
+mental
+demented
+insane
+psycho
+=== crazy, stir-crazy ***
+crazy, stir-crazy
+nuts, daft, wacko, mental
+demented
+psycho
+insane
+=== enjoyable, great ***
+enjoyable
+great
+=== great, enjoyable ***
+great
+enjoyable
+=== enjoyable, great ***
+enjoyable
+great
+=== fairest, fairer ***
+fairest
+fairer
+beautiful
+fair
+=== amiss, terrible ***
+amiss
+terrible
+=== terrible, amiss ***
+terrible, amiss
+=== amiss, terrible ***
+amiss
+terrible
+=== crazy, goofy ***
+crazy, goofy
+perverse
+ludicrous
+preposterous, insane
+asinine
+fucked
+stupid
+=== goofy, crazy ***
+goofy
+crazy, stupid
+ludicrous
+insane
+asinine
+preposterous
+perverse, fucked
+=== insane, crazy ***
+insane
+crazy
+perverse
+ludicrous
+preposterous
+goofy
+stupid, asinine, fucked
+=== excessive, enormously ***
+excessive
+enormously
+major
+great
+=== annoying, disappointing ***
+annoying
+disappointing
+awful
+obnoxious
+=== disappointing, annoying ***
+disappointing, annoying
+obnoxious, awful
+=== substantial, remarkable ***
+substantial, remarkable
+spectacular
+=== substantial, remarkable ***
+substantial
+remarkable
+spectacular
+=== appropriate, relevant ***
+appropriate
+relevant
+valid
+qualified
+=== relevant, appropriate ***
+relevant, appropriate
+valid
+qualified
+=== beautiful, perfect ***
+beautiful
+perfect, awesome, breathtaking
+magnificent
+fantastic
+marvelous
+amazing
+fabulous
+gorgeous
+=== gorgeous, beautiful ***
+gorgeous, beautiful
+fantastic, awesome
+fabulous
+amazing
+marvelous, magnificent
+breathtaking
+perfect
+=== pretty, marvellous ***
+pretty
+marvellous
+breathtaking
+spectacular
+=== pretty, marvellous ***
+pretty, marvellous, breathtaking, spectacular
+=== worthwhile, valuable ***
+worthwhile
+valuable, outstanding
+=== worthwhile, valuable ***
+worthwhile
+valuable
+outstanding
+=== valuable, worthwhile ***
+valuable, worthwhile
+outstanding
+=== satisfactory, finest ***
+satisfactory
+finest
+remarkable
+positive
+awesome
+magnificent
+marvelous
+first-rate
+best
+outstanding
+=== first-rate, satisfactory ***
+first-rate, satisfactory
+positive, best, finest
+remarkable
+awesome
+outstanding, marvelous
+magnificent
+=== helpful, profitable ***
+helpful, profitable, fruitful
+desirable, effective, responsive
+=== profitable, fruitful ***
+profitable
+fruitful
+helpful
+responsive
+desirable, effective
+=== helpful, responsive ***
+helpful, responsive
+desirable
+fruitful, profitable
+effective
+=== colossal, tremendous ***
+colossal
+tremendous
+huge
+immense
+all-important
+remarkable
+sizeable
+formidable
+overwhelming
+major
+=== successful, beneficial ***
+successful, beneficial
+profitable
+valuable
+flourishing
+=== skilled, pro ***
+skilled
+pro
+proficient
+trained
+capable
+fit
+qualified
+=== fit, capable ***
+fit, capable
+skilled, proficient, qualified
+trained
+pro
+=== ridiculous, ludicrous ***
+ridiculous
+ludicrous
+crazy
+insane
+demented
+=== small, minute ***
+small
+minute
+miniscule
+=== small, minute ***
+small, minute, miniscule
+=== common, available ***
+common
+available
+=== common, available ***
+common, available
+=== available, common ***
+available, common
+=== angry, upset ***
+angry, upset, irritated
+enraged
+=== irritated, upset ***
+irritated
+upset
+angry
+enraged
+=== enraged, irritated ***
+enraged
+irritated
+upset, angry
+=== substantial, higher ***
+substantial
+higher
+=== higher, substantial ***
+higher, substantial
+=== higher, substantial ***
+higher, substantial
+=== lovely, better ***
+lovely
+better, excellent, perfect
+superb
+=== better, lovely ***
+better
+lovely
+excellent
+perfect
+superb
+=== better, excellent ***
+better
+excellent
+lovely
+perfect, superb
+=== frank, open ***
+frank
+open
+honest
+=== frank, open ***
+frank
+open
+honest
+=== frank, open ***
+frank
+open
+honest
+=== stubborn, foolish ***
+stubborn
+foolish
+=== foolish, stubborn ***
+foolish, stubborn
+=== stubborn, foolish ***
+stubborn
+foolish
+=== valuable, finest ***
+valuable
+finest
+inestimable, immeasurable
+=== valuable, finest ***
+valuable
+finest, inestimable
+immeasurable
+=== inestimable, finest ***
+inestimable
+finest
+immeasurable
+valuable
+=== exemplary, incredible ***
+exemplary
+incredible
+awesome
+astonishing
+exciting
+special
+remarkable
+=== incredible, exemplary ***
+incredible, exemplary
+awesome, astonishing
+exciting
+special
+remarkable
+=== exciting, special ***
+exciting
+special, remarkable
+incredible, awesome, astonishing
+exemplary
+=== authentic, true ***
+authentic
+true
+genuine
+=== authentic, true ***
+authentic
+true, genuine
+=== terrible, disgusting ***
+terrible, disgusting
+ghastly
+=== terrible, disgusting ***
+terrible, disgusting
+ghastly
+=== sensible, responsible ***
+sensible, responsible
+=== responsible, sensible ***
+responsible
+sensible
+=== responsible, sensible ***
+responsible, sensible
+=== tremendous, huge ***
+tremendous
+huge, large-scale
+sizeable
+big, immense
+=== large-scale, sizeable ***
+large-scale, sizeable, big, huge
+immense
+tremendous
+=== sizeable, large-scale ***
+sizeable, large-scale
+big
+huge
+tremendous
+immense
+=== strengthened, tougher ***
+strengthened
+tougher, potent
+mighty
+strongest
+powerful
+=== strengthened, tougher ***
+strengthened
+tougher
+mighty, potent
+strongest
+powerful
+=== tougher, strengthened ***
+tougher, strengthened, potent, powerful, mighty
+strongest
+=== fine, appropriate ***
+fine, appropriate, satisfactory
+excellent
+=== appropriate, fine ***
+appropriate
+fine
+satisfactory
+excellent
+=== lukewarm, warmer ***
+lukewarm, warmer, hot, hotter
+=== lukewarm, warmer ***
+lukewarm
+warmer
+hot
+hotter
+=== warmer, hotter ***
+warmer
+hotter
+lukewarm
+hot
+=== fair, apt ***
+fair, apt
+correct, right, appropriate
+justified
+well-formed
+=== apt, appropriate ***
+apt
+appropriate
+right
+justified
+fair
+well-formed
+correct
+=== fair, appropriate ***
+fair
+appropriate, apt
+right, correct
+well-formed, justified
+=== considerable, better ***
+considerable
+better
+greater, valuable
+=== considerable, valuable ***
+considerable, valuable, better, greater
+=== valuable, considerable ***
+valuable
+considerable
+better, greater
+=== bad, severe ***
+bad
+severe
+=== bad, severe ***
+bad
+severe
+=== bad, severe ***
+bad
+severe
+=== graver, gravest ***
+graver
+gravest
+critical
+life-threatening
+=== graver, gravest ***
+graver, gravest
+life-threatening
+critical
+=== graver, gravest ***
+graver, gravest
+critical
+life-threatening
+=== great, valuable ***
+great, valuable
+=== valuable, great ***
+valuable
+great
+=== great, valuable ***
+great, valuable
+=== substantial, greater ***
+substantial
+greater
+larger
+powerful
+=== considerable, plenty ***
+considerable
+plenty
+abundant
+=== plenty, abundant ***
+plenty
+abundant, considerable
+=== considerable, plenty ***
+considerable
+plenty, abundant
+=== pleased, wonderful ***
+pleased
+wonderful
+=== pleased, wonderful ***
+pleased
+wonderful
+=== wonderful, pleased ***
+wonderful
+pleased
+=== intense, impossible ***
+intense
+impossible, hard, rough
+tough
+=== tough, hard ***
+tough, hard
+rough
+intense
+impossible
+=== impossible, rough ***
+impossible
+rough
+intense
+hard, tough
+=== right, okay ***
+right
+okay, a-okay, fine
+well
+appropriate
+faultless
+perfect
+=== a-okay, okay ***
+a-okay
+okay
+well
+right
+fine
+appropriate
+faultless
+perfect
+=== right, okay ***
+right
+okay
+well
+appropriate
+a-okay
+fine
+faultless, perfect
+=== distressing, bad ***
+distressing
+bad
+awful
+ghastly
+dreadful, painful
+foul, horrendous
+horrific, atrocious, brutal
+=== distressing, dreadful ***
+distressing
+dreadful
+atrocious
+horrific
+foul
+bad
+ghastly
+horrendous
+painful, brutal
+awful
+=== frequent, widespread ***
+frequent
+widespread
+=== frequent, widespread ***
+frequent, widespread
+=== widespread, frequent ***
+widespread, frequent
+=== perfect, superior ***
+perfect
+superior
+ideal
+appropriate
+=== ideal, appropriate ***
+ideal
+appropriate
+superior
+perfect
+=== thoughtful, amazing ***
+thoughtful
+amazing
+=== thoughtful, amazing ***
+thoughtful, amazing
+=== thoughtful, amazing ***
+thoughtful
+amazing
+=== yummy, interesting ***
+yummy
+interesting
+enjoyable
+awesome
+=== enjoyable, interesting ***
+enjoyable
+interesting
+yummy
+awesome
+=== enjoyable, interesting ***
+enjoyable
+interesting
+yummy
+awesome
+=== grateful, pleased ***
+grateful
+pleased
+delighted
+excited
+=== small, unimportant ***
+small, unimportant
+trivial
+=== unimportant, small ***
+unimportant
+small
+trivial
+=== unimportant, trivial ***
+unimportant
+trivial
+small
+=== righteous, pretty ***
+righteous
+pretty
+perfect
+amazing
+awesome
+spectacular
+remarkable
+=== excellent, finest ***
+excellent
+finest
+qualified, outstanding
+=== big, terrific ***
+big, terrific
+=== big, terrific ***
+big
+terrific
+=== big, terrific ***
+big, terrific
+=== satisfactory, fine ***
+satisfactory
+fine
+appropriate
+excellent
+=== clear, bright ***
+clear, bright
+remarkable
+prominent
+=== clear, bright ***
+clear
+bright
+prominent
+remarkable
+=== less, smaller ***
+less
+smaller, little
+=== less, little ***
+less, little
+smaller
+=== little, less ***
+little
+less, smaller
+=== crucial, useful ***
+crucial
+useful
+=== successful, remarkable ***
+successful
+remarkable
+outstanding
+superb
+magnificent
+=== outstanding, magnificent ***
+outstanding
+magnificent
+remarkable
+superb
+successful
+=== outstanding, successful ***
+outstanding, successful
+magnificent
+remarkable
+superb
+=== lethal, deadly ***
+lethal
+deadly
+perilous
+critical
+life-threatening, dangerous
+=== strong, impressive ***
+strong
+impressive
+insane
+=== insane, strong ***
+insane
+strong
+impressive
+=== insane, strong ***
+insane
+strong
+impressive
+=== thoughtful, nice ***
+thoughtful
+nice, forthcoming
+helpful
+=== thoughtful, helpful ***
+thoughtful
+helpful
+nice, forthcoming
+=== nice, forthcoming ***
+nice, forthcoming
+thoughtful
+helpful
+=== well-known, familiar ***
+well-known
+familiar
+renowned
+public, known, recognised
+=== known, familiar ***
+known, familiar
+well-known, recognised, public
+renowned
+=== well-known, familiar ***
+well-known
+familiar, public
+recognised
+known, renowned
+=== best, fantastic ***
+best, fantastic
+exemplary
+outstanding, remarkable
+awesome
+magnificent
+excellent
+=== fantastic, outstanding ***
+fantastic
+outstanding, remarkable, exemplary
+best, awesome, excellent
+magnificent
+=== remarkable, outstanding ***
+remarkable
+outstanding
+exemplary
+magnificent
+awesome, fantastic, excellent
+best
+=== defined, detailed ***
+defined, detailed
+comprehensive, comprehensively
+developed
+=== prominent, outstanding ***
+prominent
+outstanding
+=== prominent, outstanding ***
+prominent
+outstanding
+=== satisfactory, happy ***
+satisfactory, happy
+fine, nice
+wonderful
+=== small, insubstantial ***
+small
+insubstantial
+sparse
+=== insubstantial, small ***
+insubstantial, small
+sparse
+=== insubstantial, sparse ***
+insubstantial
+sparse
+small
+=== satisfactory, positive ***
+satisfactory, positive
+remarkable
+awesome, marvelous
+magnificent, best, first-rate
+outstanding, finest
+=== scarce, low ***
+scarce
+low
+limited
+short
+=== less, little ***
+less, little
+infrequent, fewer
+scarce
+=== infrequent, fewer ***
+infrequent
+fewer
+less
+little
+scarce
+=== less, fewer ***
+less
+fewer
+little
+infrequent
+scarce
+=== right, high ***
+right
+high, strong
+outstanding
+=== general, broad ***
+general, broad
+=== general, broad ***
+general, broad
+=== broad, general ***
+broad
+general
+=== uncomfortable, embarrassing ***
+uncomfortable
+embarrassing
+awkward
+=== uncomfortable, embarrassing ***
+uncomfortable, embarrassing
+awkward
+=== easy, permissible ***
+easy
+permissible
+workable
+possible, possibly
+=== visible, obvious ***
+visible
+obvious
+flagrant, remarkable
+=== visible, remarkable ***
+visible
+remarkable
+obvious, flagrant
+=== visible, remarkable ***
+visible
+remarkable
+flagrant, obvious
+=== smart, sensible ***
+smart
+sensible
+=== sensible, smart ***
+sensible, smart
+=== sensible, smart ***
+sensible, smart
+=== known, sure ***
+known, sure, apparent
+=== apparent, known ***
+apparent
+known
+sure
+=== apparent, sure ***
+apparent
+sure
+known
+=== sizeable, major ***
+sizeable, major, dramatic, huge
+=== huge, major ***
+huge
+major, sizeable
+dramatic
+=== sizeable, major ***
+sizeable, major
+huge
+dramatic
+=== wider, largest ***
+wider
+largest
+abundant, substantial
+=== fine, upstanding ***
+fine
+upstanding, admirable, noteworthy
+=== fine, admirable ***
+fine
+admirable
+noteworthy
+upstanding
+=== wrong, hurting ***
+wrong, hurting
+=== wrong, hurting ***
+wrong
+hurting
+=== possibly, possible ***
+possibly
+possible, easy, workable, permissible
+=== precarious, tenuous ***
+precarious
+tenuous
+weak
+=== weak, precarious ***
+weak, precarious, tenuous
+=== tenuous, precarious ***
+tenuous
+precarious
+weak
+=== bad, distressing ***
+bad, distressing
+=== bad, distressing ***
+bad
+distressing
+=== bad, distressing ***
+bad, distressing
+=== concrete, sure ***
+concrete
+sure
+correct
+specific
+real
+=== fine, good ***
+fine, good, better, perfect, terrific
+=== crazy, bizarre ***
+crazy
+bizarre
+twisted
+strange, wierd
+=== increased, ever-increasing ***
+increased
+ever-increasing
+higher
+=== increased, ever-increasing ***
+increased
+ever-increasing
+higher
+=== increased, ever-increasing ***
+increased, ever-increasing, higher
+=== easier, effective ***
+easier
+effective
+=== easier, effective ***
+easier
+effective
+=== easier, effective ***
+easier
+effective
+=== perfect, accurate ***
+perfect
+accurate
+right
+=== right, perfect ***
+right, perfect
+accurate
+=== right, accurate ***
+right
+accurate
+perfect
+=== large, wide-ranging ***
+large
+wide-ranging, far-reaching
+vast
+=== large, wide-ranging ***
+large
+wide-ranging, far-reaching
+vast
+=== well-timed, timely ***
+well-timed
+timely
+=== well-timed, timely ***
+well-timed
+timely
+=== helpful, better ***
+helpful
+better
+=== better, helpful ***
+better
+helpful
+=== helpful, better ***
+helpful
+better
+=== clean, house-trained ***
+clean
+house-trained
+=== clean, house-trained ***
+clean, house-trained
+=== clean, house-trained ***
+clean, house-trained
+=== infrequent, fewer ***
+infrequent
+fewer
+less
+limited
+small
+=== accessible, simple ***
+accessible, simple
+easy, easiest
+easier
+=== accessible, easy ***
+accessible, easy
+easier, convenient
+simple, simplest
+=== accessible, simple ***
+accessible, simple
+easier
+easy, convenient
+simplest
+=== simple, easy ***
+simple, easy, easier, accessible
+convenient
+simplest
+=== odd, remarkable ***
+odd
+remarkable, evident
+=== low, poor ***
+low, poor, inadequate, unacceptable
+scarce
+=== much, substantial ***
+much
+substantial
+excessive
+huge
+=== effective, potent ***
+effective
+potent
+=== effective, potent ***
+effective, potent
+=== sad, disappointing ***
+sad
+disappointing, unfortunate
+distressing
+painful
+=== disappointing, distressing ***
+disappointing, distressing
+unfortunate
+sad, painful
+=== simple, accessible ***
+simple, accessible
+easy, easier
+easiest
+=== relevant, significant ***
+relevant
+significant
+vital
+crucial
+=== efficient, convenient ***
+efficient
+convenient
+effective
+beneficial
+=== efficient, effective ***
+efficient
+effective
+beneficial, convenient
+=== convenient, beneficial ***
+convenient, beneficial, effective, efficient
+=== better, desirable ***
+better
+desirable
+=== desirable, better ***
+desirable
+better
+=== better, desirable ***
+better, desirable
+=== detailed, defined ***
+detailed
+defined
+comprehensively
+comprehensive, developed
+=== perfect, fantastic ***
+perfect
+fantastic
+finest
+best, outstanding
+=== fantastic, outstanding ***
+fantastic, outstanding
+finest, best
+perfect
+=== perfect, fantastic ***
+perfect
+fantastic
+outstanding
+best, finest
+=== beautiful, breathtaking ***
+beautiful
+breathtaking
+awesome
+fantastic
+marvelous
+amazing
+fabulous
+perfect
+gorgeous, magnificent
+=== admirable, noteworthy ***
+admirable
+noteworthy
+fine, upstanding
+=== neat, clean ***
+neat
+clean, pure
+perfect
+=== neat, clean ***
+neat
+clean, perfect, pure
+=== open, accessible ***
+open
+accessible, convenient, affordable
+universal
+reachable
+achievable
+=== open, convenient ***
+open
+convenient, accessible
+reachable, affordable, achievable
+universal
+=== harmful, dangerous ***
+harmful, dangerous, severe
+=== dangerous, harmful ***
+dangerous
+harmful
+severe
+=== harmful, dangerous ***
+harmful, dangerous
+severe
+=== well, effectively ***
+well, effectively
+=== well, effectively ***
+well
+effectively
+=== effectively, well ***
+effectively
+well
+=== beautiful, handsome ***
+beautiful
+handsome
+perfect
+=== beautiful, handsome ***
+beautiful
+handsome
+perfect
+=== handsome, beautiful ***
+handsome, beautiful
+perfect
+=== beautiful, cute ***
+beautiful
+cute
+fabulous
+horny
+incredible
+hot
+=== cute, beautiful ***
+cute, beautiful
+fabulous
+incredible
+hot
+horny
+=== beautiful, cute ***
+beautiful
+cute
+horny
+fabulous
+incredible
+hot
+=== time-consuming, lengthy ***
+time-consuming
+lengthy
+long-standing
+long
+=== prompt, expedient ***
+prompt, expedient
+timely
+sooner
+quicker
+=== quicker, prompt ***
+quicker
+prompt
+sooner
+timely, expedient
+=== quicker, sooner ***
+quicker, sooner, timely
+prompt
+expedient
+=== defined, certain ***
+defined
+certain
+clearer
+=== defined, clearer ***
+defined, clearer, certain
+=== clearer, defined ***
+clearer
+defined
+certain
+=== logical, proportionate ***
+logical
+proportionate
+reasonable
+=== mistaken, amiss ***
+mistaken
+amiss
+wrong
+=== amiss, mistaken ***
+amiss
+mistaken
+wrong
+=== mistaken, amiss ***
+mistaken, amiss, wrong
+=== fine, good ***
+fine
+good
+perfect
+=== good, fine ***
+good, fine, perfect
+=== perfect, good ***
+perfect
+good
+fine
+=== miniscule, minute ***
+miniscule
+minute
+small
+=== informed, aware ***
+informed, aware, cognizant
+mindful, recognizing, conscientious
+=== aware, informed ***
+aware, informed, mindful
+conscientious
+recognizing
+cognizant
+=== mindful, conscientious ***
+mindful
+conscientious
+recognizing
+informed
+cognizant, aware
+=== unsatisfactory, ineligible ***
+unsatisfactory
+ineligible
+unsustainable
+unacceptable
+inadmissible
+=== unsatisfactory, ineligible ***
+unsatisfactory
+ineligible
+inadmissible
+unsustainable
+unacceptable
+=== varied, different ***
+varied
+different
+diverse
+multifaceted
+wide-ranging
+=== different, wide-ranging ***
+different, wide-ranging
+varied, diverse
+multifaceted
+=== wide-ranging, diverse ***
+wide-ranging
+diverse
+multifaceted
+different, varied
+=== inappropriate, unacceptable ***
+inappropriate, unacceptable, wrong, improper, scandalous, unthinkable, obscene, reprehensible, absurd
+=== unfortunate, disgraceful ***
+unfortunate
+disgraceful
+=== unfortunate, disgraceful ***
+unfortunate, disgraceful
+=== live, busy ***
+live
+busy
+underway
+active
+=== underway, live ***
+underway
+live
+active
+busy
+=== live, underway ***
+live, underway, active
+busy
+=== foolish, mad ***
+foolish, mad
+crazy
+insane
+=== insane, crazy ***
+insane
+crazy
+foolish, mad
+=== foolish, crazy ***
+foolish
+crazy
+insane, mad
+=== sad, horrible ***
+sad
+horrible
+=== sad, horrible ***
+sad
+horrible
+=== sad, horrible ***
+sad
+horrible
+=== overwhelming, vast ***
+overwhelming
+vast
+far-reaching
+significant
+=== vast, far-reaching ***
+vast, far-reaching, significant, overwhelming
+=== clean, eco-friendly ***
+clean
+eco-friendly, environmentally-friendly
+=== eco-friendly, environmentally-friendly ***
+eco-friendly
+environmentally-friendly
+clean
+=== clean, eco-friendly ***
+clean, eco-friendly
+environmentally-friendly
+=== infrequent, fewer ***
+infrequent
+fewer
+small
+limited
+less
+=== incorrect, problematic ***
+incorrect, problematic
+unusual, strange, bizarre, awkward
+=== incorrect, unusual ***
+incorrect
+unusual, problematic
+strange
+awkward, bizarre
+=== problematic, incorrect ***
+problematic, incorrect, unusual, awkward
+strange, bizarre
+=== truthful, genuine ***
+truthful
+genuine
+true
+meaningful
+real, authoritative
+=== cute, attractive ***
+cute
+attractive
+beautiful
+bonnie
+=== detailed, precise ***
+detailed
+precise
+concise
+clarified
+specific, specified, specifically
+=== detailed, precise ***
+detailed
+precise
+clarified
+specified, specifically
+specific, concise
+=== detailed, clarified ***
+detailed
+clarified, precise
+specifically
+specified
+specific
+concise
+=== right, fair ***
+right, fair, nice, beneficial
+incredible
+nessessary
+positive
+awesome
+terrific
+marvelous
+appropriate
+okay, a-okay
+best
+=== beneficial, right ***
+beneficial
+right
+fair
+incredible
+nessessary
+positive
+awesome, terrific
+marvelous
+a-okay, appropriate
+best
+nice
+okay
+=== few, meagre ***
+few, meagre, limited, scant
+scanty
+=== satisfactory, successful ***
+satisfactory
+successful, successfully
+=== satisfactory, successful ***
+satisfactory
+successful, successfully
+=== satisfactory, successful ***
+satisfactory
+successful, successfully
+=== general, available ***
+general
+available, accessible
+distributed
+widespread
+=== general, available ***
+general, available
+accessible
+distributed
+widespread
+=== available, accessible ***
+available
+accessible, general
+widespread, distributed
+=== major, heavy ***
+major, heavy, deep
+severe
+=== heavy, major ***
+heavy
+major
+deep
+severe
+=== heavy, deep ***
+heavy
+deep
+major
+severe
+=== great, excessive ***
+great
+excessive, enormously
+major
+=== hurting, wrong ***
+hurting
+wrong
+=== affordable, convenient ***
+affordable
+convenient
+universal
+reachable
+open, achievable
+accessible
+=== beautiful, perfect ***
+beautiful
+perfect
+breathtaking
+cute
+magnificent
+fantastic
+elegant
+amazing
+fabulous, superb
+glorious
+fine
+handsome
+=== fair, excellent ***
+fair, excellent
+=== fair, excellent ***
+fair
+excellent
+=== excellent, fair ***
+excellent
+fair
+=== satisfactory, fine ***
+satisfactory, fine
+nice
+happy
+wonderful
+=== violent, severe ***
+violent
+severe
+=== violent, severe ***
+violent
+severe
+=== violent, severe ***
+violent
+severe
+=== sizeable, substantial ***
+sizeable, substantial
+tremendous, remarkable
+=== sizeable, substantial ***
+sizeable
+substantial
+remarkable, tremendous
+=== sizeable, substantial ***
+sizeable, substantial
+remarkable
+tremendous
+=== good, fine ***
+good
+fine, brighter
+greater
+better
+perfect
+=== fine, good ***
+fine
+good
+better
+brighter
+greater
+perfect
+=== good, fine ***
+good
+fine
+greater
+perfect
+better, brighter
+=== improper, inappropriate ***
+improper, inappropriate
+wrong
+unacceptable
+absurd
+unthinkable
+scandalous
+obscene
+reprehensible
+=== reprehensible, inappropriate ***
+reprehensible
+inappropriate
+obscene
+improper
+wrong
+scandalous
+unthinkable
+unacceptable, absurd
+=== fine, nicer ***
+fine, nicer, sweet
+fantastic
+=== fine, sweet ***
+fine
+sweet
+nicer
+fantastic
+=== sweet, fine ***
+sweet
+fine, nicer
+fantastic
+=== responsive, appropriate ***
+responsive
+appropriate
+=== responsive, appropriate ***
+responsive
+appropriate
+=== appropriate, responsive ***
+appropriate
+responsive
+=== inadequate, lacklustre ***
+inadequate
+lacklustre
+weak, unsatisfactory
+=== inadequate, unsatisfactory ***
+inadequate, unsatisfactory
+lacklustre
+weak
+=== weak, inadequate ***
+weak
+inadequate, unsatisfactory
+lacklustre
+=== tough, critical ***
+tough, critical
+=== tough, critical ***
+tough
+critical
+=== tough, critical ***
+tough
+critical
+=== fit, capable ***
+fit, capable, trained, skilled, qualified, proficient, pro
+=== tremendous, staggering ***
+tremendous
+staggering
+awesome
+substantial
+major
+big
+=== dynamic, engaged ***
+dynamic
+engaged
+instrumental
+active
+=== problematic, elusive ***
+problematic
+elusive
+challenging
+tough
+=== problematic, elusive ***
+problematic
+elusive
+tough
+challenging
+=== positive, adamant ***
+positive, adamant
+=== adamant, positive ***
+adamant
+positive
+=== positive, adamant ***
+positive
+adamant
+=== wider, largest ***
+wider, largest, substantial
+abundant
+=== rough, harsh ***
+rough
+harsh
+hard
+=== rough, hard ***
+rough
+hard, harsh
+=== rough, hard ***
+rough
+hard, harsh
+=== scary, petrified ***
+scary
+petrified, panicked
+=== scary, panicked ***
+scary, panicked, petrified
+=== scary, panicked ***
+scary, panicked, petrified
+=== attractive, cute ***
+attractive, cute
+pretty, beautiful
+lovelier
+gorgeous
+=== cute, lovelier ***
+cute
+lovelier
+attractive, pretty, beautiful
+gorgeous
+=== beautiful, cute ***
+beautiful
+cute
+lovelier
+pretty
+attractive, gorgeous
+=== odd, weird ***
+odd
+weird, bizarre
+=== odd, weird ***
+odd, weird, bizarre
+=== little, feeble ***
+little, feeble
+weaker
+=== little, weaker ***
+little
+weaker
+feeble
+=== little, feeble ***
+little, feeble, weaker
+=== mild, limited ***
+mild
+limited
+smaller
+low
+lowest
+insignificant
+minuscule
+=== limited, smaller ***
+limited
+smaller
+minuscule
+lowest
+mild
+insignificant
+low
+=== smaller, low ***
+smaller, low, limited
+minuscule
+lowest
+mild
+insignificant
+=== useful, valuable ***
+useful
+valuable
+indispensable
+urgent
+crucial
+pivotal
+significant, needed
+vital, indispensible
+=== convenient, easier ***
+convenient
+easier
+easy
+=== easy, easier ***
+easy
+easier, convenient
+=== easy, easier ***
+easy
+easier
+convenient
+=== stable, enough ***
+stable
+enough
+=== stable, enough ***
+stable
+enough
+=== stable, enough ***
+stable, enough
+=== honest, blunt ***
+honest, blunt, straightforward
+candid
+=== honest, candid ***
+honest
+candid, straightforward
+blunt
+=== candid, straightforward ***
+candid, straightforward, honest, blunt
+=== conventional, simple ***
+conventional
+simple
+=== simple, conventional ***
+simple
+conventional
+=== simple, conventional ***
+simple, conventional
+=== small, fewer ***
+small, fewer
+less
+limited
+infrequent
+=== implausible, incredible ***
+implausible
+incredible, radical
+insane
+=== incredible, implausible ***
+incredible, implausible, radical
+insane
+=== satisfactory, enough ***
+satisfactory, enough, adequate
+appropriate, proper
+=== comprehensive, wide-ranging ***
+comprehensive
+wide-ranging, broader
+=== broader, comprehensive ***
+broader
+comprehensive
+wide-ranging
+=== wide-ranging, broader ***
+wide-ranging
+broader
+comprehensive
+=== lately, recent ***
+lately
+recent
+=== lately, recent ***
+lately, recent
+=== limited, few ***
+limited
+few
+meagre, scanty
+scant
+=== miserable, lousy ***
+miserable, lousy, horrible
+=== hopeless, unfortunate ***
+hopeless
+unfortunate
+distressing
+dreadful
+=== dreadful, hopeless ***
+dreadful
+hopeless
+unfortunate, distressing
+=== distressing, hopeless ***
+distressing
+hopeless
+unfortunate
+dreadful
+=== atrocious, horrific ***
+atrocious
+horrific
+horrendous
+formidable
+terrible, brutal
+=== potent, effective ***
+potent
+effective
+=== fine, strong ***
+fine
+strong
+=== fine, strong ***
+fine
+strong
+=== fine, strong ***
+fine
+strong
+=== accurate, fair ***
+accurate
+fair
+true, undisputed
+=== fair, true ***
+fair
+true
+accurate, undisputed
+=== fair, accurate ***
+fair, accurate
+true, undisputed
+=== relevant, useful ***
+relevant
+useful
+worthwhile
+noteworthy
+interesting
+=== useful, interesting ***
+useful, interesting
+relevant
+worthwhile
+noteworthy
+=== relevant, useful ***
+relevant
+useful, worthwhile
+interesting, noteworthy
+=== valuable, exorbitant ***
+valuable
+exorbitant
+excessive
+expensive
+costly
+=== great, major ***
+great
+major, excessive
+enormously
+=== problematic, cumbersome ***
+problematic
+cumbersome
+uncomfortable
+hard
+=== uncomfortable, hard ***
+uncomfortable, hard, problematic
+cumbersome
+=== uncomfortable, problematic ***
+uncomfortable
+problematic
+hard, cumbersome
+=== cheap, horrible ***
+cheap
+horrible
+=== cheap, horrible ***
+cheap
+horrible
+=== cheap, horrible ***
+cheap
+horrible
+=== responsive, accessible ***
+responsive
+accessible
+=== responsive, accessible ***
+responsive
+accessible
+=== useful, productive ***
+useful, productive
+=== productive, useful ***
+productive
+useful
+=== useful, productive ***
+useful, productive
+=== disappointing, unlucky ***
+disappointing
+unlucky, unfortunate
+sad
+distressing
+hopeless
+=== disappointing, hopeless ***
+disappointing
+hopeless
+sad
+unlucky, unfortunate
+distressing
+=== sad, disappointing ***
+sad, disappointing
+hopeless
+unfortunate
+unlucky
+distressing
+=== bright, cute ***
+bright
+cute
+attractive
+pretty
+lovely
+lovelier
+breathtaking
+=== cute, pretty ***
+cute, pretty
+lovelier
+attractive
+bright
+lovely, breathtaking
+=== cute, attractive ***
+cute
+attractive
+bright, lovelier, pretty
+breathtaking
+lovely
+=== developed, extensive ***
+developed, extensive
+wide-ranging, far-reaching
+broader
+broadest, longest
+excessive
+=== broadest, broader ***
+broadest
+broader, excessive, wide-ranging
+far-reaching
+longest
+developed
+extensive
+=== wide-ranging, broadest ***
+wide-ranging
+broadest
+excessive
+far-reaching
+longest, broader
+developed
+extensive
+=== simple, elementary ***
+simple, elementary
+=== bad, ludicrous ***
+bad, ludicrous
+=== bad, ludicrous ***
+bad
+ludicrous
+=== bad, ludicrous ***
+bad, ludicrous
+=== useful, appropriate ***
+useful, appropriate
+relevant
+=== useful, appropriate ***
+useful
+appropriate
+relevant
+=== appropriate, relevant ***
+appropriate
+relevant
+useful
+=== remarkable, perfect ***
+remarkable
+perfect
+better
+good, exceptional
+=== defined, specific ***
+defined
+specific
+particularly, particular
+specifically
+precise
+=== precise, defined ***
+precise, defined
+particular, particularly, specific
+specifically
+=== defined, precise ***
+defined
+precise
+specific, particularly
+specifically
+particular
+=== lightweight, weak ***
+lightweight
+weak
+=== lightweight, weak ***
+lightweight
+weak
+=== weak, lightweight ***
+weak
+lightweight
+=== spooky, eerie ***
+spooky
+eerie
+strange
+=== strange, spooky ***
+strange, spooky
+eerie
+=== strange, spooky ***
+strange
+spooky, eerie
+=== perfect, terrific ***
+perfect
+terrific
+awesome
+fine
+well
+=== bad, horrid ***
+bad, horrid, horrible, horrific, horrendous
+=== bad, horrible ***
+bad
+horrible, horrid, horrific, horrendous
+=== wider, thicker ***
+wider
+thicker
+taller
+larger, broader
+=== wider, thicker ***
+wider
+thicker
+broader
+taller
+larger
+=== wider, thicker ***
+wider
+thicker
+larger, broader
+taller
+=== smart, smarter ***
+smart, smarter
+bright
+clever
+=== smarter, bright ***
+smarter
+bright
+smart
+clever
+=== smart, smarter ***
+smart, smarter
+bright
+clever
+=== beneficial, worthwhile ***
+beneficial
+worthwhile
+informative
+valuable, helpful
+=== special, remarkable ***
+special
+remarkable
+=== special, remarkable ***
+special, remarkable
+=== taller, greater ***
+taller, greater
+farther, extensive
+=== pronounced, major ***
+pronounced
+major
+larger
+=== larger, pronounced ***
+larger
+pronounced
+major
+=== pronounced, larger ***
+pronounced
+larger, major
+=== poor, unfavourable ***
+poor, unfavourable, unsatisfactory
+incorrect
+improper
+=== right, appropriate ***
+right
+appropriate, fitting
+timely
+=== formidable, incredible ***
+formidable
+incredible
+=== formidable, incredible ***
+formidable
+incredible
+=== sensational, inspiring ***
+sensational
+inspiring
+unexpected
+marvellous
+interesting
+excited
+exquisite
+exciting, delightful
+remarkable
+=== interesting, remarkable ***
+interesting, remarkable, unexpected
+inspiring
+exciting, excited, delightful
+marvellous
+sensational
+exquisite
+=== delightful, unexpected ***
+delightful, unexpected, interesting, excited
+exciting, inspiring
+remarkable
+marvellous
+exquisite
+sensational
+=== clear, cool ***
+clear
+cool
+=== clear, cool ***
+clear, cool
+=== cool, clear ***
+cool
+clear
+=== fantastic, special ***
+fantastic
+special, remarkable, incredible
+awesome
+outstanding
+magnificent
+marvelous
+fabulous
+brilliant
+=== implausible, queer ***
+implausible
+queer
+goofy, foolish
+crazy, idiots
+ludicrous
+=== goofy, queer ***
+goofy, queer, crazy
+foolish, idiots, ludicrous
+implausible
+=== queer, goofy ***
+queer, goofy, idiots
+foolish
+crazy
+implausible
+ludicrous
+=== brilliant, fine ***
+brilliant
+fine, beautiful
+=== problematic, tough ***
+problematic, tough
+elusive
+challenging
+=== incredible, insane ***
+incredible, insane
+=== incredible, insane ***
+incredible, insane
+=== insane, incredible ***
+insane
+incredible
+=== pressing, integral ***
+pressing
+integral
+unavoidable
+mandatory, indispensible, indispensable, necessary
+crucial
+urgent
+=== indispensible, necessary ***
+indispensible
+necessary, mandatory, integral, unavoidable, indispensable, pressing, crucial, urgent
+=== finest, successful ***
+finest, successful, strongest, best
+=== strongest, finest ***
+strongest
+finest
+best
+successful
+=== best, finest ***
+best, finest
+successful
+strongest
+=== strange, wierd ***
+strange, wierd, crazy
+bizarre, twisted
+=== long, time-consuming ***
+long, time-consuming
+lengthy
+long-standing
+=== long, lengthy ***
+long
+lengthy, time-consuming
+long-standing
+=== distressing, daunting ***
+distressing
+daunting
+difficult, unpleasant
+=== unpleasant, difficult ***
+unpleasant, difficult, daunting
+distressing
+=== distressing, unpleasant ***
+distressing, unpleasant
+difficult
+daunting
+=== useful, desirable ***
+useful
+desirable
+best
+=== useful, desirable ***
+useful, desirable, best
+=== unsafe, hazardous ***
+unsafe
+hazardous
+treacherous
+precarious
+dangerous, ultra-hazardous
+=== appropriate, perfect ***
+appropriate, perfect, ideal
+superior
+=== a-okay, okay ***
+a-okay
+okay
+right
+appropriate
+fair
+nice
+positive
+nessessary
+beneficial
+incredible
+best
+awesome
+terrific
+marvelous
+=== perfect, finest ***
+perfect
+finest
+fantastic, best
+=== perfect, best ***
+perfect
+best
+finest
+fantastic
+=== fantastic, best ***
+fantastic
+best
+finest
+perfect
+=== pleasant, comfortable ***
+pleasant, comfortable, nice, comforting
+likable, mild, enjoyable, nicer, hospitable
+gentle, sweet
+beautiful, handsome
+lovelier
+=== brighter, sensible ***
+brighter
+sensible
+=== high, farther ***
+high
+farther
+higher, taller
+=== taller, high ***
+taller
+high
+higher
+farther
+=== high, higher ***
+high, higher
+taller
+farther
+=== positive, glad ***
+positive
+glad
+content
+satisfied
+pleased
+=== positive, content ***
+positive, content
+satisfied
+pleased, glad
+=== glad, content ***
+glad
+content, positive
+satisfied
+pleased
+=== ridiculous, nonsense ***
+ridiculous
+nonsense
+=== nonsense, ridiculous ***
+nonsense
+ridiculous
+=== nonsense, ridiculous ***
+nonsense
+ridiculous
+=== fine, good ***
+fine, good
+adequate
+fitting
+guaranteed
+=== adequate, fine ***
+adequate
+fine
+fitting
+guaranteed
+good
+=== powerful, largest ***
+powerful
+largest
+=== powerful, largest ***
+powerful
+largest
+=== largest, powerful ***
+largest, powerful
+=== simple, simply ***
+simple
+simply
+easier
+simplest
+easy
+=== simple, easy ***
+simple, easy, simply
+easier, simplest
+=== easy, easier ***
+easy, easier, simple
+simply, simplest
+=== bankrupt, indigent ***
+bankrupt
+indigent
+poor
+=== indigent, poor ***
+indigent, poor
+bankrupt
+=== poor, indigent ***
+poor
+indigent, bankrupt
+=== daunting, substantial ***
+daunting
+substantial
+formidable
+impressive, tough
+=== sensible, thought-out ***
+sensible
+thought-out
+sound
+=== sensible, thought-out ***
+sensible
+thought-out
+sound
+=== sensible, sound ***
+sensible, sound, thought-out
+=== remarkable, prominent ***
+remarkable
+prominent, outstanding
+=== remarkable, prominent ***
+remarkable
+prominent
+outstanding
+=== profitable, useful ***
+profitable
+useful
+worthwhile
+advantageous
+fruitful
+beneficial, valuable
+=== worthwhile, useful ***
+worthwhile
+useful
+fruitful, beneficial
+advantageous
+profitable
+valuable
+=== useful, profitable ***
+useful, profitable, worthwhile
+advantageous
+valuable
+fruitful
+beneficial
+=== normal, routine ***
+normal
+routine
+customary, logical
+=== cold, cool ***
+cold
+cool
+=== cool, cold ***
+cool
+cold
+=== cool, cold ***
+cool, cold
+=== tragic, lamentable ***
+tragic
+lamentable
+unfortunate
+=== unfortunate, lamentable ***
+unfortunate, lamentable
+tragic
+=== lamentable, unfortunate ***
+lamentable
+unfortunate
+tragic
+=== clear, exact ***
+clear, exact, accurate
+straightforward
+precise
+=== straightforward, clear ***
+straightforward
+clear
+accurate
+precise
+exact
+=== indispensible, mandatory ***
+indispensible
+mandatory
+integral
+indispensable
+unavoidable
+crucial
+urgent
+necessary, pressing
+=== bad, acute ***
+bad
+acute
+fatal
+=== bad, acute ***
+bad, acute
+fatal
+=== acute, fatal ***
+acute
+fatal
+bad
+=== true, genuine ***
+true
+genuine, authentic
+=== small, nominal ***
+small
+nominal
+=== nominal, small ***
+nominal
+small
+=== small, nominal ***
+small, nominal
+=== available, disclosed ***
+available, disclosed
+=== available, disclosed ***
+available
+disclosed
+=== disclosed, available ***
+disclosed
+available
+=== spectacular, remarkable ***
+spectacular
+remarkable
+fine
+=== fine, spectacular ***
+fine, spectacular
+remarkable
+=== embarrassing, ridiculous ***
+embarrassing, ridiculous
+=== embarrassing, ridiculous ***
+embarrassing, ridiculous
+=== embarrassing, ridiculous ***
+embarrassing
+ridiculous
+=== hard, tough ***
+hard
+tough, tougher
+rock-hard
+=== hard, rock-hard ***
+hard, rock-hard, tough
+tougher
+=== tough, tougher ***
+tough
+tougher, rock-hard
+hard
+=== fine, competent ***
+fine, competent
+impressive
+=== fine, competent ***
+fine, competent
+impressive
+=== competent, fine ***
+competent
+fine
+impressive
+=== big, bigger ***
+big, bigger
+greater
+enormously
+monumental
+heavy
+large
+=== big, bigger ***
+big
+bigger
+large, heavy, greater
+enormously
+monumental
+=== big, large ***
+big
+large, bigger, heavy, greater
+enormously
+monumental
+=== distressing, bad ***
+distressing, bad
+foul, dreadful
+awful, atrocious
+horrific
+brutal
+ghastly
+horrendous
+painful
+=== sad, dreadful ***
+sad, dreadful, lamentable, bleak, dire
+horrible
+tragic
+=== sad, lamentable ***
+sad
+lamentable, dreadful
+horrible
+bleak
+tragic
+dire
+=== distinct, distinctive ***
+distinct, distinctive
+special
+unusual
+=== unusual, special ***
+unusual
+special
+distinct, distinctive
+=== special, unusual ***
+special, unusual, distinct
+distinctive
+=== useful, advantageous ***
+useful
+advantageous
+opportune
+=== useful, opportune ***
+useful
+opportune, advantageous
+=== advantageous, opportune ***
+advantageous
+opportune
+useful
+=== remarkable, noteworthy ***
+remarkable
+noteworthy
+important, far-reaching
+=== important, noteworthy ***
+important
+noteworthy, far-reaching
+remarkable
+=== useful, important ***
+useful
+important, valuable, vital
+indispensible
+=== precise, accurate ***
+precise
+accurate
+straightforward
+exact, clear
+=== foolish, rubbish ***
+foolish
+rubbish
+implausible
+=== foolish, rubbish ***
+foolish
+rubbish, implausible
+=== implausible, rubbish ***
+implausible
+rubbish
+foolish
+=== easier, better ***
+easier
+better
+=== easier, better ***
+easier
+better
+=== easier, better ***
+easier
+better
+=== curious, interesting ***
+curious, interesting
+fascinating
+=== curious, interesting ***
+curious
+interesting, fascinating
+=== useful, convenient ***
+useful
+convenient, beneficial
+=== convenient, useful ***
+convenient
+useful
+beneficial
+=== beneficial, useful ***
+beneficial
+useful
+convenient
+=== large, wide-ranging ***
+large
+wide-ranging
+wider
+broader
+endemic
+widespread, widest
+=== large, wide-ranging ***
+large, wide-ranging, wider, widest, widespread
+broader
+endemic
+=== first-class, valuable ***
+first-class, valuable
+terrific
+superb
+=== terrific, first-class ***
+terrific
+first-class
+valuable, superb
+=== valuable, first-class ***
+valuable
+first-class
+superb
+terrific
+=== certain, accurate ***
+certain
+accurate
+definite
+specific, distinctive
+=== certain, accurate ***
+certain, accurate
+definite
+distinctive
+specific
+=== certain, specific ***
+certain
+specific
+accurate
+definite
+distinctive
+=== cool, exciting ***
+cool
+exciting
+=== cool, exciting ***
+cool
+exciting
+=== cool, exciting ***
+cool
+exciting
+=== high, strong ***
+high
+strong
+right
+outstanding
+=== strong, high ***
+strong
+high
+outstanding
+right
+=== active, actively ***
+active, actively
+lively
+vigorous
+=== vigorous, lively ***
+vigorous
+lively
+actively
+active
+=== vigorous, lively ***
+vigorous
+lively, active
+actively
+=== pleased, joyful ***
+pleased
+joyful, thrilled, psyched
+ecstatic
+=== bonnie, fine ***
+bonnie
+fine
+dainty
+cute
+loveable
+pretty
+attractive
+=== cute, fine ***
+cute
+fine
+attractive, loveable
+bonnie
+pretty, dainty
+=== cute, fine ***
+cute
+fine
+dainty, attractive, pretty
+bonnie
+loveable
+=== dreadful, lamentable ***
+dreadful
+lamentable
+dire
+bleak
+tragic
+sad, horrible
+=== timely, well-timed ***
+timely, well-timed
+=== big, broad ***
+big
+broad
+huge
+sizeable
+immense
+enormous
+tremendous
+=== big, huge ***
+big
+huge, enormous, immense, broad
+sizeable
+tremendous
+=== substantial, major ***
+substantial
+major
+huge
+powerful, broader
+=== substantial, broader ***
+substantial, broader
+major
+huge
+powerful
+=== substantial, broader ***
+substantial
+broader
+powerful, major
+huge
+=== fair, honorable ***
+fair
+honorable, sincere
+genuine, heartfelt
+sincerely, honest
+=== fair, honorable ***
+fair
+honorable, sincere
+genuine
+heartfelt
+sincerely
+honest
+=== honorable, sincere ***
+honorable
+sincere
+fair, genuine
+sincerely, heartfelt
+honest
+=== impressive, cool ***
+impressive
+cool
+crazy
+=== cool, impressive ***
+cool
+impressive
+crazy
+=== cool, impressive ***
+cool, impressive, crazy
+=== comfortable, enjoyable ***
+comfortable, enjoyable
+=== enjoyable, comfortable ***
+enjoyable
+comfortable
+=== comfortable, enjoyable ***
+comfortable, enjoyable
+=== fine, beautiful ***
+fine
+beautiful
+brilliant
+=== fine, beautiful ***
+fine, beautiful, brilliant
+=== fantastic, magnificent ***
+fantastic
+magnificent
+outstanding
+grand, special
+=== scant, meagre ***
+scant
+meagre
+scanty
+limited
+few
+=== difficult, limited ***
+difficult
+limited
+=== difficult, limited ***
+difficult, limited
+=== limited, difficult ***
+limited
+difficult
+=== good, better ***
+good, better, fine
+awesome
+=== better, good ***
+better
+good
+fine
+awesome
+=== good, fine ***
+good
+fine
+better, awesome
+=== active, engaged ***
+active
+engaged
+dynamic
+instrumental
+=== active, engaged ***
+active, engaged, dynamic
+instrumental
+=== short, brief ***
+short
+brief
+succinct
+concise
+=== brief, succinct ***
+brief
+succinct
+short, concise
+=== brief, short ***
+brief, short
+succinct
+concise
+=== right, desirable ***
+right
+desirable
+better
+appropriate
+preferable
+best
+beneficial
+=== appropriate, right ***
+appropriate, right
+desirable
+beneficial, better, preferable, best
+=== right, desirable ***
+right
+desirable
+better
+appropriate
+preferable
+best
+beneficial
+=== bright, brilliant ***
+bright
+brilliant
+=== bright, brilliant ***
+bright
+brilliant
+=== bright, brilliant ***
+bright
+brilliant
+=== important, remarkable ***
+important
+remarkable
+far-reaching, noteworthy
+=== interesting, curious ***
+interesting, curious, fascinating
+=== bright, prominent ***
+bright
+prominent
+clear, remarkable
+=== qualified, valid ***
+qualified
+valid
+appropriate, relevant
+=== desirable, best ***
+desirable
+best
+useful
+=== okay, fair ***
+okay, fair, normal, fine
+=== fair, normal ***
+fair
+normal, okay
+fine
+=== interesting, cool ***
+interesting
+cool
+amazing
+=== cool, interesting ***
+cool
+interesting
+amazing
+=== interesting, cool ***
+interesting, cool
+amazing
+=== excited, perfect ***
+excited, perfect, amazing
+spectacular
+remarkable
+terrific
+=== perfect, amazing ***
+perfect
+amazing
+spectacular
+remarkable
+excited
+terrific
+=== weird, screwy ***
+weird
+screwy
+crazy
+insane
+demented
+psycho
+=== recent, lately ***
+recent, lately
+=== limited, less ***
+limited
+less
+=== less, limited ***
+less, limited
+=== less, limited ***
+less
+limited
+=== terrific, clever ***
+terrific
+clever, fantastic
+=== clever, fantastic ***
+clever
+fantastic, terrific
+=== clever, terrific ***
+clever
+terrific
+fantastic
+=== awkward, confusing ***
+awkward
+confusing
+random
+strange
+=== awkward, random ***
+awkward, random
+confusing
+strange
+=== confusing, awkward ***
+confusing, awkward, strange
+random
+=== upset, scared ***
+upset, scared
+afraid
+=== scared, afraid ***
+scared
+afraid, upset
+=== upset, afraid ***
+upset
+afraid, scared
+=== beautiful, spectacular ***
+beautiful
+spectacular
+breathtaking
+=== breathtaking, spectacular ***
+breathtaking
+spectacular
+beautiful
+=== beautiful, breathtaking ***
+beautiful, breathtaking
+spectacular
+=== wide-ranging, large ***
+wide-ranging, large, widespread
+wider, broader
+endemic
+widest
+=== cooperative, beneficial ***
+cooperative
+beneficial
+=== cooperative, beneficial ***
+cooperative
+beneficial
+=== beneficial, cooperative ***
+beneficial, cooperative
+=== neat, beautiful ***
+neat
+beautiful
+fancy
+=== neat, fancy ***
+neat
+fancy
+beautiful
+=== neat, beautiful ***
+neat, beautiful
+fancy
+=== huge, tremendous ***
+huge
+tremendous, colossal, immense
+all-important
+remarkable, major
+sizeable
+formidable
+overwhelming
+=== valuable, useful ***
+valuable
+useful
+fruitful
+=== useful, valuable ***
+useful
+valuable, fruitful
+=== fruitful, useful ***
+fruitful, useful
+valuable
+=== dramatic, desperate ***
+dramatic, desperate
+dire
+formidable
+=== desperate, formidable ***
+desperate
+formidable, dire
+dramatic
+=== dramatic, formidable ***
+dramatic
+formidable
+desperate
+dire
+=== larger, greater ***
+larger
+greater, substantial, powerful
+=== alternative, alternate ***
+alternative
+alternate
+different
+=== rad, brilliant ***
+rad
+brilliant
+=== rad, brilliant ***
+rad, brilliant
+=== rad, brilliant ***
+rad
+brilliant
+=== unimaginable, inconceivable ***
+unimaginable, inconceivable, incredible
+=== unimaginable, inconceivable ***
+unimaginable
+inconceivable
+incredible
+=== unimaginable, incredible ***
+unimaginable, incredible
+inconceivable
+=== sweet, encouraging ***
+sweet
+encouraging
+positive
+=== sweet, encouraging ***
+sweet
+encouraging
+positive
+=== miserable, awful ***
+miserable
+awful
+=== awful, miserable ***
+awful, miserable
+=== awful, miserable ***
+awful
+miserable
+=== okay, understood ***
+okay
+understood
+=== okay, understood ***
+okay
+understood
+=== understood, okay ***
+understood, okay
+=== proper, satisfactory ***
+proper
+satisfactory
+appropriate
+enough
+adequate
+=== unsatisfactory, unacceptable ***
+unsatisfactory, unacceptable, ineligible, unsustainable, inadmissible
+=== asinine, idiot ***
+asinine, idiot, ignorant
+dumber
+stupider, daft, senseless, foolish
+unwise
+=== reasonable, appropriate ***
+reasonable
+appropriate
+worthwhile
+right
+=== right, worthwhile ***
+right
+worthwhile
+appropriate
+reasonable
+=== right, reasonable ***
+right, reasonable
+worthwhile
+appropriate
+=== desirable, best ***
+desirable
+best
+=== desirable, best ***
+desirable
+best
+=== best, desirable ***
+best
+desirable
+=== reasonable, proportionate ***
+reasonable, proportionate
+logical
+=== reasonable, logical ***
+reasonable, logical
+proportionate
+=== general, generally ***
+general, generally, generic
+=== generally, general ***
+generally
+general
+generic
+=== generic, general ***
+generic
+general, generally
+=== real, effective ***
+real
+effective
+=== real, effective ***
+real
+effective
+=== real, effective ***
+real
+effective
+=== simple, easiest ***
+simple
+easiest
+convenient, accessible
+=== poor, unacceptable ***
+poor
+unacceptable
+inadequate, scarce
+low
+=== bad, naughty ***
+bad
+naughty
+terrible
+=== naughty, bad ***
+naughty
+bad
+terrible
+=== bad, terrible ***
+bad
+terrible, naughty
+=== unsafe, precarious ***
+unsafe
+precarious, hazardous
+ultra-hazardous, dangerous, treacherous
+=== unsafe, dangerous ***
+unsafe, dangerous
+hazardous, precarious
+treacherous
+ultra-hazardous
+=== helpful, useful ***
+helpful, useful
+relevant
+productive
+efficient
+=== efficient, relevant ***
+efficient
+relevant
+useful
+helpful, productive
+=== useful, helpful ***
+useful, helpful
+relevant, efficient
+productive
+=== miserable, sad ***
+miserable
+sad
+terrible
+=== sad, terrible ***
+sad, terrible
+miserable
+=== sad, terrible ***
+sad
+terrible, miserable
+=== little, faint ***
+little
+faint
+weaker
+mild
+weak
+=== little, faint ***
+little
+faint
+weaker
+weak
+mild
+=== fantastic, magnificent ***
+fantastic
+magnificent
+awesome
+best
+perfect
+=== best, perfect ***
+best, perfect, fantastic, awesome
+magnificent
+=== limited, rarest ***
+limited
+rarest
+meagre
+few
+scarce
+rare, scant
+=== few, limited ***
+few
+limited
+scant
+rarest
+rare
+scarce
+meagre
+=== few, limited ***
+few, limited
+meagre
+scant
+scarce
+rare, rarest
+=== enjoyable, breathtaking ***
+enjoyable
+breathtaking
+awesome, fabulous, marvelous
+fantastic
+=== marvelous, breathtaking ***
+marvelous
+breathtaking
+fabulous
+enjoyable
+awesome
+fantastic
+=== enjoyable, breathtaking ***
+enjoyable
+breathtaking
+marvelous
+fabulous, awesome
+fantastic
+=== extensive, farther ***
+extensive
+farther, taller, greater
+=== extensive, farther ***
+extensive
+farther
+greater, taller
+=== terrible, horrific ***
+terrible
+horrific
+brutal, formidable
+horrendous
+atrocious
+=== formidable, brutal ***
+formidable, brutal
+terrible
+horrendous, horrific, atrocious
+=== generous, admirable ***
+generous
+admirable, gracious
+thoughtful
+nice
+=== lousy, miserable ***
+lousy
+miserable
+horrible
+=== simple, easy ***
+simple
+easy
+easiest
+accessible, easier
+=== bizarre, ridiculous ***
+bizarre
+ridiculous, odd
+=== odd, ridiculous ***
+odd
+ridiculous
+bizarre
+=== odd, bizarre ***
+odd, bizarre
+ridiculous
+=== normal, unremarkable ***
+normal, unremarkable, ordinary
+understood
+commonplace
+=== END

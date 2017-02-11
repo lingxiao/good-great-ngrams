@@ -52,7 +52,7 @@ def markov_milp(app):
 '''
 def milp_no_syn(gold, app):
 
-  words      = join(gold)
+  words = join(gold)
 
   for k in range(0,10):
     shuffle(words)

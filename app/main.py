@@ -16,7 +16,6 @@ from client  import *
 from app     import * 
 from copy    import deepcopy
 
-from PIL import Image
 
 ############################################################
 # Initialize application 
@@ -54,33 +53,146 @@ app_u = App(root
            ,'testset-ellie-unanimous')
 
 
-two  = app_u.TwoSided
-one  = app_u.OneSided
+app_all = App(root
+           ,data
+           ,'outputs-2'
+           ,'one-sided-patterns'
+           ,'two-sided-patterns'
+           ,'testset-ellie-all')
 
-app_u.to_one_sided()
+app_ccb = App(root
+           ,data
+           ,'outputs-2'
+           ,'one-sided-patterns'
+           ,'two-sided-patterns'
+           ,'testset-ccb')
+
+two  = app_ccb.TwoSided
+one  = app_ccb.OneSided
+
+app_ccb.to_one_sided()
 
 ############################################################
 
 tset = one.test()
 
-prefix = 'ellie-unanimous-'
-
-
-'''
-  sanity check against bansal's data
-bansal_rmarkov_ilp = markov_ilp(app)
-bansal_rmilp       = milp      (app)
-'''
-
+prefix = 'ccb-'
 
 '''
   ellie's data with unanimous ranking
 '''
-# rmarkov_ilp = markov_ilp(app_u)
-rmilp       = milp      (app_u)
+# rmarkov_ilp = markov_ilp(app_ccb)
+# rmilp       = milp      (app_ccb)
 
 # app.save(prefix +  'markov-ilp', rmarkov_ilp)
-app.save(prefix +  'milp'      , rmilp)
+# app.save(prefix +  'milp'      , rmilp)
+
+'''
+  sanity check against bansal's data
+'''
+
+# bansal_rmarkov_ilp = markov_ilp(app)
+# bansal_rmilp       = milp      (app)
+
+# print ('=== bansal milp: ', bansal_rmilp      ['average'])
+# print ('=== bansal  ilp: ', bansal_rmarkov_ilp['average'])
+
+
+''' 
+  Collect all the negative taus
+milp_negative = []
+ilp_negative  = []
+
+for d in rmilp['ranking']:
+  if d['tau'] < 0:
+    milp_negative.append(d)
+
+for d in rmarkov_ilp['ranking']:
+  if d['tau'] < 0:
+    ilp_negative.append(d)
+
+rilp_positive = [d for d in rmarkov_ilp['ranking'] if d not in ilp_negative ]
+milp_positive = [d for d in rmilp['ranking']       if d not in milp_negative]
+
+milp_negative_gold = [d['gold'] for d in milp_negative]
+ilp_negative_gold  = [d['gold'] for d in rilp_negative]
+
+milp_positive_gold = [d['gold'] for d in milp_positive]
+ilp_positive_gold  = [d['gold'] for d in rilp_positive]
+
+f_milp_positive = open(os.path.join(root, 'milp-positive.txt'),'w')
+f_ilp_positive  = open(os.path.join(root, 'ilp-positive.txt') ,'w')
+
+f_milp_negative = open(os.path.join(root, 'milp-negative.txt'),'w')
+f_ilp_negative  = open(os.path.join(root, 'ilp-negative.txt') ,'w')
+
+
+for gold in milp_positive_gold:
+  ws = [w for [w] in gold]
+  f_milp_positive.write('=== ' + ws[0] + ', ' + ws[-1] + ' **\n')
+  for w in ws:
+    f_milp_positive.write(w + '\n')
+
+f_milp_positive.write('=== END')
+
+
+for gold in ilp_positive_gold:
+  ws = [w for [w] in gold]
+  f_ilp_positive.write('=== ' + ws[0] + ', ' + ws[-1] + ' **\n')
+  for w in ws:
+    f_ilp_positive.write(w + '\n')
+
+f_ilp_positive.write('=== END')
+
+
+for gold in ilp_negative_gold:
+  ws = [w for [w] in gold]
+  f_ilp_negative.write('=== ' + ws[0] + ', ' + ws[-1] + ' **\n')
+
+  for w in ws:
+    f_ilp_negative.write(w + '\n')
+
+f_ilp_negative.write('=== END')
+
+
+for gold in milp_negative_gold:
+  ws = [w for [w] in gold]
+  f_milp_negative.write('=== ' + ws[0] + ', ' + ws[-1] + ' **\n')
+
+  for w in ws:
+    f_milp_negative.write(w + '\n')
+
+f_milp_negative.write('=== END')
+
+f_milp_positive.close()  
+f_milp_negative.close()
+
+f_ilp_positive.close()  
+f_ilp_negative.close()
+
+
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

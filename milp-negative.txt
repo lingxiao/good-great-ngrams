@@ -1,0 +1,200 @@
+=== common, available **
+common
+available
+=== better, superb **
+better
+lovely
+excellent
+perfect
+superb
+=== relevant, interesting **
+relevant
+useful
+worthwhile
+noteworthy
+interesting
+=== apt, correct **
+apt
+appropriate
+right
+justified
+fair
+well-formed
+correct
+=== perfect, beautiful **
+perfect
+beautiful
+=== possibly, possible **
+possibly
+permissible
+easy
+workable
+possible
+=== positive, pleased **
+positive
+glad
+content
+satisfied
+pleased
+=== simple, easy **
+simple
+simply
+easier
+simplest
+easy
+=== crucial, useful **
+crucial
+useful
+=== random, weird **
+random
+confusing
+ironic
+spooky
+weird
+=== marvellous, pretty **
+marvellous
+breathtaking
+spectacular
+pretty
+=== valuable, fruitful **
+valuable
+useful
+fruitful
+=== efficient, beneficial **
+efficient
+convenient
+effective
+beneficial
+=== enjoyable, pleasant **
+enjoyable
+fantastic
+ggood
+outstanding
+magnificent
+pleasant
+=== least, some **
+least
+few
+little
+some
+=== spooky, strange **
+spooky
+eerie
+strange
+=== dangerous, severe **
+dangerous
+harmful
+severe
+=== remarkable, tremendous **
+remarkable
+all-important
+sizeable
+huge
+major
+immense
+colossal
+formidable
+overwhelming
+tremendous
+=== perfect, well **
+perfect
+terrific
+awesome
+fine
+well
+=== overwhelming, significant **
+overwhelming
+vast
+far-reaching
+significant
+=== miniscule, small **
+miniscule
+minute
+small
+=== better, awesome **
+better
+good
+fine
+awesome
+=== comprehensive, general **
+comprehensive
+universal
+global
+commonplace
+general
+=== better, effective **
+better
+good
+superior
+effective
+=== ridiculous, preposterous **
+ridiculous
+preposterous
+=== infrequent, small **
+infrequent
+fewer
+less
+limited
+small
+=== proper, adequate **
+proper
+satisfactory
+appropriate
+enough
+adequate
+=== spectacular, fine **
+spectacular
+remarkable
+fine
+=== idiot, asinine **
+idiot
+dumber
+senseless
+daft
+ignorant
+unwise
+stupider
+foolish
+asinine
+=== smarter, clever **
+smarter
+bright
+smart
+clever
+=== perfect, great **
+perfect
+excellent
+fine
+remarkable
+great
+=== huge, much **
+huge
+substantial
+excessive
+much
+=== big, substantial **
+big
+wide-ranging
+extensive
+vast
+far-reaching
+increased
+overwhelming
+substantial
+=== jumpy, overwhelmed **
+jumpy
+nervous
+excited
+overwhelmed
+=== satisfactory, outstanding **
+satisfactory
+finest
+remarkable
+positive
+awesome
+magnificent
+marvelous
+first-rate
+best
+outstanding
+=== END

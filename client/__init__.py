@@ -31,6 +31,7 @@ __all__ = [ 'parse_pattern'
 
           , 'milp'
           , 'milp_no_syn'
+          , 'bansal_milp'
           
           , 'markov_ilp'
           , 'ilp_each'
