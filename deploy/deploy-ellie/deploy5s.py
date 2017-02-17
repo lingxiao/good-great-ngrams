@@ -24,35 +24,35 @@ a1    = App(root
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-1')
+           ,'ellie-unanimous/testset-1')
 
 a2    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-2')
+           ,'ellie-unanimous/testset-2')
 
 a3    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-3')
+           ,'ellie-unanimous/testset-3')
 
 a4    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-4')
+           ,'ellie-unanimous/testset-4')
 
 a5    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-5')
+           ,'ellie-unanimous/testset-5')
 
 
 a1.refresh(2)

@@ -26,35 +26,35 @@ a16    = App(root
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-16')
+           ,'moh-graph/testset-16')
 
 a17    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-17')
+           ,'moh-graph/testset-17')
 
 a18    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-18')
+           ,'moh-graph/testset-18')
 
 a19    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-19')
+           ,'moh-graph/testset-19')
 
 a20    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-20')
+           ,'moh-graph/testset-20')
 
 
 a16.refresh(2)

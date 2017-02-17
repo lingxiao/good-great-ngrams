@@ -19,48 +19,64 @@ from client  import *
 root  = "/Users/lingxiao/Documents/research/code/good-great-ngrams"
 data  = os.path.join(root, 'ngrams/')
 
-a1    = App(root
+
+a26    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-1')
+           ,'moh-graph/testset-26')
 
-a2    = App(root
+a27    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-2')
+           ,'moh-graph/testset-27')
 
-a3    = App(root
+a28    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-3')
+           ,'moh-graph/testset-28')
 
-a4    = App(root
+
+a29    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-4')
+           ,'moh-graph/testset-29')
 
-a5    = App(root
+
+a30    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-5')
+           ,'moh-graph/testset-30')
 
 
-a1.refresh(2)
-a2.refresh(2)
-a3.refresh(2)
-a4.refresh(2)
-a5.refresh(2)
+a31    = App(root
+           ,data
+           ,'outputs-2'
+           ,'one-sided-patterns'
+           ,'two-sided-patterns'
+           ,'moh-graph/testset-31')
 
 
+a32    = App(root
+           ,data
+           ,'outputs-2'
+           ,'one-sided-patterns'
+           ,'two-sided-patterns'
+           ,'moh-graph/testset-32')
 
-
+a26.refresh(2)
+a27.refresh(2)
+a28.refresh(2)
+a29.refresh(2)
+a30.refresh(2)
+a31.refresh(2)
+a32.refresh(2)

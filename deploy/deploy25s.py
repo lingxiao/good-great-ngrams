@@ -19,48 +19,48 @@ from client  import *
 root  = "/Users/lingxiao/Documents/research/code/good-great-ngrams"
 data  = os.path.join(root, 'ngrams/')
 
-a1    = App(root
+
+a21    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-1')
+           ,'moh-graph/testset-21')
 
-a2    = App(root
+a22    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-2')
+           ,'moh-graph/testset-22')
 
-a3    = App(root
+a23    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-3')
+           ,'moh-graph/testset-23')
 
-a4    = App(root
+
+a24    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-4')
+           ,'moh-graph/testset-24')
 
-a5    = App(root
+
+a25    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-5')
+           ,'moh-graph/testset-25')
 
 
-a1.refresh(2)
-a2.refresh(2)
-a3.refresh(2)
-a4.refresh(2)
-a5.refresh(2)
-
-
-
+a21.refresh(2)
+a22.refresh(2)
+a23.refresh(2)
+a24.refresh(2)
+a25.refresh(2)
 

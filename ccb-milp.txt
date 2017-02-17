@@ -1,11 +1,11 @@
 ccb-milp
-2017-02-09 17:02:26.368688
+2017-02-13 16:48:37.805923
 ------------------------------------------------
-average tau:  0.2
-average |tau|: 0.23
+average tau:  0.19
+average |tau|: 0.22
 average tau  no tie  0.14
 average |tau| no tie  0.19
-average pairwise accuracy: 27.0%
+average pairwise accuracy: 26.0%
 ------------------------------------------------
 === tau:
 1.0
@@ -89,7 +89,7 @@ positive=terrific: 0.0
 ['immeasurable']
 
 === algo: 
-['immeasurable', 'valuable']
+['valuable', 'immeasurable']
 
 === raw score: 
 immeasurable=valuable: 0.0
@@ -154,7 +154,7 @@ functioning=efficient: 0.0
 ['scarce']
 
 === algo: 
-['scarce', 'low', 'limited']
+['limited', 'low', 'scarce']
 
 === raw score: 
 low=limited: 0.0
@@ -180,7 +180,7 @@ limited=scarce: 0.0
 ['breathtaking']
 
 === algo: 
-['pretty', 'cute', 'breathtaking', 'lovelier', 'lovely']
+['cute', 'pretty', 'breathtaking', 'lovely', 'lovelier']
 
 === raw score: 
 lovely=pretty: 0.0
@@ -218,15 +218,15 @@ lovely=breathtaking: 0.0
 ['exorbitant']
 
 === algo: 
-['expensive', 'costly', 'exorbitant']
+['exorbitant', 'costly', 'expensive']
 
 === raw score: 
 expensive=exorbitant: 0.0
 exorbitant=costly: 0.0
 exorbitant=expensive: 0.0
-costly=expensive: 0.0
-expensive=costly: 0.0
 costly=exorbitant: 0.0
+expensive=costly: 0.0
+costly=expensive: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -242,15 +242,15 @@ costly=exorbitant: 0.0
 ['horrible']
 
 === algo: 
-['horrible', 'lousy', 'miserable']
+['lousy', 'horrible', 'miserable']
 
 === raw score: 
 miserable=horrible: 0.0
 horrible=miserable: 0.0
-miserable=lousy: 0.0
+lousy=miserable: 0.0
 lousy=horrible: 0.0
 horrible=lousy: 0.0
-lousy=miserable: 0.0
+miserable=lousy: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -380,7 +380,7 @@ embarrassing=uncomfortable: 0.0
 ['tremendous', 'staggering']
 
 === algo: 
-['staggering', 'substantial', 'tremendous', 'big']
+['tremendous', 'substantial', 'big', 'staggering']
 
 === raw score: 
 big=substantial: 0.0
@@ -418,17 +418,17 @@ tremendous=big: 0.0
 
 === raw score: 
 clear=exact: 0.0
-exact=clear: 0.0
-clear=accurate: 0.0
+precise=accurate: 1.0
+accurate=clear: 0.0
 precise=exact: 0.0
 exact=accurate: 0.0
+exact=clear: 0.0
 accurate=precise: -1.0
 accurate=exact: 0.0
 exact=precise: 0.0
-precise=accurate: 1.0
-clear=precise: 0.0
-accurate=clear: 0.0
 precise=clear: 0.0
+clear=accurate: 0.0
+clear=precise: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -446,29 +446,29 @@ precise=clear: 0.0
 ['overwhelmed']
 
 === algo: 
-['pleased', 'excited', 'delighted', 'overwhelmed', 'happy']
+['excited', 'pleased', 'overwhelmed', 'delighted', 'happy']
 
 === raw score: 
-delighted=overwhelmed: 0.0
 overwhelmed=delighted: 0.0
-excited=overwhelmed: 0.0
+pleased=delighted: 0.0
+overwhelmed=happy: 0.0
 pleased=excited: 0.0
 delighted=pleased: 0.0
 delighted=happy: 0.0
-pleased=overwhelmed: 0.0
-happy=pleased: 0.0
+excited=overwhelmed: 0.0
 happy=overwhelmed: 0.0
 overwhelmed=excited: 0.0
-excited=happy: 0.0
-happy=excited: 0.0
-excited=delighted: 0.0
 pleased=happy: 0.0
+happy=excited: 0.0
+pleased=overwhelmed: 0.0
+excited=happy: 0.0
 excited=pleased: 0.0
-overwhelmed=happy: 0.0
-pleased=delighted: 0.0
+happy=pleased: 0.0
+excited=delighted: 0.0
 happy=delighted: 0.0
 delighted=excited: 0.0
 overwhelmed=pleased: 0.0
+delighted=overwhelmed: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -484,15 +484,15 @@ overwhelmed=pleased: 0.0
 ['horrendous']
 
 === algo: 
-['horrific', 'horrendous', 'bad']
+['horrendous', 'bad', 'horrific']
 
 === raw score: 
 bad=horrific: 0.0
 horrific=bad: 0.0
-horrendous=bad: 0.0
+horrific=horrendous: 0.0
 horrendous=horrific: 0.0
 bad=horrendous: 0.0
-horrific=horrendous: 0.0
+horrendous=bad: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -587,9 +587,9 @@ fine=spectacular: 1.0
 ['perfect']
 
 === raw score: 
-perfect=fine: 0.0
+faultless=appropriate: 0.0
 perfect=okay: -1.0
-a-okay=appropriate: 0.0
+faultless=a-okay: 0.0
 faultless=perfect: 0.0
 a-okay=okay: 0.0
 fine=appropriate: 0.0
@@ -602,7 +602,7 @@ faultless=okay: 0.0
 fine=perfect: 0.0
 appropriate=a-okay: 0.0
 fine=okay: 0.0
-appropriate=fine: 0.0
+faultless=fine: 0.0
 a-okay=faultless: 0.0
 appropriate=faultless: 0.0
 okay=fine: 0.0
@@ -611,11 +611,11 @@ okay=perfect: 1.0
 okay=a-okay: 0.0
 perfect=faultless: 0.0
 perfect=a-okay: 0.0
-faultless=appropriate: 0.0
-faultless=a-okay: 0.0
+perfect=fine: 0.0
+a-okay=appropriate: 0.0
 okay=faultless: 0.0
 a-okay=fine: 0.0
-faultless=fine: 0.0
+appropriate=fine: 0.0
 appropriate=perfect: 0.0
 
 === raw counts: 
@@ -632,7 +632,7 @@ appropriate=perfect: 0.0
 ['life-threatening']
 
 === algo: 
-['critical', 'graver', 'life-threatening']
+['life-threatening', 'graver', 'critical']
 
 === raw score: 
 graver=critical: 0.0
@@ -756,7 +756,7 @@ embarrassed=uncomfortable: 0.0
 ['optimum']
 
 === algo: 
-['efficient', 'optimum']
+['optimum', 'efficient']
 
 === raw score: 
 efficient=optimum: 0.0
@@ -775,7 +775,7 @@ optimum=efficient: 0.0
 ['excellent']
 
 === algo: 
-['satisfactory', 'excellent', 'appropriate', 'fine']
+['appropriate', 'excellent', 'fine', 'satisfactory']
 
 === raw score: 
 satisfactory=excellent: 0.0
@@ -824,7 +824,7 @@ clear=prominent: 0.0
 ['daunting']
 
 === algo: 
-['daunting', 'tough', 'formidable']
+['formidable', 'daunting', 'tough']
 
 === raw score: 
 formidable=tough: 0.0
@@ -860,9 +860,9 @@ capable=proficient: 0.0
 skilled=proficient: 0.0
 qualified=skilled: -1.0
 capable=qualified: 0.0
-proficient=qualified: 0.0
-proficient=capable: 0.0
 skilled=qualified: 1.0
+proficient=capable: 0.0
+proficient=qualified: 0.0
 proficient=skilled: 0.0
 capable=skilled: 0.0
 
@@ -879,7 +879,7 @@ capable=skilled: 0.0
 ['incredible', 'awesome', 'terrific', 'marvelous']
 
 === algo: 
-['terrific', 'incredible', 'okay', 'marvelous', 'awesome']
+['terrific', 'okay', 'marvelous', 'incredible', 'awesome']
 
 === raw score: 
 marvelous=incredible: 0.0
@@ -941,19 +941,19 @@ awful=shitty: 0.0
 
 === raw score: 
 pleased=satisfied: 76.3859120615
-content=satisfied: 0.0
+satisfied=content: 0.0
 pleased=content: 1.0
 satisfied=pleased: -76.3859120615
-satisfied=content: 0.0
+content=satisfied: 0.0
 content=pleased: -1.0
 
 === raw counts: 
 ------------------------------------------------
 === tau:
-0.707106781187
+0.235702260396
 
 === pairwise accuracy:
-0.5
+0.333333333333
 
 === gold: 
 ['adequate', 'fine', 'fitting']
@@ -962,22 +962,22 @@ content=pleased: -1.0
 === algo: 
 ['fine']
 ['adequate']
-['fitting']
 ['good']
+['fitting']
 
 === raw score: 
 adequate=good: 1.0
 fine=fitting: 0.0
 fine=good: 2.21557857673
-adequate=fitting: 0.0
+fitting=adequate: 0.0
 adequate=fine: 0.0
 fitting=good: 0.0
-good=fine: -2.21557857673
 fine=adequate: 0.0
 good=fitting: 0.0
 fitting=fine: 0.0
 good=adequate: -1.0
-fitting=adequate: 0.0
+adequate=fitting: 0.0
+good=fine: -2.21557857673
 
 === raw counts: 
 ------------------------------------------------
@@ -993,7 +993,7 @@ fitting=adequate: 0.0
 ['bankrupt']
 
 === algo: 
-['bankrupt', 'indigent', 'poor']
+['indigent', 'bankrupt', 'poor']
 
 === raw score: 
 indigent=bankrupt: 0.0
@@ -1022,18 +1022,18 @@ indigent=poor: 0.0
 ['marvellous']
 
 === raw score: 
-spectacular=breathtaking: 0.0
-pretty=marvellous: 0.0
-breathtaking=spectacular: 0.0
-marvellous=pretty: 0.0
-breathtaking=pretty: 0.0
-marvellous=breathtaking: 0.0
-pretty=spectacular: 1.0
-spectacular=marvellous: 0.0
-breathtaking=marvellous: 0.0
-marvellous=spectacular: 0.0
 pretty=breathtaking: 0.0
+breathtaking=pretty: 0.0
+marvellous=pretty: 0.0
+pretty=spectacular: 1.0
+breathtaking=marvellous: 0.0
+spectacular=marvellous: 0.0
+pretty=marvellous: 0.0
+marvellous=spectacular: 0.0
+marvellous=breathtaking: 0.0
+spectacular=breathtaking: 0.0
 spectacular=pretty: -1.0
+breathtaking=spectacular: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -1068,13 +1068,13 @@ abundant=considerable: 0.0
 ['impressive']
 
 === algo: 
-['remarkable', 'impressive', 'fine']
+['impressive', 'fine', 'remarkable']
 
 === raw score: 
 remarkable=fine: 0.0
-impressive=fine: 0.0
-impressive=remarkable: 0.0
 remarkable=impressive: 0.0
+impressive=remarkable: 0.0
+impressive=fine: 0.0
 fine=remarkable: 0.0
 fine=impressive: 0.0
 
@@ -1091,7 +1091,7 @@ fine=impressive: 0.0
 ['admirable', 'upstanding']
 
 === algo: 
-['admirable', 'upstanding', 'fine']
+['fine', 'upstanding', 'admirable']
 
 === raw score: 
 upstanding=fine: 0.0
@@ -1114,11 +1114,11 @@ admirable=upstanding: 0.0
 ['distressing']
 
 === algo: 
-['bad', 'distressing']
+['distressing', 'bad']
 
 === raw score: 
-bad=distressing: 0.0
 distressing=bad: 0.0
+bad=distressing: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -1133,7 +1133,7 @@ distressing=bad: 0.0
 ['excessive', 'huge']
 
 === algo: 
-['huge', 'excessive', 'much']
+['much', 'excessive', 'huge']
 
 === raw score: 
 excessive=much: 0.0
@@ -1161,8 +1161,8 @@ excessive=huge: 0.0
 ['terrifying']
 
 === raw score: 
-frightening=terrifying: 7.12953029314
 terrifying=frightening: -7.12953029314
+frightening=terrifying: 7.12953029314
 frightening=scary: -1.0
 scary=terrifying: 0.0
 terrifying=scary: 0.0
@@ -1226,7 +1226,7 @@ tough=stringent: 0.0
 ['scarce']
 
 === algo: 
-['limited', 'low', 'scarce']
+['low', 'limited', 'scarce']
 
 === raw score: 
 low=limited: 0.0
@@ -1259,26 +1259,26 @@ limited=scarce: 0.0
 ['perfect']
 
 === raw score: 
-remarkable=good: -1.0
+exceptional=remarkable: 0.0
 better=remarkable: 0.0
 better=exceptional: 0.0
 good=exceptional: 15.6219854971
 remarkable=exceptional: 0.0
 remarkable=perfect: 0.0
 exceptional=perfect: 0.0
-perfect=remarkable: 0.0
-good=remarkable: 1.0
-perfect=better: -1.88402900639
-good=perfect: 5.71560605653
-exceptional=remarkable: 0.0
 remarkable=better: 0.0
 better=good: -13.6451120673
+remarkable=good: -1.0
+perfect=better: -1.88402900639
+good=remarkable: 1.0
+good=perfect: 5.71560605653
+good=better: 13.6451120673
+perfect=remarkable: 0.0
 perfect=good: -5.71560605653
 perfect=exceptional: 0.0
 better=perfect: 1.88402900639
 exceptional=better: 0.0
 exceptional=good: -15.6219854971
-good=better: 13.6451120673
 
 === raw counts: 
 ------------------------------------------------
@@ -1293,7 +1293,7 @@ good=better: 13.6451120673
 ['least']
 
 === algo: 
-['few', 'least', 'little']
+['few', 'little', 'least']
 
 === raw score: 
 little=least: 0.0
@@ -1316,7 +1316,7 @@ few=little: 0.0
 ['miserable']
 
 === algo: 
-['miserable', 'sad', 'unhappy']
+['sad', 'miserable', 'unhappy']
 
 === raw score: 
 sad=miserable: 0.0
@@ -1399,23 +1399,23 @@ potent=effective: 0.0
 ['diverse']
 
 === algo: 
-['general', 'broader', 'wide-ranging', 'diverse', 'broad']
+['general', 'broader', 'broad', 'diverse', 'wide-ranging']
 
 === raw score: 
 general=diverse: 0.0
 diverse=broader: 0.0
 wide-ranging=broader: 0.0
 broad=wide-ranging: 0.0
-diverse=wide-ranging: 0.0
+broad=diverse: 0.0
 wide-ranging=broad: 0.0
 broader=general: 0.0
 broad=broader: 0.0
-broad=diverse: 0.0
+diverse=wide-ranging: 0.0
 broader=diverse: 0.0
 general=wide-ranging: 0.0
 wide-ranging=diverse: 0.0
-diverse=broad: 0.0
 broad=general: 0.0
+diverse=broad: 0.0
 general=broad: 0.0
 wide-ranging=general: 0.0
 diverse=general: 0.0
@@ -1437,21 +1437,21 @@ broader=broad: 0.0
 ['excessive', 'exorbitant']
 
 === algo: 
-['costly', 'exorbitant', 'expensive', 'excessive']
+['excessive', 'expensive', 'costly', 'exorbitant']
 
 === raw score: 
-expensive=excessive: 0.0
-expensive=exorbitant: 0.0
 exorbitant=costly: 0.0
+expensive=exorbitant: 0.0
+excessive=exorbitant: 0.0
+expensive=excessive: 0.0
 exorbitant=excessive: 0.0
 excessive=costly: 0.0
-exorbitant=expensive: 0.0
-costly=exorbitant: 0.0
 costly=excessive: 0.0
-expensive=costly: 0.0
+costly=exorbitant: 0.0
+exorbitant=expensive: 0.0
 excessive=expensive: 0.0
+expensive=costly: 0.0
 costly=expensive: 0.0
-excessive=exorbitant: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -1467,28 +1467,28 @@ excessive=exorbitant: 0.0
 ['tremendous', 'staggering']
 
 === algo: 
-['major', 'substantial', 'big', 'staggering', 'tremendous']
+['major', 'tremendous', 'staggering', 'substantial', 'big']
 
 === raw score: 
-tremendous=substantial: 0.0
+substantial=big: 0.0
 big=substantial: 0.0
-major=staggering: 0.0
+major=big: 0.0
 substantial=staggering: 0.0
 substantial=major: 0.0
 staggering=major: 0.0
 major=tremendous: 0.0
-tremendous=major: 0.0
+tremendous=staggering: 0.0
 big=staggering: 0.0
 big=tremendous: 0.0
 staggering=big: 0.0
 major=substantial: 0.0
-substantial=big: 0.0
-big=major: 0.0
-tremendous=staggering: 0.0
+tremendous=major: 0.0
+tremendous=substantial: 0.0
 substantial=tremendous: 0.0
+big=major: 0.0
 staggering=tremendous: 0.0
 tremendous=big: 0.0
-major=big: 0.0
+major=staggering: 0.0
 staggering=substantial: 0.0
 
 === raw counts: 
@@ -1528,6 +1528,7 @@ major=overwhelming: 0.0
 tremendous=major: 0.0
 major=huge: 0.0
 huge=immense: 0.0
+tremendous=formidable: 0.0
 huge=colossal: 1.36809245498
 overwhelming=huge: -1.42617420879
 tremendous=huge: 0.0
@@ -1548,31 +1549,30 @@ immense=colossal: 0.0
 huge=formidable: 0.0
 overwhelming=formidable: 0.0
 major=immense: 0.0
-colossal=overwhelming: 0.0
 major=tremendous: 0.0
 huge=sizeable: -1.0
 overwhelming=major: 0.0
 formidable=immense: 0.0
 immense=tremendous: 0.0
 major=sizeable: 0.0
-colossal=formidable: 0.0
+tremendous=immense: 0.0
 colossal=sizeable: 0.0
 tremendous=colossal: 0.0
 sizeable=formidable: 0.0
 colossal=immense: 0.0
-sizeable=major: 0.0
+colossal=overwhelming: 0.0
 huge=overwhelming: 1.42617420879
-tremendous=formidable: 0.0
-tremendous=immense: 0.0
+colossal=formidable: 0.0
+sizeable=major: 0.0
 major=colossal: 0.0
 formidable=huge: 0.0
 overwhelming=colossal: 0.0
-overwhelming=tremendous: 0.0
+sizeable=tremendous: 0.0
 colossal=major: 0.0
 immense=major: 0.0
 major=formidable: 0.0
 immense=overwhelming: 0.0
-sizeable=tremendous: 0.0
+overwhelming=tremendous: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -1648,21 +1648,21 @@ little=feeble: 0.0
 ['incorrect', 'unsatisfactory']
 
 === algo: 
-['poor', 'improper', 'unsatisfactory', 'incorrect']
+['poor', 'unsatisfactory', 'improper', 'incorrect']
 
 === raw score: 
-incorrect=poor: 0.0
+improper=incorrect: 0.0
 unsatisfactory=incorrect: 0.0
+incorrect=unsatisfactory: 0.0
 improper=poor: 0.0
 unsatisfactory=poor: 0.0
 improper=unsatisfactory: 0.0
 poor=improper: 0.0
-improper=incorrect: 0.0
-incorrect=unsatisfactory: 0.0
+poor=incorrect: 0.0
+incorrect=poor: 0.0
 incorrect=improper: 0.0
 poor=unsatisfactory: 0.0
 unsatisfactory=improper: 0.0
-poor=incorrect: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -1776,13 +1776,13 @@ vulnerable=weak: 0.0
 ['scant', 'meagre']
 
 === algo: 
-['few', 'limited', 'meagre', 'scant']
+['scant', 'few', 'meagre', 'limited']
 
 === raw score: 
 few=limited: 0.0
-few=scant: 0.0
-meagre=limited: 0.0
 scant=limited: 0.0
+meagre=limited: 0.0
+few=scant: 0.0
 limited=scant: 0.0
 scant=meagre: 0.0
 limited=few: 0.0
@@ -1852,8 +1852,8 @@ global=universal: 0.0
 general=global: 0.0
 comprehensive=universal: 0.0
 comprehensive=general: 0.0
-universal=commonplace: 0.0
 general=universal: 1.0
+universal=commonplace: 0.0
 universal=comprehensive: 0.0
 global=general: 0.0
 commonplace=universal: 0.0
@@ -1872,7 +1872,7 @@ commonplace=comprehensive: 0.0
 ['dreadful']
 
 === algo: 
-['awful', 'dreadful']
+['dreadful', 'awful']
 
 === raw score: 
 dreadful=awful: 0.0
@@ -1893,7 +1893,7 @@ awful=dreadful: 0.0
 ['unacceptable']
 
 === algo: 
-['scarce', 'unacceptable', 'low', 'inadequate']
+['scarce', 'unacceptable', 'inadequate', 'low']
 
 === raw score: 
 unacceptable=low: 0.0
@@ -1942,7 +1942,7 @@ tiny=little: 0.0
 ['tough']
 
 === algo: 
-['tough', 'hardworking', 'tenacious']
+['tenacious', 'tough', 'hardworking']
 
 === raw score: 
 hardworking=tenacious: 0.0
@@ -1965,7 +1965,7 @@ tough=tenacious: 0.0
 ['gorgeous']
 
 === algo: 
-['gorgeous', 'cute']
+['cute', 'gorgeous']
 
 === raw score: 
 gorgeous=cute: 0.0
@@ -2007,11 +2007,11 @@ noteworthy=celebrated: 0.0
 ['sturdy']
 
 === algo: 
-['intact', 'sturdy']
+['sturdy', 'intact']
 
 === raw score: 
-sturdy=intact: 0.0
 intact=sturdy: 0.0
+sturdy=intact: 0.0
 
 === raw counts: 
 ------------------------------------------------
@@ -2026,7 +2026,7 @@ intact=sturdy: 0.0
 ['vast', 'extensive']
 
 === algo: 
-['vast', 'big', 'extensive']
+['extensive', 'big', 'vast']
 
 === raw score: 
 extensive=vast: 0.0
@@ -2049,7 +2049,7 @@ big=extensive: 0.0
 ['problematic']
 
 === algo: 
-['hard', 'problematic']
+['problematic', 'hard']
 
 === raw score: 
 problematic=hard: 0.0
@@ -2087,7 +2087,7 @@ annoying=obnoxious: 0.0
 ['miserable', 'terrible']
 
 === algo: 
-['sad', 'miserable', 'terrible']
+['sad', 'terrible', 'miserable']
 
 === raw score: 
 terrible=sad: 0.0
@@ -2112,21 +2112,21 @@ miserable=sad: 0.0
 ['beautiful']
 
 === algo: 
-['fair', 'fairest', 'beautiful', 'fairer']
+['fairest', 'beautiful', 'fair', 'fairer']
 
 === raw score: 
-fairer=beautiful: 0.0
 fairest=fairer: 0.0
-beautiful=fair: 0.0
-fairest=fair: 0.0
 fairer=fair: 0.0
+beautiful=fair: 0.0
+beautiful=fairest: 0.0
+fair=fairest: 0.0
+fairer=beautiful: 0.0
 fair=fairer: 0.0
 fairest=beautiful: 0.0
 beautiful=fairer: 0.0
 fair=beautiful: 0.0
-fair=fairest: 0.0
+fairest=fair: 0.0
 fairer=fairest: 0.0
-beautiful=fairest: 0.0
 
 === raw counts: 
 ------------------------------------------------

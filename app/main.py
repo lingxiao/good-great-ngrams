@@ -36,36 +36,32 @@ app = App(root
          , 'testset-bansal')
 
 '''
-   Ellie's data
+  CCB labels
 '''
-app_e = App(root
-         ,data
-         ,'outputs-2'
-         ,'one-sided-patterns'
-         ,'two-sided-patterns'
-         , 'testset-ellie')
-
-app_u = App(root
-           ,data
-           ,'outputs-2'
-           ,'one-sided-patterns'
-           ,'two-sided-patterns'
-           ,'testset-ellie-unanimous')
-
-
-app_all = App(root
-           ,data
-           ,'outputs-2'
-           ,'one-sided-patterns'
-           ,'two-sided-patterns'
-           ,'testset-ellie-all')
-
 app_ccb = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
            ,'testset-ccb')
+
+'''
+  mohit's labels restricted
+  to those that appear in veronica's graph
+'''
+app_moh = App(root
+             ,data
+             ,'outputs-1'
+             ,'one-sided-patterns'
+             ,'two-sided-patterns'
+             ,'testset-bansal-in-graph')
+
+app_all_moh = App(root
+             ,data
+             ,'outputs-1'
+             ,'one-sided-patterns'
+             ,'two-sided-patterns'
+             ,'testset-moh-ppdb-words')
 
 two  = app_ccb.TwoSided
 one  = app_ccb.OneSided
@@ -74,22 +70,24 @@ app_ccb.to_one_sided()
 
 ############################################################
 
-tset = one.test()
 
-prefix = 'ccb-'
+# app_all_moh.refresh()
+
+# prefix = 'mohit-on-ppdb-graph-'
 
 '''
-  ellie's data with unanimous ranking
+  test mohit's stuff on subset of 
+  words that also appear on ppdb graph
 '''
-# rmarkov_ilp = markov_ilp(app_ccb)
-# rmilp       = milp      (app_ccb)
+# rmarkov_ilp = markov_ilp(app_moh)
+# rmilp       = milp      (app_moh)
 
 # app.save(prefix +  'markov-ilp', rmarkov_ilp)
 # app.save(prefix +  'milp'      , rmilp)
 
-'''
-  sanity check against bansal's data
-'''
+# '''
+#   sanity check against bansal's data
+# '''
 
 # bansal_rmarkov_ilp = markov_ilp(app)
 # bansal_rmilp       = milp      (app)

@@ -1,5 +1,5 @@
 ccb-markov-ilp
-2017-02-09 17:02:26.365820
+2017-02-13 16:48:37.801973
 ------------------------------------------------
 average tau:  0.17
 average |tau|: 0.68
@@ -24,9 +24,9 @@ average pairwise accuracy: 54.0%
 ['miniscule']
 
 === raw score: 
-small > minute: 0.751756440281
-minute > small: 0.998243559719
 miniscule > minute: 1.0
+minute > small: 0.999414519906
+small > minute: 0.750585480094
 minute > miniscule: 0.999598470947
 miniscule > small: 1.0
 small > miniscule: 0.99717636147
@@ -195,21 +195,21 @@ scarce > limited: 0.0816638821932
 cute > breathtaking: 0.984733855522
 lovelier > cute: 1.0
 lovelier > lovely: 1.0
-lovely > breathtaking: 0.993424918061
+breathtaking > lovelier: 0.999532745933
 breathtaking > pretty: 0.987582139885
 breathtaking > lovely: 0.999196959459
-breathtaking > lovelier: 0.999532745933
 cute > lovelier: 0.992278489945
 lovely > lovelier: 0.996723588568
 lovelier > breathtaking: 1.0
-pretty > lovely: 0.984623389669
+cute > pretty: 0.864752292116
 lovely > pretty: 0.923969985372
 pretty > lovelier: 0.990315724118
 cute > lovely: 0.987691406699
-breathtaking > cute: 0.988835899493
-lovely > cute: 0.926300169348
-cute > pretty: 0.864752292116
+lovely > breathtaking: 0.993424918061
 pretty > breathtaking: 0.98091528931
+pretty > lovely: 0.984623389669
+lovely > cute: 0.926300169348
+breathtaking > cute: 0.988835899493
 lovelier > pretty: 1.0
 pretty > cute: 0.832696071592
 
@@ -357,8 +357,8 @@ necessary > relevant: 0.753378378378
 
 === raw score: 
 fine > satisfactory: 0.358943358181
-satisfactory > excellent: 0.721514508848
 excellent > satisfactory: 0.536209511712
+satisfactory > excellent: 0.721514508848
 satisfactory > fine: 0.973948888711
 fine > excellent: 0.356465534179
 excellent > fine: 0.895537186544
@@ -410,8 +410,8 @@ substantial > big: 0.708951794149
 substantial > staggering: 0.997555355351
 big > tremendous: 1.0
 big > staggering: 0.991071192767
-substantial > tremendous: 1.0
 tremendous > substantial: 0.998708388291
+substantial > tremendous: 1.0
 staggering > tremendous: 1.0
 staggering > big: 0.982015860578
 tremendous > big: 0.979486748682
@@ -474,24 +474,24 @@ exact > clear: 0.981124614763
 
 === raw score: 
 happy > delighted: 0.878041255085
-pleased > delighted: 0.974959844464
-delighted > excited: 0.995313983321
-happy > overwhelmed: 0.841100831653
-pleased > happy: 0.837983132796
-excited > happy: 0.762574441962
-pleased > overwhelmed: 0.965775068317
-overwhelmed > excited: 0.999022326728
-overwhelmed > delighted: 0.998284781742
-excited > pleased: 0.956659315734
-excited > overwhelmed: 0.973065093862
+happy > excited: 0.927921991934
 excited > delighted: 0.977755006405
+happy > overwhelmed: 0.841100831653
+pleased > overwhelmed: 0.965775068317
+excited > happy: 0.762574441962
+excited > overwhelmed: 0.973065093862
+overwhelmed > excited: 0.999022326728
+pleased > happy: 0.837983132796
+excited > pleased: 0.956659315734
+delighted > excited: 0.995313983321
 pleased > excited: 0.984847586956
 delighted > happy: 0.945928759618
 overwhelmed > pleased: 0.998110548741
 overwhelmed > happy: 0.988628452634
 happy > pleased: 0.836081943362
+overwhelmed > delighted: 0.998284781742
+pleased > delighted: 0.974959844464
 delighted > pleased: 0.990934089853
-happy > excited: 0.927921991934
 delighted > overwhelmed: 0.988440125542
 
 === raw counts: 
@@ -540,11 +540,11 @@ horrific > bad: 0.992990601928
 
 === raw score: 
 qualified > outstanding: 0.987935726016
-excellent > outstanding: 0.620415167315
-qualified > excellent: 0.998646337768
-outstanding > qualified: 0.122624084813
-excellent > qualified: 0.0164149926731
 outstanding > excellent: 0.962067717302
+excellent > outstanding: 0.620415167315
+outstanding > qualified: 0.122624084813
+qualified > excellent: 0.998646337768
+excellent > qualified: 0.0164149926731
 
 === raw counts: 
 ------------------------------------------------
@@ -563,8 +563,8 @@ outstanding > excellent: 0.962067717302
 ['higher']
 
 === raw score: 
-high > higher: 0.755012798635
-higher > high: 0.994987201365
+high > higher: 0.755226109215
+higher > high: 0.994773890785
 
 === raw counts: 
 ------------------------------------------------
@@ -585,11 +585,11 @@ higher > high: 0.994987201365
 ['spectacular']
 
 === raw score: 
-spectacular > fine: 0.997491638796
+spectacular > fine: 0.999163879599
 spectacular > remarkable: 0.997391849272
-fine > spectacular: 0.752508361204
-remarkable > fine: 0.97325375806
+fine > spectacular: 0.750836120401
 fine > remarkable: 0.968186181044
+remarkable > fine: 0.97325375806
 remarkable > spectacular: 0.945848849761
 
 === raw counts: 
@@ -617,34 +617,34 @@ remarkable > spectacular: 0.945848849761
 === raw score: 
 faultless > appropriate: 1.0
 appropriate > faultless: 0.98379031841
-okay > a-okay: 1.0
+perfect > fine: 0.952188960597
 fine > perfect: 0.170019197552
 appropriate > okay: 0.995634966321
 fine > a-okay: 1.0
-perfect > faultless: 0.97536377652
+fine > appropriate: 0.593613491068
 okay > faultless: 0.939609957808
-a-okay > faultless: 1.0
+perfect > appropriate: 0.869937988606
 appropriate > a-okay: 1.0
-appropriate > fine: 0.901148868011
+okay > perfect: 0.750434782609
 a-okay > fine: 1.0
 a-okay > perfect: 1.0
-perfect > appropriate: 0.869937988606
+a-okay > faultless: 1.0
 a-okay > okay: 1.0
 faultless > okay: 1.0
 fine > faultless: 0.966863600161
 faultless > fine: 1.0
-perfect > fine: 0.952188960597
+perfect > a-okay: 1.0
+okay > a-okay: 1.0
 fine > okay: 0.983122683307
 faultless > a-okay: 1.0
 faultless > perfect: 1.0
-perfect > a-okay: 1.0
+perfect > faultless: 0.97536377652
 a-okay > appropriate: 1.0
 okay > fine: 0.564647061596
 appropriate > perfect: 0.342895282109
 perfect > okay: 0.999565217391
 okay > appropriate: 0.401052359623
-okay > perfect: 0.750434782609
-fine > appropriate: 0.593613491068
+appropriate > fine: 0.901148868011
 
 === raw counts: 
 ------------------------------------------------
@@ -665,8 +665,8 @@ fine > appropriate: 0.593613491068
 ['graver']
 
 === raw score: 
-graver > critical: 0.996812391534
 critical > graver: 0.98408137327
+graver > critical: 0.996812391534
 life-threatening > critical: 1.0
 critical > life-threatening: 1.0
 life-threatening > graver: 1.0
@@ -689,8 +689,8 @@ graver > life-threatening: 1.0
 ['bizarre']
 
 === raw score: 
-bizarre > odd: 0.998633879781
-odd > bizarre: 0.751366120219
+bizarre > odd: 0.995901639344
+odd > bizarre: 0.754098360656
 
 === raw counts: 
 ------------------------------------------------
@@ -709,8 +709,8 @@ odd > bizarre: 0.751366120219
 ['reprehensible']
 
 === raw score: 
-unfortunate > reprehensible: 0.999793258246
 reprehensible > unfortunate: 0.999970362123
+unfortunate > reprehensible: 0.999793258246
 
 === raw counts: 
 ------------------------------------------------
@@ -755,8 +755,8 @@ abundant > plenty: 0.99835794206
 ['delighted']
 
 === raw score: 
-delighted > pleased: 0.990934089853
 pleased > delighted: 0.974959844464
+delighted > pleased: 0.990934089853
 
 === raw counts: 
 ------------------------------------------------
@@ -775,8 +775,8 @@ pleased > delighted: 0.974959844464
 ['embarrassed']
 
 === raw score: 
-embarrassed > uncomfortable: 0.987059121423
 uncomfortable > embarrassed: 0.928946161431
+embarrassed > uncomfortable: 0.987059121423
 
 === raw counts: 
 ------------------------------------------------
@@ -819,8 +819,8 @@ efficient > optimum: 1.0
 === raw score: 
 appropriate > satisfactory: 0.553081003446
 fine > satisfactory: 0.358943358181
-satisfactory > excellent: 0.721514508848
 excellent > satisfactory: 0.536209511712
+satisfactory > excellent: 0.721514508848
 appropriate > excellent: 0.873090644939
 satisfactory > fine: 0.973948888711
 satisfactory > appropriate: 0.958741302279
@@ -896,17 +896,17 @@ tough > daunting: 0.996999632405
 
 === raw score: 
 capable > skilled: 0.989086429682
-qualified > capable: 0.750889671656
-capable > proficient: 0.969693060814
-proficient > qualified: 0.247971461245
-skilled > qualified: 0.752032520325
-skilled > capable: 0.732717983443
-proficient > skilled: 0.990765789107
-skilled > proficient: 0.981951245247
 qualified > proficient: 0.976359733929
-proficient > capable: 0.620250237594
-qualified > skilled: 0.997967479675
 capable > qualified: 0.367561554382
+proficient > qualified: 0.247971461245
+qualified > capable: 0.750889671656
+skilled > capable: 0.732717983443
+skilled > qualified: 0.756097560976
+capable > proficient: 0.969693060814
+proficient > skilled: 0.990765789107
+proficient > capable: 0.620250237594
+qualified > skilled: 0.993902439024
+skilled > proficient: 0.981951245247
 
 === raw counts: 
 ------------------------------------------------
@@ -934,18 +934,18 @@ terrific > marvelous: 0.999340257443
 awesome > marvelous: 0.99639879125
 marvelous > terrific: 0.999938789145
 awesome > terrific: 0.994820887718
-awesome > incredible: 0.909403624509
+marvelous > incredible: 0.998828782834
 terrific > incredible: 0.982104669515
-incredible > okay: 0.99728865309
+awesome > incredible: 0.909403624509
 terrific > awesome: 0.998391562456
 okay > marvelous: 0.964735567853
 marvelous > awesome: 0.999896234946
 awesome > okay: 0.984339211956
 terrific > okay: 0.999264159716
 okay > incredible: 0.498655590109
-marvelous > incredible: 0.998828782834
 okay > awesome: 0.919001638274
 incredible > awesome: 0.996949469685
+incredible > okay: 0.99728865309
 marvelous > okay: 0.999951903856
 okay > terrific: 0.949943078727
 
@@ -987,12 +987,12 @@ shitty > awful: 0.999765853799
 ['satisfied']
 
 === raw score: 
-content > pleased: 0.994318181818
-pleased > satisfied: 0.751041666667
+content > pleased: 0.982954545455
+pleased > satisfied: 0.753125
 content > satisfied: 0.150867621755
 satisfied > content: 0.870942731927
-pleased > content: 0.755681818182
-satisfied > pleased: 0.998958333333
+pleased > content: 0.767045454545
+satisfied > pleased: 0.996875
 
 === raw counts: 
 ------------------------------------------------
@@ -1016,15 +1016,15 @@ satisfied > pleased: 0.998958333333
 fine > fitting: 0.971221514507
 good > fitting: 0.753736284162
 adequate > fitting: 0.988081767017
-good > fine: 0.896875
+good > fine: 0.894791666667
 fine > adequate: 0.379034007263
 fitting > good: 0.818466119695
-adequate > good: 0.9
-good > adequate: 0.85
+adequate > good: 0.898214285714
+fine > good: 0.855208333333
 fitting > fine: 0.981779396378
 adequate > fine: 0.941208876786
 fitting > adequate: 0.920025717322
-fine > good: 0.853125
+good > adequate: 0.851785714286
 
 === raw counts: 
 ------------------------------------------------
@@ -1074,14 +1074,14 @@ bankrupt > indigent: 1.0
 marvellous > spectacular: 0.999368817786
 marvellous > breathtaking: 0.999971878422
 breathtaking > pretty: 0.987582139885
-pretty > spectacular: 0.765957446809
-spectacular > breathtaking: 0.997017640767
 pretty > marvellous: 0.988811716664
-spectacular > marvellous: 0.998249031681
+spectacular > breathtaking: 0.997017640767
+pretty > spectacular: 0.755319148936
 breathtaking > spectacular: 0.978889625489
-spectacular > pretty: 0.984042553191
-breathtaking > marvellous: 0.999459288935
+spectacular > marvellous: 0.998249031681
 pretty > breathtaking: 0.98091528931
+spectacular > pretty: 0.994680851064
+breathtaking > marvellous: 0.999459288935
 marvellous > pretty: 0.999772500757
 
 === raw counts: 
@@ -1248,23 +1248,23 @@ frightening > scary: 0.9921875
 ['tougher']
 
 === raw score: 
-tougher > severe: 0.998282335791
+rigorous > tougher: 0.965867876049
 tough > rigorous: 0.990030609105
-stringent > severe: 0.998918988807
+tougher > severe: 0.998282335791
 stringent > tough: 0.999504923435
-tougher > stringent: 0.999930782723
-tough > tougher: 0.750623441397
 rigorous > tough: 0.998023276239
+tough > tougher: 0.750623441397
+tougher > stringent: 0.999930782723
+stringent > rigorous: 0.999836693578
 severe > stringent: 0.998554733788
-stringent > tougher: 0.991307547818
+stringent > severe: 0.998918988807
+tough > severe: 0.557910738244
 rigorous > stringent: 0.999873953153
 tougher > tough: 0.999376558603
-rigorous > tougher: 0.965867876049
 rigorous > severe: 0.995682670259
-tougher > rigorous: 0.999647866947
 severe > tougher: 0.711607657068
-stringent > rigorous: 0.999836693578
-tough > severe: 0.557910738244
+tougher > rigorous: 0.999647866947
+stringent > tougher: 0.991307547818
 tough > stringent: 0.99807281355
 severe > tough: 0.98215420204
 severe > rigorous: 0.992521678081
@@ -1288,12 +1288,12 @@ severe > rigorous: 0.992521678081
 ['limited']
 
 === raw score: 
-scarce > limited: 0.0816638821932
+limited > low: 0.986896743757
 limited > scarce: 0.995166402423
 low > scarce: 0.10432480188
 low > limited: 0.0144958781404
-limited > low: 0.986896743757
 scarce > low: 0.989022371279
+scarce > limited: 0.0816638821932
 
 === raw counts: 
 ------------------------------------------------
@@ -1318,26 +1318,26 @@ scarce > low: 0.989022371279
 ['perfect']
 
 === raw score: 
-better > perfect: 0.789001122334
-remarkable > better: 0.105260913467
-better > good: 0.994541922166
 better > exceptional: 0.877165552011
-perfect > better: 0.960998877666
-perfect > good: 0.995571719304
-good > better: 0.755458077834
+remarkable > better: 0.105260913467
+better > good: 0.994535850889
+better > perfect: 0.788814066592
+perfect > better: 0.961185933408
+perfect > good: 0.995534031808
+good > better: 0.755464149111
 exceptional > perfect: 0.802106042367
-good > perfect: 0.754428280696
+good > perfect: 0.754465968192
 perfect > exceptional: 0.796907748619
 exceptional > remarkable: 0.998316251147
 perfect > remarkable: 0.982987312828
-good > remarkable: 0.750950570342
+remarkable > good: 0.997148288973
+good > remarkable: 0.752851711027
 better > remarkable: 0.991924824655
-remarkable > good: 0.999049429658
+exceptional > better: 0.233475584586
 remarkable > perfect: 0.700109609499
 remarkable > exceptional: 0.970232870448
-exceptional > good: 0.999954379562
-exceptional > better: 0.233475584586
-good > exceptional: 0.750045620438
+exceptional > good: 0.999863138686
+good > exceptional: 0.750136861314
 
 === raw counts: 
 ------------------------------------------------
@@ -1361,8 +1361,8 @@ few > least: 0.164649797342
 least > little: 0.952528876256
 little > least: 0.0540005697849
 few > little: 0.756784540412
-little > few: 0.271212656848
 least > few: 0.853147120261
+little > few: 0.271212656848
 
 === raw counts: 
 ------------------------------------------------
@@ -1513,18 +1513,18 @@ general > broad: 0.97051728212
 ['excessive']
 
 === raw score: 
-excessive > costly: 0.999856680564
-exorbitant > costly: 1.0
-expensive > excessive: 0.655523703792
-expensive > costly: 0.976224690767
-costly > expensive: 0.81368687737
 exorbitant > expensive: 1.0
-expensive > exorbitant: 1.0
 costly > excessive: 0.654444391935
+expensive > excessive: 0.655523703792
+costly > expensive: 0.81368687737
+expensive > costly: 0.976224690767
+excessive > exorbitant: 1.0
+expensive > exorbitant: 1.0
 exorbitant > excessive: 1.0
 costly > exorbitant: 1.0
 excessive > expensive: 0.994734984521
-excessive > exorbitant: 1.0
+excessive > costly: 0.999856680564
+exorbitant > costly: 1.0
 
 === raw counts: 
 ------------------------------------------------
@@ -1548,10 +1548,11 @@ excessive > exorbitant: 1.0
 
 === raw score: 
 tremendous > staggering: 0.999887374032
-staggering > substantial: 0.998862799772
+tremendous > major: 0.994264087639
 substantial > major: 0.891091234107
 big > substantial: 0.929080023099
-tremendous > major: 0.994264087639
+major > big: 0.771562134818
+staggering > substantial: 0.998862799772
 substantial > big: 0.708951794149
 substantial > staggering: 0.997555355351
 big > tremendous: 1.0
@@ -1559,14 +1560,13 @@ big > staggering: 0.991071192767
 big > major: 0.718494138507
 major > staggering: 0.997586094009
 major > tremendous: 1.0
-major > big: 0.771562134818
-tremendous > big: 0.979486748682
+substantial > tremendous: 1.0
+major > substantial: 0.975622001869
 tremendous > substantial: 0.998708388291
 staggering > tremendous: 1.0
 staggering > big: 0.982015860578
 staggering > major: 0.994947017567
-major > substantial: 0.975622001869
-substantial > tremendous: 1.0
+tremendous > big: 0.979486748682
 
 === raw counts: 
 ------------------------------------------------
@@ -1599,22 +1599,21 @@ major > formidable: 0.997400586244
 huge > sizeable: 0.984042553191
 major > huge: 0.86792621322
 immense > overwhelming: 0.990805477119
+immense > formidable: 0.999882467057
 huge > formidable: 0.995714333169
 tremendous > immense: 0.999735765615
-immense > formidable: 0.999882467057
+tremendous > colossal: 0.999972713634
 huge > colossal: 0.752777777778
 major > tremendous: 1.0
 overwhelming > colossal: 0.999775283484
 immense > tremendous: 1.0
 colossal > major: 1.0
 tremendous > overwhelming: 0.990268777225
-overwhelming > immense: 0.997847599575
 colossal > huge: 0.997222222222
 immense > colossal: 0.99997417637
 formidable > colossal: 0.999855989807
-colossal > formidable: 1.0
+tremendous > sizeable: 0.99917920531
 formidable > sizeable: 0.99568319708
-tremendous > colossal: 0.999972713634
 colossal > sizeable: 1.0
 overwhelming > major: 0.962283920204
 major > sizeable: 0.982660117264
@@ -1627,25 +1626,26 @@ formidable > overwhelming: 0.950736204101
 immense > major: 0.994600556316
 sizeable > major: 0.994953202781
 overwhelming > tremendous: 1.0
+huge > immense: 0.990549366371
 major > overwhelming: 0.831405784433
-tremendous > sizeable: 0.99917920531
+colossal > formidable: 1.0
 tremendous > huge: 0.990046979279
 sizeable > overwhelming: 0.991341219829
 sizeable > colossal: 0.999975582852
 huge > tremendous: 1.0
-huge > overwhelming: 0.750629722922
+huge > overwhelming: 0.751889168766
 overwhelming > formidable: 0.999026949166
 major > immense: 0.994356229933
 major > colossal: 0.999411170383
 sizeable > immense: 0.999763728159
 tremendous > formidable: 0.99987563701
 overwhelming > sizeable: 0.993337141499
-overwhelming > huge: 0.999370277078
+overwhelming > huge: 0.998110831234
 colossal > overwhelming: 1.0
 sizeable > tremendous: 1.0
 colossal > tremendous: 1.0
 formidable > immense: 0.998607016975
-huge > immense: 0.990549366371
+overwhelming > immense: 0.997847599575
 sizeable > huge: 0.765957446809
 formidable > major: 0.970525847177
 huge > major: 0.737977999292
@@ -1672,26 +1672,26 @@ colossal > immense: 1.0
 ['perfect']
 
 === raw score: 
-fine > awesome: 0.961993186604
-perfect > awesome: 0.996963562753
+well > awesome: 0.883294240772
 well > terrific: 0.830302713445
-well > fine: 0.56668403218
 terrific > fine: 0.986494249813
+awesome > perfect: 0.751012145749
+well > fine: 0.56668403218
+perfect > awesome: 0.998987854251
 awesome > terrific: 0.994820887718
-fine > well: 0.533160108412
-fine > terrific: 0.973017887092
+well > perfect: 0.750240615977
 perfect > fine: 0.952188960597
-fine > perfect: 0.170019197552
-perfect > well: 0.999278152069
+fine > terrific: 0.973017887092
+fine > awesome: 0.961993186604
 terrific > perfect: 0.824338970364
 terrific > awesome: 0.998391562456
 awesome > well: 0.413203328377
+perfect > well: 0.999759384023
 terrific > well: 0.902733175916
-awesome > fine: 0.832910451308
+fine > perfect: 0.170019197552
 perfect > terrific: 0.983262522854
-awesome > perfect: 0.753036437247
-well > awesome: 0.883294240772
-well > perfect: 0.750721847931
+fine > well: 0.533160108412
+awesome > fine: 0.832910451308
 
 === raw counts: 
 ------------------------------------------------
@@ -1788,34 +1788,34 @@ unusual > rare: 0.843495934959
 ['huge']
 
 === raw score: 
+big > huge: 0.750252780586
 enormous > huge: 0.942276237916
 enormous > tremendous: 1.0
 tremendous > immense: 0.999735765615
-enormous > big: 0.881891095243
+sizeable > immense: 0.999763728159
 big > tremendous: 1.0
-big > enormous: 0.991042534764
+enormous > big: 0.881891095243
 huge > sizeable: 0.984042553191
-huge > enormous: 0.99569441695
+sizeable > tremendous: 1.0
 sizeable > enormous: 0.999887852541
 immense > sizeable: 0.999223356036
-big > huge: 0.750758341759
+immense > huge: 0.990664582068
 tremendous > enormous: 0.999874050947
 tremendous > big: 0.979486748682
-big > immense: 0.979324247687
+immense > big: 0.980966888016
 enormous > immense: 0.99839894972
 big > sizeable: 0.938361507087
+big > enormous: 0.991042534764
 tremendous > sizeable: 0.99917920531
 tremendous > huge: 0.990046979279
 huge > tremendous: 1.0
-huge > big: 0.999241658241
+huge > big: 0.999747219414
 immense > enormous: 0.999880992893
-sizeable > immense: 0.999763728159
-immense > huge: 0.990664582068
 immense > tremendous: 1.0
-sizeable > tremendous: 1.0
+huge > enormous: 0.99569441695
 huge > immense: 0.990549366371
 sizeable > huge: 0.765957446809
-immense > big: 0.980966888016
+big > immense: 0.979324247687
 enormous > sizeable: 0.99504057287
 sizeable > big: 0.982738024796
 
@@ -1869,14 +1869,14 @@ meagre > limited: 1.0
 few > meagre: 1.0
 limited > meagre: 1.0
 meagre > few: 1.0
-scant > limited: 1.0
+scant > meagre: 1.0
 limited > few: 0.979960202608
 scant > few: 1.0
 few > scant: 0.996063408297
 meagre > scant: 1.0
 few > limited: 0.0242110171606
 limited > scant: 0.997730961769
-scant > meagre: 1.0
+scant > limited: 1.0
 
 === raw counts: 
 ------------------------------------------------
@@ -1925,25 +1925,25 @@ small > miniscule: 0.99717636147
 
 === raw score: 
 commonplace > comprehensive: 0.855900740524
-global > general: 0.966969489787
+general > global: 0.596335896033
 comprehensive > commonplace: 0.913585571729
 global > universal: 0.889423844779
-global > commonplace: 0.993801262633
-commonplace > general: 0.964164204589
+comprehensive > general: 0.815214117543
 general > commonplace: 0.926006714622
 universal > comprehensive: 0.826089934333
 general > comprehensive: 0.365867071825
 universal > global: 0.884270960971
 comprehensive > global: 0.568364383827
 universal > general: 0.98513215859
+global > general: 0.966969489787
 global > comprehensive: 0.878194408064
-commonplace > universal: 0.912038693803
-general > universal: 0.76486784141
-general > global: 0.596335896033
-comprehensive > universal: 0.411401739549
-comprehensive > general: 0.815214117543
-universal > commonplace: 0.984414457396
 commonplace > global: 0.963385438187
+universal > commonplace: 0.984414457396
+global > commonplace: 0.993801262633
+comprehensive > universal: 0.411401739549
+general > universal: 0.76486784141
+commonplace > universal: 0.912038693803
+commonplace > general: 0.964164204589
 
 === raw counts: 
 ------------------------------------------------
@@ -1986,17 +1986,17 @@ dreadful > awful: 0.999808391851
 ['unacceptable']
 
 === raw score: 
-inadequate > scarce: 0.999372061534
-inadequate > unacceptable: 0.99887113257
-low > inadequate: 0.0890625310888
 inadequate > low: 0.984764954483
+scarce > unacceptable: 0.999361452224
+inadequate > unacceptable: 0.99887113257
 low > scarce: 0.10432480188
+inadequate > scarce: 0.999372061534
 unacceptable > inadequate: 0.999863887313
 scarce > inadequate: 0.999474842565
-scarce > low: 0.989022371279
 unacceptable > low: 0.952729786739
+scarce > low: 0.989022371279
 low > unacceptable: 0.34448360701
-scarce > unacceptable: 0.999361452224
+low > inadequate: 0.0890625310888
 unacceptable > scarce: 1.0
 
 === raw counts: 
@@ -2222,7 +2222,7 @@ terrible > miserable: 0.997550761136
 
 === raw score: 
 fair > fairest: 0.99854064017
-fairest > beautiful: 1.0
+fairer > beautiful: 1.0
 beautiful > fairer: 0.995897808176
 fairer > fairest: 1.0
 beautiful > fair: 0.541694495757
@@ -2232,7 +2232,7 @@ beautiful > fairest: 0.994069799725
 fairest > fairer: 1.0
 fairest > fair: 1.0
 fairer > fair: 1.0
-fairer > beautiful: 1.0
+fairest > beautiful: 1.0
 
 === raw counts: 
 ------------------------------------------------

@@ -26,7 +26,7 @@ a11    = App(root
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-11')
+           ,'moh-graph/testset-11')
 
 
 a12    = App(root
@@ -34,7 +34,7 @@ a12    = App(root
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-12')
+           ,'moh-graph/testset-12')
 
 
 a13    = App(root
@@ -42,14 +42,14 @@ a13    = App(root
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-13')
+           ,'moh-graph/testset-13')
 
 a14    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-14')
+           ,'moh-graph/testset-14')
 
 
 a15    = App(root
@@ -57,7 +57,7 @@ a15    = App(root
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'ellie-unanimous/testset-15')
+           ,'moh-graph/testset-15')
 
 
 a11.refresh(2)
