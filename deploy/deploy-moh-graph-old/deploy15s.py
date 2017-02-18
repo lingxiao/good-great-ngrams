@@ -60,8 +60,8 @@ a15    = App(root
            ,'moh-graph/testset-15')
 
 
-a11.refresh(2)
-a12.refresh(2)
-a13.refresh(2)
-a14.refresh(2)
 a15.refresh(2)
+a14.refresh(2)
+a13.refresh(2)
+a12.refresh(2)
+a11.refresh(2)

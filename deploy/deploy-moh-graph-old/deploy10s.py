@@ -58,8 +58,8 @@ a10    = App(root
            ,'moh-graph/testset-10')
 
 
-a6.refresh(2)
-a7.refresh(2)
-a8.refresh(2)
-a9.refresh(2)
 a10.refresh(2)
+a9.refresh(2)
+a8.refresh(2)
+a7.refresh(2)
+a6.refresh(2)

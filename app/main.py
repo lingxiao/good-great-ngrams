@@ -8,7 +8,6 @@ import os
 import re
 import datetime
 
-from pulp import *
 from prelude import * 
 from utils   import *
 from server  import * 
@@ -69,11 +68,14 @@ one  = app_ccb.OneSided
 app_ccb.to_one_sided()
 
 ############################################################
-
-
 # app_all_moh.refresh()
-
 # prefix = 'mohit-on-ppdb-graph-'
+
+
+
+
+
+
 
 '''
   test mohit's stuff on subset of 
@@ -169,6 +171,26 @@ f_ilp_positive.close()
 f_ilp_negative.close()
 
 
+
+'''
+
+'''
+  open all files from outputs-1 and save into output-2
+
+
+ipath = os.path.join(root,'outputs-1/two-sided-patterns')
+opath = os.path.join(root,'outputs-2/two-sided-patterns')
+
+files = os.listdir(ipath)
+
+for f in files:
+
+  hi = os.path.join(ipath,f)
+  xi = open(hi,'r').read()
+  ho = os.path.join(opath,f)
+  xo = open(ho,'w')
+  xo.write(xi)
+  xo.close()
 
 '''
 

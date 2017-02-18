@@ -303,10 +303,11 @@ def collect_normalization(refresh,ngram,twosided):
       queries.append( (pred, R, [key_word(R)])  )
 
   batchs = chunks(queries,5)
+  total  = str(len(batchs))
   incr   = 1
 
   for batch in batchs:
-    log('collecting data for batch ' + str(incr) + '\n')
+    log('collecting data for batch ' + str(incr) + ' out of ' + total + 'batches\n')
 
     results = ngram.batch_filter(0,batch)
     [twosided.write_norm(R,rs) for (rs,R,_) in results]
@@ -367,10 +368,13 @@ def collect_two_sided(refresh, ngram, twosided, words):
     log('querying database ...')
 
     current = chunks(queries,20)
+    total   = str(len(list(chunks(queries,20))))
     incr    = 1
 
     for query in current:
-      log('Collecting data for batch ' + str(incr) + '\n')
+      # log('Collecting data for batch ' + str(incr) + '\n')
+      log('collecting data for batch ' + str(incr) + ' out of ' + total + ' batches\n')
+
 
       results = ngram.batch_filter(0,query)
       [twosided.write(result,ws[0],ws[1],R) for (result,R,ws) in results]

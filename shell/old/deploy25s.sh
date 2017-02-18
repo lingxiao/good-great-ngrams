@@ -10,7 +10,7 @@ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-ngrams
 
 # wallclock time reservation (format is hours:minutes:seconds).
 # man 5 complex
-#$ -l h_rt=10:10:0
+#$ -l h_rt=40:10:0
 
 # request x gigabyte of RAM 
 # man 5 complex
@@ -22,6 +22,7 @@ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-ngrams
 
 # working directory (check for specific requirements for your research group)
 # man 1 qsub
+
 
 # make sure I set my $CWD (current working directory)
 cd $HOME/xiao/good-great-ngrams/shell
@@ -47,4 +48,3 @@ cd $HOME/xiao/good-great-ngrams/shell
 
 # run my scripts
 python $HOME/xiao/good-great-ngrams/deploy/deploy25s.py
-

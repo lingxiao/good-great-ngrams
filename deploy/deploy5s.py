@@ -55,11 +55,11 @@ a5    = App(root
            ,'moh-graph/testset-5')
 
 
-a1.refresh(2)
-a2.refresh(2)
-a3.refresh(2)
-a4.refresh(2)
 a5.refresh(2)
+a4.refresh(2)
+a3.refresh(2)
+a2.refresh(2)
+a1.refresh(2)
 
 
 
