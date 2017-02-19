@@ -34,6 +34,7 @@ app = App(root
          ,'two-sided-patterns'
          , 'testset-bansal')
 
+
 '''
   CCB labels
 '''
@@ -176,23 +177,24 @@ f_ilp_negative.close()
 
 '''
   open all files from outputs-1 and save into output-2
-
-
-ipath = os.path.join(root,'outputs-1/two-sided-patterns')
-opath = os.path.join(root,'outputs-2/two-sided-patterns')
-
-files = os.listdir(ipath)
-
-for f in files:
-
-  hi = os.path.join(ipath,f)
-  xi = open(hi,'r').read()
-  ho = os.path.join(opath,f)
-  xo = open(ho,'w')
-  xo.write(xi)
-  xo.close()
-
 '''
+
+# ipath = '/Users/lingxiao/Desktop/remote-2-sided'
+# # ipath = os.path.join(root,'outputs-1/two-sided-patterns')
+# opath = os.path.join(root,'outputs-2/two-sided-patterns')
+
+
+# files = os.listdir(ipath)
+
+# # for f in files:
+
+# #   hi = os.path.join(ipath,f)
+# #   xi = open(hi,'r').read()
+# #   ho = os.path.join(opath,f)
+# #   xo = open(ho,'w')
+# #   xo.write(xi)
+# #   xo.close()
+
 
 
 

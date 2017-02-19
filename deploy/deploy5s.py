@@ -15,8 +15,8 @@ from client  import *
 # Initialize application 
 ############################################################
 
-# root  = '/home1/l/lingxiao/xiao/good-great-ngrams/'
-root  = "/Users/lingxiao/Documents/research/code/good-great-ngrams"
+root  = '/home1/l/lingxiao/xiao/good-great-ngrams/'
+# root  = "/Users/lingxiao/Documents/research/code/good-great-ngrams"
 data  = os.path.join(root, 'ngrams/')
 
 a1    = App(root

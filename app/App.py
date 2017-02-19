@@ -375,7 +375,6 @@ def collect_two_sided(refresh, ngram, twosided, words):
       # log('Collecting data for batch ' + str(incr) + '\n')
       log('collecting data for batch ' + str(incr) + ' out of ' + total + ' batches\n')
 
-
       results = ngram.batch_filter(0,query)
       [twosided.write(result,ws[0],ws[1],R) for (result,R,ws) in results]
       
