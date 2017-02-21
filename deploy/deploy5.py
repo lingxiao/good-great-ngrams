@@ -19,13 +19,13 @@ from client  import *
 root  = "/Users/lingxiao/Documents/research/code/good-great-ngrams"
 data  = os.path.join(root, 'ngrams/')
 
-
-a6    = App(root
+a5    = App(root
            ,data
            ,'outputs-2'
            ,'one-sided-patterns'
            ,'two-sided-patterns'
-           ,'moh-graph/testset-6')
+           ,'moh-graph/testset-5')
 
 
-a6.refresh(2)
+a5.refresh(2)
+

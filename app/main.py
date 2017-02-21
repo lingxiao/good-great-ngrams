@@ -51,20 +51,20 @@ app_ccb = App(root
 '''
 app_moh = App(root
              ,data
-             ,'outputs-1'
+             ,'outputs-2'
              ,'one-sided-patterns'
              ,'two-sided-patterns'
              ,'testset-bansal-in-graph')
 
 app_all_moh = App(root
              ,data
-             ,'outputs-1'
+             ,'outputs-2'
              ,'one-sided-patterns'
              ,'two-sided-patterns'
              ,'testset-moh-ppdb-words')
 
-two  = app_ccb.TwoSided
-one  = app_ccb.OneSided
+two  = app_all_moh.TwoSided
+one  = app_all_moh.OneSided
 
 app_ccb.to_one_sided()
 
@@ -72,10 +72,50 @@ app_ccb.to_one_sided()
 # app_all_moh.refresh()
 # prefix = 'mohit-on-ppdb-graph-'
 
+'''
+  make n-gram graph 
+'''
+
+'''
+  @Use: make graph over all WxW words in mohit's data
+'''
+def make_ngram_graph(app, outpath):
+
+  outpath = os.path.join(root, 'ngram-graph.txt')
+
+  two    = app.TwoSided
+  words  = join(join([t for _,_,t in two.test()]))
+  edges  = dict()
+
+  for a in words:
+    for b in words:
+      if (a,b) in edges or (b,a) in edges: pass
+      else: 
+        d_ab = two.data(a,b)
+        d_ba = two.data(b,a)
+
+        a_stronger_b = [n for _, n in d_ab['strong-weak'] + d_ba['weak-strong']]
+        b_stronger_a = [n for _, n in d_ab['weak-strong'] + d_ba['strong-weak']]
+
+        ab_strong_edge = [(b,a,'is weaker than') for _ in range(int(sum(a_stronger_b)))]
+        ab_weak_edge   = [(a,b,'is weaker than') for _ in range(int(sum(b_stronger_a)))]
+
+        edges[(a,b)] = ab_strong_edge + ab_weak_edge
+
+  f = open(outpath,'w')
+
+  for _,es in edges.iteritems():
+    for a,b,v in es:
+      f.write(a + ',' + b + ',' + v + '\n')
+  f.close()
+
+  return edges
 
 
+es = make_ngram_graph(app_all_moh, os.path.join(root, 'ngram-graph.txt'))
 
-
+# a,b = pwords[0]
+# a,b  = 'ill','old'
 
 
 '''
@@ -182,7 +222,6 @@ f_ilp_negative.close()
 # ipath = '/Users/lingxiao/Desktop/remote-2-sided'
 # # ipath = os.path.join(root,'outputs-1/two-sided-patterns')
 # opath = os.path.join(root,'outputs-2/two-sided-patterns')
-
 
 # files = os.listdir(ipath)
 
